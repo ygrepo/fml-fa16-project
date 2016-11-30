@@ -1,0 +1,5 @@
+.idea/
+*.pyc
+test_cases/
+models/
+data/

@@ -1,0 +1,28 @@
+SELECT MIN(N),MAX(N) FROM ( SELECT COUNT(wordid) AS N FROM synsets LEFT JOIN senses USING(synsetid) GROUP BY synsetid) AS C;
+SELECT MIN(N),MAX(N) FROM ( SELECT COUNT(synsetid) AS N FROM words LEFT JOIN senses USING(wordid) GROUP BY wordid) AS C;
+SELECT COUNT(synsetid), wordid, lemma AS N FROM words LEFT JOIN senses USING(wordid) GROUP BY wordid order by count(synsetid) desc;
+SELECT COUNT(synsetid) from senses group by synsetid order by count(synsetid) desc ;
+
+SELECT 'synset having N words (1..28)' AS comment;
+SELECT MIN(N),MAX(N) FROM (
+SELECT COUNT(wordid) AS N FROM synsets
+LEFT JOIN senses USING(synsetid)
+GROUP BY synsetid) AS C;
+
+SELECT definition, COUNT(wordid) AS N, synsetid FROM synsets
+LEFT JOIN senses USING(synsetid) GROUP BY synsetid order by count(wordid) desc;
+
+select * from senses LEFT JOIN words using(wordid) where synsetid = 105566889 ;
+
+SELECT 'word having N synset (1..75)' AS comment;
+SELECT MIN(N),MAX(N) FROM (
+SELECT COUNT(synsetid) AS N FROM words
+LEFT JOIN senses USING(wordid)
+GROUP BY wordid) AS C;
+
+SELECT wordid, lemma, COUNT(synsetid) AS N FROM words
+LEFT JOIN senses USING(wordid)
+GROUP BY wordid order by count(synsetid) desc;
+
+select count(*) from words;
+select count(*) from senses;
