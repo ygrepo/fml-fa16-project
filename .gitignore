@@ -3,3 +3,5 @@
 test_cases/
 models/
 data/
+wsd/.idea
+wsd/wsd.iml
