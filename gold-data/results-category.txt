@@ -1,0 +1,17 @@
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/capital-common-countries.txt
+Questions:  506
+Skipped:  0
+
+Eval  417/506 accuracy = 82.4%
+
+ tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8-synsets.txt contains 112766033 bytes, 6298773 words, 70006 unique words, 38787 unique frequent words.
+Data file:  data/text8-synsets.txt
+Vocab size:  38787  + UNK
+Words per epoch:  6298773
+Eval analogy file:  data/capital-common-countries-synsets.txt
+Questions:  462
+Skipped:  44
+Eval   90/462 accuracy = 19.5%

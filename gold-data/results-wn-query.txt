@@ -1,0 +1,16 @@
+Synsets having N words
+======================
+(min, max)
+- noun: (1,28)
+- verb: (1,25)
+- adj.sattelite: (1,23)
+- adv: (1,10)
+- adj: (1,9)
+
+Words having N synsets (ambiguous)
+======================
+- verb: (1,59)
+- noun: (1,33)
+- adj.sattelite: (1,21)
+- adv.: (1,13)
+- adj.: (1,11)

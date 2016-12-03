@@ -1,0 +1,142 @@
+yves@yves-XPS-13-9350:~/code/github/syn2vec$ python word2vec_optimized.py --train_data=data/text8_synsets.txt --eval_data=data/questions-answers-synsets.txt --save_path=models/synsets
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8_synsets.txt contains 112766033 bytes, 6298773 words, 70006 unique words, 38787 unique frequent words.
+Data file:  data/text8_synsets.txt
+Vocab size:  38787  + UNK
+Words per epoch:  6298773
+Eval analogy file:  data/questions-answers-synsets.txt
+Questions:  11127
+Skipped:  8379
+Epoch    1 Step    73215: lr = 0.023 words/sec =    17324
+Eval 5337/11127 accuracy = 48.0%
+Epoch    2 Step   146425: lr = 0.022 words/sec =    32238
+Eval 5350/11127 accuracy = 48.1%
+Epoch    3 Step   219684: lr = 0.020 words/sec =    22843
+Eval 5430/11127 accuracy = 48.8%
+Epoch    4 Step   292300: lr = 0.019 words/sec =    22040
+Eval 5545/11127 accuracy = 49.8%
+Epoch    5 Step   365582: lr = 0.017 words/sec =     2408
+Eval 5606/11127 accuracy = 50.4%
+Epoch    6 Step   438829: lr = 0.015 words/sec =     7722
+Eval 5630/11127 accuracy = 50.6%
+Epoch    7 Step   512120: lr = 0.014 words/sec =     7089
+Eval 5729/11127 accuracy = 51.5%
+Epoch    8 Step   585420: lr = 0.012 words/sec =     7022
+Eval 5831/11127 accuracy = 52.4%
+Epoch    9 Step   658742: lr = 0.010 words/sec =     8304
+Eval 5929/11127 accuracy = 53.3%
+Epoch   10 Step   732053: lr = 0.009 words/sec =     7629
+Eval 5993/11127 accuracy = 53.9%
+Epoch   11 Step   805238: lr = 0.007 words/sec =    25605
+Eval 6048/11127 accuracy = 54.4%
+Epoch   12 Step   878539: lr = 0.006 words/sec =    25752
+Eval 6090/11127 accuracy = 54.7%
+Epoch   13 Step   951611: lr = 0.004 words/sec =    24294
+Eval 6148/11127 accuracy = 55.3%
+Epoch   14 Step  1024735: lr = 0.002 words/sec =    24098
+Eval 6152/11127 accuracy = 55.3%
+Epoch   15 Step  1098054: lr = 0.001 words/sec =     6813
+Eval 6165/11127 accuracy = 55.4%
+
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8-synsets.txt contains 112766033 bytes, 6298773 words, 70006 unique words, 38787 unique frequent words.
+Data file:  data/text8-synsets.txt
+Vocab size:  38787  + UNK
+Words per epoch:  6298773
+
+In [1]: model.analogy('france%1:15:00::','paris%1:15:00::','russia%1:15:02::')
+Out[1]: 
+'moscow%1:15:00::'
+
+In [2]:  model.nearby(['dollar%1:21:01::','elephant%1:05:00::','dream%1:09:01::','dream%2:36:00::'])
+
+dollar%1:21:01::
+=====================================
+dollar%1:21:01::     1.0000
+pataca%1:23:00::     0.6170
+note%1:21:01::       0.6128
+forint%1:23:00::     0.5952
+peg%2:35:00::        0.5911
+pound%1:10:00::      0.5829
+peso%1:23:03::       0.5775
+ringgit%1:23:00::    0.5728
+franc%1:23:00::      0.5697
+kyat%1:23:00::       0.5696
+kwacha%1:23:01::     0.5664
+djiboutian%3:01:00:: 0.5635
+litas%1:23:00::      0.5547
+currency%1:21:00::   0.5522
+devaluation%1:04:01:: 0.5418
+convertible%3:00:00:: 0.5385
+currency%1:07:02::   0.5369
+euro%1:23:00::       0.5367
+shekel%1:23:00::     0.5284
+tender%1:10:00::     0.5190
+
+elephant%1:05:00::
+=====================================
+elephant%1:05:00::   1.0000
+elephas%1:05:00::    0.5746
+tusk%2:35:00::       0.5433
+rhinoceros%1:05:00:: 0.5423
+banteng%1:05:00::    0.5417
+fox%1:27:00::        0.5324
+marmot%1:05:00::     0.5195
+depigmentation%1:07:00:: 0.5156
+calf%1:05:01::       0.5126
+cat%1:05:02::        0.4970
+sumatran%1:18:00::   0.4955
+herd%1:14:02::       0.4901
+ostrich%1:18:00::    0.4857
+ungulate%1:05:00::   0.4856
+ungulate%3:00:00::   0.4846
+tusk%1:27:00::       0.4827
+tapir%1:05:00::      0.4827
+porcupine%1:05:00::  0.4826
+guanaco%1:05:00::    0.4824
+perissodactyla%1:05:00:: 0.4820
+
+dream%1:09:01::
+=====================================
+dream%1:09:01::      1.0000
+dream%2:36:00::      0.5856
+dreaming%1:09:02::   0.5545
+lucid%5:00:00:sane:00 0.5387
+nightmare%1:26:00::  0.5309
+vision%1:09:01::     0.5251
+caress%1:04:00::     0.5158
+porter%1:18:02::     0.5099
+wake%2:29:00::       0.5083
+superego%1:09:00::   0.5061
+blessed%5:00:01:holy:00 0.5045
+dream%1:09:02::      0.4961
+dawn%2:30:00::       0.4892
+midsummer%1:28:00::  0.4835
+matinee%1:10:00::    0.4830
+bagdad%1:15:00::     0.4805
+earthman%1:18:00::   0.4777
+stanislavsky%1:18:00:: 0.4772
+tangerine%1:13:00::  0.4750
+story%1:10:00::      0.4747
+
+dream%2:36:00::
+=====================================
+dream%2:36:00::      1.0000
+lucid%5:00:00:sane:00 0.5906
+dream%1:09:01::      0.5856
+wake%2:29:00::       0.5317
+superego%1:09:00::   0.5023
+dream%1:09:02::      0.4930
+dreaming%1:09:02::   0.4912
+strawberry%1:20:00:: 0.4863
+awake%3:00:00::      0.4822
+lustful%5:00:02:sexy:00 0.4799
+jungian%3:01:00::    0.4791
+dream%2:39:00::      0.4756
+stanislavsky%1:18:00:: 0.4750
+awake%2:29:00::      0.4677
+asleep%3:00:00::     0.4592
+tic%1:26:00::        0.4590
+beauty%1:09:00::     0.4565
+vision%1:09:01::     0.4541
+freudian%3:01:00::   0.4529
+imagination%1:09:03:: 0.4528
+

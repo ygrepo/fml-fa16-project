@@ -1,0 +1,119 @@
+yves@yves-XPS-13-9350:~/code/github/syn2vec$ python word2vec_optimized.py --train_data=data/text8 --eval_data=data/questions-words.txt --save_path=models/text8
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/questions-words.txt
+Questions:  17827
+Skipped:  1717
+Epoch    1 Step   150346: lr = 0.024 words/sec =    29714
+Eval 1545/17827 accuracy =  8.7%
+Epoch    2 Step   300932: lr = 0.023 words/sec =    26954
+Eval 2478/17827 accuracy = 13.9%
+Epoch    3 Step   451533: lr = 0.021 words/sec =    44030
+Eval 3069/17827 accuracy = 17.2%
+Epoch    4 Step   602075: lr = 0.020 words/sec =    42117
+Eval 3518/17827 accuracy = 19.7%
+Epoch    5 Step   752737: lr = 0.019 words/sec =    41233
+Eval 4039/17827 accuracy = 22.7%
+Epoch    6 Step   903278: lr = 0.018 words/sec =    42388
+Eval 4537/17827 accuracy = 25.5%
+Epoch    7 Step  1053860: lr = 0.016 words/sec =    42050
+Eval 4841/17827 accuracy = 27.2%
+Epoch    8 Step  1204466: lr = 0.015 words/sec =    42751
+Eval 5019/17827 accuracy = 28.2%
+Epoch    9 Step  1355005: lr = 0.014 words/sec =    41086
+Eval 5261/17827 accuracy = 29.5%
+Epoch   10 Step  1505615: lr = 0.013 words/sec =      395
+Eval 5548/17827 accuracy = 31.1%
+Epoch   11 Step  1656162: lr = 0.011 words/sec =     1503
+Eval 5761/17827 accuracy = 32.3%
+Epoch   12 Step  1806688: lr = 0.010 words/sec =    43967
+Eval 5986/17827 accuracy = 33.6%
+Epoch   13 Step  1957295: lr = 0.009 words/sec =    42574
+Eval 6147/17827 accuracy = 34.5%
+Epoch   14 Step  2107899: lr = 0.008 words/sec =     1605
+Eval 6336/17827 accuracy = 35.5%
+Epoch   15 Step  2258435: lr = 0.006 words/sec =    34162
+Eval 6511/17827 accuracy = 36.5%
+
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+
+In [1]: model.analogy('france', 'paris', 'russia')
+Out[1]: 
+'moscow'
+
+In [2]:   model.nearby(['proton', 'elephant', 'maxwell'])
+
+proton
+=====================================
+proton               1.0000
+deuteron             0.6606
+electron             0.6528
+protons              0.6405
+hydrogen             0.6370
+electrons            0.6160
+neutrinos            0.6126
+acceptor             0.6001
+ions                 0.5970
+deprotonation        0.5960
+atoms                0.5919
+nucleus              0.5872
+atom                 0.5776
+muon                 0.5773
+diketone             0.5769
+polyatomic           0.5730
+nucleons             0.5722
+antiproton           0.5687
+neutrons             0.5683
+cations              0.5667
+
+elephant
+=====================================
+elephant             1.0000
+elephants            0.6414
+elephas              0.6288
+loxodonta            0.5699
+gaur                 0.5399
+sumatran             0.5371
+rhinoceros           0.5283
+indicus              0.5233
+tusks                0.5183
+grandorder           0.5145
+hippopotamus         0.5115
+shrews               0.5106
+giraffe              0.5087
+africana             0.5069
+hyena                0.5023
+bird                 0.5002
+panthera             0.4974
+leopard              0.4905
+aurochs              0.4897
+macropods            0.4872
+
+maxwell
+=====================================
+maxwell              1.0000
+equations            0.6681
+boltzmann            0.6378
+lorentz              0.5839
+electromagnetism     0.5701
+newton               0.5572
+clerk                0.5556
+oersted              0.5525
+einstein             0.5273
+relativity           0.5236
+larmor               0.5235
+savart               0.5222
+debye                0.5214
+joule                0.5049
+newtonian            0.5048
+poiseuille           0.5047
+faraday              0.5026
+gravitation          0.4999
+entropy              0.4972
+electromagnetic      0.4891
+
