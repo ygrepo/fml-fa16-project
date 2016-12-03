@@ -685,7 +685,7 @@ def generate_qa_lemma_pos(path):
     Generate a list of tuples (lemma,POS) from questions-words.txt.
     '''
     wn_utils = WordnetUtils(path)
-    filename = '%s%s' % (path, 'questions-words.txt')
+    filename = '%s%s' % (path, 'capital-common-countries.txt')
     word_list = read_lines(filename)
     print("word_list=%s" % word_list[:10])
     tuples = []
@@ -709,7 +709,7 @@ def generate_qa_lemma_pos(path):
         #print("Tuples=%s" %tuplel)
         tuples.append(tuplel)
     print("Tuples=%s" %tuples[:10])
-    save_list_list_to_text_file('questions-answers-l-pos.txt', tuples)
+    save_list_list_to_text_file('capital-common-countries-l-pos.txt', tuples)
 
 
 if __name__ == '__main__':
@@ -721,5 +721,5 @@ if __name__ == '__main__':
     # sample(path)
     # generate_text8_words_synsets(path)
     # generate_text8_lemma_pos(path)
-    # generate_qa_lemma_pos(path)
+    generate_qa_lemma_pos(path)
     # generate_news_lemma_pos(path)

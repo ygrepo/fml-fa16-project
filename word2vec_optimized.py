@@ -442,6 +442,8 @@ def use(opts):
     # Perform a final save.
     model.saver.restore(session,
                         os.path.join(opts.save_path + "/model.ckpt"))
+    model.read_analogies() # Read analogy questions
+    model.eval()  # Eval analogies.
     if FLAGS.interactive:
       # E.g.,
       # [0]: model.analogy('france', 'paris', 'russia')

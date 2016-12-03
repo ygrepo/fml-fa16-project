@@ -157,6 +157,7 @@ public class WSD {
             List<String> senseList = Lists.newArrayList();
             for (String line : lines) {
                 if (line.startsWith(":")) {
+                    senseList.add(line);
                     i++;
                     continue;
                 }
@@ -309,16 +310,16 @@ public class WSD {
                 new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
         //logger.debug(wsd.getBestSense("Athens", "Athens Greece Baghdad Iraq", POS.NOUN));
-        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa";
+//        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa";
 //        wsd.readStringFromFile(inputFilename);
 //        wsd.getTupleSenses(inputFilename, 4);
-        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa-synsets";
+//        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa-synsets";
 //        wsd.writeSenseStreamToFile(inputFilename, outputFilename, 4);
-        wsd.generateWordStreamSenses(inputFilename, outputFilename, 4, 1000000);
+//        wsd.generateWordStreamSenses(inputFilename, outputFilename, 4, 1000000);
 
-//        String inputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-l-pos.txt";
-//        String outputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-synsets-test.txt";
-//        wsd.generateQASenses(inputFilename, outputFilename);
+        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-l-pos.txt";
+        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-synsets.txt";
+        wsd.generateQASenses(inputFilename, outputFilename);
     }
 
 
