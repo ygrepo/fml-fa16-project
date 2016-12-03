@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
+'''
+Convenience code to plot the distributions of synsets vs words and words vs. synsets
+'''
 def matplot_settings():
     from matplotlib.pylab import rcParams
     rcParams['figure.figsize'] = 9,8
@@ -46,7 +48,7 @@ if __name__ == '__main__':
 
     matplot_settings()
 
-    path = '/home/yves/code/syn2vec/'
+    path = '/home/yves/github/FML-FA16-Project/data'
     f = '%s%s' % (path, 'synsets_words.csv')
     df = pd.read_csv(f, header=0, sep=',')
     print df.columns

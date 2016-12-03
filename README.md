@@ -1,2 +1,2 @@
 # FML-FA16-Project
-FoML class final project
+FML class final project

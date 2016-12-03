@@ -610,6 +610,9 @@ def sample(path):
 
 
 def generate_text8_words_synsets(path):
+    '''
+    Generate synsets using nltk lek from text8 file.
+    '''
     filename = '%s%s' % (path, 'text8.zip')
     # filename = '%s%s' % (path, 'text8_small.zip')
     words = read_words(filename)
@@ -626,15 +629,18 @@ def generate_text8_words_synsets(path):
 
 
 def generate_text8_lemma_pos(path):
-    # filename = '%s%s' % (path, 'text8.zip')
-    # words = read_words(filename)
+    '''
+    Generate a list of tuples (lemma,POS) from text8
+    '''
+    filename = '%s%s' % (path, 'text8.zip')
+    words = read_words(filename)
     # print("Initial words")
     # print(words[:10])
     wn_utils = WordnetUtils(path)
-    # tuplel = wn_utils.generate_lemma_pos_with_win(words)
+    tuplel = wn_utils.generate_lemma_pos_with_win(words)
     # filename = '%s%s' % (path, 'text8_l_pos.p')
     # pickle.dump(tuplel, open(filename, "wb" ))
-    #save_to_text_file('question_answers_l_pos.txt', tuples)
+    #save_to_text_file('text8-l-os.txt', tuples)
 
 def generate_news_lemma_pos(path):
     wn_utils = WordnetUtils(path)
@@ -675,6 +681,9 @@ def determine_tagging_mode(word_line):
     return None
 
 def generate_qa_lemma_pos(path):
+    '''
+    Generate a list of tuples (lemma,POS) from questions-words.txt.
+    '''
     wn_utils = WordnetUtils(path)
     filename = '%s%s' % (path, 'questions-words.txt')
     word_list = read_lines(filename)
@@ -713,4 +722,4 @@ if __name__ == '__main__':
     # generate_text8_words_synsets(path)
     # generate_text8_lemma_pos(path)
     # generate_qa_lemma_pos(path)
-    generate_news_lemma_pos(path)
+    # generate_news_lemma_pos(path)

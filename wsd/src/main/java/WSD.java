@@ -18,7 +18,6 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
 import java.io.*;
-import java.net.MalformedURLException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
@@ -122,7 +121,7 @@ public class WSD {
     }
 
 
-    public void generateText8Senses(String inputFilename, String outputFilename, int winSz, int batch_sz) {
+    public void generateWordStreamSenses(String inputFilename, String outputFilename, int winSz, int batch_sz) {
         try {
             String content = readStringFromFile(inputFilename);
             content = content.trim();
@@ -131,9 +130,9 @@ public class WSD {
             content = null;
             int total = tuples.length;
             logger.info("Processing #tuples=" + total);
-            int j = 7;
-            for (int i = 7000006; i < total; i++) {
-                BatchSenses batchSenses = getText8Senses(tuples, i, i + batch_sz, winSz);
+            int j = 0;
+            for (int i = 0; i < total; i++) {
+                BatchSenses batchSenses = getTupleSenses(tuples, i, i + batch_sz, winSz);
                 String newOutputFilename = outputFilename + "." + j + ".txt";
                 writeSenseStreamToFile(newOutputFilename, batchSenses.senses);
                 i = batchSenses.index;
@@ -182,7 +181,7 @@ public class WSD {
         }
     }
 
-    public BatchSenses getText8Senses(String[] tuples, int start, int end, int winSz) throws Exception {
+    public BatchSenses getTupleSenses(String[] tuples, int start, int end, int winSz) throws Exception {
         int total = tuples.length;
         int newEnd = (end < total) ? end : total;
         List<String> senses = Lists.newArrayList();
@@ -194,7 +193,7 @@ public class WSD {
             String sense = getSense(stuple, context);
             if (StringUtils.isBlank(sense)) continue;
             senses.add(sense);
-            logger.debug(String.format("i=%d,total=%d", i, tuples.length));
+            logger.info(String.format("i=%d,total=%d", i, tuples.length));
         }
         return new BatchSenses(newEnd, senses);
     }
@@ -307,19 +306,19 @@ public class WSD {
     public static void main(String[] args) throws Exception {
 
         WordNetSenseKeySenseInventory inventory =
-                new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/wsd/src/main/resources/extjwnl_properties.xml"));
+                new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
         //logger.debug(wsd.getBestSense("Athens", "Athens Greece Baghdad Iraq", POS.NOUN));
-//        String inputFilename = "/home/yves/code/github/syn2vec/data/text8_l_pos.txt";
-        //wsd.readStringFromFile(inputFilename);
-        //wsd.getText8Senses(inputFilename, 4);
-//        String outputFilename = "/home/yves/code/github/syn2vec/data/text8_synsets";
-        //wsd.writeSenseStreamToFile(inputFilename, outputFilename, 4);
-//        wsd.generateText8Senses(inputFilename, outputFilename, 4, 1000000);
+        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa";
+//        wsd.readStringFromFile(inputFilename);
+//        wsd.getTupleSenses(inputFilename, 4);
+        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa-synsets";
+//        wsd.writeSenseStreamToFile(inputFilename, outputFilename, 4);
+        wsd.generateWordStreamSenses(inputFilename, outputFilename, 4, 1000000);
 
-        String inputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-l-pos.txt";
-        String outputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-synsets-test.txt";
-        wsd.generateQASenses(inputFilename, outputFilename);
+//        String inputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-l-pos.txt";
+//        String outputFilename = "/home/yves/code/github/syn2vec/data/questions-answers-synsets-test.txt";
+//        wsd.generateQASenses(inputFilename, outputFilename);
     }
 
 
