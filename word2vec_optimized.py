@@ -85,6 +85,9 @@ flags.DEFINE_boolean(
         "use", False,
         "If true, loads previously saved model. Typically used with interactive.")
 
+flags.DEFINE_string("answer_filename", None, "filename for predictions.")
+flags.DEFINE_boolean("lenient", False, "used to match words only and not synsets if set to true.")
+
 FLAGS = flags.FLAGS
 
 
@@ -483,15 +486,18 @@ def use(opts, correct_filename, incorrect_filename, lenient):
         # [1]: model.nearby(['dollar%1:21:01::','elephant%1:05:00::','dream%1:09:01::','dream%2:36:00::'])
         _start_shell(locals())
 
+
 def main(_):
   opts = Options()
   if FLAGS.use:
     path = 'data/'
     # correct_filename = '%s%s' % (path, 'text8-capital-words-corrects.txt')
     # incorrect_filename = '%s%s' % (path, 'text8-capital-words-incorrects.txt')
-    correct_filename = '%s%s' % (path, 'text8-synsets-capital-words-corrects.txt')
-    incorrect_filename = '%s%s' % (path, 'text8-synsets-capital-words-incorrects.txt')
-    use(opts, correct_filename, incorrect_filename, True)
+    correct_filename = FLAGS.answer_filename + '-corrects.txt'
+    correct_filename = '%s%s' % (path, correct_filename)
+    incorrect_filename = FLAGS.answer_filename + '-incorrects.txt'
+    incorrect_filename = '%s%s' % (path, incorrect_filename)
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
   elif not FLAGS.train_data or not FLAGS.eval_data or not FLAGS.save_path:
     """Train a word2vec model."""
     print("--train_data --eval_data and --save_path must be specified.")

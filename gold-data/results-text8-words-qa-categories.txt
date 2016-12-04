@@ -1,0 +1,84 @@
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/currency.txt
+Questions:  596
+Eval   71/596 accuracy = 11.9%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/city.txt
+Questions:  2330
+Eval  912/2330 accuracy = 39.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/family.txt
+Questions:  420
+Eval  196/420 accuracy = 46.7%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram1-adj-adv.txt
+Questions:  992
+Eval   76/992 accuracy =  7.7%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram2-opposite.txt
+Questions:  756
+Eval   50/756 accuracy =  6.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram3-comparative.txt
+Questions:  1332
+Eval  648/1332 accuracy = 48.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram4-superlative.txt
+Questions:  992
+Eval  198/992 accuracy = 20.0%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram5-present-participle.txt
+Questions:  1056
+Eval  227/1056 accuracy = 21.5%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram6-nationality-adj.txt
+Questions:  1521
+Eval 1129/1521 accuracy = 74.2%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram7-past-tense.txt
+Questions:  1560
+Eval  419/1560 accuracy = 26.9%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram8-plural.txt
+Questions:  1332
+Eval  566/1332 accuracy = 42.5%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  data/gram9-plural-verbs.txt
+Questions:  870
+Eval  206/870 accuracy = 23.7%
