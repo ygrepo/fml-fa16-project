@@ -148,6 +148,8 @@ class Word2Vec(object):
     self.build_graph()
     self.build_eval_graph()
     self.save_vocab()
+    self.correct_file = None
+    self.incorrect_file = None
 
   def read_analogies(self):
     """Reads through the analogy question file.
@@ -166,6 +168,7 @@ class Word2Vec(object):
         words = line.strip().lower().split(b" ")
         ids = [self._word2id.get(w.strip()) for w in words]
         if None in ids or len(ids) != 4:
+          print("Skipped=%s" %line)
           questions_skipped += 1
         else:
           questions.append(np.array(ids))
@@ -369,15 +372,21 @@ class Word2Vec(object):
       start = limit
       for question in xrange(sub.shape[0]):
         for j in xrange(4):
+          log_line = "question=%s, predicted=%s" %(self._id2word[sub[question]], self._id2word[idx[question, j]])
           if idx[question, j] == sub[question, 3]:
             # Bingo! We predicted correctly. E.g., [italy, rome, france, paris].
             correct += 1
+            #print(log_line)
+            if self.correct_file is not None:
+              self.correct_file.write(log_line + "\n")
             break
           elif idx[question, j] in sub[question, :3]:
             # We need to skip words already in the question.
             continue
           else:
             # The correct label is not the precision@1
+            if self.incorrect_file is not None:
+              self.incorrect_file.write(log_line + "\n")
             break
     print()
     print("Eval %4d/%d accuracy = %4.1f%%" % (correct, total,
@@ -435,16 +444,27 @@ def train(_):
       # [1]: model.nearby([b'proton', b'elephant', b'maxwell'])
       _start_shell(locals())
 
-def use(opts):
+def use(opts, correct_filename, incorrect_filename):
   opts = Options()
   with tf.Graph().as_default(), tf.Session() as session:
+
     model = Word2Vec(opts, session)
+
+    correct_file = open(correct_filename, 'w')
+    model.correct_file = correct_file
+    incorrect_file = open(incorrect_filename, 'w')
+    model.incorrect_file = incorrect_file
+
     # Perform a final save.
     model.saver.restore(session,
                         os.path.join(opts.save_path + "/model.ckpt"))
     model.read_analogies() # Read analogy questions
     model.eval()  # Eval analogies.
-    if FLAGS.interactive:
+
+    correct_file.close()
+    incorrect_file.close()
+
+  if FLAGS.interactive:
       # E.g.,
       # [0]: model.analogy('france', 'paris', 'russia')
       # [1]: model.nearby(['proton', 'elephant', 'maxwell'])
@@ -455,7 +475,10 @@ def use(opts):
 def main(_):
   opts = Options()
   if FLAGS.use:
-    use(opts)
+    path = 'data/'
+    correct_filename = '%s%s' % (path, 'capital-common-countries-corrects.txt')
+    incorrect_filename = '%s%s' % (path, 'capital-common-countries-incorrects.txt')
+    use(opts, correct_filename, incorrect_filename)
   elif not FLAGS.train_data or not FLAGS.eval_data or not FLAGS.save_path:
     """Train a word2vec model."""
     print("--train_data --eval_data and --save_path must be specified.")

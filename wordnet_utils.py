@@ -311,8 +311,9 @@ class WordnetUtils():
         :param words:
         :return: tuples
         '''
-        filtered_words = self.clean_data(words)
-        print("Filtered words", filtered_words[:5])
+        #filtered_words = self.clean_data(words)
+        filtered_words = words
+        #print("Filtered words", filtered_words[:5])
         tuples = []
         words_sz = len(filtered_words)
         print("Processing %d words" % words_sz)
@@ -321,20 +322,20 @@ class WordnetUtils():
         for word in filtered_words:
             (li, ri) = get_window_indices(words_sz, i, self.win_size)
             win_words = filtered_words[li: i] + filtered_words[i: ri + 1]
-            print("Word=%s, win_words=%s" %(word,win_words))
+            #print("Word=%s, win_words=%s" %(word,win_words))
             tags = self.tagger.tag(win_words)
-            print ('Tags=%s' %tags[:5])
+            #print ('Tags=%s' %tags[:5])
             word_tag_d = dict(tags)
             w_tag = word_tag_d[word]
             if w_tag is None:
-                print("No tag for word=%s" % word)
+                #print("No tag for word=%s" % word)
                 i += 1
                 unknown_count += 1
                 tuples.append((word, None))
                 continue
             pos = get_wordnet_pos(w_tag)
             if pos is None:
-                print("No pos for word=%s" % word)
+                #print("No pos for word=%s" % word)
                 i += 1
                 unknown_count += 1
                 tuples.append((word, None))
@@ -346,7 +347,8 @@ class WordnetUtils():
             # synset = lesk(win_words, lemma, pos)
             # print("Synset=%s" %synset)
             i += 1
-            print('i=%d' % i)
+            print("Processing i=%d,total=%d" % (i, words_sz))
+
         if words_sz != 0:
             rejected_percent = 100.0 * (unknown_count / words_sz)
         else:
@@ -362,29 +364,30 @@ class WordnetUtils():
         '''
         words_sz = len(words)
         tags = self.tagger.tag(words)
-        #print('Tags=%s' % tags[:5])
+        print('Tags=%s' % tags[:5])
         i = 0
         tuples = []
         unknown_count = 0
         for word, tag in tags:
             pos = get_wordnet_pos(tag)
             if pos is None:
-                #print("No pos for word=%s" % word)
+                print("No pos for word=%s" % word)
+                tuples.append((word, None))
                 i += 1
                 unknown_count += 1
                 continue
             lemma = self.lemmatizer.lemmatize(word, pos)
-            #print("word=%s,lemma=%s,tag=%s,pos=%s" % (word, lemma, tag, pos))
+            print("word=%s,lemma=%s,tag=%s,pos=%s" % (word, lemma, tag, pos))
             tuples.append((lemma, pos))
             i += 1
         if words_sz != 0:
             rejected_percent = 100.0 * (unknown_count / words_sz)
         else:
             rejected_percent = 0
-        #print("word_size=%d, rejected=%.3f" % (words_sz, rejected_percent))
+        print("word_size=%d, rejected=%.3f" % (words_sz, rejected_percent))
         return tuples
 
-    def generate_lemma_addj(self, words):
+    def generate_lemma_adj(self, words):
         '''
        This helper function is used for the questions-answers challenge.
        The tagger always gets wrongs when the question consists of 3 adjectives
@@ -462,11 +465,11 @@ def save_to_text_file(output_f, tuples):
     i = 0
     with open(filename, 'w') as f:
         for (lemma, tag) in tuples:
-            print("lemma=%s, tag=%s" %(lemma, tag))
-            token = ' %s,,%s\\n' % (lemma, tag)
+            #print("lemma=%s, tag=%s" %(lemma, tag))
+            token = ' %s,,%s' % (lemma, tag)
             f.write(' ' + token)
             i += 1
-            print("Processing i=%d,total=%d" % (i, total))
+            print("Saving i=%d,total=%d" % (i, total))
 
 def save_tuples_to_file(output_f, tuples):
     total = len(tuples)
@@ -499,11 +502,11 @@ def save_list_list_to_text_file(output_f, tuples):
             print(tuples_l)
             line = ""
             for (lemma, tag) in tuples_l:
-                token = ' %s,,%s' % (lemma, tag)
+                token = ' %s,%s' % (lemma, tag)
                 line += token
             line += '\n'
             print("Processed i=%d,total=%d" % (i, total))
-            #print("line=%s" %line)
+            print("line=%s" %line)
             f.write(line)
             i += 1
 
@@ -634,13 +637,14 @@ def generate_text8_lemma_pos(path):
     '''
     filename = '%s%s' % (path, 'text8.zip')
     words = read_words(filename)
-    # print("Initial words")
-    # print(words[:10])
+    print("Initial words")
+    print(words[:20])
+    #words = words[:20]
     wn_utils = WordnetUtils(path)
-    tuplel = wn_utils.generate_lemma_pos_with_win(words)
+    tuples = wn_utils.generate_lemma_pos_with_win(words)
     # filename = '%s%s' % (path, 'text8_l_pos.p')
     # pickle.dump(tuplel, open(filename, "wb" ))
-    #save_to_text_file('text8-l-os.txt', tuples)
+    save_to_text_file('text8-l-os.txt', tuples)
 
 def generate_news_lemma_pos(path):
     wn_utils = WordnetUtils(path)
@@ -702,7 +706,7 @@ def generate_qa_lemma_pos(path):
         if tagging_mode == TAG_MODE.FULL_TAGGING:
             tuplel = wn_utils.generate_lemma_pos(words)
         elif tagging_mode == TAG_MODE.ADJ:
-            tuplel = wn_utils.generate_lemma_addj(words)
+            tuplel = wn_utils.generate_lemma_adj(words)
         elif tagging_mode == TAG_MODE.VERB:
             tuplel = wn_utils.generate_lemma_verb(words)
 

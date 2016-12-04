@@ -140,3 +140,41 @@ vision%1:09:01::     0.4541
 freudian%3:01:00::   0.4529
 imagination%1:09:03:: 0.4528
 
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
+Data file:  data/2016-12-04-text8-synsets.txt
+Vocab size:  58016  + UNK
+Words per epoch:  15320733
+Eval analogy file:  data/capital-common-countries-synsets.txt
+Questions:  506
+Skipped:  0
+Epoch    1 Step   129819: lr = 0.024 words/sec =    35303
+Eval    5/506 accuracy =  1.0%
+Epoch    2 Step   259442: lr = 0.023 words/sec =     3893
+Eval   20/506 accuracy =  4.0%
+Epoch    3 Step   389295: lr = 0.021 words/sec =    11525
+Eval   27/506 accuracy =  5.3%
+Epoch    4 Step   519127: lr = 0.020 words/sec =    25018
+Eval   39/506 accuracy =  7.7%
+Epoch    5 Step   648358: lr = 0.019 words/sec =    30905
+Eval   72/506 accuracy = 14.2%
+Epoch    6 Step   777837: lr = 0.018 words/sec =    31723
+Eval   81/506 accuracy = 16.0%
+Epoch    7 Step   907594: lr = 0.017 words/sec =    42931
+Eval   94/506 accuracy = 18.6%
+Epoch    8 Step  1037380: lr = 0.016 words/sec =     1806
+Eval  109/506 accuracy = 21.5%
+Epoch    9 Step  1167228: lr = 0.014 words/sec =    37112
+Eval  107/506 accuracy = 21.1%
+Epoch   10 Step  1296779: lr = 0.013 words/sec =    32925
+Eval  113/506 accuracy = 22.3%
+Epoch   11 Step  1426532: lr = 0.012 words/sec =     6588
+Eval  146/506 accuracy = 28.9%
+Epoch   12 Step  1556220: lr = 0.011 words/sec =    18560
+Eval  129/506 accuracy = 25.5%
+Epoch   13 Step  1685981: lr = 0.010 words/sec =    32614
+Eval  147/506 accuracy = 29.1%
+Epoch   14 Step  1815541: lr = 0.008 words/sec =    31940
+Eval  143/506 accuracy = 28.3%
+Epoch   15 Step  1945244: lr = 0.007 words/sec =    35640
+Eval  158/506 accuracy = 31.2%
+

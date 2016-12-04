@@ -20,6 +20,8 @@ import org.apache.log4j.Logger;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
@@ -128,13 +130,16 @@ public class WSD {
             logger.debug("Content=" + content);
             String[] tuples = content.split("\\s+");
             content = null;
+//            String[] newArray = Arrays.copyOfRange(tuples, 0, 21);
+//            tuples = newArray;
             int total = tuples.length;
             logger.info("Processing #tuples=" + total);
             int j = 0;
             for (int i = 0; i < total; i++) {
                 BatchSenses batchSenses = getTupleSenses(tuples, i, i + batch_sz, winSz);
-                String newOutputFilename = outputFilename + "." + j + ".txt";
-                writeSenseStreamToFile(newOutputFilename, batchSenses.senses);
+                writeSenseStreamToFile(outputFilename, batchSenses.senses);
+//                String newOutputFilename = outputFilename + "." + j + ".txt";
+//                writeSenseStreamToFile(newOutputFilename, batchSenses.senses);
                 i = batchSenses.index;
                 j++;
                 batchSenses = null;
@@ -227,17 +232,19 @@ public class WSD {
 
     public String getSense(String stuplein, String context) throws Exception {
         String stuple = stuplein.trim();
-        String[] lps = stuple.split(",,");
+        String[] lps = stuple.split(",");
         if (lps.length != 2) {
             logger.debug("Not a valid tuple=" + stuple);
-            return "";
+            String word = lps[0];
+            return word;
         }
         String lemma = lps[0];
         String spos = lps[1];
         POS pos = getPos(spos);
         if (pos == null) {
             logger.debug("Not pos valid tuple=" + stuple);
-            return "";
+            String word = lps[0];
+            return word;
         }
         logger.debug(String.format("Lemma=%s,Pos=%s, context=%s", lemma, pos, context));
         String sense = getBestSense(lemma, context, pos);
@@ -282,7 +289,7 @@ public class WSD {
         StringBuilder sb = new StringBuilder();
         for (String stuple : tuples) {
             if (StringUtils.isBlank(stuple)) continue;
-            String[] lps = stuple.split("\\,\\,");
+            String[] lps = stuple.split("\\,");
             if (lps.length != 2) {
                 logger.debug("Not valid tuple=" + stuple);
                 continue;
@@ -310,12 +317,16 @@ public class WSD {
                 new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
         //logger.debug(wsd.getBestSense("Athens", "Athens Greece Baghdad Iraq", POS.NOUN));
-//        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa";
-//        wsd.readStringFromFile(inputFilename);
-//        wsd.getTupleSenses(inputFilename, 4);
-//        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/xaa-synsets";
-//        wsd.writeSenseStreamToFile(inputFilename, outputFilename, 4);
-//        wsd.generateWordStreamSenses(inputFilename, outputFilename, 4, 1000000);
+//        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
+//        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
+//        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
+//        for(String idx: indices) {
+//            String if2 = inputFilename + idx;
+//            System.out.println(if2);
+//            String of2 = outputFilename + idx + "-synsets.txt";
+//            System.out.println(of2);
+//            wsd.generateWordStreamSenses(if2, of2, 4, 1000000);
+//        }
 
         String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-l-pos.txt";
         String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-synsets.txt";
