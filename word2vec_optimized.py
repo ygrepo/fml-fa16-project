@@ -54,7 +54,7 @@ flags.DEFINE_string(
     "See README.md for how to get 'questions-words.txt'.")
 flags.DEFINE_integer("embedding_size", 200, "The embedding dimension size.")
 flags.DEFINE_integer(
-    "epochs_to_train", 15,
+    "epochs_to_train", 35,
     "Number of epochs to train. Each epoch processes the training data once "
     "completely.")
 flags.DEFINE_float("learning_rate", 0.025, "Initial learning rate.")
@@ -372,9 +372,18 @@ class Word2Vec(object):
       start = limit
       for question in xrange(sub.shape[0]):
         for j in xrange(4):
-          log_line = "question=%s, predicted=%s" %(self._id2word[sub[question]], self._id2word[idx[question, j]])
+          predicted =  self._id2word[idx[question, j]]
+          q_line = self._id2word[sub[question]]
+          response = self._id2word[sub[question, 3]]
+          log_line = "question=%s, predicted=%s" %(q_line, predicted)
           if idx[question, j] == sub[question, 3]:
             # Bingo! We predicted correctly. E.g., [italy, rome, france, paris].
+            correct += 1
+            #print(log_line)
+            if self.correct_file is not None:
+              self.correct_file.write(log_line + "\n")
+            break
+          elif self.lenient and (response.split("%")[0] == predicted.split("%")[0]):
             correct += 1
             #print(log_line)
             if self.correct_file is not None:
@@ -444,33 +453,35 @@ def train(_):
       # [1]: model.nearby([b'proton', b'elephant', b'maxwell'])
       _start_shell(locals())
 
-def use(opts, correct_filename, incorrect_filename):
+def use(opts, correct_filename, incorrect_filename, lenient):
   opts = Options()
   with tf.Graph().as_default(), tf.Session() as session:
 
     model = Word2Vec(opts, session)
 
+    # Perform a final save.
+    model.saver.restore(session,
+                        os.path.join(opts.save_path + "/model.ckpt"))
+
     correct_file = open(correct_filename, 'w')
     model.correct_file = correct_file
     incorrect_file = open(incorrect_filename, 'w')
     model.incorrect_file = incorrect_file
+    model.lenient = lenient
 
-    # Perform a final save.
-    model.saver.restore(session,
-                        os.path.join(opts.save_path + "/model.ckpt"))
     model.read_analogies() # Read analogy questions
     model.eval()  # Eval analogies.
 
     correct_file.close()
     incorrect_file.close()
 
-  if FLAGS.interactive:
-      # E.g.,
-      # [0]: model.analogy('france', 'paris', 'russia')
-      # [1]: model.nearby(['proton', 'elephant', 'maxwell'])
-      # [0]: model.analogy('france%1:15:00::','paris%1:15:00::','russia%1:15:02::')
-      # [1]: model.nearby(['dollar%1:21:01::','elephant%1:05:00::','dream%1:09:01::','dream%2:36:00::'])
-      _start_shell(locals())
+    if FLAGS.interactive:
+        # E.g.,
+        # [0]: model.analogy('france', 'paris', 'russia')
+        # [1]: model.nearby(['proton', 'elephant', 'maxwell'])
+        # [0]: model.analogy('france%1:15:00::','paris%1:15:00::','russia%1:15:02::')
+        # [1]: model.nearby(['dollar%1:21:01::','elephant%1:05:00::','dream%1:09:01::','dream%2:36:00::'])
+        _start_shell(locals())
 
 def main(_):
   opts = Options()
@@ -478,7 +489,7 @@ def main(_):
     path = 'data/'
     correct_filename = '%s%s' % (path, 'capital-common-countries-corrects.txt')
     incorrect_filename = '%s%s' % (path, 'capital-common-countries-incorrects.txt')
-    use(opts, correct_filename, incorrect_filename)
+    use(opts, correct_filename, incorrect_filename, True)
   elif not FLAGS.train_data or not FLAGS.eval_data or not FLAGS.save_path:
     """Train a word2vec model."""
     print("--train_data --eval_data and --save_path must be specified.")
