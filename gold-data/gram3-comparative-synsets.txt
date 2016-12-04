@@ -1,0 +1,1333 @@
+: gram3-comparative
+bad%3:00:00:: bad%3:00:00:: big%3:00:01:: big%3:00:01::
+bad%3:00:00:: bad%3:00:00:: bright%3:00:02:: bright%3:00:02::
+bad%3:00:00:: bad%3:00:00:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+bad%3:00:00:: bad%3:00:00:: cold%3:00:01:: cold%3:00:01::
+bad%3:00:00:: bad%3:00:00:: cool%3:00:01:: cool%3:00:01::
+bad%3:00:00:: bad%3:00:00:: deep%3:00:02:: deep%3:00:02::
+bad%3:00:00:: bad%3:00:00:: easy%3:00:01:: easy%3:00:01::
+bad%3:00:00:: bad%3:00:00:: fast%3:00:02:: fast%3:00:02::
+bad%5:00:00:unhealthy:00 bad%5:00:00:unhealthy:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+bad%3:00:00:: bad%3:00:00:: great%5:00:01:important:00 great%5:00:01:important:00
+bad%3:00:00:: bad%3:00:00:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+bad%3:00:00:: bad%3:00:00:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+bad%3:00:00:: bad%3:00:00:: high%5:00:00:elated:00 high%5:00:00:elated:00
+bad%3:00:00:: bad%3:00:00:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+bad%3:00:00:: bad%3:00:00:: large%5:00:00:significant:00 large%5:00:00:significant:00
+bad%3:00:00:: bad%3:00:00:: long%3:00:01:: long%3:00:01::
+bad%3:00:00:: bad%3:00:00:: loud%3:00:00:: loud%3:00:00::
+bad%3:00:00:: bad%3:00:00:: low%5:00:00:soft:04 low%5:00:00:soft:04
+bad%3:00:00:: bad%3:00:00:: new%5:00:02:original:00 new%5:00:02:original:00
+bad%3:00:00:: bad%3:00:00:: old%3:00:02:: old%3:00:02::
+bad%3:00:00:: bad%3:00:00::
+bad%5:00:02:unsound:00 bad%5:00:02:unsound:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+bad%3:00:00:: bad%3:00:00:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+bad%3:00:00:: bad%3:00:00:: short%3:00:03:: short%3:00:03::
+bad%3:00:00:: bad%3:00:00:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+bad%3:00:00:: bad%3:00:00:: slow%3:00:02:: slow%3:00:02::
+bad%3:00:00:: bad%3:00:00:: small%5:00:00:fine:00 small%5:00:00:fine:00
+bad%3:00:00:: bad%3:00:00::
+bad%3:00:00:: bad%3:00:00:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+bad%3:00:00:: bad%3:00:00:: tall%3:00:00:: tall%3:00:00::
+bad%3:00:00:: bad%3:00:00:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+bad%3:00:00:: bad%3:00:00:: tough%3:00:02:: tough%3:00:02::
+bad%3:00:00:: bad%3:00:00:: warm%3:00:01:: warm%3:00:01::
+bad%3:00:00:: bad%3:00:00:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+bad%3:00:00:: bad%3:00:00:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+bad%3:00:00:: bad%3:00:00:: young%3:00:00:: young%3:00:00::
+big%3:00:01:: big%3:00:01:: bright%3:00:02:: bright%3:00:02::
+big%3:00:01:: big%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+big%3:00:01:: big%3:00:01:: cold%3:00:01:: cold%3:00:01::
+big%3:00:01:: big%3:00:01:: cool%3:00:01:: cool%3:00:01::
+big%3:00:01:: big%3:00:01:: deep%3:00:02:: deep%3:00:02::
+big%3:00:01:: big%3:00:01:: easy%3:00:01:: easy%3:00:01::
+big%3:00:01:: big%3:00:01:: fast%3:00:02:: fast%3:00:02::
+big%3:00:01:: big%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+big%5:00:00:heavy:08 big%5:00:00:heavy:08 great%5:00:01:important:00 great%5:00:01:important:00
+big%3:00:01:: big%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+big%3:00:01:: big%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+big%3:00:01:: big%3:00:01:: high%5:00:00:elated:00 high%5:00:00:elated:00
+big%3:00:01:: big%3:00:01:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+big%3:00:01:: big%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+big%3:00:01:: big%3:00:01:: long%3:00:01:: long%3:00:01::
+big%5:00:00:loud:00 big%5:00:00:loud:00 loud%3:00:00:: loud%3:00:00::
+big%3:00:01:: big%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+big%5:00:00:pregnant:00 big%5:00:00:pregnant:00 new%5:00:02:original:00 new%5:00:02:original:00
+big%3:00:01:: big%3:00:01:: old%3:00:02:: old%3:00:02::
+big%3:00:01:: big%3:00:01::
+big%3:00:01:: big%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+big%3:00:01:: big%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+big%3:00:01:: big%3:00:01:: short%3:00:03:: short%3:00:03::
+big%3:00:01:: big%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+big%3:00:01:: big%3:00:01:: slow%3:00:02:: slow%3:00:02::
+big%3:00:01:: big%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+big%3:00:01:: big%3:00:01::
+big%3:00:01:: big%3:00:01:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+big%3:00:01:: big%3:00:01:: tall%3:00:00:: tall%3:00:00::
+big%3:00:01:: big%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+big%3:00:01:: big%3:00:01:: tough%3:00:02:: tough%3:00:02::
+big%3:00:01:: big%3:00:01:: warm%3:00:01:: warm%3:00:01::
+big%3:00:01:: big%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+big%3:00:01:: big%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+big%3:00:01:: big%3:00:01:: young%3:00:00:: young%3:00:00::
+big%3:00:01:: big%3:00:01:: bad%3:00:00:: bad%3:00:00::
+bright%3:00:02:: bright%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+bright%3:00:02:: bright%3:00:02:: cold%3:00:01:: cold%3:00:01::
+bright%3:00:02:: bright%3:00:02:: cool%3:00:01:: cool%3:00:01::
+bright%3:00:02:: bright%3:00:02:: deep%3:00:02:: deep%3:00:02::
+bright%3:00:02:: bright%3:00:02:: easy%3:00:01:: easy%3:00:01::
+bright%3:00:02:: bright%3:00:02:: fast%3:00:02:: fast%3:00:02::
+bright%3:00:02:: bright%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+bright%3:00:02:: bright%3:00:02:: great%5:00:01:important:00 great%5:00:01:important:00
+bright%3:00:02:: bright%3:00:02:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+bright%3:00:02:: bright%3:00:02:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+bright%3:00:02:: bright%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+bright%3:00:02:: bright%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+bright%3:00:02:: bright%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+bright%3:00:02:: bright%3:00:02:: long%3:00:01:: long%3:00:01::
+bright%3:00:02:: bright%3:00:02:: loud%3:00:00:: loud%3:00:00::
+bright%3:00:02:: bright%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+bright%3:00:02:: bright%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+bright%3:00:02:: bright%3:00:02:: old%3:00:02:: old%3:00:02::
+bright%3:00:02:: bright%3:00:02::
+bright%3:00:02:: bright%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+bright%5:00:00:reverberant:00 bright%5:00:00:reverberant:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+bright%3:00:02:: bright%3:00:02:: short%3:00:03:: short%3:00:03::
+bright%3:00:02:: bright%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+bright%3:00:02:: bright%3:00:02:: slow%3:00:02:: slow%3:00:02::
+bright%3:00:02:: bright%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+bright%3:00:02:: bright%3:00:02::
+bright%3:00:02:: bright%3:00:02:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+bright%3:00:02:: bright%3:00:02:: tall%3:00:00:: tall%3:00:00::
+bright%3:00:02:: bright%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+bright%3:00:02:: bright%3:00:02:: tough%3:00:02:: tough%3:00:02::
+bright%3:00:02:: bright%3:00:02:: warm%3:00:01:: warm%3:00:01::
+bright%3:00:02:: bright%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+bright%3:00:02:: bright%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+bright%3:00:02:: bright%3:00:02:: young%3:00:00:: young%3:00:00::
+bright%3:00:02:: bright%3:00:02:: bad%3:00:00:: bad%3:00:00::
+bright%3:00:02:: bright%3:00:02:: big%3:00:01:: big%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 cold%3:00:01:: cold%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 cool%3:00:01:: cool%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 deep%3:00:02:: deep%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 easy%3:00:01:: easy%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 fast%3:00:02:: fast%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 great%5:00:01:important:00 great%5:00:01:important:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 long%3:00:01:: long%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 loud%3:00:00:: loud%3:00:00::
+cheap%5:00:00:inferior:02 cheap%5:00:00:inferior:02 low%5:00:00:soft:04 low%5:00:00:soft:04
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 new%5:00:02:original:00 new%5:00:02:original:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 old%3:00:02:: old%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 short%3:00:03:: short%3:00:03::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 slow%3:00:02:: slow%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 tall%3:00:00:: tall%3:00:00::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 tough%3:00:02:: tough%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 warm%3:00:01:: warm%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 young%3:00:00:: young%3:00:00::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 bad%3:00:00:: bad%3:00:00::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 big%3:00:01:: big%3:00:01::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00 bright%3:00:02:: bright%3:00:02::
+cold%3:00:01:: cold%3:00:01:: cool%3:00:01:: cool%3:00:01::
+cold%3:00:01:: cold%3:00:01:: deep%3:00:02:: deep%3:00:02::
+cold%3:00:01:: cold%3:00:01:: easy%3:00:01:: easy%3:00:01::
+cold%3:00:01:: cold%3:00:01:: fast%3:00:02:: fast%3:00:02::
+cold%3:00:01:: cold%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+cold%3:00:01:: cold%3:00:01:: great%5:00:01:important:00 great%5:00:01:important:00
+cold%3:00:01:: cold%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+cold%3:00:01:: cold%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+cold%3:00:01:: cold%3:00:01:: high%5:00:00:elated:00 high%5:00:00:elated:00
+cold%3:00:01:: cold%3:00:01:: hot%3:00:01:: hot%3:00:01::
+cold%3:00:01:: cold%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+cold%3:00:01:: cold%3:00:01:: long%3:00:01:: long%3:00:01::
+cold%3:00:01:: cold%3:00:01:: loud%3:00:00:: loud%3:00:00::
+cold%3:00:01:: cold%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+cold%3:00:01:: cold%3:00:01:: new%5:00:02:original:00 new%5:00:02:original:00
+cold%3:00:01:: cold%3:00:01:: old%3:00:02:: old%3:00:02::
+cold%3:00:01:: cold%3:00:01::
+cold%3:00:01:: cold%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+cold%3:00:01:: cold%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+cold%3:00:01:: cold%3:00:01:: short%3:00:03:: short%3:00:03::
+cold%3:00:01:: cold%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+cold%3:00:01:: cold%3:00:01:: slow%3:00:02:: slow%3:00:02::
+cold%3:00:01:: cold%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+cold%3:00:01:: cold%3:00:01::
+cold%3:00:01:: cold%3:00:01:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+cold%3:00:01:: cold%3:00:01:: tall%3:00:00:: tall%3:00:00::
+cold%3:00:01:: cold%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+cold%3:00:01:: cold%3:00:01:: tough%3:00:02:: tough%3:00:02::
+cold%3:00:01:: cold%3:00:01:: warm%3:00:01:: warm%3:00:01::
+cold%3:00:01:: cold%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+cold%3:00:01:: cold%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+cold%3:00:01:: cold%3:00:01:: young%3:00:00:: young%3:00:00::
+cold%3:00:01:: cold%3:00:01:: bad%3:00:00:: bad%3:00:00::
+cold%3:00:01:: cold%3:00:01:: big%3:00:01:: big%3:00:01::
+cold%3:00:01:: cold%3:00:01:: bright%3:00:02:: bright%3:00:02::
+cold%3:00:01:: cold%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cool%3:00:01:: cool%3:00:01:: deep%3:00:02:: deep%3:00:02::
+cool%3:00:01:: cool%3:00:01:: easy%3:00:01:: easy%3:00:01::
+cool%3:00:01:: cool%3:00:01:: fast%3:00:02:: fast%3:00:02::
+cool%3:00:01:: cool%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+cool%3:00:01:: cool%3:00:01:: great%5:00:01:important:00 great%5:00:01:important:00
+cool%3:00:01:: cool%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+cool%3:00:01:: cool%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+cool%3:00:01:: cool%3:00:01:: high%5:00:00:elated:00 high%5:00:00:elated:00
+cool%3:00:01:: cool%3:00:01:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+cool%3:00:01:: cool%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+cool%3:00:01:: cool%3:00:01:: long%3:00:01:: long%3:00:01::
+cool%3:00:01:: cool%3:00:01:: loud%3:00:00:: loud%3:00:00::
+cool%3:00:01:: cool%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+cool%3:00:01:: cool%3:00:01:: new%5:00:02:original:00 new%5:00:02:original:00
+cool%3:00:01:: cool%3:00:01:: old%3:00:02:: old%3:00:02::
+cool%3:00:01:: cool%3:00:01::
+cool%3:00:01:: cool%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+cool%3:00:01:: cool%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+cool%3:00:01:: cool%3:00:01:: short%3:00:03:: short%3:00:03::
+cool%3:00:01:: cool%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+cool%3:00:01:: cool%3:00:01:: slow%3:00:02:: slow%3:00:02::
+cool%3:00:01:: cool%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+cool%3:00:01:: cool%3:00:01::
+cool%3:00:01:: cool%3:00:01:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+cool%3:00:01:: cool%3:00:01:: tall%3:00:00:: tall%3:00:00::
+cool%3:00:01:: cool%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+cool%3:00:01:: cool%3:00:01:: tough%3:00:02:: tough%3:00:02::
+cool%3:00:01:: cool%3:00:01:: warm%3:00:02:: warm%3:00:02::
+cool%3:00:01:: cool%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+cool%3:00:01:: cool%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+cool%3:00:01:: cool%3:00:01:: young%3:00:00:: young%3:00:00::
+cool%3:00:01:: cool%3:00:01:: bad%3:00:00:: bad%3:00:00::
+cool%3:00:01:: cool%3:00:01:: big%3:00:01:: big%3:00:01::
+cool%3:00:01:: cool%3:00:01:: bright%3:00:02:: bright%3:00:02::
+cool%3:00:01:: cool%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cool%3:00:01:: cool%3:00:01:: cold%3:00:01:: cold%3:00:01::
+deep%3:00:02:: deep%3:00:02:: easy%3:00:01:: easy%3:00:01::
+deep%3:00:02:: deep%3:00:02:: fast%3:00:02:: fast%3:00:02::
+deep%3:00:02:: deep%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+deep%3:00:02:: deep%3:00:02:: great%5:00:01:important:00 great%5:00:01:important:00
+deep%3:00:02:: deep%3:00:02:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+deep%3:00:02:: deep%3:00:02:: heavy%5:00:00:deep:02 heavy%5:00:00:deep:02
+deep%3:00:02:: deep%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+deep%3:00:02:: deep%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+deep%3:00:02:: deep%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+deep%3:00:02:: deep%3:00:02:: long%3:00:01:: long%3:00:01::
+deep%3:00:02:: deep%3:00:02:: loud%3:00:00:: loud%3:00:00::
+deep%3:00:02:: deep%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+deep%3:00:02:: deep%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+deep%3:00:02:: deep%3:00:02:: old%3:00:02:: old%3:00:02::
+deep%3:00:02:: deep%3:00:02::
+deep%3:00:02:: deep%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+deep%3:00:02:: deep%3:00:02:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+deep%3:00:02:: deep%3:00:02:: short%3:00:03:: short%3:00:03::
+deep%3:00:02:: deep%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+deep%3:00:02:: deep%3:00:02:: slow%3:00:02:: slow%3:00:02::
+deep%3:00:02:: deep%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+deep%3:00:02:: deep%3:00:02::
+deep%3:00:02:: deep%3:00:02:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+deep%3:00:02:: deep%3:00:02:: tall%3:00:00:: tall%3:00:00::
+deep%3:00:02:: deep%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+deep%3:00:02:: deep%3:00:02:: tough%3:00:02:: tough%3:00:02::
+deep%3:00:02:: deep%3:00:02:: warm%3:00:01:: warm%3:00:01::
+deep%3:00:02:: deep%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+deep%3:00:02:: deep%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+deep%3:00:02:: deep%3:00:02:: young%3:00:00:: young%3:00:00::
+deep%3:00:02:: deep%3:00:02:: bad%3:00:00:: bad%3:00:00::
+deep%3:00:02:: deep%3:00:02:: big%3:00:01:: big%3:00:01::
+deep%3:00:02:: deep%3:00:02:: bright%3:00:02:: bright%3:00:02::
+deep%3:00:02:: deep%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+deep%3:00:02:: deep%3:00:02:: cold%3:00:01:: cold%3:00:01::
+deep%3:00:02:: deep%3:00:02:: cool%3:00:01:: cool%3:00:01::
+easy%3:00:01:: easy%3:00:01:: fast%3:00:02:: fast%3:00:02::
+easy%3:00:01:: easy%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+easy%3:00:01:: easy%3:00:01:: great%5:00:01:important:00 great%5:00:01:important:00
+easy%3:00:01:: easy%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+easy%3:00:01:: easy%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+easy%3:00:01:: easy%3:00:01:: high%5:00:00:elated:00 high%5:00:00:elated:00
+easy%3:00:01:: easy%3:00:01:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+easy%3:00:01:: easy%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+easy%3:00:01:: easy%3:00:01:: long%3:00:01:: long%3:00:01::
+easy%3:00:01:: easy%3:00:01:: loud%3:00:00:: loud%3:00:00::
+easy%3:00:01:: easy%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+easy%3:00:01:: easy%3:00:01:: new%5:00:02:original:00 new%5:00:02:original:00
+easy%3:00:01:: easy%3:00:01:: old%3:00:02:: old%3:00:02::
+easy%3:00:01:: easy%3:00:01::
+easy%3:00:01:: easy%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+easy%3:00:01:: easy%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+easy%3:00:01:: easy%3:00:01:: short%3:00:03:: short%3:00:03::
+easy%3:00:01:: easy%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+easy%3:00:01:: easy%3:00:01:: slow%3:00:02:: slow%3:00:02::
+easy%3:00:01:: easy%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+easy%3:00:01:: easy%3:00:01::
+easy%3:00:01:: easy%3:00:01:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+easy%3:00:01:: easy%3:00:01:: tall%3:00:00:: tall%3:00:00::
+easy%3:00:01:: easy%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+easy%3:00:01:: easy%3:00:01:: tough%3:00:02:: tough%3:00:02::
+easy%3:00:01:: easy%3:00:01:: warm%3:00:01:: warm%3:00:01::
+easy%3:00:01:: easy%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+easy%3:00:01:: easy%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+easy%3:00:01:: easy%3:00:01:: young%3:00:00:: young%3:00:00::
+easy%3:00:01:: easy%3:00:01:: bad%3:00:00:: bad%3:00:00::
+easy%3:00:01:: easy%3:00:01:: big%3:00:01:: big%3:00:01::
+easy%3:00:01:: easy%3:00:01:: bright%3:00:02:: bright%3:00:02::
+easy%3:00:01:: easy%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+easy%3:00:01:: easy%3:00:01:: cold%3:00:01:: cold%3:00:01::
+easy%3:00:01:: easy%3:00:01:: cool%3:00:01:: cool%3:00:01::
+easy%3:00:01:: easy%3:00:01:: deep%3:00:02:: deep%3:00:02::
+fast%3:00:02:: fast%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+fast%3:00:02:: fast%3:00:02:: great%5:00:01:important:00 great%5:00:01:important:00
+fast%3:00:02:: fast%3:00:02:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+fast%3:00:02:: fast%3:00:02:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+fast%3:00:02:: fast%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+fast%3:00:02:: fast%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+fast%3:00:02:: fast%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+fast%3:00:02:: fast%3:00:02:: long%3:00:01:: long%3:00:01::
+fast%3:00:02:: fast%3:00:02:: loud%3:00:00:: loud%3:00:00::
+fast%3:00:02:: fast%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+fast%3:00:02:: fast%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+fast%3:00:02:: fast%3:00:02:: old%3:00:02:: old%3:00:02::
+fast%3:00:02:: fast%3:00:02::
+fast%3:00:02:: fast%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+fast%3:00:02:: fast%3:00:02:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+fast%3:00:02:: fast%3:00:02:: short%3:00:03:: short%3:00:03::
+fast%3:00:02:: fast%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+fast%3:00:02:: fast%3:00:02:: slow%3:00:02:: slow%3:00:02::
+fast%3:00:02:: fast%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+fast%3:00:02:: fast%3:00:02::
+fast%3:00:02:: fast%3:00:02:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+fast%3:00:02:: fast%3:00:02:: tall%3:00:00:: tall%3:00:00::
+fast%3:00:02:: fast%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+fast%3:00:02:: fast%3:00:02:: tough%3:00:02:: tough%3:00:02::
+fast%3:00:02:: fast%3:00:02:: warm%3:00:01:: warm%3:00:01::
+fast%3:00:02:: fast%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+fast%3:00:02:: fast%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+fast%3:00:02:: fast%3:00:02:: young%3:00:00:: young%3:00:00::
+fast%3:00:02:: fast%3:00:02:: bad%3:00:00:: bad%3:00:00::
+fast%3:00:02:: fast%3:00:02:: big%3:00:01:: big%3:00:01::
+fast%3:00:02:: fast%3:00:02:: bright%3:00:02:: bright%3:00:02::
+fast%3:00:02:: fast%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+fast%3:00:02:: fast%3:00:02:: cold%3:00:01:: cold%3:00:01::
+fast%3:00:02:: fast%3:00:02:: cool%3:00:01:: cool%3:00:01::
+fast%3:00:02:: fast%3:00:02:: deep%3:00:02:: deep%3:00:02::
+fast%3:00:02:: fast%3:00:02:: easy%3:00:01:: easy%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 great%5:00:01:important:00 great%5:00:01:important:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 hot%5:00:00:lucky:00 hot%5:00:00:lucky:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 long%3:00:01:: long%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 loud%3:00:00:: loud%3:00:00::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 new%5:00:02:original:00 new%5:00:02:original:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 old%3:00:02:: old%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 short%3:00:03:: short%3:00:03::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 slow%3:00:02:: slow%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 strong%5:00:00:sound:01 strong%5:00:00:sound:01
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 tall%3:00:00:: tall%3:00:00::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 tough%3:00:02:: tough%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 warm%3:00:01:: warm%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 young%3:00:00:: young%3:00:00::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 bad%5:00:00:unhealthy:00 bad%5:00:00:unhealthy:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 big%3:00:01:: big%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 bright%3:00:02:: bright%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 cold%3:00:01:: cold%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 cool%3:00:01:: cool%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 deep%3:00:02:: deep%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 easy%3:00:01:: easy%3:00:01::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00 fast%3:00:02:: fast%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 hard%3:00:06:: hard%3:00:06::
+great%5:00:01:important:00 great%5:00:01:important:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+great%5:00:01:important:00 great%5:00:01:important:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+great%5:00:01:important:00 great%5:00:01:important:00 hot%5:00:00:eager:00 hot%5:00:00:eager:00
+great%5:00:01:important:00 great%5:00:01:important:00 large%3:00:00:: large%3:00:00::
+great%5:00:01:important:00 great%5:00:01:important:00 long%5:00:00:tall:00 long%5:00:00:tall:00
+great%5:00:01:important:00 great%5:00:01:important:00 loud%3:00:00:: loud%3:00:00::
+great%5:00:01:important:00 great%5:00:01:important:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+great%5:00:01:important:00 great%5:00:01:important:00 new%5:00:02:original:00 new%5:00:02:original:00
+great%5:00:01:important:00 great%5:00:01:important:00 old%3:00:02:: old%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 quick%5:00:00:hurried:00 quick%5:00:00:hurried:00
+great%5:00:01:important:00 great%5:00:01:important:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+great%5:00:01:important:00 great%5:00:01:important:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+great%5:00:01:important:00 great%5:00:01:important:00 short%3:00:03:: short%3:00:03::
+great%5:00:01:important:00 great%5:00:01:important:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+great%5:00:01:important:00 great%5:00:01:important:00 slow%3:00:02:: slow%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+great%5:00:01:important:00 great%5:00:01:important:00
+great%5:00:01:important:00 great%5:00:01:important:00 strong%5:00:00:powerful:00 strong%5:00:00:powerful:00
+great%5:00:01:important:00 great%5:00:01:important:00 tall%3:00:00:: tall%3:00:00::
+great%5:00:01:important:00 great%5:00:01:important:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+great%5:00:01:important:00 great%5:00:01:important:00 tough%5:00:02:difficult:00 tough%5:00:02:difficult:00
+great%5:00:01:important:00 great%5:00:01:important:00 warm%5:00:00:enthusiastic:00 warm%5:00:00:enthusiastic:00
+great%5:00:01:important:00 great%5:00:01:important:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+great%5:00:01:important:00 great%5:00:01:important:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+great%5:00:01:important:00 great%5:00:01:important:00 young%3:00:00:: young%3:00:00::
+great%5:00:01:important:00 great%5:00:01:important:00 bad%3:00:00:: bad%3:00:00::
+great%5:00:01:important:00 great%5:00:01:important:00 big%5:00:00:heavy:08 big%5:00:00:heavy:08
+great%5:00:01:important:00 great%5:00:01:important:00 bright%3:00:02:: bright%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+great%5:00:01:important:00 great%5:00:01:important:00 cold%3:00:01:: cold%3:00:01::
+great%5:00:01:important:00 great%5:00:01:important:00 cool%3:00:01:: cool%3:00:01::
+great%5:00:01:important:00 great%5:00:01:important:00 deep%3:00:02:: deep%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 easy%3:00:01:: easy%3:00:01::
+great%5:00:01:important:00 great%5:00:01:important:00 fast%3:00:02:: fast%3:00:02::
+great%5:00:01:important:00 great%5:00:01:important:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+hard%5:00:00:alcoholic:00 hard%5:00:00:alcoholic:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 long%3:00:01:: long%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 loud%3:00:00:: loud%3:00:00::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 new%5:00:02:original:00 new%5:00:02:original:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 old%3:00:02:: old%3:00:02::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 short%3:00:03:: short%3:00:03::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 slow%3:00:02:: slow%3:00:02::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00
+hard%5:00:00:strong:00 hard%5:00:00:strong:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 tall%3:00:00:: tall%3:00:00::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 tough%5:00:00:bad:00 tough%5:00:00:bad:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 warm%3:00:01:: warm%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 young%3:00:00:: young%3:00:00::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 bad%3:00:00:: bad%3:00:00::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 big%3:00:01:: big%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 bright%3:00:02:: bright%3:00:02::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 cold%3:00:01:: cold%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 cool%3:00:01:: cool%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 deep%3:00:02:: deep%3:00:02::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 easy%3:00:01:: easy%3:00:01::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 fast%3:00:02:: fast%3:00:02::
+hard%5:00:00:bad:00 hard%5:00:00:bad:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+hard%3:00:06:: hard%3:00:06:: great%5:00:01:important:00 great%5:00:01:important:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 long%3:00:01:: long%3:00:01::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 loud%3:00:00:: loud%3:00:00::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 new%5:00:02:original:00 new%5:00:02:original:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 old%3:00:02:: old%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+heavy%5:00:00:steep:00 heavy%5:00:00:steep:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 short%3:00:03:: short%3:00:03::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 slow%3:00:02:: slow%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 tall%3:00:00:: tall%3:00:00::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 tough%3:00:02:: tough%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 warm%3:00:01:: warm%3:00:01::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 young%3:00:00:: young%3:00:00::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 bad%3:00:00:: bad%3:00:00::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 big%3:00:01:: big%3:00:01::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 bright%3:00:02:: bright%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 cold%3:00:01:: cold%3:00:01::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 cool%3:00:01:: cool%3:00:01::
+heavy%5:00:00:deep:02 heavy%5:00:00:deep:02 deep%3:00:02:: deep%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 easy%3:00:01:: easy%3:00:01::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 fast%3:00:02:: fast%3:00:02::
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 great%5:00:01:important:00 great%5:00:01:important:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 hot%5:00:00:radioactive:00 hot%5:00:00:radioactive:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 long%5:00:00:tall:00 long%5:00:00:tall:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 loud%3:00:00:: loud%3:00:00::
+high%5:00:00:elated:00 high%5:00:00:elated:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+high%5:00:00:elated:00 high%5:00:00:elated:00 new%5:00:02:original:00 new%5:00:02:original:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 old%3:00:02:: old%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 quick%5:00:00:intelligent:00 quick%5:00:00:intelligent:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 short%3:00:03:: short%3:00:03::
+high%5:00:00:elated:00 high%5:00:00:elated:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+high%5:00:00:elated:00 high%5:00:00:elated:00 slow%3:00:02:: slow%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 smart%5:00:00:intelligent:00 smart%5:00:00:intelligent:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 strong%5:00:00:alcoholic:00 strong%5:00:00:alcoholic:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 tall%3:00:00:: tall%3:00:00::
+high%5:00:00:elated:00 high%5:00:00:elated:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+high%5:00:00:elated:00 high%5:00:00:elated:00 tough%3:00:02:: tough%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 warm%3:00:01:: warm%3:00:01::
+high%5:00:00:elated:00 high%5:00:00:elated:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 young%3:00:00:: young%3:00:00::
+high%5:00:00:elated:00 high%5:00:00:elated:00 bad%3:00:00:: bad%3:00:00::
+high%5:00:00:elated:00 high%5:00:00:elated:00 big%3:00:01:: big%3:00:01::
+high%5:00:00:elated:00 high%5:00:00:elated:00 bright%3:00:02:: bright%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 cold%3:00:01:: cold%3:00:01::
+high%5:00:00:elated:00 high%5:00:00:elated:00 cool%3:00:01:: cool%3:00:01::
+high%5:00:00:elated:00 high%5:00:00:elated:00 deep%3:00:02:: deep%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 easy%3:00:01:: easy%3:00:01::
+high%5:00:00:elated:00 high%5:00:00:elated:00 fast%3:00:02:: fast%3:00:02::
+high%5:00:00:elated:00 high%5:00:00:elated:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 great%5:00:01:important:00 great%5:00:01:important:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 hard%5:00:00:alcoholic:00 hard%5:00:00:alcoholic:00
+high%5:00:00:elated:00 high%5:00:00:elated:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 long%3:00:01:: long%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 loud%3:00:00:: loud%3:00:00::
+hot%3:00:01:: hot%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 new%5:00:02:original:00 new%5:00:02:original:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 old%3:00:02:: old%3:00:02::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+hot%3:00:01:: hot%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 short%3:00:03:: short%3:00:03::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 slow%3:00:02:: slow%3:00:02::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 tall%3:00:00:: tall%3:00:00::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 tough%3:00:02:: tough%3:00:02::
+hot%3:00:01:: hot%3:00:01:: warm%3:00:01:: warm%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 young%3:00:00:: young%3:00:00::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 bad%3:00:00:: bad%3:00:00::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 big%3:00:01:: big%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 bright%3:00:02:: bright%3:00:02::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+hot%3:00:01:: hot%3:00:01:: cold%3:00:01:: cold%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 cool%3:00:01:: cool%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 deep%3:00:02:: deep%3:00:02::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 easy%3:00:01:: easy%3:00:01::
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 fast%3:00:02:: fast%3:00:02::
+hot%5:00:00:lucky:00 hot%5:00:00:lucky:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+hot%5:00:00:eager:00 hot%5:00:00:eager:00 great%5:00:01:important:00 great%5:00:01:important:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+hot%5:00:00:radioactive:00 hot%5:00:00:radioactive:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 long%3:00:01:: long%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 loud%3:00:00:: loud%3:00:00::
+large%5:00:00:significant:00 large%5:00:00:significant:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+large%5:00:00:significant:00 large%5:00:00:significant:00 new%5:00:02:original:00 new%5:00:02:original:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 old%3:00:02:: old%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 short%3:00:03:: short%3:00:03::
+large%5:00:00:significant:00 large%5:00:00:significant:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+large%5:00:00:significant:00 large%5:00:00:significant:00 slow%3:00:02:: slow%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+large%5:00:00:significant:00 large%5:00:00:significant:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 tall%3:00:00:: tall%3:00:00::
+large%5:00:00:significant:00 large%5:00:00:significant:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+large%5:00:00:significant:00 large%5:00:00:significant:00 tough%3:00:02:: tough%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00 warm%3:00:01:: warm%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 young%3:00:00:: young%3:00:00::
+large%5:00:00:significant:00 large%5:00:00:significant:00 bad%3:00:00:: bad%3:00:00::
+large%5:00:00:significant:00 large%5:00:00:significant:00 big%3:00:01:: big%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 bright%3:00:02:: bright%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 cold%3:00:01:: cold%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 cool%3:00:01:: cool%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 deep%3:00:02:: deep%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00 easy%3:00:01:: easy%3:00:01::
+large%5:00:00:significant:00 large%5:00:00:significant:00 fast%3:00:02:: fast%3:00:02::
+large%5:00:00:significant:00 large%5:00:00:significant:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+large%3:00:00:: large%3:00:00:: great%5:00:01:important:00 great%5:00:01:important:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+large%5:00:00:significant:00 large%5:00:00:significant:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+long%3:00:01:: long%3:00:01:: loud%3:00:00:: loud%3:00:00::
+long%3:00:01:: long%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+long%3:00:01:: long%3:00:01:: new%5:00:02:original:00 new%5:00:02:original:00
+long%3:00:01:: long%3:00:01:: old%3:00:01:: old%3:00:01::
+long%3:00:01:: long%3:00:01::
+long%3:00:01:: long%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+long%3:00:01:: long%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+long%3:00:04:: long%3:00:04:: short%3:00:03:: short%3:00:03::
+long%3:00:01:: long%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+long%3:00:01:: long%3:00:01:: slow%3:00:02:: slow%3:00:02::
+long%3:00:01:: long%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+long%3:00:01:: long%3:00:01::
+long%3:00:01:: long%3:00:01:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+long%3:00:01:: long%3:00:01:: tall%3:00:00:: tall%3:00:00::
+long%3:00:01:: long%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+long%3:00:01:: long%3:00:01:: tough%3:00:02:: tough%3:00:02::
+long%3:00:01:: long%3:00:01:: warm%3:00:01:: warm%3:00:01::
+long%3:00:01:: long%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+long%3:00:01:: long%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+long%3:00:01:: long%3:00:01:: young%3:00:00:: young%3:00:00::
+long%3:00:01:: long%3:00:01:: bad%3:00:00:: bad%3:00:00::
+long%3:00:01:: long%3:00:01:: big%3:00:01:: big%3:00:01::
+long%3:00:01:: long%3:00:01:: bright%3:00:02:: bright%3:00:02::
+long%3:00:01:: long%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+long%3:00:01:: long%3:00:01:: cold%3:00:01:: cold%3:00:01::
+long%3:00:01:: long%3:00:01:: cool%3:00:01:: cool%3:00:01::
+long%3:00:01:: long%3:00:01:: deep%3:00:02:: deep%3:00:02::
+long%3:00:01:: long%3:00:01:: easy%3:00:01:: easy%3:00:01::
+long%3:00:01:: long%3:00:01:: fast%3:00:02:: fast%3:00:02::
+long%3:00:01:: long%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+long%5:00:00:tall:00 long%5:00:00:tall:00 great%5:00:01:important:00 great%5:00:01:important:00
+long%3:00:01:: long%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+long%3:00:01:: long%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+long%5:00:00:tall:00 long%5:00:00:tall:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+long%3:00:01:: long%3:00:01:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+long%3:00:01:: long%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+loud%3:00:00:: loud%3:00:00:: low%5:00:00:soft:04 low%5:00:00:soft:04
+loud%3:00:00:: loud%3:00:00:: new%5:00:02:original:00 new%5:00:02:original:00
+loud%3:00:00:: loud%3:00:00:: old%3:00:02:: old%3:00:02::
+loud%3:00:00:: loud%3:00:00::
+loud%3:00:00:: loud%3:00:00:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+loud%3:00:00:: loud%3:00:00:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+loud%3:00:00:: loud%3:00:00:: short%3:00:03:: short%3:00:03::
+loud%3:00:00:: loud%3:00:00:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+loud%3:00:00:: loud%3:00:00:: slow%3:00:02:: slow%3:00:02::
+loud%3:00:00:: loud%3:00:00:: small%5:00:00:fine:00 small%5:00:00:fine:00
+loud%3:00:00:: loud%3:00:00::
+loud%3:00:00:: loud%3:00:00:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+loud%3:00:00:: loud%3:00:00:: tall%3:00:00:: tall%3:00:00::
+loud%3:00:00:: loud%3:00:00:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+loud%3:00:00:: loud%3:00:00:: tough%3:00:02:: tough%3:00:02::
+loud%3:00:00:: loud%3:00:00:: warm%3:00:01:: warm%3:00:01::
+loud%3:00:00:: loud%3:00:00:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+loud%3:00:00:: loud%3:00:00:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+loud%3:00:00:: loud%3:00:00:: young%3:00:00:: young%3:00:00::
+loud%3:00:00:: loud%3:00:00:: bad%3:00:00:: bad%3:00:00::
+loud%3:00:00:: loud%3:00:00:: big%5:00:00:loud:00 big%5:00:00:loud:00
+loud%3:00:00:: loud%3:00:00:: bright%3:00:02:: bright%3:00:02::
+loud%3:00:00:: loud%3:00:00:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+loud%3:00:00:: loud%3:00:00:: cold%3:00:01:: cold%3:00:01::
+loud%3:00:00:: loud%3:00:00:: cool%3:00:01:: cool%3:00:01::
+loud%3:00:00:: loud%3:00:00:: deep%3:00:02:: deep%3:00:02::
+loud%3:00:00:: loud%3:00:00:: easy%3:00:01:: easy%3:00:01::
+loud%3:00:00:: loud%3:00:00:: fast%3:00:02:: fast%3:00:02::
+loud%3:00:00:: loud%3:00:00:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+loud%3:00:00:: loud%3:00:00:: great%5:00:01:important:00 great%5:00:01:important:00
+loud%3:00:00:: loud%3:00:00:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+loud%3:00:00:: loud%3:00:00:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+loud%3:00:00:: loud%3:00:00:: high%5:00:00:elated:00 high%5:00:00:elated:00
+loud%3:00:00:: loud%3:00:00:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+loud%3:00:00:: loud%3:00:00:: large%5:00:00:significant:00 large%5:00:00:significant:00
+loud%3:00:00:: loud%3:00:00:: long%3:00:01:: long%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 new%5:00:02:original:00 new%5:00:02:original:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 old%3:00:02:: old%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04
+low%5:00:00:soft:04 low%5:00:00:soft:04 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 short%3:00:03:: short%3:00:03::
+low%5:00:00:soft:04 low%5:00:00:soft:04 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+low%5:00:00:soft:04 low%5:00:00:soft:04 slow%3:00:02:: slow%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04 small%5:00:00:inferior:01 small%5:00:00:inferior:01
+low%5:00:00:soft:04 low%5:00:00:soft:04
+low%5:00:00:soft:04 low%5:00:00:soft:04 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 tall%3:00:00:: tall%3:00:00::
+low%5:00:00:soft:04 low%5:00:00:soft:04 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+low%5:00:00:soft:04 low%5:00:00:soft:04 tough%3:00:02:: tough%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04 warm%3:00:01:: warm%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 young%3:00:00:: young%3:00:00::
+low%5:00:00:soft:04 low%5:00:00:soft:04 bad%3:00:00:: bad%3:00:00::
+low%5:00:00:soft:04 low%5:00:00:soft:04 big%3:00:01:: big%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 bright%3:00:02:: bright%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04 cheap%5:00:00:inferior:02 cheap%5:00:00:inferior:02
+low%5:00:00:soft:04 low%5:00:00:soft:04 cold%3:00:01:: cold%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 cool%3:00:01:: cool%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 deep%3:00:02:: deep%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04 easy%3:00:01:: easy%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 fast%3:00:02:: fast%3:00:02::
+low%5:00:00:soft:04 low%5:00:00:soft:04 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 great%5:00:01:important:00 great%5:00:01:important:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 high%5:00:00:elated:00 high%5:00:00:elated:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 hot%3:00:01:: hot%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 large%5:00:00:significant:00 large%5:00:00:significant:00
+low%5:00:00:soft:04 low%5:00:00:soft:04 long%3:00:01:: long%3:00:01::
+low%5:00:00:soft:04 low%5:00:00:soft:04 loud%3:00:00:: loud%3:00:00::
+new%5:00:02:original:00 new%5:00:02:original:00 old%3:00:02:: old%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00
+new%5:00:02:original:00 new%5:00:02:original:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+new%5:00:02:original:00 new%5:00:02:original:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+new%5:00:02:original:00 new%5:00:02:original:00 short%3:00:03:: short%3:00:03::
+new%5:00:02:original:00 new%5:00:02:original:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+new%5:00:02:original:00 new%5:00:02:original:00 slow%3:00:02:: slow%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+new%5:00:02:original:00 new%5:00:02:original:00
+new%5:00:02:original:00 new%5:00:02:original:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+new%5:00:02:original:00 new%5:00:02:original:00 tall%3:00:00:: tall%3:00:00::
+new%5:00:02:original:00 new%5:00:02:original:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+new%5:00:02:original:00 new%5:00:02:original:00 tough%3:00:02:: tough%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00 warm%3:00:01:: warm%3:00:01::
+new%5:00:02:original:00 new%5:00:02:original:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+new%5:00:02:original:00 new%5:00:02:original:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+new%5:00:02:original:00 new%5:00:02:original:00 young%3:00:00:: young%3:00:00::
+new%5:00:02:original:00 new%5:00:02:original:00 bad%3:00:00:: bad%3:00:00::
+new%5:00:02:original:00 new%5:00:02:original:00 big%5:00:00:pregnant:00 big%5:00:00:pregnant:00
+new%5:00:02:original:00 new%5:00:02:original:00 bright%3:00:02:: bright%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+new%5:00:02:original:00 new%5:00:02:original:00 cold%3:00:01:: cold%3:00:01::
+new%5:00:02:original:00 new%5:00:02:original:00 cool%3:00:01:: cool%3:00:01::
+new%5:00:02:original:00 new%5:00:02:original:00 deep%3:00:02:: deep%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00 easy%3:00:01:: easy%3:00:01::
+new%5:00:02:original:00 new%5:00:02:original:00 fast%3:00:02:: fast%3:00:02::
+new%5:00:02:original:00 new%5:00:02:original:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+new%5:00:02:original:00 new%5:00:02:original:00 great%5:00:01:important:00 great%5:00:01:important:00
+new%5:00:02:original:00 new%5:00:02:original:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+new%5:00:02:original:00 new%5:00:02:original:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+new%5:00:02:original:00 new%5:00:02:original:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+new%5:00:02:original:00 new%5:00:02:original:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+new%5:00:02:original:00 new%5:00:02:original:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+new%5:00:02:original:00 new%5:00:02:original:00 long%3:00:01:: long%3:00:01::
+new%5:00:02:original:00 new%5:00:02:original:00 loud%3:00:00:: loud%3:00:00::
+new%5:00:02:original:00 new%5:00:02:original:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+old%3:00:02:: old%3:00:02::
+old%3:00:02:: old%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+old%3:00:02:: old%3:00:02:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+old%3:00:02:: old%3:00:02:: short%3:00:03:: short%3:00:03::
+old%3:00:02:: old%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+old%3:00:02:: old%3:00:02:: slow%3:00:02:: slow%3:00:02::
+old%3:00:02:: old%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+old%3:00:02:: old%3:00:02::
+old%3:00:02:: old%3:00:02:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+old%3:00:02:: old%3:00:02:: tall%3:00:00:: tall%3:00:00::
+old%3:00:02:: old%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+old%3:00:02:: old%3:00:02:: tough%3:00:02:: tough%3:00:02::
+old%3:00:02:: old%3:00:02:: warm%3:00:01:: warm%3:00:01::
+old%3:00:02:: old%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+old%3:00:02:: old%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+old%3:00:02:: old%3:00:02:: young%3:00:00:: young%3:00:00::
+old%3:00:02:: old%3:00:02:: bad%3:00:00:: bad%3:00:00::
+old%3:00:02:: old%3:00:02:: big%3:00:01:: big%3:00:01::
+old%3:00:02:: old%3:00:02:: bright%3:00:02:: bright%3:00:02::
+old%3:00:02:: old%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+old%3:00:02:: old%3:00:02:: cold%3:00:01:: cold%3:00:01::
+old%3:00:02:: old%3:00:02:: cool%3:00:01:: cool%3:00:01::
+old%3:00:02:: old%3:00:02:: deep%3:00:02:: deep%3:00:02::
+old%3:00:02:: old%3:00:02:: easy%3:00:01:: easy%3:00:01::
+old%3:00:02:: old%3:00:02:: fast%3:00:02:: fast%3:00:02::
+old%3:00:02:: old%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+old%3:00:02:: old%3:00:02:: great%5:00:01:important:00 great%5:00:01:important:00
+old%3:00:02:: old%3:00:02:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+old%3:00:02:: old%3:00:02:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+old%3:00:02:: old%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+old%3:00:02:: old%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+old%3:00:02:: old%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+old%3:00:01:: old%3:00:01:: long%3:00:01:: long%3:00:01::
+old%3:00:02:: old%3:00:02:: loud%3:00:00:: loud%3:00:00::
+old%3:00:02:: old%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+old%3:00:02:: old%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+short%3:00:03:: short%3:00:03::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01
+slow%3:00:02:: slow%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00
+smart%5:00:00:fast:01 smart%5:00:00:fast:01
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tall%3:00:00:: tall%3:00:00::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01
+tough%3:00:02:: tough%3:00:02::
+warm%3:00:01:: warm%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+young%3:00:00:: young%3:00:00::
+bad%3:00:00:: bad%3:00:00::
+big%3:00:01:: big%3:00:01::
+bright%3:00:02:: bright%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cold%3:00:01:: cold%3:00:01::
+cool%3:00:01:: cool%3:00:01::
+deep%3:00:02:: deep%3:00:02::
+easy%3:00:01:: easy%3:00:01::
+fast%3:00:02:: fast%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+quick%5:00:00:hurried:00 quick%5:00:00:hurried:00 great%5:00:01:important:00 great%5:00:01:important:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+quick%5:00:00:intelligent:00 quick%5:00:00:intelligent:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+large%5:00:00:significant:00 large%5:00:00:significant:00
+long%3:00:01:: long%3:00:01::
+loud%3:00:00:: loud%3:00:00::
+low%5:00:00:soft:04 low%5:00:00:soft:04
+new%5:00:02:original:00 new%5:00:02:original:00
+old%3:00:02:: old%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 short%3:00:03:: short%3:00:03::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 slow%3:00:02:: slow%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 tall%3:00:00:: tall%3:00:00::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 tough%3:00:02:: tough%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 warm%3:00:01:: warm%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 young%3:00:00:: young%3:00:00::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 bad%5:00:02:unsound:00 bad%5:00:02:unsound:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 big%3:00:01:: big%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 bright%3:00:02:: bright%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 cold%3:00:01:: cold%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 cool%3:00:01:: cool%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 deep%3:00:02:: deep%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 easy%3:00:01:: easy%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 fast%3:00:02:: fast%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 great%5:00:01:important:00 great%5:00:01:important:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 hot%3:00:01:: hot%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 long%3:00:01:: long%3:00:01::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 loud%3:00:00:: loud%3:00:00::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 new%5:00:02:original:00 new%5:00:02:original:00
+safe%5:00:00:sound:00 safe%5:00:00:sound:00 old%3:00:02:: old%3:00:02::
+safe%5:00:00:sound:00 safe%5:00:00:sound:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 short%3:00:03:: short%3:00:03::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 slow%3:00:02:: slow%3:00:02::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 tall%3:00:00:: tall%3:00:00::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 tough%3:00:02:: tough%3:00:02::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 warm%3:00:01:: warm%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 young%3:00:00:: young%3:00:00::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 bad%3:00:00:: bad%3:00:00::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 big%3:00:01:: big%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 bright%5:00:00:reverberant:00 bright%5:00:00:reverberant:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 cold%3:00:01:: cold%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 cool%3:00:01:: cool%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 deep%3:00:02:: deep%3:00:02::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 easy%3:00:01:: easy%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 fast%3:00:02:: fast%3:00:02::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 great%5:00:01:important:00 great%5:00:01:important:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 heavy%5:00:00:steep:00 heavy%5:00:00:steep:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 long%3:00:01:: long%3:00:01::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 loud%3:00:00:: loud%3:00:00::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 new%5:00:02:original:00 new%5:00:02:original:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 old%3:00:02:: old%3:00:02::
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+short%3:00:03:: short%3:00:03:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+short%3:00:03:: short%3:00:03:: slow%3:00:02:: slow%3:00:02::
+short%3:00:03:: short%3:00:03:: small%5:00:00:fine:00 small%5:00:00:fine:00
+short%3:00:03:: short%3:00:03::
+short%3:00:03:: short%3:00:03:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+short%3:00:03:: short%3:00:03:: tall%3:00:00:: tall%3:00:00::
+short%3:00:03:: short%3:00:03:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+short%3:00:03:: short%3:00:03:: tough%3:00:02:: tough%3:00:02::
+short%3:00:03:: short%3:00:03:: warm%3:00:01:: warm%3:00:01::
+short%3:00:03:: short%3:00:03:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+short%3:00:03:: short%3:00:03:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+short%3:00:03:: short%3:00:03:: young%3:00:00:: young%3:00:00::
+short%3:00:03:: short%3:00:03:: bad%3:00:00:: bad%3:00:00::
+short%3:00:03:: short%3:00:03:: big%3:00:01:: big%3:00:01::
+short%3:00:03:: short%3:00:03:: bright%3:00:02:: bright%3:00:02::
+short%3:00:03:: short%3:00:03:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+short%3:00:03:: short%3:00:03:: cold%3:00:01:: cold%3:00:01::
+short%3:00:03:: short%3:00:03:: cool%3:00:01:: cool%3:00:01::
+short%3:00:03:: short%3:00:03:: deep%3:00:02:: deep%3:00:02::
+short%3:00:03:: short%3:00:03:: easy%3:00:01:: easy%3:00:01::
+short%3:00:03:: short%3:00:03:: fast%3:00:02:: fast%3:00:02::
+short%3:00:03:: short%3:00:03:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+short%3:00:03:: short%3:00:03:: great%5:00:01:important:00 great%5:00:01:important:00
+short%3:00:03:: short%3:00:03:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+short%3:00:03:: short%3:00:03:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+short%3:00:03:: short%3:00:03:: high%5:00:00:elated:00 high%5:00:00:elated:00
+short%3:00:03:: short%3:00:03:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+short%3:00:03:: short%3:00:03:: large%5:00:00:significant:00 large%5:00:00:significant:00
+short%3:00:03:: short%3:00:03:: long%3:00:04:: long%3:00:04::
+short%3:00:03:: short%3:00:03:: loud%3:00:00:: loud%3:00:00::
+short%3:00:03:: short%3:00:03:: low%5:00:00:soft:04 low%5:00:00:soft:04
+short%3:00:03:: short%3:00:03:: new%5:00:02:original:00 new%5:00:02:original:00
+short%3:00:03:: short%3:00:03:: old%3:00:02:: old%3:00:02::
+short%3:00:03:: short%3:00:03::
+short%3:00:03:: short%3:00:03:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+short%3:00:03:: short%3:00:03:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 slow%3:00:02:: slow%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 small%5:00:00:fine:00 small%5:00:00:fine:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 tall%3:00:00:: tall%3:00:00::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 tough%3:00:02:: tough%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 warm%3:00:01:: warm%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 young%3:00:00:: young%3:00:00::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 bad%3:00:00:: bad%3:00:00::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 big%3:00:01:: big%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 bright%3:00:02:: bright%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 cold%3:00:01:: cold%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 cool%3:00:01:: cool%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 deep%3:00:02:: deep%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 easy%3:00:01:: easy%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 fast%3:00:02:: fast%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 great%5:00:01:important:00 great%5:00:01:important:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 high%5:00:00:elated:00 high%5:00:00:elated:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 large%5:00:00:significant:00 large%5:00:00:significant:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 long%3:00:01:: long%3:00:01::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 loud%3:00:00:: loud%3:00:00::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 low%5:00:00:soft:04 low%5:00:00:soft:04
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 new%5:00:02:original:00 new%5:00:02:original:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 old%3:00:02:: old%3:00:02::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+simple%5:00:02:plain:01 simple%5:00:02:plain:01 short%3:00:03:: short%3:00:03::
+slow%3:00:02:: slow%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+slow%3:00:02:: slow%3:00:02::
+slow%3:00:02:: slow%3:00:02:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+slow%3:00:02:: slow%3:00:02:: tall%3:00:00:: tall%3:00:00::
+slow%3:00:02:: slow%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+slow%3:00:02:: slow%3:00:02:: tough%3:00:02:: tough%3:00:02::
+slow%3:00:02:: slow%3:00:02:: warm%3:00:01:: warm%3:00:01::
+slow%3:00:02:: slow%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+slow%3:00:02:: slow%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+slow%3:00:02:: slow%3:00:02:: young%3:00:00:: young%3:00:00::
+slow%3:00:02:: slow%3:00:02:: bad%3:00:00:: bad%3:00:00::
+slow%3:00:02:: slow%3:00:02:: big%3:00:01:: big%3:00:01::
+slow%3:00:02:: slow%3:00:02:: bright%3:00:02:: bright%3:00:02::
+slow%3:00:02:: slow%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+slow%3:00:02:: slow%3:00:02:: cold%3:00:01:: cold%3:00:01::
+slow%3:00:02:: slow%3:00:02:: cool%3:00:01:: cool%3:00:01::
+slow%3:00:02:: slow%3:00:02:: deep%3:00:02:: deep%3:00:02::
+slow%3:00:02:: slow%3:00:02:: easy%3:00:01:: easy%3:00:01::
+slow%3:00:02:: slow%3:00:02:: fast%3:00:02:: fast%3:00:02::
+slow%3:00:02:: slow%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+slow%3:00:02:: slow%3:00:02:: great%5:00:01:important:00 great%5:00:01:important:00
+slow%3:00:02:: slow%3:00:02:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+slow%3:00:02:: slow%3:00:02:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+slow%3:00:02:: slow%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+slow%3:00:02:: slow%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+slow%3:00:02:: slow%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+slow%3:00:02:: slow%3:00:02:: long%3:00:01:: long%3:00:01::
+slow%3:00:02:: slow%3:00:02:: loud%3:00:00:: loud%3:00:00::
+slow%3:00:02:: slow%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+slow%3:00:02:: slow%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+slow%3:00:02:: slow%3:00:02:: old%3:00:02:: old%3:00:02::
+slow%3:00:02:: slow%3:00:02::
+slow%3:00:02:: slow%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+slow%3:00:02:: slow%3:00:02:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+slow%3:00:02:: slow%3:00:02:: short%3:00:03:: short%3:00:03::
+slow%3:00:02:: slow%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+small%5:00:00:fine:00 small%5:00:00:fine:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 tall%3:00:00:: tall%3:00:00::
+small%5:00:00:fine:00 small%5:00:00:fine:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+small%5:00:00:fine:00 small%5:00:00:fine:00 tough%3:00:02:: tough%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00 warm%3:00:01:: warm%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 young%3:00:00:: young%3:00:00::
+small%5:00:00:fine:00 small%5:00:00:fine:00 bad%3:00:00:: bad%3:00:00::
+small%5:00:00:fine:00 small%5:00:00:fine:00 big%3:00:01:: big%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 bright%3:00:02:: bright%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 cold%3:00:01:: cold%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 cool%3:00:01:: cool%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 deep%3:00:02:: deep%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00 easy%3:00:01:: easy%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 fast%3:00:02:: fast%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 great%5:00:01:important:00 great%5:00:01:important:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 long%3:00:01:: long%3:00:01::
+small%5:00:00:fine:00 small%5:00:00:fine:00 loud%3:00:00:: loud%3:00:00::
+small%5:00:00:inferior:01 small%5:00:00:inferior:01 low%5:00:00:soft:04 low%5:00:00:soft:04
+small%5:00:00:fine:00 small%5:00:00:fine:00 new%5:00:02:original:00 new%5:00:02:original:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 old%3:00:02:: old%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+small%5:00:00:fine:00 small%5:00:00:fine:00 short%3:00:03:: short%3:00:03::
+small%5:00:00:fine:00 small%5:00:00:fine:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+small%5:00:00:fine:00 small%5:00:00:fine:00 slow%3:00:02:: slow%3:00:02::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tall%3:00:00:: tall%3:00:00::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01
+tough%3:00:02:: tough%3:00:02::
+warm%3:00:01:: warm%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+young%3:00:00:: young%3:00:00::
+bad%3:00:00:: bad%3:00:00::
+big%3:00:01:: big%3:00:01::
+bright%3:00:02:: bright%3:00:02::
+cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+cold%3:00:01:: cold%3:00:01::
+cool%3:00:01:: cool%3:00:01::
+deep%3:00:02:: deep%3:00:02::
+easy%3:00:01:: easy%3:00:01::
+fast%3:00:02:: fast%3:00:02::
+good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+great%5:00:01:important:00 great%5:00:01:important:00
+hard%5:00:00:bad:00 hard%5:00:00:bad:00
+heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+smart%5:00:00:intelligent:00 smart%5:00:00:intelligent:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+large%5:00:00:significant:00 large%5:00:00:significant:00
+long%3:00:01:: long%3:00:01::
+loud%3:00:00:: loud%3:00:00::
+low%5:00:00:soft:04 low%5:00:00:soft:04
+new%5:00:02:original:00 new%5:00:02:original:00
+old%3:00:02:: old%3:00:02::
+smart%5:00:00:fast:01 smart%5:00:00:fast:01
+safe%5:00:00:sound:00 safe%5:00:00:sound:00
+sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+short%3:00:03:: short%3:00:03::
+simple%5:00:02:plain:01 simple%5:00:02:plain:01
+slow%3:00:02:: slow%3:00:02::
+small%5:00:00:fine:00 small%5:00:00:fine:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 tall%3:00:00:: tall%3:00:00::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 tough%5:00:00:rugged:00 tough%5:00:00:rugged:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 warm%5:00:00:enthusiastic:00 warm%5:00:00:enthusiastic:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 young%3:00:00:: young%3:00:00::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 bad%3:00:00:: bad%3:00:00::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 big%3:00:01:: big%3:00:01::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 bright%3:00:02:: bright%3:00:02::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 cold%3:00:01:: cold%3:00:01::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 cool%3:00:01:: cool%3:00:01::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 deep%3:00:02:: deep%3:00:02::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 easy%3:00:01:: easy%3:00:01::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 fast%3:00:02:: fast%3:00:02::
+strong%5:00:00:sound:01 strong%5:00:00:sound:01 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+strong%5:00:00:powerful:00 strong%5:00:00:powerful:00 great%5:00:01:important:00 great%5:00:01:important:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 hard%5:00:00:strong:00 hard%5:00:00:strong:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+strong%5:00:00:alcoholic:00 strong%5:00:00:alcoholic:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 long%3:00:01:: long%3:00:01::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 loud%3:00:00:: loud%3:00:00::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 new%5:00:02:original:00 new%5:00:02:original:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 old%3:00:02:: old%3:00:02::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 short%3:00:03:: short%3:00:03::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 slow%3:00:02:: slow%3:00:02::
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tall%3:00:00:: tall%3:00:00:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+tall%3:00:00:: tall%3:00:00:: tough%3:00:02:: tough%3:00:02::
+tall%3:00:00:: tall%3:00:00:: warm%3:00:01:: warm%3:00:01::
+tall%3:00:00:: tall%3:00:00:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+tall%3:00:00:: tall%3:00:00:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+tall%3:00:00:: tall%3:00:00:: young%3:00:00:: young%3:00:00::
+tall%3:00:00:: tall%3:00:00:: bad%3:00:00:: bad%3:00:00::
+tall%3:00:00:: tall%3:00:00:: big%3:00:01:: big%3:00:01::
+tall%3:00:00:: tall%3:00:00:: bright%3:00:02:: bright%3:00:02::
+tall%3:00:00:: tall%3:00:00:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+tall%3:00:00:: tall%3:00:00:: cold%3:00:01:: cold%3:00:01::
+tall%3:00:00:: tall%3:00:00:: cool%3:00:01:: cool%3:00:01::
+tall%3:00:00:: tall%3:00:00:: deep%3:00:02:: deep%3:00:02::
+tall%3:00:00:: tall%3:00:00:: easy%3:00:01:: easy%3:00:01::
+tall%3:00:00:: tall%3:00:00:: fast%3:00:02:: fast%3:00:02::
+tall%3:00:00:: tall%3:00:00:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+tall%3:00:00:: tall%3:00:00:: great%5:00:01:important:00 great%5:00:01:important:00
+tall%3:00:00:: tall%3:00:00:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+tall%3:00:00:: tall%3:00:00:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+tall%3:00:00:: tall%3:00:00:: high%5:00:00:elated:00 high%5:00:00:elated:00
+tall%3:00:00:: tall%3:00:00:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+tall%3:00:00:: tall%3:00:00:: large%5:00:00:significant:00 large%5:00:00:significant:00
+tall%3:00:00:: tall%3:00:00:: long%3:00:01:: long%3:00:01::
+tall%3:00:00:: tall%3:00:00:: loud%3:00:00:: loud%3:00:00::
+tall%3:00:00:: tall%3:00:00:: low%5:00:00:soft:04 low%5:00:00:soft:04
+tall%3:00:00:: tall%3:00:00:: new%5:00:02:original:00 new%5:00:02:original:00
+tall%3:00:00:: tall%3:00:00:: old%3:00:02:: old%3:00:02::
+tall%3:00:00:: tall%3:00:00::
+tall%3:00:00:: tall%3:00:00:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+tall%3:00:00:: tall%3:00:00:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+tall%3:00:00:: tall%3:00:00:: short%3:00:03:: short%3:00:03::
+tall%3:00:00:: tall%3:00:00:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+tall%3:00:00:: tall%3:00:00:: slow%3:00:02:: slow%3:00:02::
+tall%3:00:00:: tall%3:00:00:: small%5:00:00:fine:00 small%5:00:00:fine:00
+tall%3:00:00:: tall%3:00:00::
+tall%3:00:00:: tall%3:00:00:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 tough%3:00:02:: tough%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 warm%3:00:01:: warm%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 young%3:00:00:: young%3:00:00::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 bad%3:00:00:: bad%3:00:00::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 big%3:00:01:: big%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 bright%3:00:02:: bright%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 cold%3:00:01:: cold%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 cool%3:00:01:: cool%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 deep%3:00:02:: deep%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 easy%3:00:01:: easy%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 fast%3:00:02:: fast%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 great%5:00:01:important:00 great%5:00:01:important:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 high%5:00:00:elated:00 high%5:00:00:elated:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 large%5:00:00:significant:00 large%5:00:00:significant:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 long%3:00:01:: long%3:00:01::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 loud%3:00:00:: loud%3:00:00::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 low%5:00:00:soft:04 low%5:00:00:soft:04
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 new%5:00:02:original:00 new%5:00:02:original:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 old%3:00:02:: old%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 short%3:00:03:: short%3:00:03::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 slow%3:00:02:: slow%3:00:02::
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 small%5:00:00:fine:00 small%5:00:00:fine:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tight%5:00:00:tense:01 tight%5:00:00:tense:01 tall%3:00:00:: tall%3:00:00::
+tough%3:00:02:: tough%3:00:02:: warm%3:00:01:: warm%3:00:01::
+tough%3:00:02:: tough%3:00:02:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+tough%3:00:02:: tough%3:00:02:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+tough%3:00:02:: tough%3:00:02:: young%3:00:00:: young%3:00:00::
+tough%3:00:02:: tough%3:00:02:: bad%3:00:00:: bad%3:00:00::
+tough%3:00:02:: tough%3:00:02:: big%3:00:01:: big%3:00:01::
+tough%3:00:02:: tough%3:00:02:: bright%3:00:02:: bright%3:00:02::
+tough%3:00:02:: tough%3:00:02:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+tough%3:00:02:: tough%3:00:02:: cold%3:00:01:: cold%3:00:01::
+tough%3:00:02:: tough%3:00:02:: cool%3:00:01:: cool%3:00:01::
+tough%3:00:02:: tough%3:00:02:: deep%3:00:02:: deep%3:00:02::
+tough%3:00:02:: tough%3:00:02:: easy%3:00:01:: easy%3:00:01::
+tough%3:00:02:: tough%3:00:02:: fast%3:00:02:: fast%3:00:02::
+tough%3:00:02:: tough%3:00:02:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+tough%5:00:02:difficult:00 tough%5:00:02:difficult:00 great%5:00:01:important:00 great%5:00:01:important:00
+tough%5:00:00:bad:00 tough%5:00:00:bad:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+tough%3:00:02:: tough%3:00:02:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+tough%3:00:02:: tough%3:00:02:: high%5:00:00:elated:00 high%5:00:00:elated:00
+tough%3:00:02:: tough%3:00:02:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+tough%3:00:02:: tough%3:00:02:: large%5:00:00:significant:00 large%5:00:00:significant:00
+tough%3:00:02:: tough%3:00:02:: long%3:00:01:: long%3:00:01::
+tough%3:00:02:: tough%3:00:02:: loud%3:00:00:: loud%3:00:00::
+tough%3:00:02:: tough%3:00:02:: low%5:00:00:soft:04 low%5:00:00:soft:04
+tough%3:00:02:: tough%3:00:02:: new%5:00:02:original:00 new%5:00:02:original:00
+tough%3:00:02:: tough%3:00:02:: old%3:00:02:: old%3:00:02::
+tough%3:00:02:: tough%3:00:02::
+tough%3:00:02:: tough%3:00:02:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+tough%3:00:02:: tough%3:00:02:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+tough%3:00:02:: tough%3:00:02:: short%3:00:03:: short%3:00:03::
+tough%3:00:02:: tough%3:00:02:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+tough%3:00:02:: tough%3:00:02:: slow%3:00:02:: slow%3:00:02::
+tough%3:00:02:: tough%3:00:02:: small%5:00:00:fine:00 small%5:00:00:fine:00
+tough%3:00:02:: tough%3:00:02::
+tough%5:00:00:rugged:00 tough%5:00:00:rugged:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+tough%3:00:02:: tough%3:00:02:: tall%3:00:00:: tall%3:00:00::
+tough%3:00:02:: tough%3:00:02:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+warm%3:00:01:: warm%3:00:01:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+warm%3:00:01:: warm%3:00:01:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+warm%3:00:01:: warm%3:00:01:: young%3:00:00:: young%3:00:00::
+warm%3:00:01:: warm%3:00:01:: bad%3:00:00:: bad%3:00:00::
+warm%3:00:01:: warm%3:00:01:: big%3:00:01:: big%3:00:01::
+warm%3:00:01:: warm%3:00:01:: bright%3:00:02:: bright%3:00:02::
+warm%3:00:01:: warm%3:00:01:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+warm%3:00:01:: warm%3:00:01:: cold%3:00:01:: cold%3:00:01::
+warm%3:00:02:: warm%3:00:02:: cool%3:00:01:: cool%3:00:01::
+warm%3:00:01:: warm%3:00:01:: deep%3:00:02:: deep%3:00:02::
+warm%3:00:01:: warm%3:00:01:: easy%3:00:01:: easy%3:00:01::
+warm%3:00:01:: warm%3:00:01:: fast%3:00:02:: fast%3:00:02::
+warm%3:00:01:: warm%3:00:01:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+warm%5:00:00:enthusiastic:00 warm%5:00:00:enthusiastic:00 great%5:00:01:important:00 great%5:00:01:important:00
+warm%3:00:01:: warm%3:00:01:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+warm%3:00:01:: warm%3:00:01:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+warm%3:00:01:: warm%3:00:01:: high%5:00:00:elated:00 high%5:00:00:elated:00
+warm%3:00:01:: warm%3:00:01:: hot%3:00:01:: hot%3:00:01::
+warm%3:00:01:: warm%3:00:01:: large%5:00:00:significant:00 large%5:00:00:significant:00
+warm%3:00:01:: warm%3:00:01:: long%3:00:01:: long%3:00:01::
+warm%3:00:01:: warm%3:00:01:: loud%3:00:00:: loud%3:00:00::
+warm%3:00:01:: warm%3:00:01:: low%5:00:00:soft:04 low%5:00:00:soft:04
+warm%3:00:01:: warm%3:00:01:: new%5:00:02:original:00 new%5:00:02:original:00
+warm%3:00:01:: warm%3:00:01:: old%3:00:02:: old%3:00:02::
+warm%3:00:01:: warm%3:00:01::
+warm%3:00:01:: warm%3:00:01:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+warm%3:00:01:: warm%3:00:01:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+warm%3:00:01:: warm%3:00:01:: short%3:00:03:: short%3:00:03::
+warm%3:00:01:: warm%3:00:01:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+warm%3:00:01:: warm%3:00:01:: slow%3:00:02:: slow%3:00:02::
+warm%3:00:01:: warm%3:00:01:: small%5:00:00:fine:00 small%5:00:00:fine:00
+warm%3:00:01:: warm%3:00:01::
+warm%5:00:00:enthusiastic:00 warm%5:00:00:enthusiastic:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+warm%3:00:01:: warm%3:00:01:: tall%3:00:00:: tall%3:00:00::
+warm%3:00:01:: warm%3:00:01:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+warm%3:00:01:: warm%3:00:01:: tough%3:00:02:: tough%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 young%3:00:00:: young%3:00:00::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 bad%3:00:00:: bad%3:00:00::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 big%3:00:01:: big%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 bright%3:00:02:: bright%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 cold%3:00:01:: cold%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 cool%3:00:01:: cool%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 deep%3:00:02:: deep%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 easy%3:00:01:: easy%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 fast%3:00:02:: fast%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 great%5:00:01:important:00 great%5:00:01:important:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 long%3:00:01:: long%3:00:01::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 loud%3:00:00:: loud%3:00:00::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 new%5:00:02:original:00 new%5:00:02:original:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 old%3:00:02:: old%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 short%3:00:03:: short%3:00:03::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 slow%3:00:02:: slow%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 tall%3:00:00:: tall%3:00:00::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 tough%3:00:02:: tough%3:00:02::
+weak%5:00:00:fallible:00 weak%5:00:00:fallible:00 warm%3:00:01:: warm%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 young%3:00:00:: young%3:00:00::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 bad%3:00:00:: bad%3:00:00::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 big%3:00:01:: big%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 bright%3:00:02:: bright%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 cold%3:00:01:: cold%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 cool%3:00:01:: cool%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 deep%3:00:02:: deep%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 easy%3:00:01:: easy%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 fast%3:00:02:: fast%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 great%5:00:01:important:00 great%5:00:01:important:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 hard%5:00:00:bad:00 hard%5:00:00:bad:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 high%5:00:00:elated:00 high%5:00:00:elated:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 large%5:00:00:significant:00 large%5:00:00:significant:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 long%3:00:01:: long%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 loud%3:00:00:: loud%3:00:00::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 low%5:00:00:soft:04 low%5:00:00:soft:04
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 new%5:00:02:original:00 new%5:00:02:original:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 old%3:00:02:: old%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 safe%5:00:00:sound:00 safe%5:00:00:sound:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 short%3:00:03:: short%3:00:03::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 simple%5:00:02:plain:01 simple%5:00:02:plain:01
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 slow%3:00:02:: slow%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 small%5:00:00:fine:00 small%5:00:00:fine:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 tall%3:00:00:: tall%3:00:00::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 tight%5:00:00:tense:01 tight%5:00:00:tense:01
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 tough%3:00:02:: tough%3:00:02::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 warm%3:00:01:: warm%3:00:01::
+wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00 weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+young%3:00:00:: young%3:00:00:: bad%3:00:00:: bad%3:00:00::
+young%3:00:00:: young%3:00:00:: big%3:00:01:: big%3:00:01::
+young%3:00:00:: young%3:00:00:: bright%3:00:02:: bright%3:00:02::
+young%3:00:00:: young%3:00:00:: cheap%5:00:00:stingy:00 cheap%5:00:00:stingy:00
+young%3:00:00:: young%3:00:00:: cold%3:00:01:: cold%3:00:01::
+young%3:00:00:: young%3:00:00:: cool%3:00:01:: cool%3:00:01::
+young%3:00:00:: young%3:00:00:: deep%3:00:02:: deep%3:00:02::
+young%3:00:00:: young%3:00:00:: easy%3:00:01:: easy%3:00:01::
+young%3:00:00:: young%3:00:00:: fast%3:00:02:: fast%3:00:02::
+young%3:00:00:: young%3:00:00:: good%5:00:00:fortunate:00 good%5:00:00:fortunate:00
+young%3:00:00:: young%3:00:00:: great%5:00:01:important:00 great%5:00:01:important:00
+young%3:00:00:: young%3:00:00:: hard%5:00:00:bad:00 hard%5:00:00:bad:00
+young%3:00:00:: young%3:00:00:: heavy%5:00:00:heavy-duty:00 heavy%5:00:00:heavy-duty:00
+young%3:00:00:: young%3:00:00:: high%5:00:00:elated:00 high%5:00:00:elated:00
+young%3:00:00:: young%3:00:00:: hot%5:00:00:tasty:00 hot%5:00:00:tasty:00
+young%3:00:00:: young%3:00:00:: large%5:00:00:significant:00 large%5:00:00:significant:00
+young%3:00:00:: young%3:00:00:: long%3:00:01:: long%3:00:01::
+young%3:00:00:: young%3:00:00:: loud%3:00:00:: loud%3:00:00::
+young%3:00:00:: young%3:00:00:: low%5:00:00:soft:04 low%5:00:00:soft:04
+young%3:00:00:: young%3:00:00:: new%5:00:02:original:00 new%5:00:02:original:00
+young%3:00:00:: young%3:00:00:: old%3:00:02:: old%3:00:02::
+young%3:00:00:: young%3:00:00::
+young%3:00:00:: young%3:00:00:: safe%5:00:00:sound:00 safe%5:00:00:sound:00
+young%3:00:00:: young%3:00:00:: sharp%5:00:00:steep:00 sharp%5:00:00:steep:00
+young%3:00:00:: young%3:00:00:: short%3:00:03:: short%3:00:03::
+young%3:00:00:: young%3:00:00:: simple%5:00:02:plain:01 simple%5:00:02:plain:01
+young%3:00:00:: young%3:00:00:: slow%3:00:02:: slow%3:00:02::
+young%3:00:00:: young%3:00:00:: small%5:00:00:fine:00 small%5:00:00:fine:00
+young%3:00:00:: young%3:00:00::
+young%3:00:00:: young%3:00:00:: strong%5:00:00:forceful:00 strong%5:00:00:forceful:00
+young%3:00:00:: young%3:00:00:: tall%3:00:00:: tall%3:00:00::
+young%3:00:00:: young%3:00:00:: tight%5:00:00:tense:01 tight%5:00:00:tense:01
+young%3:00:00:: young%3:00:00:: tough%3:00:02:: tough%3:00:02::
+young%3:00:00:: young%3:00:00:: warm%3:00:01:: warm%3:00:01::
+young%3:00:00:: young%3:00:00:: weak%5:00:00:fallible:00 weak%5:00:00:fallible:00
+young%3:00:00:: young%3:00:00:: wide%5:00:00:inaccurate:00 wide%5:00:00:inaccurate:00

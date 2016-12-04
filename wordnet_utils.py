@@ -486,10 +486,9 @@ def save_tuples_to_file(output_f, tuples):
 
 def save_list_list_to_text_file(output_f, tuples):
     total = len(tuples)
-    filename = '%s%s' % (path, output_f)
     print("Processing list of tuples=%d" % total)
     i = 1
-    with open(filename, 'w') as f:
+    with open(output_f, 'w') as f:
         for tuples_l in tuples:
             if len(tuples_l) == 0:
                 i += 1
@@ -684,13 +683,14 @@ def determine_tagging_mode(word_line):
         return TAG_MODE.FULL_TAGGING
     return None
 
-def generate_qa_lemma_pos(path):
+def generate_qa_lemma_pos_with_filename(path, filename):
     '''
     Generate a list of tuples (lemma,POS) from questions-words.txt.
     '''
     wn_utils = WordnetUtils(path)
-    filename = '%s%s' % (path, 'capital-common-countries.txt')
-    word_list = read_lines(filename)
+    input_filename = filename + '.txt'
+    input_filename = '%s%s' % (path, input_filename)
+    word_list = read_lines(input_filename)
     print("word_list=%s" % word_list[:10])
     tuples = []
     tagging_mode = TAG_MODE.FULL_TAGGING
@@ -713,8 +713,15 @@ def generate_qa_lemma_pos(path):
         #print("Tuples=%s" %tuplel)
         tuples.append(tuplel)
     print("Tuples=%s" %tuples[:10])
-    save_list_list_to_text_file('capital-common-countries-l-pos.txt', tuples)
+    output_filename = filename + '-l-pos.txt'
+    output_filename = '%s%s' % (path, output_filename)
+    save_list_list_to_text_file(output_filename, tuples)
 
+def generate_qa_lemma_pos(path):
+    filenames = ['city','family','gram1-adj-adv','gram2-opposite','gram3-comparative','gram4-superlative',
+                 'gram5-present-participle','gram6-nationality-adj','gram7-past-tense','gram8-plural','gram9-plural-verbs']
+    for filename in filenames:
+        generate_qa_lemma_pos_with_filename(path, filename)
 
 if __name__ == '__main__':
     path = 'data/'
@@ -726,4 +733,5 @@ if __name__ == '__main__':
     # generate_text8_words_synsets(path)
     # generate_text8_lemma_pos(path)
     generate_qa_lemma_pos(path)
+    #generate_qa_lemma_pos(path)
     # generate_news_lemma_pos(path)

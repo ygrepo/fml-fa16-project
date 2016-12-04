@@ -1,0 +1,867 @@
+: currency
+algeria%1:15:00:: dinar%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+algeria%1:15:00:: dinar%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+algeria%1:15:00:: dinar%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+algeria%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+algeria%1:15:00:: dinar%1:23:00:: croatia%1:15:00::
+algeria%1:15:00:: dinar%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+algeria%1:15:00:: europe%1:14:01:: euro%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: india%1:15:00:: rupee%1:23:01::
+algeria%1:15:00:: dinar%1:23:09:: iran%1:15:00:: rial%1:23:01::
+algeria%1:15:00:: dinar%1:23:00:: japan%1:06:00:: yen%1:23:00::
+algeria%1:15:00:: korea%1:15:00:: win%2:33:00::
+algeria%1:15:00:: dinar%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+algeria%1:15:00:: dinar%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: macedonia%1:15:00::
+algeria%1:15:00:: dinar%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+algeria%1:15:00:: dinar%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: romania%1:15:00:: leu%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+algeria%1:15:00:: dinar%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+algeria%1:15:00:: dinar%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+algeria%1:15:00:: dinar%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+angola%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+angola%1:15:00:: kwanza%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+angola%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+angola%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+angola%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+angola%1:15:00:: croatia%1:15:00::
+angola%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+angola%1:15:00:: kwanza%1:23:00:: europe%1:14:01:: euro%1:23:00::
+angola%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+angola%1:15:00:: india%1:15:00:: rupee%1:23:01::
+angola%1:15:00:: kwanza%1:23:00:: iran%1:15:00:: rial%1:23:01::
+angola%1:15:00:: japan%1:06:00:: yen%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: korea%1:15:00:: win%2:33:00::
+angola%1:15:00:: kwanza%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+angola%1:15:00:: kwanza%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: macedonia%1:15:00::
+angola%1:15:00:: kwanza%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+angola%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+angola%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: romania%1:15:00:: leu%1:23:00::
+angola%1:15:00:: kwanza%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+angola%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+angola%1:15:00:: kwanza%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+angola%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+angola%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+angola%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+angola%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: armenia%1:15:00:: dram%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: brazil%1:15:00:: real%5:00:02:realistic:00
+argentina%1:15:00:: peso%1:23:03:: bulgaria%1:15:00:: lev%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: cambodia%1:15:00:: riel%1:23:00::
+argentina%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+argentina%1:15:00:: peso%1:23:03:: croatia%1:15:00::
+argentina%1:15:00:: peso%1:23:03:: denmark%1:15:00:: krone%1:23:01::
+argentina%1:15:00:: europe%1:14:01:: euro%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: hungary%1:15:00:: forint%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: india%1:15:00:: rupee%1:23:01::
+argentina%1:15:00:: peso%1:23:03:: iran%1:15:00:: rial%1:23:01::
+argentina%1:15:00:: peso%1:23:03:: japan%1:06:00:: yen%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: korea%1:15:00:: win%2:33:00::
+argentina%1:15:00:: peso%1:23:03:: latvia%1:15:00:: lat%1:08:00::
+argentina%1:15:00:: peso%1:23:03:: lithuania%1:15:00:: litas%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: macedonia%1:15:00::
+argentina%1:15:00:: peso%1:23:03:: malaysia%1:15:00:: ringgit%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: nigeria%1:15:00:: naira%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: poland%1:15:00:: zloty%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: romania%1:15:00:: leu%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: russia%1:15:02:: ruble%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: sweden%1:15:00:: krona%1:23:02::
+argentina%1:15:00:: peso%1:23:03:: thailand%1:15:00:: baht%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: ukraine%1:15:00:: hryvnia%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: usa%1:15:00:: dollar%1:21:01::
+argentina%1:15:00:: peso%1:23:03:: vietnam%1:15:00:: dong%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: algeria%1:15:00:: dinar%1:23:00::
+argentina%1:15:00:: peso%1:23:03:: angola%1:15:00:: kwanza%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+armenia%1:15:00:: dram%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+armenia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+armenia%1:15:00:: dram%1:23:00:: croatia%1:15:00::
+armenia%1:15:00:: dram%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+armenia%1:15:00:: dram%1:23:00:: europe%1:14:01:: euro%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: india%1:15:00:: rupee%1:23:01::
+armenia%1:15:00:: dram%1:23:00:: iran%1:15:00:: rial%1:23:01::
+armenia%1:15:00:: dram%1:23:00:: japan%1:06:00:: yen%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: korea%1:15:00:: win%2:33:00::
+armenia%1:15:00:: dram%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+armenia%1:15:00:: dram%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: macedonia%1:15:00::
+armenia%1:15:00:: dram%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+armenia%1:15:00:: dram%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: romania%1:15:00:: leu%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+armenia%1:15:00:: dram%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+armenia%1:15:00:: dram%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+armenia%1:15:00:: dram%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+brazil%1:15:00:: real%5:00:02:realistic:00 bulgaria%1:15:00:: lev%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 cambodia%1:15:00:: riel%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 canada%1:15:00:: dollar%1:21:01::
+brazil%1:15:00:: real%5:00:02:realistic:00 croatia%1:15:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 denmark%1:15:00:: krone%1:23:01::
+brazil%1:15:00:: real%5:00:02:realistic:00 europe%1:14:01:: euro%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 hungary%1:15:00:: forint%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 india%1:15:00:: rupee%1:23:01::
+brazil%1:15:00:: real%5:00:02:realistic:00 iran%1:15:00:: rial%1:23:01::
+brazil%1:15:00:: real%5:00:02:realistic:00 japan%1:06:00:: yen%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 korea%1:15:00:: win%2:33:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 latvia%1:15:00:: lat%1:08:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 lithuania%1:15:00:: litas%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 macedonia%1:15:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 malaysia%1:15:00:: ringgit%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 mexico%1:15:00:: peso%1:23:06::
+brazil%1:15:00:: real%5:00:02:realistic:00 nigeria%1:15:00:: naira%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 poland%1:15:00:: zloty%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 romania%1:15:00:: leu%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 russia%1:15:02:: ruble%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 sweden%1:15:00:: krona%1:23:02::
+brazil%1:15:00:: real%5:00:02:realistic:00 thailand%1:15:00:: baht%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 ukraine%1:15:00:: hryvnia%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 usa%1:15:00:: dollar%1:21:01::
+brazil%1:15:00:: real%5:00:02:realistic:00 vietnam%1:15:00:: dong%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 algeria%1:15:00:: dinar%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 angola%1:15:00:: kwanza%1:23:00::
+brazil%1:15:00:: real%5:00:02:realistic:00 argentina%1:15:00:: peso%1:23:03::
+brazil%1:15:00:: real%5:00:02:realistic:00 armenia%1:15:00:: dram%1:23:00::
+bulgaria%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+bulgaria%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+bulgaria%1:15:00:: croatia%1:15:00::
+bulgaria%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+bulgaria%1:15:00:: europe%1:14:01:: euro%1:23:00::
+bulgaria%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+bulgaria%1:15:00:: india%1:15:00:: rupee%1:23:01::
+bulgaria%1:15:00:: lev%1:23:00:: iran%1:15:00:: rial%1:23:01::
+bulgaria%1:15:00:: japan%1:06:00:: yen%1:23:00::
+bulgaria%1:15:00:: korea%1:15:00:: win%2:33:00::
+bulgaria%1:15:00:: lev%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+bulgaria%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+bulgaria%1:15:00:: macedonia%1:15:00::
+bulgaria%1:15:00:: lev%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+bulgaria%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+bulgaria%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+bulgaria%1:15:00:: lev%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+bulgaria%1:15:00:: romania%1:15:00:: leu%1:23:00::
+bulgaria%1:15:00:: lev%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+bulgaria%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+bulgaria%1:15:00:: lev%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+bulgaria%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+bulgaria%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+bulgaria%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+bulgaria%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+bulgaria%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+bulgaria%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+bulgaria%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+bulgaria%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+cambodia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+cambodia%1:15:00:: riel%1:23:00:: croatia%1:15:00::
+cambodia%1:15:00:: riel%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+cambodia%1:15:00:: riel%1:23:00:: europe%1:14:01:: euro%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: india%1:15:00:: rupee%1:23:01::
+cambodia%1:15:00:: riel%1:23:00:: iran%1:15:00:: rial%1:23:01::
+cambodia%1:15:00:: riel%1:23:00:: japan%1:06:00:: yen%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: korea%1:15:00:: win%2:33:00::
+cambodia%1:15:00:: riel%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+cambodia%1:15:00:: riel%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: macedonia%1:15:00::
+cambodia%1:15:00:: riel%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+cambodia%1:15:00:: riel%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: romania%1:15:00:: leu%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+cambodia%1:15:00:: riel%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+cambodia%1:15:00:: riel%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+cambodia%1:15:00:: riel%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+cambodia%1:15:00:: riel%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+cambodia%1:15:00:: riel%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: croatia%1:15:00::
+canada%1:15:00:: dollar%1:21:01:: denmark%1:15:00:: krone%1:23:01::
+canada%1:15:00:: dollar%1:21:01:: europe%1:14:01:: euro%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: hungary%1:15:00:: forint%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: india%1:15:00:: rupee%1:23:01::
+canada%1:15:00:: dollar%1:21:01:: iran%1:15:00:: rial%1:23:01::
+canada%1:15:00:: dollar%1:21:01:: japan%1:06:00:: yen%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: korea%1:15:00:: win%2:33:00::
+canada%1:15:00:: dollar%1:21:01:: latvia%1:15:00:: lat%1:08:00::
+canada%1:15:00:: dollar%1:21:01:: lithuania%1:15:00:: litas%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: macedonia%1:15:00::
+canada%1:15:00:: dollar%1:21:01:: malaysia%1:15:00:: ringgit%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: mexico%1:15:00:: peso%1:23:06::
+canada%1:15:00:: dollar%1:21:01:: nigeria%1:15:00:: naira%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: poland%1:15:00:: zloty%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: romania%1:15:00:: leu%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: russia%1:15:02:: ruble%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: sweden%1:15:00:: krona%1:23:02::
+canada%1:15:00:: dollar%1:21:01:: thailand%1:15:00:: baht%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: ukraine%1:15:00:: hryvnia%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: vietnam%1:15:00:: dong%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: algeria%1:15:00:: dinar%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: angola%1:15:00:: kwanza%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: argentina%1:15:00:: peso%1:23:03::
+canada%1:15:00:: dollar%1:21:01:: armenia%1:15:00:: dram%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: brazil%1:15:00:: real%5:00:02:realistic:00
+canada%1:15:00:: dollar%1:21:01:: bulgaria%1:15:00:: lev%1:23:00::
+canada%1:15:00:: dollar%1:21:01:: cambodia%1:15:00:: riel%1:23:00::
+croatia%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+croatia%1:15:00:: europe%1:14:01:: euro%1:23:00::
+croatia%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+croatia%1:15:00:: india%1:15:00:: rupee%1:23:01::
+croatia%1:15:00:: iran%1:15:00:: rial%1:23:01::
+croatia%1:15:00:: japan%1:06:00:: yen%1:23:00::
+croatia%1:15:00:: korea%1:15:00:: win%2:33:00::
+croatia%1:15:00:: latvia%1:15:00:: lat%1:08:00::
+croatia%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+croatia%1:15:00:: macedonia%1:15:00::
+croatia%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+croatia%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+croatia%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+croatia%1:15:00:: poland%1:15:00:: zloty%1:23:00::
+croatia%1:15:00:: romania%1:15:00:: leu%1:23:00::
+croatia%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+croatia%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+croatia%1:15:00:: thailand%1:15:00:: baht%1:23:00::
+croatia%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+croatia%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+croatia%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+croatia%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+croatia%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+croatia%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+croatia%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+croatia%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+croatia%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+croatia%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+croatia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+denmark%1:15:00:: krone%1:23:01:: europe%1:14:01:: euro%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: hungary%1:15:00:: forint%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: india%1:15:00:: rupee%1:23:01::
+denmark%1:15:00:: krone%1:23:01:: iran%1:15:00:: rial%1:23:01::
+denmark%1:15:00:: krone%1:23:01:: japan%1:06:00:: yen%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: korea%1:15:00:: win%2:33:00::
+denmark%1:15:00:: krone%1:23:01:: latvia%1:15:00:: lat%1:08:00::
+denmark%1:15:00:: krone%1:23:01:: lithuania%1:15:00:: litas%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: macedonia%1:15:00::
+denmark%1:15:00:: krone%1:23:01:: malaysia%1:15:00:: ringgit%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: mexico%1:15:00:: peso%1:23:06::
+denmark%1:15:00:: krone%1:23:01:: nigeria%1:15:00:: naira%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: poland%1:15:00:: zloty%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: romania%1:15:00:: leu%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: russia%1:15:02:: ruble%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: sweden%1:15:00:: krona%1:23:02::
+denmark%1:15:00:: krone%1:23:01:: thailand%1:15:00:: baht%1:23:00::
+denmark%1:15:00:: krone ukraine%1:15:00:: hryvnia%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: usa%1:15:00:: dollar%1:21:01::
+denmark%1:15:00:: krone%1:23:01:: vietnam%1:15:00:: dong%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: algeria%1:15:00:: dinar%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: angola%1:15:00:: kwanza%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: argentina%1:15:00:: peso%1:23:03::
+denmark%1:15:00:: krone%1:23:01:: armenia%1:15:00:: dram%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: brazil%1:15:00:: real%5:00:02:realistic:00
+denmark%1:15:00:: krone%1:23:01:: bulgaria%1:15:00:: lev%1:23:00::
+denmark%1:15:00:: krone%1:23:01:: cambodia%1:15:00:: riel%1:23:00::
+denmark%1:15:00:: krone canada%1:15:00:: dollar%1:21:01::
+denmark%1:15:00:: krone%1:23:01:: croatia%1:15:00::
+europe%1:14:01:: hungary%1:15:00:: forint%1:23:00::
+europe%1:14:01:: india%1:15:00:: rupee%1:23:01::
+europe%1:14:01:: iran%1:15:00:: rial%1:23:01::
+europe%1:14:01:: japan%1:06:00:: yen%1:23:00::
+europe%1:14:01:: korea%1:15:00:: win%2:33:00::
+europe%1:14:01:: latvia%1:15:00:: lat%1:08:00::
+europe%1:14:01:: lithuania%1:15:00:: litas%1:23:00::
+europe%1:14:01:: macedonia%1:15:00::
+europe%1:14:01:: malaysia%1:15:00:: ringgit%1:23:00::
+europe%1:14:01:: mexico%1:15:00:: peso%1:23:06::
+europe%1:14:01:: nigeria%1:15:00:: naira%1:23:00::
+europe%1:14:01:: euro%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+europe%1:14:01:: romania%1:15:00:: leu%1:23:00::
+europe%1:14:01:: russia%1:15:01:: ruble%1:23:00::
+europe%1:14:01:: sweden%1:15:00:: krona%1:23:02::
+europe%1:14:01:: euro%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+europe%1:14:01:: ukraine%1:15:00:: hryvnia%1:23:00::
+europe%1:14:01:: usa%1:15:00:: dollar%1:21:01::
+europe%1:14:01:: vietnam%1:15:00:: dong%1:23:00::
+europe%1:14:01:: algeria%1:15:00:: dinar%1:23:00::
+europe%1:14:01:: angola%1:15:00:: kwanza%1:23:00::
+europe%1:14:01:: argentina%1:15:00:: peso%1:23:03::
+europe%1:14:01:: armenia%1:15:00:: dram%1:23:00::
+europe%1:14:01:: brazil%1:15:00:: real%5:00:02:realistic:00
+europe%1:14:01:: bulgaria%1:15:00:: lev%1:23:00::
+europe%1:14:01:: cambodia%1:15:00:: riel%1:23:00::
+europe%1:14:01:: canada%1:15:00:: dollar%1:21:01::
+europe%1:14:01:: croatia%1:15:00::
+europe%1:14:01:: denmark%1:15:00:: krone%1:23:01::
+hungary%1:15:00:: forint%1:23:00:: india%1:15:00:: rupee%1:23:01::
+hungary%1:15:00:: forint%1:23:00:: iran%1:15:00:: rial%1:23:01::
+hungary%1:15:00:: forint%1:23:00:: japan%1:06:00:: yen%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: korea%1:15:00:: win%2:33:00::
+hungary%1:15:00:: forint%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+hungary%1:15:00:: forint%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: macedonia%1:15:00::
+hungary%1:15:00:: forint%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+hungary%1:15:00:: forint%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: romania%1:15:00:: leu%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+hungary%1:15:00:: forint%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+hungary%1:15:00:: forint%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+hungary%1:15:00:: forint%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+hungary%1:15:00:: forint%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+hungary%1:15:00:: forint%1:23:00:: canada%1:15:00:: dollar%1:21:01::
+hungary%1:15:00:: forint%1:23:00:: croatia%1:15:00::
+hungary%1:15:00:: forint%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+hungary%1:15:00:: forint%1:23:00:: europe%1:14:01:: euro%1:23:00::
+india%1:15:00:: rupee%1:23:01:: iran%1:15:00:: rial%1:23:01::
+india%1:15:00:: rupee%1:23:01:: japan%1:06:00:: yen%1:23:00::
+india%1:15:00:: rupee%1:23:01:: korea%1:15:00:: win%2:33:00::
+india%1:15:00:: rupee%1:23:01:: latvia%1:15:00:: lat%1:08:00::
+india%1:15:00:: rupee%1:23:01:: lithuania%1:15:00:: litas%1:23:00::
+india%1:15:00:: rupee%1:23:01:: macedonia%1:15:00::
+india%1:15:00:: rupee%1:23:01:: malaysia%1:15:00:: ringgit%1:23:00::
+india%1:15:00:: rupee%1:23:01:: mexico%1:15:00:: peso%1:23:06::
+india%1:15:00:: rupee%1:23:01:: nigeria%1:15:00:: naira%1:23:00::
+india%1:15:00:: rupee%1:23:01:: poland%1:15:00:: zloty%1:23:00::
+india%1:15:00:: rupee%1:23:01:: romania%1:15:00:: leu%1:23:00::
+india%1:15:00:: rupee%1:23:01:: russia%1:15:02:: ruble%1:23:00::
+india%1:15:00:: rupee%1:23:01:: sweden%1:15:00:: krona%1:23:02::
+india%1:15:00:: rupee%1:23:01:: thailand%1:15:00:: baht%1:23:00::
+india%1:15:00:: rupee%1:23:01:: ukraine%1:15:00:: hryvnia%1:23:00::
+india%1:15:00:: rupee%1:23:01:: usa%1:15:00:: dollar%1:21:01::
+india%1:15:00:: rupee%1:23:01:: vietnam%1:15:00:: dong%1:23:00::
+india%1:15:00:: rupee%1:23:01:: algeria%1:15:00:: dinar%1:23:00::
+india%1:15:00:: rupee%1:23:01:: angola%1:15:00:: kwanza%1:23:00::
+india%1:15:00:: rupee%1:23:01:: argentina%1:15:00:: peso%1:23:03::
+india%1:15:00:: rupee%1:23:01:: armenia%1:15:00:: dram%1:23:00::
+india%1:15:00:: rupee%1:23:01:: brazil%1:15:00:: real%5:00:02:realistic:00
+india%1:15:00:: rupee%1:23:01:: bulgaria%1:15:00:: lev%1:23:00::
+india%1:15:00:: rupee%1:23:01:: cambodia%1:15:00:: riel%1:23:00::
+india%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+india%1:15:00:: rupee%1:23:01:: croatia%1:15:00::
+india%1:15:00:: rupee%1:23:01:: denmark%1:15:00:: krone%1:23:01::
+india%1:15:00:: europe%1:14:01:: euro%1:23:00::
+india%1:15:00:: rupee%1:23:01:: hungary%1:15:00:: forint%1:23:00::
+iran%1:15:00:: rial%1:23:01:: japan%1:06:00:: yen%1:23:00::
+iran%1:15:00:: korea%1:15:00:: win%2:33:00::
+iran%1:15:00:: latvia%1:15:00:: lat%1:08:00::
+iran%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+iran%1:15:00:: macedonia%1:15:00::
+iran%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+iran%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+iran%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+iran%1:15:00:: poland%1:15:00:: zloty%1:23:00::
+iran%1:15:00:: romania%1:15:00:: leu%1:23:00::
+iran%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+iran%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+iran%1:15:00:: thailand%1:15:00:: baht%1:23:00::
+iran%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+iran%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+iran%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+iran%1:15:00:: algeria%1:15:00:: dinar%1:23:09::
+iran%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+iran%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+iran%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+iran%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+iran%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+iran%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+iran%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+iran%1:15:00:: croatia%1:15:00::
+iran%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+iran%1:15:00:: europe%1:14:01:: euro%1:23:00::
+iran%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+iran%1:15:00:: india%1:15:00:: rupee%1:23:01::
+japan%1:06:00:: yen%1:23:00:: korea%1:15:00:: win%2:33:00::
+japan%1:06:00:: yen latvia%1:15:00:: lat%1:08:00::
+japan%1:06:00:: yen lithuania%1:15:00:: litas%1:23:00::
+japan%1:06:00:: yen macedonia%1:15:00::
+japan%1:06:00:: yen%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+japan%1:06:00:: yen mexico%1:15:00:: peso%1:23:06::
+japan%1:06:00:: yen nigeria%1:15:00:: naira%1:23:00::
+japan%1:06:00:: yen%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+japan%1:06:00:: yen romania%1:15:00:: leu%1:23:00::
+japan%1:06:00:: yen%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+japan%1:06:00:: yen sweden%1:15:00:: krona%1:23:02::
+japan%1:06:00:: yen%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+japan%1:06:00:: yen ukraine%1:15:00:: hryvnia%1:23:00::
+japan%1:06:00:: yen usa%1:15:00:: dollar%1:21:01::
+japan%1:06:00:: yen vietnam%1:15:00:: dong%1:23:00::
+japan%1:06:00:: yen algeria%1:15:00:: dinar%1:23:00::
+japan%1:06:00:: yen angola%1:15:00:: kwanza%1:23:00::
+japan%1:06:00:: yen argentina%1:15:00:: peso%1:23:03::
+japan%1:06:00:: yen armenia%1:15:00:: dram%1:23:00::
+japan%1:06:00:: yen brazil%1:15:00:: real%5:00:02:realistic:00
+japan%1:06:00:: yen bulgaria%1:15:00:: lev%1:23:00::
+japan%1:06:00:: yen cambodia%1:15:00:: riel%1:23:00::
+japan%1:06:00:: yen%2:37:00:: canada%1:15:00:: dollar%1:21:01::
+japan%1:06:00:: yen croatia%1:15:00::
+japan%1:06:00:: yen denmark%1:15:00:: krone%1:23:01::
+japan%1:06:00:: yen%1:23:00:: europe%1:14:01:: euro%1:23:00::
+japan%1:06:00:: yen hungary%1:15:00:: forint%1:23:00::
+japan%1:06:00:: yen india%1:15:00:: rupee%1:23:01::
+japan%1:06:00:: yen%1:23:00:: iran%1:15:00:: rial%1:23:01::
+korea%1:15:00:: win%2:33:00:: latvia%1:15:00:: lat%1:08:00::
+korea%1:15:00:: win%2:33:00:: lithuania%1:15:00:: litas%1:23:00::
+korea%1:15:00:: win%2:33:00:: macedonia%1:15:00::
+korea%1:15:00:: win%2:33:00:: malaysia%1:15:00:: ringgit%1:23:00::
+korea%1:15:00:: win%2:33:00:: mexico%1:15:00:: peso%1:23:06::
+korea%1:15:00:: win%2:33:00:: nigeria%1:15:00:: naira%1:23:00::
+korea%1:15:00:: win%2:33:00:: poland%1:15:00:: zloty%1:23:00::
+korea%1:15:00:: win%2:33:00:: romania%1:15:00:: leu%1:23:00::
+korea%1:15:00:: win%2:33:00:: russia%1:15:02:: ruble%1:23:00::
+korea%1:15:00:: win%2:33:00:: sweden%1:15:00:: krona%1:23:02::
+korea%1:15:00:: win%2:33:00:: thailand%1:15:00:: baht%1:23:00::
+korea%1:15:00:: win%2:33:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+korea%1:15:00:: win%2:33:00:: usa%1:15:00:: dollar%1:21:01::
+korea%1:15:00:: win%2:33:00:: vietnam%1:15:00:: dong%1:23:00::
+korea%1:15:00:: win%2:33:00:: algeria%1:15:00:: dinar%1:23:00::
+korea%1:15:00:: win%2:33:00:: angola%1:15:00:: kwanza%1:23:00::
+korea%1:15:00:: win%2:33:00:: argentina%1:15:00:: peso%1:23:03::
+korea%1:15:00:: win%2:33:00:: armenia%1:15:00:: dram%1:23:00::
+korea%1:15:00:: win%2:33:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+korea%1:15:00:: win%2:33:00:: bulgaria%1:15:00:: lev%1:23:00::
+korea%1:15:00:: win%2:33:00:: cambodia%1:15:00:: riel%1:23:00::
+korea%1:15:00:: win%2:33:00:: canada%1:15:00:: dollar%1:21:01::
+korea%1:15:00:: win%2:33:00:: croatia%1:15:00::
+korea%1:15:00:: win%2:33:00:: denmark%1:15:00:: krone%1:23:01::
+korea%1:15:00:: win%2:33:00:: europe%1:14:01:: euro%1:23:00::
+korea%1:15:00:: win%2:33:00:: hungary%1:15:00:: forint%1:23:00::
+korea%1:15:00:: win%2:33:00:: india%1:15:00:: rupee%1:23:01::
+korea%1:15:00:: win%2:33:00:: iran%1:15:00:: rial%1:23:01::
+korea%1:15:00:: win%2:33:00:: japan%1:06:00:: yen%1:23:00::
+latvia%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+latvia%1:15:00:: macedonia%1:15:00::
+latvia%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+latvia%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+latvia%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+latvia%1:15:00:: lat%1:08:00:: poland%1:15:00:: zloty%1:23:00::
+latvia%1:15:00:: romania%1:15:00:: leu%1:23:00::
+latvia%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+latvia%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+latvia%1:15:00:: lat%1:08:00:: thailand%1:15:00:: baht%1:23:00::
+latvia%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+latvia%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+latvia%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+latvia%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+latvia%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+latvia%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+latvia%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+latvia%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+latvia%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+latvia%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+latvia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+latvia%1:15:00:: croatia%1:15:00::
+latvia%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+latvia%1:15:00:: europe%1:14:01:: euro%1:23:00::
+latvia%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+latvia%1:15:00:: india%1:15:00:: rupee%1:23:01::
+latvia%1:15:00:: iran%1:15:00:: rial%1:23:01::
+latvia%1:15:00:: japan%1:06:00:: yen%1:23:00::
+latvia%1:15:00:: korea%1:15:00:: win%2:33:00::
+lithuania%1:15:00:: litas%1:23:00:: macedonia%1:15:00::
+lithuania%1:15:00:: litas%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+lithuania%1:15:00:: litas%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: romania%1:15:00:: leu%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+lithuania%1:15:00:: litas%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+lithuania%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+lithuania%1:15:00:: litas%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+lithuania%1:15:00:: litas%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+lithuania%1:15:00:: litas%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+lithuania%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+lithuania%1:15:00:: litas%1:23:00:: croatia%1:15:00::
+lithuania%1:15:00:: litas%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+lithuania%1:15:00:: litas%1:23:00:: europe%1:14:01:: euro%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+lithuania%1:15:00:: litas%1:23:00:: india%1:15:00:: rupee%1:23:01::
+lithuania%1:15:00:: litas%1:23:00:: iran%1:15:00:: rial%1:23:01::
+lithuania%1:15:00:: japan%1:06:00:: yen%1:23:00::
+lithuania%1:15:00:: korea%1:15:00:: win%2:33:00::
+lithuania%1:15:00:: litas%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+macedonia%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+macedonia%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+macedonia%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+macedonia%1:15:00:: poland%1:15:00:: zloty%1:23:00::
+macedonia%1:15:00:: romania%1:15:00:: leu%1:23:00::
+macedonia%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+macedonia%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+macedonia%1:15:00:: thailand%1:15:00:: baht%1:23:00::
+macedonia%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+macedonia%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+macedonia%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+macedonia%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+macedonia%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+macedonia%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+macedonia%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+macedonia%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+macedonia%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+macedonia%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+macedonia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+macedonia%1:15:00:: croatia%1:15:00::
+macedonia%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+macedonia%1:15:00:: europe%1:14:01:: euro%1:23:00::
+macedonia%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+macedonia%1:15:00:: india%1:15:00:: rupee%1:23:01::
+macedonia%1:15:00:: iran%1:15:00:: rial%1:23:01::
+macedonia%1:15:00:: japan%1:06:00:: yen%1:23:00::
+macedonia%1:15:00:: korea%1:15:00:: win%2:33:00::
+macedonia%1:15:00:: latvia%1:15:00:: lat%1:08:00::
+macedonia%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+malaysia%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+malaysia%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+malaysia%1:15:00:: ringgit%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+malaysia%1:15:00:: romania%1:15:00:: leu%1:23:00::
+malaysia%1:15:00:: ringgit%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+malaysia%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+malaysia%1:15:00:: ringgit%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+malaysia%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+malaysia%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+malaysia%1:15:00:: vietnam%1:15:00:: dong%1:23:00::
+malaysia%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+malaysia%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+malaysia%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+malaysia%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+malaysia%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+malaysia%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+malaysia%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+malaysia%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+malaysia%1:15:00:: croatia%1:15:00::
+malaysia%1:15:00:: ringgit%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+malaysia%1:15:00:: europe%1:14:01:: euro%1:23:00::
+malaysia%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+malaysia%1:15:00:: india%1:15:00:: rupee%1:23:01::
+malaysia%1:15:00:: ringgit%1:23:00:: iran%1:15:00:: rial%1:23:01::
+malaysia%1:15:00:: japan%1:06:00:: yen%1:23:00::
+malaysia%1:15:00:: korea%1:15:00:: win%2:33:00::
+malaysia%1:15:00:: ringgit%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+malaysia%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+malaysia%1:15:00:: macedonia%1:15:00::
+mexico%1:15:00:: peso%1:23:06:: nigeria%1:15:00:: naira%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: poland%1:15:00:: zloty%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: romania%1:15:00:: leu%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: russia%1:15:02:: ruble%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: sweden%1:15:00:: krona%1:23:02::
+mexico%1:15:00:: peso%1:23:06:: thailand%1:15:00:: baht%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: ukraine%1:15:00:: hryvnia%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: usa%1:15:00:: dollar%1:21:01::
+mexico%1:15:00:: peso%1:23:06:: vietnam%1:15:00:: dong%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: algeria%1:15:00:: dinar%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: angola%1:15:00:: kwanza%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: armenia%1:15:00:: dram%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: brazil%1:15:00:: real%5:00:02:realistic:00
+mexico%1:15:00:: peso%1:23:06:: bulgaria%1:15:00:: lev%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: cambodia%1:15:00:: riel%1:23:00::
+mexico%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+mexico%1:15:00:: peso%1:23:06:: croatia%1:15:00::
+mexico%1:15:00:: peso%1:23:06:: denmark%1:15:00:: krone%1:23:01::
+mexico%1:15:00:: europe%1:14:01:: euro%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: hungary%1:15:00:: forint%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: india%1:15:00:: rupee%1:23:01::
+mexico%1:15:00:: peso%1:23:06:: iran%1:15:00:: rial%1:23:01::
+mexico%1:15:00:: peso%1:23:06:: japan%1:06:00:: yen%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: korea%1:15:00:: win%2:33:00::
+mexico%1:15:00:: peso%1:23:06:: latvia%1:15:00:: lat%1:08:00::
+mexico%1:15:00:: peso%1:23:06:: lithuania%1:15:00:: litas%1:23:00::
+mexico%1:15:00:: peso%1:23:06:: macedonia%1:15:00::
+mexico%1:15:00:: peso%1:23:06:: malaysia%1:15:00:: ringgit%1:23:00::
+nigeria%1:15:00:: naira poland%1:15:00:: zloty%1:23:00::
+nigeria%1:15:00:: naira romania%1:15:00:: leu%1:23:00::
+nigeria%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+nigeria%1:15:00:: naira sweden%1:15:00:: krona%1:23:02::
+nigeria%1:15:00:: thailand%1:15:00:: baht%1:23:00::
+nigeria%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+nigeria%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+nigeria%1:15:00:: naira vietnam%1:15:00:: dong%1:23:00::
+nigeria%1:15:00:: naira algeria%1:15:00:: dinar%1:23:00::
+nigeria%1:15:00:: naira angola%1:15:00:: kwanza%1:23:00::
+nigeria%1:15:00:: naira argentina%1:15:00:: peso%1:23:03::
+nigeria%1:15:00:: naira armenia%1:15:00:: dram%1:23:00::
+nigeria%1:15:00:: naira brazil%1:15:00:: real%5:00:02:realistic:00
+nigeria%1:15:00:: naira bulgaria%1:15:00:: lev%1:23:00::
+nigeria%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+nigeria%1:15:00:: naira canada%1:15:00:: dollar%1:21:01::
+nigeria%1:15:00:: naira croatia%1:15:00::
+nigeria%1:15:00:: naira denmark%1:15:00:: krone%1:23:01::
+nigeria%1:15:00:: naira europe%1:14:01::
+nigeria%1:15:00:: naira hungary%1:15:00:: forint%1:23:00::
+nigeria%1:15:00:: naira india%1:15:00:: rupee%1:23:01::
+nigeria%1:15:00:: naira iran%1:15:00:: rial%1:23:01::
+nigeria%1:15:00:: japan%1:06:00:: yen%1:23:00::
+nigeria%1:15:00:: naira korea%1:15:00:: win%2:33:00::
+nigeria%1:15:00:: naira latvia%1:15:00:: lat%1:08:00::
+nigeria%1:15:00:: naira lithuania%1:15:00:: litas%1:23:00::
+nigeria%1:15:00:: naira macedonia%1:15:00::
+nigeria%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+nigeria%1:15:00:: naira mexico%1:15:00::
+poland%1:15:00:: zloty%1:23:00:: romania%1:15:00:: leu%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+poland%1:15:00:: zloty%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+poland%1:15:00:: zloty%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+poland%1:15:00:: zloty%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+poland%1:15:00:: zloty%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: canada%1:15:00:: dollar%1:21:01::
+poland%1:15:00:: zloty%1:23:00:: croatia%1:15:00::
+poland%1:15:00:: zloty%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+poland%1:15:00:: zloty%1:23:00:: europe%1:14:01:: euro%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: india%1:15:00:: rupee%1:23:01::
+poland%1:15:00:: zloty%1:23:00:: iran%1:15:00:: rial%1:23:01::
+poland%1:15:00:: zloty%1:23:00:: japan%1:06:00:: yen%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: korea%1:15:00:: win%2:33:00::
+poland%1:15:00:: zloty%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+poland%1:15:00:: zloty%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: macedonia%1:15:00::
+poland%1:15:00:: zloty%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+poland%1:15:00:: zloty%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+poland%1:15:00:: zloty%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+romania%1:15:00:: leu%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+romania%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+romania%1:15:00:: leu%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+romania%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+romania%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+romania%1:15:00:: leu%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+romania%1:15:00:: leu%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+romania%1:15:00:: leu%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+romania%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+romania%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+romania%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+romania%1:15:00:: leu%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+romania%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+romania%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+romania%1:15:00:: croatia%1:15:00::
+romania%1:15:00:: leu%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+romania%1:15:00:: europe%1:14:01:: euro%1:23:00::
+romania%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+romania%1:15:00:: india%1:15:00:: rupee%1:23:01::
+romania%1:15:00:: leu%1:23:00:: iran%1:15:00:: rial%1:23:01::
+romania%1:15:00:: japan%1:06:00:: yen%1:23:00::
+romania%1:15:00:: korea%1:15:00:: win%2:33:00::
+romania%1:15:00:: leu%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+romania%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+romania%1:15:00:: macedonia%1:15:00::
+romania%1:15:00:: leu%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+romania%1:15:00:: leu%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+romania%1:15:00:: leu%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+romania%1:15:00:: leu%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+russia%1:15:02:: sweden%1:15:00:: krona%1:23:02::
+russia%1:15:02:: thailand%1:15:00:: baht%1:23:00::
+russia%1:15:02:: ukraine%1:15:00:: hryvnia%1:23:00::
+russia%1:15:02:: usa%1:15:00:: dollar%1:21:01::
+russia%1:15:02:: vietnam%1:15:00:: dong%1:23:00::
+russia%1:15:02:: algeria%1:15:00:: dinar%1:23:00::
+russia%1:15:02:: angola%1:15:00:: kwanza%1:23:00::
+russia%1:15:02:: argentina%1:15:00:: peso%1:23:03::
+russia%1:15:02:: armenia%1:15:00:: dram%1:23:00::
+russia%1:15:02:: brazil%1:15:00:: real%5:00:02:realistic:00
+russia%1:15:02:: bulgaria%1:15:00:: lev%1:23:00::
+russia%1:15:02:: cambodia%1:15:00:: riel%1:23:00::
+russia%1:15:02:: canada%1:15:00:: dollar%1:21:01::
+russia%1:15:02:: croatia%1:15:00::
+russia%1:15:02:: denmark%1:15:00:: krone%1:23:01::
+russia%1:15:01:: europe%1:14:01:: euro%1:23:00::
+russia%1:15:02:: hungary%1:15:00:: forint%1:23:00::
+russia%1:15:02:: india%1:15:00:: rupee%1:23:01::
+russia%1:15:02:: ruble%1:23:00:: iran%1:15:00:: rial%1:23:01::
+russia%1:15:02:: ruble%1:23:00:: japan%1:06:00:: yen%1:23:00::
+russia%1:15:02:: korea%1:15:00:: win%2:33:00::
+russia%1:15:02:: latvia%1:15:00:: lat%1:08:00::
+russia%1:15:02:: lithuania%1:15:00:: litas%1:23:00::
+russia%1:15:02:: macedonia%1:15:00::
+russia%1:15:02:: malaysia%1:15:00:: ringgit%1:23:00::
+russia%1:15:02:: mexico%1:15:00:: peso%1:23:06::
+russia%1:15:02:: nigeria%1:15:00:: naira%1:23:00::
+russia%1:15:02:: poland%1:15:00:: zloty%1:23:00::
+russia%1:15:02:: romania%1:15:00:: leu%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: thailand%1:15:00:: baht%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: ukraine%1:15:00:: hryvnia%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: usa%1:15:00:: dollar%1:21:01::
+sweden%1:15:00:: krona%1:23:02:: vietnam%1:15:00:: dong%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: algeria%1:15:00:: dinar%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: angola%1:15:00:: kwanza%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: argentina%1:15:00:: peso%1:23:03::
+sweden%1:15:00:: krona%1:23:02:: armenia%1:15:00:: dram%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: brazil%1:15:00:: real%5:00:02:realistic:00
+sweden%1:15:00:: krona%1:23:02:: bulgaria%1:15:00:: lev%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: cambodia%1:15:00:: riel%1:23:00::
+sweden%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+sweden%1:15:00:: krona%1:23:02:: croatia%1:15:00::
+sweden%1:15:00:: krona%1:23:02:: denmark%1:15:00:: krone%1:23:01::
+sweden%1:15:00:: krona%1:23:02:: europe%1:14:01:: euro%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: hungary%1:15:00:: forint%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: india%1:15:00:: rupee%1:23:01::
+sweden%1:15:00:: krona%1:23:02:: iran%1:15:00:: rial%1:23:01::
+sweden%1:15:00:: krona%1:23:02:: japan%1:06:00:: yen%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: korea%1:15:00:: win%2:33:00::
+sweden%1:15:00:: krona%1:23:02:: latvia%1:15:00:: lat%1:08:00::
+sweden%1:15:00:: krona%1:23:02:: lithuania%1:15:00:: litas%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: macedonia%1:15:00::
+sweden%1:15:00:: krona%1:23:02:: malaysia%1:15:00:: ringgit%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: mexico%1:15:00:: peso%1:23:06::
+sweden%1:15:00:: krona%1:23:02:: nigeria%1:15:00:: naira%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: poland%1:15:00:: zloty%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: romania%1:15:00:: leu%1:23:00::
+sweden%1:15:00:: krona%1:23:02:: russia%1:15:02:: ruble%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+thailand%1:15:00:: usa%1:15:00:: dollar%1:21:01::
+thailand%1:15:00:: baht%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+thailand%1:15:00:: baht%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+thailand%1:15:00:: baht%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+thailand%1:15:00:: canada%1:15:00:: dollar%1:21:01::
+thailand%1:15:00:: baht%1:23:00:: croatia%1:15:00::
+thailand%1:15:00:: baht%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+thailand%1:15:00:: baht%1:23:00:: europe%1:14:01:: euro%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: india%1:15:00:: rupee%1:23:01::
+thailand%1:15:00:: baht%1:23:00:: iran%1:15:00:: rial%1:23:01::
+thailand%1:15:00:: baht%1:23:00:: japan%1:06:00:: yen%1:23:00::
+thailand%1:15:00:: korea%1:15:00:: win%2:33:00::
+thailand%1:15:00:: baht%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+thailand%1:15:00:: baht%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: macedonia%1:15:00::
+thailand%1:15:00:: baht%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+thailand%1:15:00:: baht%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: romania%1:15:00:: leu%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+thailand%1:15:00:: baht%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+ukraine%1:15:00:: hryvnia%1:23:00:: usa%1:15:00:: dollar%1:21:01::
+ukraine%1:15:00:: hryvnia%1:23:00:: vietnam%1:15:00:: dong%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: algeria%1:15:00:: dinar%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: angola%1:15:00:: kwanza%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: argentina%1:15:00:: peso%1:23:03::
+ukraine%1:15:00:: hryvnia%1:23:00:: armenia%1:15:00:: dram%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+ukraine%1:15:00:: hryvnia%1:23:00:: bulgaria%1:15:00:: lev%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: cambodia%1:15:00:: riel%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: canada%1:15:00:: dollar%1:21:01::
+ukraine%1:15:00:: hryvnia%1:23:00:: croatia%1:15:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: denmark%1:15:00:: krone%1:23:01::
+ukraine%1:15:00:: hryvnia%1:23:00:: europe%1:14:01:: euro%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: hungary%1:15:00:: forint%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: india%1:15:00:: rupee%1:23:01::
+ukraine%1:15:00:: hryvnia%1:23:00:: iran%1:15:00:: rial%1:23:01::
+ukraine%1:15:00:: hryvnia%1:23:00:: japan%1:06:00:: yen%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: korea%1:15:00:: win%2:33:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: latvia%1:15:00:: lat%1:08:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: lithuania%1:15:00:: litas%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: macedonia%1:15:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: malaysia%1:15:00:: ringgit%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: mexico%1:15:00:: peso%1:23:06::
+ukraine%1:15:00:: hryvnia%1:23:00:: nigeria%1:15:00:: naira%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: poland%1:15:00:: zloty%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: romania%1:15:00:: leu%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: russia%1:15:02:: ruble%1:23:00::
+ukraine%1:15:00:: hryvnia%1:23:00:: sweden%1:15:00:: krona%1:23:02::
+ukraine%1:15:00:: hryvnia%1:23:00:: thailand%1:15:00:: baht%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: vietnam%1:15:00:: dong%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: algeria%1:15:00:: dinar%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: angola%1:15:00:: kwanza%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: argentina%1:15:00:: peso%1:23:03::
+usa%1:15:00:: dollar%1:21:01:: armenia%1:15:00:: dram%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: brazil%1:15:00:: real%5:00:02:realistic:00
+usa%1:15:00:: dollar%1:21:01:: bulgaria%1:15:00:: lev%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: cambodia%1:15:00:: riel%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: croatia%1:15:00::
+usa%1:15:00:: dollar%1:21:01:: denmark%1:15:00:: krone%1:23:01::
+usa%1:15:00:: dollar%1:21:01:: europe%1:14:01:: euro%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: hungary%1:15:00:: forint%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: india%1:15:00:: rupee%1:23:01::
+usa%1:15:00:: dollar%1:21:01:: iran%1:15:00:: rial%1:23:01::
+usa%1:15:00:: dollar%1:21:01:: japan%1:06:00:: yen%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: korea%1:15:00:: win%2:33:00::
+usa%1:15:00:: dollar%1:21:01:: latvia%1:15:00:: lat%1:08:00::
+usa%1:15:00:: dollar%1:21:01:: lithuania%1:15:00:: litas%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: macedonia%1:15:00::
+usa%1:15:00:: dollar%1:21:01:: malaysia%1:15:00:: ringgit%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: mexico%1:15:00:: peso%1:23:06::
+usa%1:15:00:: dollar%1:21:01:: nigeria%1:15:00:: naira%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: poland%1:15:00:: zloty%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: romania%1:15:00:: leu%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: russia%1:15:02:: ruble%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: sweden%1:15:00:: krona%1:23:02::
+usa%1:15:00:: dollar%1:21:01:: thailand%1:15:00:: baht%1:23:00::
+usa%1:15:00:: dollar%1:21:01:: ukraine%1:15:00:: hryvnia%1:23:00::
+vietnam%1:15:00:: algeria%1:15:00:: dinar%1:23:00::
+vietnam%1:15:00:: angola%1:15:00:: kwanza%1:23:00::
+vietnam%1:15:00:: argentina%1:15:00:: peso%1:23:03::
+vietnam%1:15:00:: armenia%1:15:00:: dram%1:23:00::
+vietnam%1:15:00:: brazil%1:15:00:: real%5:00:02:realistic:00
+vietnam%1:15:00:: bulgaria%1:15:00:: lev%1:23:00::
+vietnam%1:15:00:: cambodia%1:15:00:: riel%1:23:00::
+vietnam%1:15:00:: dong%2:39:00:: canada%1:15:00:: dollar%1:21:01::
+vietnam%1:15:00:: croatia%1:15:00::
+vietnam%1:15:00:: denmark%1:15:00:: krone%1:23:01::
+vietnam%1:15:00:: dong%2:39:00:: europe%1:14:01:: euro%1:23:00::
+vietnam%1:15:00:: hungary%1:15:00:: forint%1:23:00::
+vietnam%1:15:00:: india%1:15:00:: rupee%1:23:01::
+vietnam%1:15:00:: dong%1:23:00:: iran%1:15:00:: rial%1:23:01::
+vietnam%1:15:00:: japan%1:06:00:: yen%1:23:00::
+vietnam%1:15:00:: dong%2:39:00:: korea%1:15:00:: win%2:33:00::
+vietnam%1:15:00:: latvia%1:15:00:: lat%1:08:00::
+vietnam%1:15:00:: lithuania%1:15:00:: litas%1:23:00::
+vietnam%1:15:00:: macedonia%1:15:00::
+vietnam%1:15:00:: malaysia%1:15:00:: ringgit%1:23:00::
+vietnam%1:15:00:: mexico%1:15:00:: peso%1:23:06::
+vietnam%1:15:00:: nigeria%1:15:00:: naira%1:23:00::
+vietnam%1:15:00:: poland%1:15:00:: zloty%1:23:00::
+vietnam%1:15:00:: romania%1:15:00:: leu%1:23:00::
+vietnam%1:15:00:: russia%1:15:02:: ruble%1:23:00::
+vietnam%1:15:00:: sweden%1:15:00:: krona%1:23:02::
+vietnam%1:15:00:: thailand%1:15:00:: baht%1:23:00::
+vietnam%1:15:00:: ukraine%1:15:00:: hryvnia%1:23:00::
+vietnam%1:15:00:: usa%1:15:00:: dollar%1:21:01::

@@ -3,6 +3,7 @@
  */
 
 import com.google.common.base.Joiner;
+import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import de.tudarmstadt.ukp.dkpro.wsd.lesk.algorithm.SimplifiedExtendedLesk;
 import de.tudarmstadt.ukp.dkpro.wsd.lesk.algorithm.SimplifiedLesk;
@@ -32,6 +33,8 @@ public class WSD {
     private SimplifiedLesk lesk;
 
     private static Joiner JOINER = Joiner.on(" ").skipNulls();
+    private static List<String> FILENAMES= ImmutableList.of("city","family","gram1-adj-adv","gram2-opposite","gram3-comparative","gram4-superlative",
+            "gram5-present-participle","gram6-nationality-adj","gram7-past-tense","gram8-plural","gram9-plural-verbs");
 
     public WSD(WordNetSenseKeySenseInventory inventory) {
         this.inventory = inventory;
@@ -310,6 +313,14 @@ public class WSD {
         return new Indices(li, ri);
     }
 
+    public void generateQASenseFromFiles() {
+        for(String filename: FILENAMES) {
+            String inputFilename = "../data/" + filename + "-l-pos.txt";
+            String outputFilename = "../data/" + filename + "-synsets.txt";
+            generateQASenses(inputFilename, outputFilename);
+        }
+
+    }
 
     public static void main(String[] args) throws Exception {
 
@@ -328,9 +339,8 @@ public class WSD {
 //            wsd.generateWordStreamSenses(if2, of2, 4, 1000000);
 //        }
 
-        String inputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-l-pos.txt";
-        String outputFilename = "/home/yves/code/github/FML-FA16-Project/data/capital-common-countries-synsets.txt";
-        wsd.generateQASenses(inputFilename, outputFilename);
+        wsd.generateQASenseFromFiles();
+
     }
 
 

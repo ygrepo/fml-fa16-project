@@ -1,0 +1,811 @@
+: gram2-opposite
+acceptable%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+acceptable%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+acceptable%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+acceptable%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+acceptable%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+acceptable%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+acceptable%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+acceptable%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+acceptable%3:00:00:: decided%5:00:00:definite:00
+acceptable%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+acceptable%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+acceptable%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+acceptable%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+acceptable%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+acceptable%3:00:00:: uninformative%3:00:00::
+acceptable%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+acceptable%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+acceptable%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+acceptable%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+acceptable%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+acceptable%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+acceptable%3:00:00::
+acceptable%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+acceptable%3:00:00::
+acceptable%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+acceptable%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+acceptable%3:00:00:: sure%3:00:00::
+acceptable%3:00:00:: tasteful%5:00:00:elegant:00 distasteful%5:00:00:unpalatable:00
+aware%3:00:00:: unaware%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+aware%3:00:00:: unaware%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+aware%3:00:00:: unaware%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+aware%3:00:00:: unaware%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+aware%3:00:00:: unaware%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: decided%5:00:00:definite:00
+aware%3:00:00:: unaware%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: uninformative%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+aware%3:00:00:: unaware%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+aware%3:00:00:: unaware%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+aware%3:00:00:: unaware%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+aware%3:00:00:: unaware%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+aware%3:00:00:: unaware%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: sure%3:00:00::
+aware%3:00:00:: unaware%3:00:00:: tasteful%5:00:00:elegant:00
+aware%3:00:00:: unaware%3:00:00:: acceptable%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: clear%5:00:00:distinct:00 unclear%3:00:04::
+certain%3:00:01:: uncertain%3:00:01:: comfortable%3:00:01:: uncomfortable%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: uncompetitive%5:00:00:noncompetitive:00
+certain%3:00:01:: uncertain%3:00:01:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+certain%3:00:01:: uncertain%3:00:01:: convincing%3:00:00:: unconvincing%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: convenient%3:00:00:: inconvenient%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: decided%5:00:00:definite:00
+certain%3:00:01:: uncertain%3:00:01:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: ethical%5:00:00:right:01 unethical%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: impressive%3:00:00:: unimpressive%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: uninformative%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: informed%3:00:00:: uninformed%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+certain%3:00:01:: uncertain%3:00:01:: likely%3:00:04:: unlikely%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+certain%3:00:01:: uncertain%3:00:01:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+certain%3:00:01:: uncertain%5:00:00:ambiguous:00 possible%3:00:00:: impossible%3:00:00::
+certain%3:00:01:: uncertain%3:00:01::
+certain%3:00:01:: uncertain%3:00:01:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+certain%3:00:01:: uncertain%3:00:01::
+certain%3:00:01:: uncertain%3:00:01:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+certain%3:00:01:: uncertain%3:00:01:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: sure%5:00:00:steady:00 unsure%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: tasteful%5:00:00:elegant:00
+certain%3:00:01:: uncertain%3:00:01:: acceptable%3:00:00::
+certain%3:00:01:: uncertain%3:00:01:: aware%3:00:00:: unaware%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: comfortable%3:00:01:: uncomfortable%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: uncompetitive%5:00:00:noncompetitive:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: convincing%3:00:00:: unconvincing%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: convenient%3:00:00:: inconvenient%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: decided%5:00:00:definite:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: ethical%5:00:00:right:01 unethical%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: impressive%3:00:00:: unimpressive%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: informative%3:00:04:: uninformative%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: informed%3:00:00:: uninformed%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: likely%3:00:04:: unlikely%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: logical%5:00:00:rational:00 illogical%5:00:00:incoherent:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: possible%3:00:00:: impossible%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04::
+clear%5:00:00:distinct:00 unclear%3:00:04:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: rational%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: sure%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: tasteful%5:00:00:elegant:00
+clear%5:00:00:distinct:00 unclear%3:00:04:: acceptable%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: aware%3:00:00:: unaware%3:00:00::
+clear%5:00:00:distinct:00 unclear%3:00:04:: certain%3:00:01:: uncertain%3:00:01::
+comfortable%3:00:01:: uncomfortable%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: decided%5:00:00:definite:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+comfortable%5:00:00:rich:00 uncomfortable%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: uninformative%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:01:: sure%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: tasteful%5:00:00:elegant:00
+comfortable%3:00:01:: uncomfortable%3:00:00:: acceptable%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+comfortable%3:00:01:: uncomfortable%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+comfortable%3:00:01:: uncomfortable%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+uncompetitive%5:00:00:noncompetitive:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+uncompetitive%5:00:00:noncompetitive:00 convincing%3:00:00:: unconvincing%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 convenient%3:00:00:: inconvenient%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 decided%5:00:00:definite:00
+uncompetitive%5:00:00:noncompetitive:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 ethical%5:00:00:right:01 unethical%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 impressive%3:00:00:: unimpressive%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 uninformative%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 informed%3:00:00:: uninformed%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+uncompetitive%5:00:00:noncompetitive:00 likely%3:00:04:: unlikely%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 logical%3:00:00:: illogical%5:00:00:incoherent:00
+uncompetitive%5:00:00:noncompetitive:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 possible%3:00:00:: impossible%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00
+uncompetitive%5:00:00:noncompetitive:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00
+uncompetitive%5:00:00:noncompetitive:00 reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+uncompetitive%5:00:00:noncompetitive:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 sure%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 tasteful%5:00:00:elegant:00
+uncompetitive%5:00:00:noncompetitive:00 acceptable%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 aware%3:00:00:: unaware%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00 certain%3:00:01:: uncertain%3:00:01::
+uncompetitive%5:00:00:noncompetitive:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+uncompetitive%5:00:00:noncompetitive:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 convincing%3:00:00:: unconvincing%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 convenient%3:00:00:: inconvenient%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 decided%5:00:00:definite:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 ethical%5:00:00:right:01 unethical%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 impressive%3:00:00:: unimpressive%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 uninformative%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 informed%3:00:00:: uninformed%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 likely%3:00:04:: unlikely%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 logical%3:00:05:: illogical%5:00:00:incoherent:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 possible%3:00:00:: impossible%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 rational%5:00:00:intellectual:00 irrational%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 reasonable%5:00:00:rational:00 unreasonable%5:00:00:immoderate:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 sure%5:00:00:true:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 tasteful%5:00:00:elegant:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 acceptable%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 aware%3:00:00:: unaware%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 certain%3:00:01:: uncertain%3:00:01::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00 uncompetitive%5:00:00:noncompetitive:00
+convincing%3:00:00:: unconvincing%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: decided%5:00:00:definite:00
+convincing%3:00:00:: unconvincing%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: uninformative%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+convincing%3:00:00:: unconvincing%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+convincing%3:00:00:: unconvincing%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+convincing%3:00:00:: unconvincing%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: sure%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: tasteful%5:00:00:elegant:00
+convincing%3:00:00:: unconvincing%3:00:00:: acceptable%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+convincing%3:00:00:: unconvincing%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+convincing%3:00:00:: unconvincing%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+convincing%3:00:00:: unconvincing%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+convincing%3:00:00:: unconvincing%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+convenient%3:00:00:: inconvenient%3:00:00:: decided%5:00:00:definite:00
+convenient%3:00:00:: inconvenient%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: uninformative%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+convenient%3:00:00:: inconvenient%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+convenient%3:00:00:: inconvenient%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+convenient%3:00:00:: inconvenient%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: sure%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: tasteful%5:00:00:elegant:00
+convenient%3:00:00:: inconvenient%3:00:00:: acceptable%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+convenient%3:00:00:: inconvenient%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+convenient%3:00:00:: inconvenient%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+convenient%3:00:00:: inconvenient%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+convenient%3:00:00:: inconvenient%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+decided%5:00:00:definite:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+decided%5:00:00:definite:00 ethical%5:00:00:right:01 unethical%3:00:00::
+decided%5:00:00:definite:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+decided%5:00:00:definite:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+decided%5:00:00:definite:00 impressive%3:00:00:: unimpressive%3:00:00::
+decided%5:00:00:definite:00 uninformative%3:00:00::
+decided%5:00:00:definite:00 informed%3:00:00:: uninformed%3:00:00::
+decided%5:00:00:definite:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+decided%5:00:00:definite:00 likely%3:00:04:: unlikely%3:00:00::
+decided%5:00:00:definite:00 logical%3:00:00:: illogical%5:00:00:incoherent:00
+decided%5:00:00:definite:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+decided%5:00:00:definite:00 possible%3:00:00:: impossible%3:00:00::
+decided%5:00:00:definite:00
+decided%5:00:00:definite:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+decided%5:00:00:definite:00
+decided%5:00:00:definite:00 reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+decided%5:00:00:definite:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+decided%5:00:00:definite:00 sure%3:00:00::
+decided%5:00:00:definite:00 tasteful%5:00:00:elegant:00
+decided%5:00:00:definite:00 acceptable%3:00:00::
+decided%5:00:00:definite:00 aware%3:00:00:: unaware%3:00:00::
+decided%5:00:00:definite:00 certain%3:00:01:: uncertain%3:00:01::
+decided%5:00:00:definite:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+decided%5:00:00:definite:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+decided%5:00:00:definite:00 uncompetitive%5:00:00:noncompetitive:00
+decided%5:00:00:definite:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+decided%5:00:00:definite:00 convincing%3:00:00:: unconvincing%3:00:00::
+decided%5:00:00:definite:00 convenient%3:00:00:: inconvenient%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: uninformative%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: sure%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: tasteful%5:00:00:elegant:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: acceptable%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+efficient%5:00:00:competent:00 inefficient%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+efficient%5:00:00:competent:00 inefficient%3:00:00:: decided%5:00:00:definite:00
+ethical%5:00:00:right:01 unethical%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: uninformative%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+ethical%5:00:00:right:01 unethical%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+ethical%5:00:00:right:01 unethical%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+ethical%5:00:00:right:01 unethical%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: sure%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: tasteful%5:00:00:elegant:00
+ethical%5:00:00:right:01 unethical%3:00:00:: acceptable%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+ethical%5:00:00:right:01 unethical%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+ethical%5:00:00:right:01 unethical%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+ethical%5:00:00:right:01 unethical%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+ethical%5:00:00:right:01 unethical%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00:: decided%5:00:00:definite:00
+ethical%5:00:00:right:01 unethical%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: uninformative%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:04:: likely%3:00:04:: unlikely%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: sure%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: tasteful%5:00:00:elegant:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: acceptable%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: comfortable%5:00:00:rich:00 uncomfortable%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: decided%5:00:00:definite:00
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: uninformative%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: sure%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: tasteful%5:00:00:elegant:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: acceptable%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: decided%5:00:00:definite:00
+honest%5:00:00:sincere:00 dishonest%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: uninformative%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+impressive%3:00:00:: unimpressive%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+impressive%3:00:00:: unimpressive%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+impressive%3:00:00:: unimpressive%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: sure%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: tasteful%5:00:00:elegant:00
+impressive%3:00:00:: unimpressive%3:00:00:: acceptable%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+impressive%3:00:00:: unimpressive%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+impressive%3:00:00:: unimpressive%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+impressive%3:00:00:: unimpressive%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+impressive%3:00:00:: unimpressive%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: decided%5:00:00:definite:00
+impressive%3:00:00:: unimpressive%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+uninformative%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+uninformative%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+uninformative%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+uninformative%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+uninformative%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+uninformative%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+uninformative%3:00:00::
+uninformative%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+uninformative%3:00:00::
+uninformative%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+uninformative%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+uninformative%3:00:00:: sure%3:00:00::
+uninformative%3:00:00:: tasteful%5:00:00:elegant:00
+uninformative%3:00:00:: acceptable%3:00:00::
+uninformative%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+uninformative%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+informative%3:00:04:: uninformative%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+uninformative%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+uninformative%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+uninformative%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+uninformative%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+uninformative%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+uninformative%3:00:00:: decided%5:00:00:definite:00
+uninformative%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+uninformative%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+uninformative%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+uninformative%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+uninformative%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+informed%3:00:00:: uninformed%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+informed%3:00:00:: uninformed%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+informed%3:00:00:: uninformed%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+informed%3:00:00:: uninformed%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+informed%3:00:00:: uninformed%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: sure%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: tasteful%5:00:00:elegant:00
+informed%3:00:00:: uninformed%3:00:00:: acceptable%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+informed%3:00:00:: uninformed%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+informed%3:00:00:: uninformed%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+informed%3:00:00:: uninformed%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+informed%3:00:00:: uninformed%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: decided%5:00:00:definite:00
+informed%3:00:00:: uninformed%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+informed%3:00:00:: uninformed%3:00:00:: uninformative%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 likely%3:00:04:: unlikely%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 logical%5:00:00:valid:00 illogical%5:00:00:incoherent:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 possible%3:00:00:: impossible%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 sure%5:00:02:certain:01
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 tasteful%5:00:00:elegant:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 acceptable%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 aware%3:00:00:: unaware%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 certain%3:00:01:: uncertain%3:00:01::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 uncompetitive%5:00:00:noncompetitive:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 convincing%3:00:00:: unconvincing%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 convenient%3:00:00:: inconvenient%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 decided%5:00:00:definite:00
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 ethical%5:00:00:right:01 unethical%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 impressive%3:00:00:: unimpressive%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 uninformative%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00 informed%3:00:00:: uninformed%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+likely%3:00:00:: unlikely%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: possible%3:00:00:: impossible%5:00:00:unthinkable:00
+likely%3:00:04:: unlikely%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+likely%3:00:04:: unlikely%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+likely%3:00:04:: unlikely%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: sure%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: tasteful%5:00:00:elegant:00
+likely%3:00:04:: unlikely%3:00:00:: acceptable%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+likely%3:00:04:: unlikely%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+likely%3:00:04:: unlikely%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+likely%3:00:04:: unlikely%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+likely%3:00:04:: unlikely%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: decided%5:00:00:definite:00
+likely%3:00:04:: unlikely%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:04::
+likely%3:00:04:: unlikely%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: uninformative%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+likely%3:00:04:: unlikely%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 possible%3:00:00:: impossible%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 irrational%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 sure%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 tasteful%5:00:00:elegant:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 acceptable%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 aware%3:00:00:: unaware%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 certain%3:00:01:: uncertain%3:00:01::
+logical%5:00:00:rational:00 illogical%5:00:00:incoherent:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 uncompetitive%5:00:00:noncompetitive:00
+logical%3:00:05:: illogical%5:00:00:incoherent:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 convincing%3:00:00:: unconvincing%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 convenient%3:00:00:: inconvenient%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 decided%5:00:00:definite:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 ethical%5:00:00:right:01 unethical%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 impressive%3:00:00:: unimpressive%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 uninformative%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00 informed%3:00:00:: uninformed%3:00:00::
+logical%5:00:00:valid:00 illogical%5:00:00:incoherent:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+logical%3:00:00:: illogical%5:00:00:incoherent:00 likely%3:00:04:: unlikely%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: sure%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: tasteful%5:00:00:elegant:00 distasteful%5:00:00:unpalatable:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: acceptable%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: decided%5:00:00:definite:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: uninformative%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: likely%3:00:00:: unlikely%3:00:00::
+pleasant%5:00:00:nice:00 unpleasant%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+possible%3:00:00:: impossible%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+possible%3:00:00:: impossible%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+possible%3:00:00:: impossible%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: sure%5:00:02:certain:01
+possible%3:00:00:: impossible%3:00:00:: tasteful%5:00:00:elegant:00
+possible%3:00:00:: impossible%3:00:00:: acceptable%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: certain%3:00:01:: uncertain%5:00:00:ambiguous:00
+possible%3:00:00:: impossible%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+possible%3:00:00:: impossible%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+possible%3:00:00:: impossible%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+possible%3:00:00:: impossible%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: decided%5:00:00:definite:00
+possible%3:00:00:: impossible%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: uninformative%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+possible%3:00:00:: impossible%5:00:00:unthinkable:00 likely%3:00:04:: unlikely%3:00:00::
+possible%3:00:00:: impossible%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+possible%3:00:00:: impossible%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00::
+sure%3:00:00::
+tasteful%5:00:00:elegant:00
+acceptable%3:00:00::
+aware%3:00:00:: unaware%3:00:00::
+certain%3:00:01:: uncertain%3:00:01::
+clear%5:00:00:distinct:00 unclear%3:00:04::
+comfortable%3:00:01:: uncomfortable%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00
+consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+convincing%3:00:00:: unconvincing%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00::
+decided%5:00:00:definite:00
+efficient%5:00:00:competent:00 inefficient%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00::
+uninformative%3:00:00::
+informed%3:00:00:: uninformed%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00
+likely%3:00:04:: unlikely%3:00:00::
+logical%3:00:00:: illogical%5:00:00:incoherent:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+possible%3:00:00:: impossible%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: sure%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: tasteful%5:00:00:elegant:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: acceptable%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: decided%5:00:00:definite:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: uninformative%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00::
+sure%3:00:00::
+tasteful%5:00:00:elegant:00
+acceptable%3:00:00::
+aware%3:00:00:: unaware%3:00:00::
+certain%3:00:01:: uncertain%3:00:01::
+rational%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+comfortable%3:00:01:: uncomfortable%3:00:00::
+uncompetitive%5:00:00:noncompetitive:00
+rational%5:00:00:intellectual:00 irrational%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+convincing%3:00:00:: unconvincing%3:00:00::
+convenient%3:00:00:: inconvenient%3:00:00::
+decided%5:00:00:definite:00
+efficient%5:00:00:competent:00 inefficient%3:00:00::
+ethical%5:00:00:right:01 unethical%3:00:00::
+fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+honest%5:00:00:sincere:00 dishonest%3:00:00::
+impressive%3:00:00:: unimpressive%3:00:00::
+uninformative%3:00:00::
+informed%3:00:00:: uninformed%3:00:00::
+known%3:00:00:: unknown%5:00:00:unfamiliar:00
+likely%3:00:04:: unlikely%3:00:00::
+irrational%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+possible%3:00:00:: impossible%3:00:00::
+productive%5:00:00:fruitful:00 unproductive%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 sure%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 tasteful%5:00:00:elegant:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 acceptable%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 aware%3:00:00:: unaware%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 certain%3:00:01:: uncertain%3:00:01::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 uncompetitive%5:00:00:noncompetitive:00
+reasonable%5:00:00:rational:00 unreasonable%5:00:00:immoderate:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 convincing%3:00:00:: unconvincing%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 convenient%3:00:00:: inconvenient%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 decided%5:00:00:definite:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 ethical%5:00:00:right:01 unethical%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 impressive%3:00:00:: unimpressive%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 uninformative%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 informed%3:00:00:: uninformed%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 likely%3:00:04:: unlikely%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 logical%3:00:00:: illogical%5:00:00:incoherent:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 possible%3:00:00:: impossible%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: sure%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: tasteful%5:00:00:elegant:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: acceptable%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: decided%5:00:00:definite:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: uninformative%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: known%3:00:00:: unknown%5:00:00:unfamiliar:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: possible%3:00:00:: impossible%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00::
+responsible%5:00:00:causative:00 irresponsible%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+sure%3:00:00:: tasteful%5:00:00:elegant:00
+sure%3:00:00:: acceptable%3:00:00::
+sure%3:00:00:: aware%3:00:00:: unaware%3:00:00::
+sure%5:00:00:steady:00 unsure%3:00:00:: certain%3:00:01:: uncertain%3:00:01::
+sure%3:00:00:: clear%5:00:00:distinct:00 unclear%3:00:04::
+sure%3:00:00:: comfortable%3:00:01:: uncomfortable%3:00:01::
+sure%3:00:00:: uncompetitive%5:00:00:noncompetitive:00
+sure%5:00:00:true:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+sure%3:00:00:: convincing%3:00:00:: unconvincing%3:00:00::
+sure%3:00:00:: convenient%3:00:00:: inconvenient%3:00:00::
+sure%3:00:00:: decided%5:00:00:definite:00
+sure%3:00:00:: efficient%5:00:00:competent:00 inefficient%3:00:00::
+sure%3:00:00:: ethical%5:00:00:right:01 unethical%3:00:00::
+sure%3:00:00:: fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+sure%3:00:00:: honest%5:00:00:sincere:00 dishonest%3:00:00::
+sure%3:00:00:: impressive%3:00:00:: unimpressive%3:00:00::
+sure%3:00:00:: uninformative%3:00:00::
+sure%3:00:00:: informed%3:00:00:: uninformed%3:00:00::
+sure%5:00:02:certain:01 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+sure%3:00:00:: likely%3:00:04:: unlikely%3:00:00::
+sure%3:00:00:: logical%3:00:00:: illogical%5:00:00:incoherent:00
+sure%3:00:00:: pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+sure%5:00:02:certain:01 possible%3:00:00:: impossible%3:00:00::
+sure%3:00:00::
+sure%3:00:00:: productive%5:00:00:fruitful:00 unproductive%3:00:00::
+sure%3:00:00::
+sure%3:00:00:: reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+sure%3:00:00:: responsible%5:00:00:causative:00 irresponsible%3:00:00::
+tasteful%5:00:00:elegant:00 distasteful%5:00:00:unpalatable:00 acceptable%3:00:00::
+tasteful%5:00:00:elegant:00 aware%3:00:00:: unaware%3:00:00::
+tasteful%5:00:00:elegant:00 certain%3:00:01:: uncertain%3:00:01::
+tasteful%5:00:00:elegant:00 clear%5:00:00:distinct:00 unclear%3:00:04::
+tasteful%5:00:00:elegant:00 comfortable%3:00:01:: uncomfortable%3:00:00::
+tasteful%5:00:00:elegant:00 uncompetitive%5:00:00:noncompetitive:00
+tasteful%5:00:00:elegant:00 consistent%3:00:01:: inconsistent%5:00:00:irreconcilable:00
+tasteful%5:00:00:elegant:00 convincing%3:00:00:: unconvincing%3:00:00::
+tasteful%5:00:00:elegant:00 convenient%3:00:00:: inconvenient%3:00:00::
+tasteful%5:00:00:elegant:00 decided%5:00:00:definite:00
+tasteful%5:00:00:elegant:00 efficient%5:00:00:competent:00 inefficient%3:00:00::
+tasteful%5:00:00:elegant:00 ethical%5:00:00:right:01 unethical%3:00:00::
+tasteful%5:00:00:elegant:00 fortunate%5:00:00:blessed:00 unfortunate%3:00:00::
+tasteful%5:00:00:elegant:00 honest%5:00:00:sincere:00 dishonest%3:00:00::
+tasteful%5:00:00:elegant:00 impressive%3:00:00:: unimpressive%3:00:00::
+tasteful%5:00:00:elegant:00 uninformative%3:00:00::
+tasteful%5:00:00:elegant:00 informed%3:00:00:: uninformed%3:00:00::
+tasteful%5:00:00:elegant:00 known%3:00:00:: unknown%5:00:00:unfamiliar:00
+tasteful%5:00:00:elegant:00 likely%3:00:04:: unlikely%3:00:00::
+tasteful%5:00:00:elegant:00 logical%3:00:00:: illogical%5:00:00:incoherent:00
+tasteful%5:00:00:elegant:00 distasteful%5:00:00:unpalatable:00 pleasant%5:00:00:nice:00 unpleasant%3:00:00::
+tasteful%5:00:00:elegant:00 possible%3:00:00:: impossible%3:00:00::
+tasteful%5:00:00:elegant:00
+tasteful%5:00:00:elegant:00 productive%5:00:00:fruitful:00 unproductive%3:00:00::
+tasteful%5:00:00:elegant:00
+tasteful%5:00:00:elegant:00 reasonable%5:00:00:moderate:00 unreasonable%5:00:00:immoderate:00
+tasteful%5:00:00:elegant:00 responsible%5:00:00:causative:00 irresponsible%3:00:00::
+tasteful%5:00:00:elegant:00 sure%3:00:00::

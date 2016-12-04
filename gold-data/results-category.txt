@@ -1,3 +1,6 @@
+CAPITAL-COUNTRIES
+=================
+
 Data file:  data/text8
 Vocab size:  71290  + UNK
 Words per epoch:  17005207
@@ -16,6 +19,8 @@ Questions:  462
 Skipped:  44
 Eval   90/462 accuracy = 19.5%
 
+WITH SYNSETS:
+============
 
 ata file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
 Data file:  data/2016-12-04-text8-synsets.txt
@@ -46,3 +51,60 @@ Eval  204/506 accuracy = 40.3%
 
 Lenient=True
 Eval  278/506 accuracy = 54.9%
+
+CAPITAL WORLD
+=============
+
+WITH WORDS
+==========
+Questions:  3564
+Skipped:  960
+
+Eval 1396/3564 accuracy = 39.2%
+
+WITH SYNSETS:
+============
+
+Lenient=False
+Eval analogy file:  data/capital-world-synsets.txt
+Questions:  2961
+Skipped:  1563
+Eval  647/2961 accuracy = 21.9%
+Lenient=False
+
+Eval analogy file:  data/capital-world-synsets.txt
+Questions:  2961
+Skipped:  1563
+Lenient=True
+Eval  803/2961 accuracy = 27.1%
+
+CURRENCY
+========
+WITH WORDS
+==========
+Eval analogy file:  data/currency.txt
+Questions:  596
+Skipped:  270
+
+Eval   71/596 accuracy = 11.9%
+
+WITH SYNSETS:
+============
+
+Lenient=False
+Eval analogy file:  data/currency-synsets.txt
+Questions:  261
+Skipped:  605
+
+Eval    9/261 accuracy =  3.4%
+
+Lenient=True
+Questions:  261
+Skipped:  605
+
+Eval   10/261 accuracy =  3.8%
+
+
+
+
+

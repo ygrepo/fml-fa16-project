@@ -1,0 +1,1549 @@
+: gram7-past-tense
+dance%2:36:00:: dance%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
+dance%2:36:00:: dance%2:36:00:: describe%2:32:00:: describe%2:32:00::
+dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: fall%2:30:08:: fell%2:35:00::
+dance%2:36:00:: dance%2:36:00:: feed%2:34:00:: feed%2:34:00::
+dance%2:36:00:: dance%2:36:00:: fly%2:39:00:: fly%2:39:00::
+dance%2:36:00:: dance%2:36:00:: generate%2:36:00:: generate%2:36:00::
+dance%2:36:00:: dance%2:36:00:: go%2:30:08:: go%2:30:08::
+dance%2:36:00:: dance%2:36:00:: hide%2:39:01:: hide%2:39:01::
+dance%2:36:00:: dance%2:36:00:: hit%2:35:03:: hit%2:35:03::
+dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: increase%2:30:02:: increase%2:30:02::
+dance%2:36:00:: dance%2:36:00:: jump%2:38:11:: jump%2:38:11::
+dance%2:36:00:: dance%2:36:00:: know%2:31:03:: know%2:31:03::
+dance%2:36:00:: dance%2:36:00:: listen%2:39:00:: listen%2:39:00::
+dance%2:36:00:: dance%2:36:00:: look%2:39:00:: look%2:39:00::
+dance%2:36:00:: dance%2:36:00:: move%2:38:00:: move%2:38:00::
+dance%2:36:00:: dance%2:36:00:: pay%2:40:00:: pay%2:40:00::
+dance%2:36:00:: dance%2:36:00:: play%2:36:00:: play%2:36:00::
+dance%2:36:00:: dance%2:36:00:: predict%2:32:00:: predict%2:32:00::
+dance%2:36:00:: dance%2:36:00:: read%2:31:00:: read%2:31:00::
+dance%2:36:00:: dance%2:36:00:: run%2:38:04:: run%2:38:04::
+dance%2:36:00:: dance%2:36:00:: say%2:32:00:: say%2:32:00::
+dance%2:36:00:: dance%2:36:00:: scream%2:32:01:: scream%2:32:01::
+dance%2:36:00:: dance%2:36:00:: see%2:39:00:: saw%2:35:00::
+dance%2:36:00:: dance%2:36:00:: sell%2:40:00:: sell%2:40:00::
+dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: sing%2:36:00:: sing%2:36:00::
+dance%2:36:00:: dance%2:36:00:: sit%2:35:00:: sit%2:35:00::
+dance%2:36:00:: dance%2:36:00:: sleep%2:29:00:: sleep%2:29:00::
+dance%2:36:00:: dance%2:36:00:: slow%2:30:01:: slow%2:30:01::
+dance%2:36:00:: dance%2:36:00:: spend%2:42:00:: spend%2:42:00::
+dance%2:36:00:: dance%2:36:00:: strike%2:35:00:: strike%2:35:00::
+dance%2:36:00:: dance%2:36:00:: swim%2:38:00:: swim%2:38:00::
+dance%2:36:00:: dance%2:36:00:: take%2:41:00:: take%2:41:00::
+dance%2:36:00:: dance%2:36:00:: think%2:31:00:: think%2:31:00::
+dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: walk%2:38:00:: walk%2:38:00::
+dance%2:36:00:: dance%2:36:00:: write%2:36:04:: write%2:36:04::
+decrease%2:30:00:: decrease%2:30:00:: describe%2:32:00:: describe%2:32:00::
+decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: fall%2:30:08:: fell%2:38:09::
+decrease%2:30:00:: decrease%2:30:00:: feed%2:34:00:: feed%2:34:00::
+decrease%2:30:00:: decrease%2:30:00:: fly%2:30:00:: fly%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: generate%2:36:00:: generate%2:36:00::
+decrease%2:30:00:: decrease%2:30:00:: go%2:30:08:: go%2:30:08::
+decrease%2:30:00:: decrease%2:30:00:: hide%2:39:01:: hide%2:39:01::
+decrease%2:30:00:: decrease%2:30:00:: hit%2:35:03:: hit%2:35:03::
+decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: increase%2:30:00:: increase%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: jump%2:38:11:: jump%2:38:11::
+decrease%2:30:00:: decrease%2:30:00:: know%2:31:03:: know%2:31:03::
+decrease%2:30:00:: decrease%2:30:00:: listen%2:39:00:: listen%2:39:00::
+decrease%2:30:00:: decrease%2:30:00:: look%2:39:00:: look%2:39:00::
+decrease%2:30:00:: decrease%2:30:00:: move%2:38:00:: move%2:38:00::
+decrease%2:30:00:: decrease%2:30:00:: pay%2:40:00:: pay%2:40:00::
+decrease%2:30:00:: decrease%2:30:00:: play%2:36:00:: play%2:36:00::
+decrease%2:30:00:: decrease%2:30:00:: predict%2:32:00:: predict%2:32:00::
+decrease%2:30:00:: decrease%2:30:00:: read%2:31:00:: read%2:31:00::
+decrease%2:30:00:: decrease%2:30:00:: run%2:38:04:: run%2:38:04::
+decrease%2:30:00:: decrease%2:30:00:: say%2:32:00:: say%2:32:00::
+decrease%2:30:00:: decrease%2:30:00:: scream%2:32:01:: scream%2:32:01::
+decrease%2:30:00:: decrease%2:30:00:: see%2:39:00:: saw%2:35:00::
+decrease%2:30:00:: decrease%2:30:00:: sell%2:40:00:: sell%2:40:00::
+decrease%2:30:00:: decrease%2:30:00:: shrink%2:30:11:: shrink%2:30:11::
+decrease%2:30:00:: decrease%2:30:00:: sing%2:36:00:: sing%2:36:00::
+decrease%2:30:00:: decrease%2:30:00:: sit%2:35:00:: sit%2:35:00::
+decrease%2:30:00:: decrease%2:30:00:: sleep%2:29:00:: sleep%2:29:00::
+decrease%2:30:00:: decrease%2:30:00:: slow%2:30:01:: slow%2:30:01::
+decrease%2:30:00:: decrease%2:30:00:: spend%2:42:00:: spend%2:42:00::
+decrease%2:30:00:: decrease%2:30:00:: strike%2:35:00:: strike%2:35:00::
+decrease%2:30:00:: decrease%2:30:00:: swim%2:38:00:: swim%2:38:00::
+decrease%2:30:00:: decrease%2:30:00:: take%2:41:00:: take%2:41:00::
+decrease%2:30:00:: decrease%2:30:00:: think%2:31:00:: think%2:31:00::
+decrease%2:30:00:: decrease%2:30:00:: vanish%2:30:01:: vanish%2:30:01::
+decrease%2:30:00:: decrease%2:30:00:: walk%2:38:00:: walk%2:38:00::
+decrease%2:30:00:: decrease%2:30:00:: write%2:36:04:: write%2:36:04::
+decrease%2:30:00:: decrease%2:30:00:: dance%2:36:00:: dance%2:36:00::
+describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: fall%2:30:08:: fell%2:35:00::
+describe%2:32:00:: describe%2:32:00:: feed%2:34:00:: feed%2:34:00::
+describe%2:32:00:: describe%2:32:00:: fly%2:39:00:: fly%2:39:00::
+describe%2:32:00:: describe%2:32:00:: generate%2:36:00:: generate%2:36:00::
+describe%2:32:00:: describe%2:32:00:: go%2:30:08:: go%2:30:08::
+describe%2:32:00:: describe%2:32:00:: hide%2:39:01:: hide%2:39:01::
+describe%2:32:00:: describe%2:32:00:: hit%2:35:03:: hit%2:35:03::
+describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: increase%2:30:02:: increase%2:30:02::
+describe%2:32:00:: describe%2:32:00:: jump%2:38:11:: jump%2:38:11::
+describe%2:32:00:: describe%2:32:00:: know%2:31:03:: know%2:31:03::
+describe%2:32:00:: describe%2:32:00:: listen%2:39:00:: listen%2:39:00::
+describe%2:32:00:: describe%2:32:00:: look%2:39:00:: look%2:39:00::
+describe%2:32:00:: describe%2:32:00:: move%2:38:00:: move%2:38:00::
+describe%2:32:00:: describe%2:32:00:: pay%2:40:00:: pay%2:40:00::
+describe%2:32:00:: describe%2:32:00:: play%2:36:00:: play%2:36:00::
+describe%2:32:00:: describe%2:32:00:: predict%2:32:00:: predict%2:32:00::
+describe%2:32:00:: describe%2:32:00:: read%2:31:00:: read%2:31:00::
+describe%2:32:00:: describe%2:32:00:: run%2:38:04:: run%2:38:04::
+describe%2:32:00:: describe%2:32:00:: say%2:32:00:: say%2:32:00::
+describe%2:32:00:: describe%2:32:00:: scream%2:32:01:: scream%2:32:01::
+describe%2:32:00:: describe%2:32:00:: see%2:39:00:: saw%2:35:00::
+describe%2:32:00:: describe%2:32:00:: sell%2:40:00:: sell%2:40:00::
+describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: sing%2:36:00:: sing%2:36:00::
+describe%2:32:00:: describe%2:32:00:: sit%2:35:00:: sit%2:35:00::
+describe%2:32:00:: describe%2:32:00:: sleep%2:29:00:: sleep%2:29:00::
+describe%2:32:00:: describe%2:32:00:: slow%2:30:01:: slow%2:30:01::
+describe%2:32:00:: describe%2:32:00:: spend%2:42:00:: spend%2:42:00::
+describe%2:32:00:: describe%2:32:00:: strike%2:35:00:: strike%2:35:00::
+describe%2:32:00:: describe%2:32:00:: swim%2:38:00:: swim%2:38:00::
+describe%2:32:00:: describe%2:32:00:: take%2:41:00:: take%2:41:00::
+describe%2:32:00:: describe%2:32:00:: think%2:31:00:: think%2:31:00::
+describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: walk%2:38:00:: walk%2:38:00::
+describe%2:32:00:: describe%2:32:00:: write%2:36:04:: write%2:36:04::
+describe%2:32:00:: describe%2:32:00:: dance%2:36:00:: dance%2:36:00::
+describe%2:32:00:: describe%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
+fall%2:30:08:: fell%2:35:00::
+feed%2:34:00:: feed%2:34:00::
+fly%2:39:00:: fly%2:39:00::
+generate%2:36:00:: generate%2:36:00::
+go%2:30:08:: go%2:30:08::
+hide%2:39:01:: hide%2:39:01::
+hit%2:35:03:: hit%2:35:03::
+enhance%2:30:00:: enhance%2:30:00:: increase%2:30:02:: increase%2:30:02::
+jump%2:38:11:: jump%2:38:11::
+know%2:31:03:: know%2:31:03::
+listen%2:39:00:: listen%2:39:00::
+look%2:39:00:: look%2:39:00::
+move%2:38:00:: move%2:38:00::
+pay%2:40:00:: pay%2:40:00::
+play%2:36:00:: play%2:36:00::
+predict%2:32:00:: predict%2:32:00::
+read%2:31:00:: read%2:31:00::
+run%2:38:04:: run%2:38:04::
+say%2:32:00:: say%2:32:00::
+scream%2:32:01:: scream%2:32:01::
+see%2:39:00:: saw%2:35:00::
+sell%2:40:00:: sell%2:40:00::
+sing%2:36:00:: sing%2:36:00::
+sit%2:35:00:: sit%2:35:00::
+sleep%2:29:00:: sleep%2:29:00::
+slow%2:30:01:: slow%2:30:01::
+spend%2:42:00:: spend%2:42:00::
+strike%2:35:00:: strike%2:35:00::
+swim%2:38:00:: swim%2:38:00::
+take%2:41:00:: take%2:41:00::
+think%2:31:00:: think%2:31:00::
+walk%2:38:00:: walk%2:38:00::
+write%2:36:04:: write%2:36:04::
+dance%2:36:00:: dance%2:36:00::
+decrease%2:30:00:: decrease%2:30:00::
+describe%2:32:00:: describe%2:32:00::
+fall%2:30:08:: fell%2:35:00:: feed%2:34:00:: feed%2:34:00::
+fall%2:30:08:: fell%2:35:00:: fly%2:39:00:: fly%2:39:00::
+fall%2:30:08:: fell%2:35:00:: generate%2:36:00:: generate%2:36:00::
+fall%2:30:00:: fell%2:38:09:: go%2:30:08:: go%2:30:08::
+fall%2:30:08:: fell%2:35:00:: hide%2:39:01:: hide%2:39:01::
+fall%2:30:08:: fell%2:35:00:: hit%2:35:03:: hit%2:35:03::
+fall%2:30:08:: fell%2:35:00::
+fall%2:30:08:: fell%2:35:00:: increase%2:30:02:: increase%2:30:02::
+fall%2:30:08:: fell%2:35:00:: jump%2:38:11:: jump%2:38:11::
+fall%2:30:08:: fell%2:35:00:: know%2:31:03:: know%2:31:03::
+fall%2:30:08:: fell%2:35:00:: listen%2:39:00:: listen%2:39:00::
+fall%2:30:08:: fell%2:35:00:: look%2:39:00:: look%2:39:00::
+fall%2:30:08:: fell%2:35:00:: move%2:38:00:: move%2:38:00::
+fall%2:30:08:: fell%2:35:00:: pay%2:40:00:: pay%2:40:00::
+fall%2:30:08:: fell%2:35:00:: play%2:36:00:: play%2:36:00::
+fall%2:30:08:: fell%2:35:00:: predict%2:32:00:: predict%2:32:00::
+fall%2:30:08:: fell%2:35:00:: read%2:31:00:: read%2:31:00::
+fall%2:30:08:: fell%2:35:02:: run%2:38:04:: run%2:38:04::
+fall%2:30:08:: fell%2:35:00:: say%2:32:00:: say%2:32:00::
+fall%2:30:08:: fell%2:35:00:: scream%2:32:01:: scream%2:32:01::
+fall%2:30:08:: fell%2:35:00:: see%2:39:00:: saw%2:35:00::
+fall%2:30:08:: fell%2:35:00:: sell%2:40:00:: sell%2:40:00::
+fall%2:30:08:: fell%2:35:00::
+fall%2:30:08:: fell%2:35:00:: sing%2:36:00:: sing%2:36:00::
+fall%2:30:08:: fell%2:35:00:: sit%2:35:00:: sit%2:35:00::
+fall%2:30:08:: fell%2:35:00:: sleep%2:29:00:: sleep%2:29:00::
+fall%2:30:08:: fell%2:35:00:: slow%2:30:01:: slow%2:30:01::
+fall%2:30:08:: fell%2:35:00:: spend%2:42:00:: spend%2:42:00::
+fall%2:30:08:: fell%2:35:00:: strike%2:35:00:: strike%2:35:00::
+fall%2:30:08:: fell%2:35:00:: swim%2:38:00:: swim%2:38:00::
+fall%2:30:00:: fell%2:35:00:: take%2:41:00:: take%2:41:00::
+fall%2:30:08:: fell%2:35:00:: think%2:31:00:: think%2:31:00::
+fall%2:30:08:: fell%2:35:00:: vanish%2:30:00:: vanish%2:30:00::
+fall%2:30:08:: fell%2:35:00:: walk%2:38:00:: walk%2:38:00::
+fall%2:30:08:: fell%2:35:00:: write%2:36:04:: write%2:36:04::
+fall%2:30:08:: fell%2:35:00:: dance%2:36:00:: dance%2:36:00::
+fall%2:30:08:: fell%2:38:09:: decrease%2:30:00:: decrease%2:30:00::
+fall%2:30:08:: fell%2:35:00:: describe%2:32:00:: describe%2:32:00::
+fall%2:30:08:: fell%2:35:00::
+feed%2:34:00:: feed%2:34:00:: fly%2:39:00:: fly%2:39:00::
+feed%2:34:00:: feed%2:34:00:: generate%2:36:00:: generate%2:36:00::
+feed%2:34:00:: feed%2:34:00:: go%2:30:08:: go%2:30:08::
+feed%2:34:00:: feed%2:34:00:: hide%2:39:01:: hide%2:39:01::
+feed%2:34:00:: feed%2:34:00:: hit%2:35:03:: hit%2:35:03::
+feed%2:34:00:: feed%2:34:00::
+feed%2:34:00:: feed%2:34:00:: increase%2:30:02:: increase%2:30:02::
+feed%2:34:00:: feed%2:34:00:: jump%2:38:11:: jump%2:38:11::
+feed%2:34:00:: feed%2:34:00:: know%2:31:03:: know%2:31:03::
+feed%2:34:00:: feed%2:34:00:: listen%2:39:00:: listen%2:39:00::
+feed%2:34:00:: feed%2:34:00:: look%2:39:00:: look%2:39:00::
+feed%2:34:00:: feed%2:34:00:: move%2:38:00:: move%2:38:00::
+feed%2:34:00:: feed%2:34:00:: pay%2:40:00:: pay%2:40:00::
+feed%2:34:00:: feed%2:34:00:: play%2:36:00:: play%2:36:00::
+feed%2:34:00:: feed%2:34:00:: predict%2:32:00:: predict%2:32:00::
+feed%2:34:00:: feed%2:34:00:: read%2:31:00:: read%2:31:00::
+feed%2:38:04:: feed%2:38:04:: run%2:38:04:: run%2:38:04::
+feed%2:34:00:: feed%2:34:00:: say%2:32:00:: say%2:32:00::
+feed%2:34:00:: feed%2:34:00:: scream%2:32:01:: scream%2:32:01::
+feed%2:34:00:: feed%2:34:00:: see%2:39:00:: saw%2:35:00::
+feed%2:34:00:: feed%2:34:00:: sell%2:40:00:: sell%2:40:00::
+feed%2:34:00:: feed%2:34:00::
+feed%2:34:00:: feed%2:34:00:: sing%2:36:00:: sing%2:36:00::
+feed%2:34:00:: feed%2:34:00:: sit%2:35:00:: sit%2:35:00::
+feed%2:34:00:: feed%2:34:00:: sleep%2:29:00:: sleep%2:29:00::
+feed%2:34:00:: feed%2:34:00:: slow%2:30:01:: slow%2:30:01::
+feed%2:34:00:: feed%2:34:00:: spend%2:42:00:: spend%2:42:00::
+feed%2:34:00:: feed%2:34:00:: strike%2:35:00:: strike%2:35:00::
+feed%2:34:00:: feed%2:34:00:: swim%2:38:00:: swim%2:38:00::
+feed%2:34:00:: feed%2:34:00:: take%2:41:00:: take%2:41:00::
+feed%2:34:00:: feed%2:34:00:: think%2:31:00:: think%2:31:00::
+feed%2:34:00:: feed%2:34:00::
+feed%2:34:00:: feed%2:34:00:: walk%2:38:00:: walk%2:38:00::
+feed%2:34:00:: feed%2:34:00:: write%2:36:04:: write%2:36:04::
+feed%2:34:00:: feed%2:34:00:: dance%2:36:00:: dance%2:36:00::
+feed%2:34:00:: feed%2:34:00:: decrease%2:30:00:: decrease%2:30:00::
+feed%2:34:00:: feed%2:34:00:: describe%2:32:00:: describe%2:32:00::
+feed%2:34:00:: feed%2:34:00::
+feed%2:34:00:: feed%2:34:00:: fall%2:30:08:: fell%2:35:00::
+fly%2:39:00:: fly%2:39:00:: generate%2:36:00:: generate%2:36:00::
+fly%2:38:06:: fly%2:38:06:: go%2:30:08:: go%2:30:08::
+fly%2:39:00:: fly%2:39:00:: hide%2:39:01:: hide%2:39:01::
+fly%2:39:00:: fly%2:39:00:: hit%2:35:03:: hit%2:35:03::
+fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: increase%2:30:02:: increase%2:30:02::
+fly%2:39:00:: fly%2:39:00:: jump%2:38:11:: jump%2:38:11::
+fly%2:39:00:: fly%2:39:00:: know%2:31:03:: know%2:31:03::
+fly%2:39:00:: fly%2:39:00:: listen%2:39:00:: listen%2:39:00::
+fly%2:39:00:: fly%2:39:00:: look%2:39:00:: look%2:39:00::
+fly%2:38:02:: fly%2:38:02:: move%2:38:00:: move%2:38:00::
+fly%2:39:00:: fly%2:39:00:: pay%2:40:00:: pay%2:40:00::
+fly%2:39:00:: fly%2:39:00:: play%2:36:00:: play%2:36:00::
+fly%2:39:00:: fly%2:39:00:: predict%2:32:00:: predict%2:32:00::
+fly%2:39:00:: fly%2:39:00:: read%2:31:00:: read%2:31:00::
+fly%2:38:03:: fly%2:38:03:: run%2:38:04:: run%2:38:04::
+fly%2:39:00:: fly%2:39:00:: say%2:32:00:: say%2:32:00::
+fly%2:39:00:: fly%2:39:00:: scream%2:32:01:: scream%2:32:01::
+fly%2:39:00:: fly%2:39:00:: see%2:39:00:: saw%2:35:00::
+fly%2:39:00:: fly%2:39:00:: sell%2:40:00:: sell%2:40:00::
+fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: sing%2:36:00:: sing%2:36:00::
+fly%2:39:00:: fly%2:39:00:: sit%2:35:00:: sit%2:35:00::
+fly%2:39:00:: fly%2:39:00:: sleep%2:29:00:: sleep%2:29:00::
+fly%2:39:00:: fly%2:39:00:: slow%2:30:01:: slow%2:30:01::
+fly%2:39:00:: fly%2:39:00:: spend%2:42:00:: spend%2:42:00::
+fly%2:39:00:: fly%2:39:00:: strike%2:35:00:: strike%2:35:00::
+fly%2:39:00:: fly%2:39:00:: swim%2:38:00:: swim%2:38:00::
+fly%2:38:03:: fly%2:38:03:: take%2:41:00:: take%2:41:00::
+fly%2:39:00:: fly%2:39:00:: think%2:31:00:: think%2:31:00::
+fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: walk%2:38:00:: walk%2:38:00::
+fly%2:39:00:: fly%2:39:00:: write%2:36:04:: write%2:36:04::
+fly%2:39:00:: fly%2:39:00:: dance%2:36:00:: dance%2:36:00::
+fly%2:30:00:: fly%2:30:00:: decrease%2:30:00:: decrease%2:30:00::
+fly%2:39:00:: fly%2:39:00:: describe%2:32:00:: describe%2:32:00::
+fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: fall%2:30:08:: fell%2:35:00::
+fly%2:39:00:: fly%2:39:00:: feed%2:34:00:: feed%2:34:00::
+generate%2:36:00:: generate%2:36:00:: go%2:30:08:: go%2:30:08::
+generate%2:36:00:: generate%2:36:00:: hide%2:39:01:: hide%2:39:01::
+generate%2:36:00:: generate%2:36:00:: hit%2:35:03:: hit%2:35:03::
+generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: increase%2:30:02:: increase%2:30:02::
+generate%2:36:00:: generate%2:36:00:: jump%2:38:11:: jump%2:38:11::
+generate%2:36:00:: generate%2:36:00:: know%2:31:03:: know%2:31:03::
+generate%2:36:00:: generate%2:36:00:: listen%2:39:00:: listen%2:39:00::
+generate%2:36:00:: generate%2:36:00:: look%2:39:00:: look%2:39:00::
+generate%2:36:00:: generate%2:36:00:: move%2:38:00:: move%2:38:00::
+generate%2:36:00:: generate%2:36:00:: pay%2:40:00:: pay%2:40:00::
+generate%2:36:00:: generate%2:36:00:: play%2:36:00:: play%2:36:00::
+generate%2:36:00:: generate%2:36:00:: predict%2:32:00:: predict%2:32:00::
+generate%2:36:00:: generate%2:36:00:: read%2:31:00:: read%2:31:00::
+generate%2:36:00:: generate%2:36:00:: run%2:38:04:: run%2:38:04::
+generate%2:36:00:: generate%2:36:00:: say%2:32:00:: say%2:32:00::
+generate%2:36:00:: generate%2:36:00:: scream%2:32:01:: scream%2:32:01::
+generate%2:36:00:: generate%2:36:00:: see%2:39:00:: saw%2:35:00::
+generate%2:36:00:: generate%2:36:00:: sell%2:40:00:: sell%2:40:00::
+generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: sing%2:36:00:: sing%2:36:00::
+generate%2:36:00:: generate%2:36:00:: sit%2:35:00:: sit%2:35:00::
+generate%2:36:00:: generate%2:36:00:: sleep%2:29:00:: sleep%2:29:00::
+generate%2:36:00:: generate%2:36:00:: slow%2:30:01:: slow%2:30:01::
+generate%2:36:00:: generate%2:36:00:: spend%2:42:00:: spend%2:42:00::
+generate%2:36:00:: generate%2:36:00:: strike%2:35:00:: strike%2:35:00::
+generate%2:36:00:: generate%2:36:00:: swim%2:38:00:: swim%2:38:00::
+generate%2:36:00:: generate%2:36:00:: take%2:41:00:: take%2:41:00::
+generate%2:36:00:: generate%2:36:00:: think%2:31:00:: think%2:31:00::
+generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: walk%2:38:00:: walk%2:38:00::
+generate%2:36:00:: generate%2:36:00:: write%2:36:04:: write%2:36:04::
+generate%2:36:00:: generate%2:36:00:: dance%2:36:00:: dance%2:36:00::
+generate%2:36:00:: generate%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
+generate%2:36:00:: generate%2:36:00:: describe%2:32:00:: describe%2:32:00::
+generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: fall%2:30:08:: fell%2:35:00::
+generate%2:36:00:: generate%2:36:00:: feed%2:34:00:: feed%2:34:00::
+generate%2:36:00:: generate%2:36:00:: fly%2:39:00:: fly%2:39:00::
+go%2:30:08:: go%2:30:08:: hide%2:39:01:: hide%2:39:01::
+go%2:30:08:: go%2:30:08:: hit%2:35:03:: hit%2:35:03::
+go%2:30:08:: go%2:30:08:: implement%2:30:00:: implement%2:30:00::
+go%2:30:08:: go%2:30:08:: increase%2:30:00:: increase%2:30:00::
+go%2:30:08:: go%2:30:08:: jump%2:30:00:: jump%2:30:00::
+go%2:30:08:: go%2:30:08:: know%2:31:04:: know%2:31:04::
+go%2:30:08:: go%2:30:08:: listen%2:39:00:: listen%2:39:00::
+go%2:30:08:: go%2:30:08:: look%2:39:00:: look%2:39:00::
+go%2:38:01:: go%2:38:01:: move%2:38:03:: move%2:38:03::
+go%2:30:08:: go%2:30:08:: pay%2:40:00:: pay%2:40:00::
+go%2:30:08:: go%2:30:08:: play%2:36:00:: play%2:36:00::
+go%2:30:08:: go%2:30:08:: predict%2:32:00:: predict%2:32:00::
+go%2:30:08:: go%2:30:08:: read%2:31:00:: read%2:31:00::
+go%2:34:09:: go%2:34:09:: run%2:38:05:: run%2:38:05::
+go%2:30:08:: go%2:30:08:: say%2:32:04:: say%2:32:04::
+go%2:30:08:: go%2:30:08:: scream%2:32:01:: scream%2:32:01::
+go%2:30:08:: go%2:30:08:: see%2:41:10:: saw%2:35:00::
+go%2:30:08:: go%2:30:08:: sell%2:40:00:: sell%2:40:00::
+go%2:30:08:: go%2:30:08::
+go%2:30:08:: go%2:30:08:: sing%2:36:00:: sing%2:36:00::
+go%2:30:08:: go%2:30:08:: sit%2:35:00:: sit%2:35:00::
+go%2:30:08:: go%2:30:08:: sleep%2:29:00:: sleep%2:29:00::
+go%2:30:08:: go%2:30:08:: slow%2:30:01:: slow%2:30:01::
+go%2:30:08:: go%2:30:08:: spend%2:42:00:: spend%2:42:00::
+go%2:30:08:: go%2:30:08:: strike%2:35:00:: strike%2:35:00::
+go%2:30:08:: go%2:30:08:: swim%2:38:00:: swim%2:38:00::
+go%2:30:08:: go%2:30:08:: take%2:41:00:: take%2:41:00::
+go%2:30:08:: go%2:30:08:: think%2:31:00:: think%2:31:00::
+go%2:30:08:: go%2:30:08:: vanish%2:38:05:: vanish%2:38:05::
+go%2:30:08:: go%2:30:08:: walk%2:38:00:: walk%2:38:00::
+go%2:30:08:: go%2:30:08:: write%2:36:04:: write%2:36:04::
+go%2:30:08:: go%2:30:08:: dance%2:36:00:: dance%2:36:00::
+go%2:30:08:: go%2:30:08:: decrease%2:30:00:: decrease%2:30:00::
+go%2:30:08:: go%2:30:08:: describe%2:32:00:: describe%2:32:00::
+go%2:30:08:: go%2:30:08::
+go%2:30:08:: go%2:30:08:: fall%2:30:00:: fell%2:38:09::
+go%2:30:08:: go%2:30:08:: feed%2:34:00:: feed%2:34:00::
+go%2:30:08:: go%2:30:08:: fly%2:38:06:: fly%2:38:06::
+go%2:30:08:: go%2:30:08:: generate%2:36:00:: generate%2:36:00::
+hide%2:39:01:: hide%2:39:01:: hit%2:35:03:: hit%2:35:03::
+hide%2:39:01:: hide%2:39:01::
+hide%2:39:01:: hide%2:39:01:: increase%2:30:02:: increase%2:30:02::
+hide%2:39:01:: hide%2:39:01:: jump%2:38:11:: jump%2:38:11::
+hide%2:39:01:: hide%2:39:01:: know%2:31:03:: know%2:31:03::
+hide%2:39:01:: hide%2:39:01:: listen%2:39:00:: listen%2:39:00::
+hide%2:39:01:: hide%2:39:01:: look%2:39:00:: look%2:39:00::
+hide%2:39:01:: hide%2:39:01:: move%2:38:00:: move%2:38:00::
+hide%2:39:01:: hide%2:39:01:: pay%2:40:00:: pay%2:40:00::
+hide%2:39:01:: hide%2:39:01:: play%2:36:00:: play%2:36:00::
+hide%2:39:01:: hide%2:39:01:: predict%2:32:00:: predict%2:32:00::
+hide%2:39:01:: hide%2:39:01:: read%2:31:00:: read%2:31:00::
+hide%2:39:01:: hide%2:39:01:: run%2:38:04:: run%2:38:04::
+hide%2:39:01:: hide%2:39:01:: say%2:32:00:: say%2:32:00::
+hide%2:39:01:: hide%2:39:01:: scream%2:32:01:: scream%2:32:01::
+hide%2:39:01:: hide%2:39:01:: see%2:39:00:: saw%2:35:00::
+hide%2:39:01:: hide%2:39:01:: sell%2:40:00:: sell%2:40:00::
+hide%2:39:01:: hide%2:39:01::
+hide%2:39:01:: hide%2:39:01:: sing%2:36:00:: sing%2:36:00::
+hide%2:39:01:: hide%2:39:01:: sit%2:35:00:: sit%2:35:00::
+hide%2:39:01:: hide%2:39:01:: sleep%2:29:00:: sleep%2:29:00::
+hide%2:39:01:: hide%2:39:01:: slow%2:30:01:: slow%2:30:01::
+hide%2:39:01:: hide%2:39:01:: spend%2:42:00:: spend%2:42:00::
+hide%2:39:01:: hide%2:39:01:: strike%2:35:00:: strike%2:35:00::
+hide%2:39:01:: hide%2:39:01:: swim%2:38:00:: swim%2:38:00::
+hide%2:39:01:: hide%2:39:01:: take%2:41:00:: take%2:41:00::
+hide%2:39:01:: hide%2:39:01:: think%2:31:00:: think%2:31:00::
+hide%2:39:01:: hide%2:39:01::
+hide%2:39:01:: hide%2:39:01:: walk%2:38:00:: walk%2:38:00::
+hide%2:39:01:: hide%2:39:01:: write%2:36:04:: write%2:36:04::
+hide%2:39:01:: hide%2:39:01:: dance%2:36:00:: dance%2:36:00::
+hide%2:39:01:: hide%2:39:01:: decrease%2:30:00:: decrease%2:30:00::
+hide%2:39:01:: hide%2:39:01:: describe%2:32:00:: describe%2:32:00::
+hide%2:39:01:: hide%2:39:01::
+hide%2:39:01:: hide%2:39:01:: fall%2:30:08:: fell%2:35:00::
+hide%2:39:01:: hide%2:39:01:: feed%2:34:00:: feed%2:34:00::
+hide%2:39:01:: hide%2:39:01:: fly%2:39:00:: fly%2:39:00::
+hide%2:39:01:: hide%2:39:01:: generate%2:36:00:: generate%2:36:00::
+hide%2:39:01:: hide%2:39:01:: go%2:30:08:: go%2:30:08::
+hit%2:35:03:: hit%2:35:03::
+hit%2:35:03:: hit%2:35:03:: increase%2:30:02:: increase%2:30:02::
+hit%2:35:03:: hit%2:35:03:: jump%2:38:11:: jump%2:38:11::
+hit%2:35:03:: hit%2:35:03:: know%2:31:03:: know%2:31:03::
+hit%2:35:03:: hit%2:35:03:: listen%2:39:00:: listen%2:39:00::
+hit%2:35:03:: hit%2:35:03:: look%2:39:00:: look%2:39:00::
+hit%2:35:03:: hit%2:35:03:: move%2:38:00:: move%2:38:00::
+hit%2:35:03:: hit%2:35:03:: pay%2:40:00:: pay%2:40:00::
+hit%2:35:03:: hit%2:35:03:: play%2:36:00:: play%2:36:00::
+hit%2:35:03:: hit%2:35:03:: predict%2:32:00:: predict%2:32:00::
+hit%2:35:03:: hit%2:35:03:: read%2:31:00:: read%2:31:00::
+hit%2:35:03:: hit%2:35:03:: run%2:38:04:: run%2:38:04::
+hit%2:35:03:: hit%2:35:03:: say%2:32:00:: say%2:32:00::
+hit%2:35:03:: hit%2:35:03:: scream%2:32:01:: scream%2:32:01::
+hit%2:35:03:: hit%2:35:03:: see%2:39:00:: saw%2:35:00::
+hit%2:35:03:: hit%2:35:03:: sell%2:40:00:: sell%2:40:00::
+hit%2:35:03:: hit%2:35:03::
+hit%2:35:03:: hit%2:35:03:: sing%2:36:00:: sing%2:36:00::
+hit%2:35:03:: hit%2:35:03:: sit%2:35:00:: sit%2:35:00::
+hit%2:35:03:: hit%2:35:03:: sleep%2:29:00:: sleep%2:29:00::
+hit%2:35:03:: hit%2:35:03:: slow%2:30:01:: slow%2:30:01::
+hit%2:35:03:: hit%2:35:03:: spend%2:42:00:: spend%2:42:00::
+hit%2:35:00:: hit%2:35:00:: strike%2:35:00:: strike%2:35:00::
+hit%2:35:03:: hit%2:35:03:: swim%2:38:00:: swim%2:38:00::
+hit%2:34:00:: hit%2:34:00:: take%2:41:00:: take%2:41:00::
+hit%2:35:03:: hit%2:35:03:: think%2:31:00:: think%2:31:00::
+hit%2:35:03:: hit%2:35:03::
+hit%2:35:03:: hit%2:35:03:: walk%2:38:00:: walk%2:38:00::
+hit%2:35:03:: hit%2:35:03:: write%2:36:04:: write%2:36:04::
+hit%2:35:03:: hit%2:35:03:: dance%2:36:00:: dance%2:36:00::
+hit%2:35:03:: hit%2:35:03:: decrease%2:30:00:: decrease%2:30:00::
+hit%2:35:03:: hit%2:35:03:: describe%2:32:00:: describe%2:32:00::
+hit%2:35:03:: hit%2:35:03::
+hit%2:35:03:: hit%2:35:03:: fall%2:30:08:: fell%2:35:00::
+hit%2:35:03:: hit%2:35:03:: feed%2:34:00:: feed%2:34:00::
+hit%2:35:03:: hit%2:35:03:: fly%2:39:00:: fly%2:39:00::
+hit%2:35:03:: hit%2:35:03:: generate%2:36:00:: generate%2:36:00::
+hit%2:35:03:: hit%2:35:03:: go%2:30:08:: go%2:30:08::
+hit%2:35:03:: hit%2:35:03:: hide%2:39:01:: hide%2:39:01::
+increase%2:30:02:: increase%2:30:02::
+jump%2:38:11:: jump%2:38:11::
+know%2:31:03:: know%2:31:03::
+listen%2:39:00:: listen%2:39:00::
+look%2:39:00:: look%2:39:00::
+move%2:38:00:: move%2:38:00::
+pay%2:40:00:: pay%2:40:00::
+play%2:36:00:: play%2:36:00::
+predict%2:32:00:: predict%2:32:00::
+read%2:31:00:: read%2:31:00::
+run%2:38:04:: run%2:38:04::
+say%2:32:00:: say%2:32:00::
+scream%2:32:01:: scream%2:32:01::
+see%2:39:00:: saw%2:35:00::
+sell%2:40:00:: sell%2:40:00::
+sing%2:36:00:: sing%2:36:00::
+sit%2:35:00:: sit%2:35:00::
+sleep%2:29:00:: sleep%2:29:00::
+slow%2:30:01:: slow%2:30:01::
+spend%2:42:00:: spend%2:42:00::
+strike%2:35:00:: strike%2:35:00::
+swim%2:38:00:: swim%2:38:00::
+take%2:41:00:: take%2:41:00::
+think%2:31:00:: think%2:31:00::
+walk%2:38:00:: walk%2:38:00::
+write%2:36:04:: write%2:36:04::
+dance%2:36:00:: dance%2:36:00::
+decrease%2:30:00:: decrease%2:30:00::
+describe%2:32:00:: describe%2:32:00::
+fall%2:30:08:: fell%2:35:00::
+feed%2:34:00:: feed%2:34:00::
+fly%2:39:00:: fly%2:39:00::
+generate%2:36:00:: generate%2:36:00::
+implement%2:30:00:: implement%2:30:00:: go%2:30:08:: go%2:30:08::
+hide%2:39:01:: hide%2:39:01::
+hit%2:35:03:: hit%2:35:03::
+increase%2:30:02:: increase%2:30:02:: jump%2:38:11:: jump%2:38:11::
+increase%2:30:02:: increase%2:30:02:: know%2:31:03:: know%2:31:03::
+increase%2:30:02:: increase%2:30:02:: listen%2:39:00:: listen%2:39:00::
+increase%2:30:02:: increase%2:30:02:: look%2:39:00:: look%2:39:00::
+increase%2:30:02:: increase%2:30:02:: move%2:38:00:: move%2:38:00::
+increase%2:30:02:: increase%2:30:02:: pay%2:40:00:: pay%2:40:00::
+increase%2:30:02:: increase%2:30:02:: play%2:36:00:: play%2:36:00::
+increase%2:30:02:: increase%2:30:02:: predict%2:32:00:: predict%2:32:00::
+increase%2:30:02:: increase%2:30:02:: read%2:31:00:: read%2:31:00::
+increase%2:30:02:: increase%2:30:02:: run%2:38:04:: run%2:38:04::
+increase%2:30:02:: increase%2:30:02:: say%2:32:00:: say%2:32:00::
+increase%2:30:02:: increase%2:30:02:: scream%2:32:01:: scream%2:32:01::
+increase%2:30:02:: increase%2:30:02:: see%2:39:00:: saw%2:35:00::
+increase%2:30:02:: increase%2:30:02:: sell%2:40:00:: sell%2:40:00::
+increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: sing%2:36:00:: sing%2:36:00::
+increase%2:30:02:: increase%2:30:02:: sit%2:35:00:: sit%2:35:00::
+increase%2:30:02:: increase%2:30:02:: sleep%2:29:00:: sleep%2:29:00::
+increase%2:30:02:: increase%2:30:02:: slow%2:30:01:: slow%2:30:01::
+increase%2:30:02:: increase%2:30:02:: spend%2:42:00:: spend%2:42:00::
+increase%2:30:02:: increase%2:30:02:: strike%2:35:00:: strike%2:35:00::
+increase%2:30:02:: increase%2:30:02:: swim%2:38:00:: swim%2:38:00::
+increase%2:30:02:: increase%2:30:02:: take%2:41:00:: take%2:41:00::
+increase%2:30:02:: increase%2:30:02:: think%2:31:00:: think%2:31:00::
+increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: walk%2:38:00:: walk%2:38:00::
+increase%2:30:02:: increase%2:30:02:: write%2:36:04:: write%2:36:04::
+increase%2:30:02:: increase%2:30:02:: dance%2:36:00:: dance%2:36:00::
+increase%2:30:00:: increase%2:30:00:: decrease%2:30:00:: decrease%2:30:00::
+increase%2:30:02:: increase%2:30:02:: describe%2:32:00:: describe%2:32:00::
+increase%2:30:02:: increase%2:30:02:: enhance%2:30:00:: enhance%2:30:00::
+increase%2:30:02:: increase%2:30:02:: fall%2:30:08:: fell%2:35:00::
+increase%2:30:02:: increase%2:30:02:: feed%2:34:00:: feed%2:34:00::
+increase%2:30:02:: increase%2:30:02:: fly%2:39:00:: fly%2:39:00::
+increase%2:30:02:: increase%2:30:02:: generate%2:36:00:: generate%2:36:00::
+increase%2:30:00:: increase%2:30:00:: go%2:30:08:: go%2:30:08::
+increase%2:30:02:: increase%2:30:02:: hide%2:39:01:: hide%2:39:01::
+increase%2:30:02:: increase%2:30:02:: hit%2:35:03:: hit%2:35:03::
+increase%2:30:02:: increase%2:30:02::
+jump%2:38:11:: jump%2:38:11:: know%2:31:03:: know%2:31:03::
+jump%2:38:11:: jump%2:38:11:: listen%2:39:00:: listen%2:39:00::
+jump%2:38:11:: jump%2:38:11:: look%2:39:00:: look%2:39:00::
+jump%2:38:01:: jump%2:38:01:: move%2:38:00:: move%2:38:00::
+jump%2:38:11:: jump%2:38:11:: pay%2:40:00:: pay%2:40:00::
+jump%2:38:11:: jump%2:38:11:: play%2:36:00:: play%2:36:00::
+jump%2:38:11:: jump%2:38:11:: predict%2:32:00:: predict%2:32:00::
+jump%2:38:11:: jump%2:38:11:: read%2:31:00:: read%2:31:00::
+jump%2:38:11:: jump%2:38:11:: run%2:38:04:: run%2:38:04::
+jump%2:38:11:: jump%2:38:11:: say%2:32:00:: say%2:32:00::
+jump%2:38:11:: jump%2:38:11:: scream%2:32:01:: scream%2:32:01::
+jump%2:38:11:: jump%2:38:11:: see%2:39:00:: saw%2:35:00::
+jump%2:38:11:: jump%2:38:11:: sell%2:40:00:: sell%2:40:00::
+jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: sing%2:36:00:: sing%2:36:00::
+jump%2:38:11:: jump%2:38:11:: sit%2:35:00:: sit%2:35:00::
+jump%2:38:11:: jump%2:38:11:: sleep%2:29:00:: sleep%2:29:00::
+jump%2:38:11:: jump%2:38:11:: slow%2:30:01:: slow%2:30:01::
+jump%2:38:11:: jump%2:38:11:: spend%2:42:00:: spend%2:42:00::
+jump%2:38:11:: jump%2:38:11:: strike%2:35:00:: strike%2:35:00::
+jump%2:38:11:: jump%2:38:11:: swim%2:38:00:: swim%2:38:00::
+jump%2:38:00:: jump%2:38:00:: take%2:41:00:: take%2:41:00::
+jump%2:38:11:: jump%2:38:11:: think%2:31:00:: think%2:31:00::
+jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: walk%2:38:00:: walk%2:38:00::
+jump%2:38:11:: jump%2:38:11:: write%2:36:04:: write%2:36:04::
+jump%2:38:11:: jump%2:38:11:: dance%2:36:00:: dance%2:36:00::
+jump%2:38:11:: jump%2:38:11:: decrease%2:30:00:: decrease%2:30:00::
+jump%2:38:11:: jump%2:38:11:: describe%2:32:00:: describe%2:32:00::
+jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: fall%2:30:08:: fell%2:35:00::
+jump%2:38:11:: jump%2:38:11:: feed%2:34:00:: feed%2:34:00::
+jump%2:38:11:: jump%2:38:11:: fly%2:39:00:: fly%2:39:00::
+jump%2:38:11:: jump%2:38:11:: generate%2:36:00:: generate%2:36:00::
+jump%2:30:00:: jump%2:30:00:: go%2:30:08:: go%2:30:08::
+jump%2:38:11:: jump%2:38:11:: hide%2:39:01:: hide%2:39:01::
+jump%2:38:11:: jump%2:38:11:: hit%2:35:03:: hit%2:35:03::
+jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: increase%2:30:02:: increase%2:30:02::
+know%2:31:03:: know%2:31:03:: listen%2:39:00:: listen%2:39:00::
+know%2:31:03:: know%2:31:03:: look%2:39:00:: look%2:39:00::
+know%2:31:03:: know%2:31:03:: move%2:38:00:: move%2:38:00::
+know%2:31:03:: know%2:31:03:: pay%2:40:00:: pay%2:40:00::
+know%2:31:03:: know%2:31:03:: play%2:36:00:: play%2:36:00::
+know%2:31:03:: know%2:31:03:: predict%2:32:00:: predict%2:32:00::
+know%2:31:03:: know%2:31:03:: read%2:31:00:: read%2:31:00::
+know%2:31:03:: know%2:31:03:: run%2:38:04:: run%2:38:04::
+know%2:31:03:: know%2:31:03:: say%2:32:00:: say%2:32:00::
+know%2:31:03:: know%2:31:03:: scream%2:32:01:: scream%2:32:01::
+know%2:31:03:: know%2:31:03:: see%2:39:02:: saw%2:35:00::
+know%2:31:03:: know%2:31:03:: sell%2:40:00:: sell%2:40:00::
+know%2:31:03:: know%2:31:03::
+know%2:31:03:: know%2:31:03:: sing%2:36:00:: sing%2:36:00::
+know%2:31:03:: know%2:31:03:: sit%2:35:00:: sit%2:35:00::
+know%2:31:03:: know%2:31:03:: sleep%2:29:00:: sleep%2:29:00::
+know%2:31:03:: know%2:31:03:: slow%2:30:01:: slow%2:30:01::
+know%2:31:03:: know%2:31:03:: spend%2:42:00:: spend%2:42:00::
+know%2:31:03:: know%2:31:03:: strike%2:35:00:: strike%2:35:00::
+know%2:31:03:: know%2:31:03:: swim%2:38:00:: swim%2:38:00::
+know%2:31:03:: know%2:31:03:: take%2:41:00:: take%2:41:00::
+know%2:31:03:: know%2:31:03:: think%2:31:00:: think%2:31:00::
+know%2:31:03:: know%2:31:03::
+know%2:31:03:: know%2:31:03:: walk%2:38:00:: walk%2:38:00::
+know%2:31:03:: know%2:31:03:: write%2:36:04:: write%2:36:04::
+know%2:31:03:: know%2:31:03:: dance%2:36:00:: dance%2:36:00::
+know%2:31:03:: know%2:31:03:: decrease%2:30:00:: decrease%2:30:00::
+know%2:31:03:: know%2:31:03:: describe%2:32:00:: describe%2:32:00::
+know%2:31:03:: know%2:31:03::
+know%2:31:03:: know%2:31:03:: fall%2:30:08:: fell%2:35:00::
+know%2:31:03:: know%2:31:03:: feed%2:34:00:: feed%2:34:00::
+know%2:31:03:: know%2:31:03:: fly%2:39:00:: fly%2:39:00::
+know%2:31:03:: know%2:31:03:: generate%2:36:00:: generate%2:36:00::
+know%2:31:04:: know%2:31:04:: go%2:30:08:: go%2:30:08::
+know%2:31:03:: know%2:31:03:: hide%2:39:01:: hide%2:39:01::
+know%2:31:03:: know%2:31:03:: hit%2:35:03:: hit%2:35:03::
+know%2:31:03:: know%2:31:03::
+know%2:31:03:: know%2:31:03:: increase%2:30:02:: increase%2:30:02::
+know%2:31:03:: know%2:31:03:: jump%2:38:11:: jump%2:38:11::
+listen%2:39:00:: listen%2:39:00:: look%2:39:00:: look%2:39:00::
+listen%2:39:00:: listen%2:39:00:: move%2:38:00:: move%2:38:00::
+listen%2:39:00:: listen%2:39:00:: pay%2:40:00:: pay%2:40:00::
+listen%2:39:00:: listen%2:39:00:: play%2:36:00:: play%2:36:00::
+listen%2:39:00:: listen%2:39:00:: predict%2:32:00:: predict%2:32:00::
+listen%2:39:00:: listen%2:39:00:: read%2:31:00:: read%2:31:00::
+listen%2:39:00:: listen%2:39:00:: run%2:38:04:: run%2:38:04::
+listen%2:39:00:: listen%2:39:00:: say%2:32:00:: say%2:32:00::
+listen%2:39:00:: listen%2:39:00:: scream%2:32:01:: scream%2:32:01::
+listen%2:39:00:: listen%2:39:00:: see%2:39:00:: saw%2:35:00::
+listen%2:39:00:: listen%2:39:00:: sell%2:40:00:: sell%2:40:00::
+listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: sing%2:36:00:: sing%2:36:00::
+listen%2:39:00:: listen%2:39:00:: sit%2:35:00:: sit%2:35:00::
+listen%2:39:00:: listen%2:39:00:: sleep%2:29:00:: sleep%2:29:00::
+listen%2:39:00:: listen%2:39:00:: slow%2:30:01:: slow%2:30:01::
+listen%2:39:00:: listen%2:39:00:: spend%2:42:00:: spend%2:42:00::
+listen%2:39:00:: listen%2:39:00:: strike%2:35:00:: strike%2:35:00::
+listen%2:39:00:: listen%2:39:00:: swim%2:38:00:: swim%2:38:00::
+listen%2:39:00:: listen%2:39:00:: take%2:41:00:: take%2:41:00::
+listen%2:39:00:: listen%2:39:00:: think%2:31:00:: think%2:31:00::
+listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: walk%2:38:00:: walk%2:38:00::
+listen%2:39:00:: listen%2:39:00:: write%2:36:04:: write%2:36:04::
+listen%2:39:00:: listen%2:39:00:: dance%2:36:00:: dance%2:36:00::
+listen%2:39:00:: listen%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
+listen%2:39:00:: listen%2:39:00:: describe%2:32:00:: describe%2:32:00::
+listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: fall%2:30:08:: fell%2:35:00::
+listen%2:39:00:: listen%2:39:00:: feed%2:34:00:: feed%2:34:00::
+listen%2:39:00:: listen%2:39:00:: fly%2:39:00:: fly%2:39:00::
+listen%2:39:00:: listen%2:39:00:: generate%2:36:00:: generate%2:36:00::
+listen%2:39:00:: listen%2:39:00:: go%2:30:08:: go%2:30:08::
+listen%2:39:00:: listen%2:39:00:: hide%2:39:01:: hide%2:39:01::
+listen%2:39:00:: listen%2:39:00:: hit%2:35:03:: hit%2:35:03::
+listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: increase%2:30:02:: increase%2:30:02::
+listen%2:39:00:: listen%2:39:00:: jump%2:38:11:: jump%2:38:11::
+listen%2:39:00:: listen%2:39:00:: know%2:31:03:: know%2:31:03::
+look%2:39:00:: look%2:39:00:: move%2:38:00:: move%2:38:00::
+look%2:39:00:: look%2:39:00:: pay%2:40:00:: pay%2:40:00::
+look%2:39:00:: look%2:39:00:: play%2:36:00:: play%2:36:00::
+look%2:39:00:: look%2:39:00:: predict%2:32:00:: predict%2:32:00::
+look%2:39:00:: look%2:39:00:: read%2:31:00:: read%2:31:00::
+look%2:39:00:: look%2:39:00:: run%2:38:04:: run%2:38:04::
+look%2:39:00:: look%2:39:00:: say%2:32:00:: say%2:32:00::
+look%2:39:00:: look%2:39:00:: scream%2:32:01:: scream%2:32:01::
+look%2:39:00:: look%2:39:00:: see%2:39:13:: saw%2:35:00::
+look%2:39:00:: look%2:39:00:: sell%2:40:00:: sell%2:40:00::
+look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: sing%2:36:00:: sing%2:36:00::
+look%2:39:00:: look%2:39:00:: sit%2:35:00:: sit%2:35:00::
+look%2:39:00:: look%2:39:00:: sleep%2:29:00:: sleep%2:29:00::
+look%2:39:00:: look%2:39:00:: slow%2:30:01:: slow%2:30:01::
+look%2:39:00:: look%2:39:00:: spend%2:42:00:: spend%2:42:00::
+look%2:39:00:: look%2:39:00:: strike%2:35:00:: strike%2:35:00::
+look%2:39:00:: look%2:39:00:: swim%2:38:00:: swim%2:38:00::
+look%2:39:00:: look%2:39:00:: take%2:41:00:: take%2:41:00::
+look%2:39:00:: look%2:39:00:: think%2:31:01:: think%2:31:01::
+look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: walk%2:38:00:: walk%2:38:00::
+look%2:39:00:: look%2:39:00:: write%2:36:04:: write%2:36:04::
+look%2:39:00:: look%2:39:00:: dance%2:36:00:: dance%2:36:00::
+look%2:39:00:: look%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
+look%2:39:00:: look%2:39:00:: describe%2:32:00:: describe%2:32:00::
+look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: fall%2:30:08:: fell%2:35:00::
+look%2:39:00:: look%2:39:00:: feed%2:34:00:: feed%2:34:00::
+look%2:39:00:: look%2:39:00:: fly%2:39:00:: fly%2:39:00::
+look%2:39:00:: look%2:39:00:: generate%2:36:00:: generate%2:36:00::
+look%2:39:00:: look%2:39:00:: go%2:30:08:: go%2:30:08::
+look%2:39:00:: look%2:39:00:: hide%2:39:01:: hide%2:39:01::
+look%2:39:00:: look%2:39:00:: hit%2:35:03:: hit%2:35:03::
+look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: increase%2:30:02:: increase%2:30:02::
+look%2:39:00:: look%2:39:00:: jump%2:38:11:: jump%2:38:11::
+look%2:39:00:: look%2:39:00:: know%2:31:03:: know%2:31:03::
+look%2:39:00:: look%2:39:00:: listen%2:39:00:: listen%2:39:00::
+move%2:38:00:: move%2:38:00:: pay%2:40:00:: pay%2:40:00::
+move%2:38:00:: move%2:38:00:: play%2:36:00:: play%2:36:00::
+move%2:38:00:: move%2:38:00:: predict%2:32:00:: predict%2:32:00::
+move%2:38:00:: move%2:38:00:: read%2:31:00:: read%2:31:00::
+move%2:38:00:: move%2:38:00:: run%2:38:00:: run%2:38:00::
+move%2:38:00:: move%2:38:00:: say%2:32:00:: say%2:32:00::
+move%2:38:00:: move%2:38:00:: scream%2:32:01:: scream%2:32:01::
+move%2:38:00:: move%2:38:00:: see%2:39:00:: saw%2:35:00::
+move%2:38:00:: move%2:38:00:: sell%2:40:00:: sell%2:40:00::
+move%2:38:00:: move%2:38:00:: shrink%2:38:00:: shrink%2:38:00::
+move%2:38:00:: move%2:38:00:: sing%2:36:00:: sing%2:36:00::
+move%2:38:00:: move%2:38:00:: sit%2:35:00:: sit%2:35:00::
+move%2:38:00:: move%2:38:00:: sleep%2:29:00:: sleep%2:29:00::
+move%2:38:00:: move%2:38:00:: slow%2:30:05:: slow%2:30:05::
+move%2:38:00:: move%2:38:00:: spend%2:42:00:: spend%2:42:00::
+move%2:38:00:: move%2:38:00:: strike%2:35:00:: strike%2:35:00::
+move%2:38:00:: move%2:38:00:: swim%2:38:00:: swim%2:38:00::
+move%2:38:00:: move%2:38:00:: take%2:41:00:: take%2:41:00::
+move%2:38:00:: move%2:38:00:: think%2:31:00:: think%2:31:00::
+move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: walk%2:38:00:: walk%2:38:00::
+move%2:38:00:: move%2:38:00:: write%2:36:04:: write%2:36:04::
+move%2:38:00:: move%2:38:00:: dance%2:36:00:: dance%2:36:00::
+move%2:38:00:: move%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
+move%2:38:00:: move%2:38:00:: describe%2:32:00:: describe%2:32:00::
+move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: fall%2:30:08:: fell%2:35:00::
+move%2:38:00:: move%2:38:00:: feed%2:34:00:: feed%2:34:00::
+move%2:38:00:: move%2:38:00:: fly%2:38:02:: fly%2:38:02::
+move%2:38:00:: move%2:38:00:: generate%2:36:00:: generate%2:36:00::
+move%2:38:03:: move%2:38:03:: go%2:38:01:: go%2:38:01::
+move%2:38:00:: move%2:38:00:: hide%2:39:01:: hide%2:39:01::
+move%2:38:00:: move%2:38:00:: hit%2:35:03:: hit%2:35:03::
+move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: increase%2:30:02:: increase%2:30:02::
+move%2:38:00:: move%2:38:00:: jump%2:38:01:: jump%2:38:01::
+move%2:38:00:: move%2:38:00:: know%2:31:03:: know%2:31:03::
+move%2:38:00:: move%2:38:00:: listen%2:39:00:: listen%2:39:00::
+move%2:38:00:: move%2:38:00:: look%2:39:00:: look%2:39:00::
+pay%2:40:00:: pay%2:40:00:: play%2:36:00:: play%2:36:00::
+pay%2:40:00:: pay%2:40:00:: predict%2:32:00:: predict%2:32:00::
+pay%2:40:00:: pay%2:40:00:: read%2:31:00:: read%2:31:00::
+pay%2:40:00:: pay%2:40:00:: run%2:38:04:: run%2:38:04::
+pay%2:40:00:: pay%2:40:00:: say%2:32:00:: say%2:32:00::
+pay%2:40:00:: pay%2:40:00:: scream%2:32:01:: scream%2:32:01::
+pay%2:40:00:: pay%2:40:00:: see%2:41:11:: saw%2:35:00::
+pay%2:40:00:: pay%2:40:00:: sell%2:40:00:: sell%2:40:00::
+pay%2:40:00:: pay%2:40:00::
+pay%2:40:00:: pay%2:40:00:: sing%2:36:00:: sing%2:36:00::
+pay%2:40:00:: pay%2:40:00:: sit%2:35:00:: sit%2:35:00::
+pay%2:40:00:: pay%2:40:00:: sleep%2:29:00:: sleep%2:29:00::
+pay%2:40:00:: pay%2:40:00:: slow%2:30:01:: slow%2:30:01::
+pay%2:40:00:: pay%2:40:00:: spend%2:42:00:: spend%2:42:00::
+pay%2:40:00:: pay%2:40:00:: strike%2:35:00:: strike%2:35:00::
+pay%2:40:00:: pay%2:40:00:: swim%2:38:00:: swim%2:38:00::
+pay%2:40:13:: pay%2:40:13:: take%2:41:00:: take%2:41:00::
+pay%2:40:00:: pay%2:40:00:: think%2:31:00:: think%2:31:00::
+pay%2:40:00:: pay%2:40:00::
+pay%2:40:00:: pay%2:40:00:: walk%2:38:00:: walk%2:38:00::
+pay%2:40:00:: pay%2:40:00:: write%2:36:04:: write%2:36:04::
+pay%2:40:00:: pay%2:40:00:: dance%2:36:00:: dance%2:36:00::
+pay%2:40:00:: pay%2:40:00:: decrease%2:30:00:: decrease%2:30:00::
+pay%2:40:00:: pay%2:40:00:: describe%2:32:00:: describe%2:32:00::
+pay%2:40:00:: pay%2:40:00::
+pay%2:40:00:: pay%2:40:00:: fall%2:30:08:: fell%2:35:00::
+pay%2:40:00:: pay%2:40:00:: feed%2:34:00:: feed%2:34:00::
+pay%2:40:00:: pay%2:40:00:: fly%2:39:00:: fly%2:39:00::
+pay%2:40:00:: pay%2:40:00:: generate%2:36:00:: generate%2:36:00::
+pay%2:40:00:: pay%2:40:00:: go%2:30:08:: go%2:30:08::
+pay%2:40:00:: pay%2:40:00:: hide%2:39:01:: hide%2:39:01::
+pay%2:40:00:: pay%2:40:00:: hit%2:35:03:: hit%2:35:03::
+pay%2:40:00:: pay%2:40:00::
+pay%2:40:00:: pay%2:40:00:: increase%2:30:02:: increase%2:30:02::
+pay%2:40:00:: pay%2:40:00:: jump%2:38:11:: jump%2:38:11::
+pay%2:40:00:: pay%2:40:00:: know%2:31:03:: know%2:31:03::
+pay%2:40:00:: pay%2:40:00:: listen%2:39:00:: listen%2:39:00::
+pay%2:40:00:: pay%2:40:00:: look%2:39:00:: look%2:39:00::
+pay%2:40:00:: pay%2:40:00:: move%2:38:00:: move%2:38:00::
+play%2:36:00:: play%2:36:00:: predict%2:32:00:: predict%2:32:00::
+play%2:36:00:: play%2:36:00:: read%2:31:00:: read%2:31:00::
+play%2:36:00:: play%2:36:00:: run%2:38:00:: run%2:38:00::
+play%2:36:00:: play%2:36:00:: say%2:32:00:: say%2:32:00::
+play%2:36:00:: play%2:36:00:: scream%2:32:01:: scream%2:32:01::
+play%2:36:00:: play%2:36:00:: see%2:39:00:: saw%2:35:00::
+play%2:36:00:: play%2:36:00:: sell%2:40:00:: sell%2:40:00::
+play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: sing%2:36:00:: sing%2:36:00::
+play%2:36:00:: play%2:36:00:: sit%2:35:00:: sit%2:35:00::
+play%2:36:00:: play%2:36:00:: sleep%2:29:00:: sleep%2:29:00::
+play%2:36:00:: play%2:36:00:: slow%2:30:01:: slow%2:30:01::
+play%2:36:00:: play%2:36:00:: spend%2:42:00:: spend%2:42:00::
+play%2:36:00:: play%2:36:00:: strike%2:35:00:: strike%2:35:00::
+play%2:36:00:: play%2:36:00:: swim%2:38:00:: swim%2:38:00::
+play%2:36:00:: play%2:36:00:: take%2:41:00:: take%2:41:00::
+play%2:36:00:: play%2:36:00:: think%2:31:00:: think%2:31:00::
+play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: walk%2:38:00:: walk%2:38:00::
+play%2:36:00:: play%2:36:00:: write%2:36:04:: write%2:36:04::
+play%2:36:00:: play%2:36:00:: dance%2:36:00:: dance%2:36:00::
+play%2:36:00:: play%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
+play%2:36:00:: play%2:36:00:: describe%2:32:00:: describe%2:32:00::
+play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: fall%2:30:08:: fell%2:35:00::
+play%2:36:00:: play%2:36:00:: feed%2:34:00:: feed%2:34:00::
+play%2:36:00:: play%2:36:00:: fly%2:39:00:: fly%2:39:00::
+play%2:36:00:: play%2:36:00:: generate%2:36:00:: generate%2:36:00::
+play%2:36:00:: play%2:36:00:: go%2:30:08:: go%2:30:08::
+play%2:36:00:: play%2:36:00:: hide%2:39:01:: hide%2:39:01::
+play%2:36:00:: play%2:36:00:: hit%2:35:03:: hit%2:35:03::
+play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: increase%2:30:02:: increase%2:30:02::
+play%2:36:00:: play%2:36:00:: jump%2:38:11:: jump%2:38:11::
+play%2:36:00:: play%2:36:00:: know%2:31:03:: know%2:31:03::
+play%2:36:00:: play%2:36:00:: listen%2:39:00:: listen%2:39:00::
+play%2:36:00:: play%2:36:00:: look%2:39:00:: look%2:39:00::
+play%2:36:00:: play%2:36:00:: move%2:38:00:: move%2:38:00::
+play%2:36:00:: play%2:36:00:: pay%2:40:00:: pay%2:40:00::
+predict%2:32:00:: predict%2:32:00:: read%2:31:00:: read%2:31:00::
+predict%2:32:00:: predict%2:32:00:: run%2:38:04:: run%2:38:04::
+predict%2:32:00:: predict%2:32:00:: say%2:32:00:: say%2:32:00::
+predict%2:32:00:: predict%2:32:00:: scream%2:32:01:: scream%2:32:01::
+predict%2:32:00:: predict%2:32:00:: see%2:39:00:: saw%2:35:00::
+predict%2:32:00:: predict%2:32:00:: sell%2:40:00:: sell%2:40:00::
+predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: sing%2:36:00:: sing%2:36:00::
+predict%2:32:00:: predict%2:32:00:: sit%2:35:00:: sit%2:35:00::
+predict%2:32:00:: predict%2:32:00:: sleep%2:29:00:: sleep%2:29:00::
+predict%2:32:00:: predict%2:32:00:: slow%2:30:01:: slow%2:30:01::
+predict%2:32:00:: predict%2:32:00:: spend%2:42:00:: spend%2:42:00::
+predict%2:32:00:: predict%2:32:00:: strike%2:35:00:: strike%2:35:00::
+predict%2:32:00:: predict%2:32:00:: swim%2:38:00:: swim%2:38:00::
+predict%2:32:00:: predict%2:32:00:: take%2:41:00:: take%2:41:00::
+predict%2:32:00:: predict%2:32:00:: think%2:31:00:: think%2:31:00::
+predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: walk%2:38:00:: walk%2:38:00::
+predict%2:32:00:: predict%2:32:00:: write%2:36:04:: write%2:36:04::
+predict%2:32:00:: predict%2:32:00:: dance%2:36:00:: dance%2:36:00::
+predict%2:32:00:: predict%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
+predict%2:32:00:: predict%2:32:00:: describe%2:32:00:: describe%2:32:00::
+predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: fall%2:30:08:: fell%2:35:00::
+predict%2:32:00:: predict%2:32:00:: feed%2:34:00:: feed%2:34:00::
+predict%2:32:00:: predict%2:32:00:: fly%2:39:00:: fly%2:39:00::
+predict%2:32:00:: predict%2:32:00:: generate%2:36:00:: generate%2:36:00::
+predict%2:32:00:: predict%2:32:00:: go%2:30:08:: go%2:30:08::
+predict%2:32:00:: predict%2:32:00:: hide%2:39:01:: hide%2:39:01::
+predict%2:32:00:: predict%2:32:00:: hit%2:35:03:: hit%2:35:03::
+predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: increase%2:30:02:: increase%2:30:02::
+predict%2:32:00:: predict%2:32:00:: jump%2:38:11:: jump%2:38:11::
+predict%2:32:00:: predict%2:32:00:: know%2:31:03:: know%2:31:03::
+predict%2:32:00:: predict%2:32:00:: listen%2:39:00:: listen%2:39:00::
+predict%2:32:00:: predict%2:32:00:: look%2:39:00:: look%2:39:00::
+predict%2:32:00:: predict%2:32:00:: move%2:38:00:: move%2:38:00::
+predict%2:32:00:: predict%2:32:00:: pay%2:40:00:: pay%2:40:00::
+predict%2:32:00:: predict%2:32:00:: play%2:36:00:: play%2:36:00::
+read%2:31:00:: read%2:31:00:: run%2:38:04:: run%2:38:04::
+read%2:31:00:: read%2:31:00:: say%2:32:00:: say%2:32:00::
+read%2:31:00:: read%2:31:00:: scream%2:32:01:: scream%2:32:01::
+read%2:31:00:: read%2:31:00:: see%2:39:00:: saw%2:35:00::
+read%2:31:00:: read%2:31:00:: sell%2:40:00:: sell%2:40:00::
+read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: sing%2:36:00:: sing%2:36:00::
+read%2:31:00:: read%2:31:00:: sit%2:35:00:: sit%2:35:00::
+read%2:31:00:: read%2:31:00:: sleep%2:29:00:: sleep%2:29:00::
+read%2:31:00:: read%2:31:00:: slow%2:30:01:: slow%2:30:01::
+read%2:31:00:: read%2:31:00:: spend%2:42:00:: spend%2:42:00::
+read%2:31:00:: read%2:31:00:: strike%2:35:00:: strike%2:35:00::
+read%2:31:00:: read%2:31:00:: swim%2:38:00:: swim%2:38:00::
+read%2:31:00:: read%2:31:00:: take%2:41:00:: take%2:41:00::
+read%2:31:00:: read%2:31:00:: think%2:31:00:: think%2:31:00::
+read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: walk%2:38:00:: walk%2:38:00::
+read%2:31:00:: read%2:31:00:: write%2:36:04:: write%2:36:04::
+read%2:31:00:: read%2:31:00:: dance%2:36:00:: dance%2:36:00::
+read%2:31:00:: read%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
+read%2:31:00:: read%2:31:00:: describe%2:32:00:: describe%2:32:00::
+read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: fall%2:30:08:: fell%2:35:00::
+read%2:31:00:: read%2:31:00:: feed%2:34:00:: feed%2:34:00::
+read%2:31:00:: read%2:31:00:: fly%2:39:00:: fly%2:39:00::
+read%2:31:00:: read%2:31:00:: generate%2:36:00:: generate%2:36:00::
+read%2:31:00:: read%2:31:00:: go%2:30:08:: go%2:30:08::
+read%2:31:00:: read%2:31:00:: hide%2:39:01:: hide%2:39:01::
+read%2:31:00:: read%2:31:00:: hit%2:35:03:: hit%2:35:03::
+read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: increase%2:30:02:: increase%2:30:02::
+read%2:31:00:: read%2:31:00:: jump%2:38:11:: jump%2:38:11::
+read%2:31:00:: read%2:31:00:: know%2:31:03:: know%2:31:03::
+read%2:31:00:: read%2:31:00:: listen%2:39:00:: listen%2:39:00::
+read%2:31:00:: read%2:31:00:: look%2:39:00:: look%2:39:00::
+read%2:31:00:: read%2:31:00:: move%2:38:00:: move%2:38:00::
+read%2:31:00:: read%2:31:00:: pay%2:40:00:: pay%2:40:00::
+read%2:31:00:: read%2:31:00:: play%2:36:00:: play%2:36:00::
+read%2:31:00:: read%2:31:00:: predict%2:32:00:: predict%2:32:00::
+run%2:38:04:: run%2:38:04:: say%2:32:00:: say%2:32:00::
+run%2:38:04:: run%2:38:04:: scream%2:32:01:: scream%2:32:01::
+run%2:38:04:: run%2:38:04:: see%2:39:00:: saw%2:35:00::
+run%2:38:04:: run%2:38:04:: sell%2:40:00:: sell%2:40:00::
+run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: sing%2:36:00:: sing%2:36:00::
+run%2:38:04:: run%2:38:04:: sit%2:35:00:: sit%2:35:00::
+run%2:38:04:: run%2:38:04:: sleep%2:29:00:: sleep%2:29:00::
+run%2:38:04:: run%2:38:04:: slow%2:30:01:: slow%2:30:01::
+run%2:38:04:: run%2:38:04:: spend%2:42:00:: spend%2:42:00::
+run%2:38:04:: run%2:38:04:: strike%2:35:00:: strike%2:35:00::
+run%2:38:04:: run%2:38:04:: swim%2:38:00:: swim%2:38:00::
+run%2:38:04:: run%2:38:04:: take%2:41:00:: take%2:41:00::
+run%2:38:04:: run%2:38:04:: think%2:31:00:: think%2:31:00::
+run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: walk%2:38:00:: walk%2:38:00::
+run%2:38:04:: run%2:38:04:: write%2:36:04:: write%2:36:04::
+run%2:38:04:: run%2:38:04:: dance%2:36:00:: dance%2:36:00::
+run%2:38:04:: run%2:38:04:: decrease%2:30:00:: decrease%2:30:00::
+run%2:38:04:: run%2:38:04:: describe%2:32:00:: describe%2:32:00::
+run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: fall%2:30:08:: fell%2:35:02::
+run%2:38:04:: run%2:38:04:: feed%2:38:04:: feed%2:38:04::
+run%2:38:04:: run%2:38:04:: fly%2:38:03:: fly%2:38:03::
+run%2:38:04:: run%2:38:04:: generate%2:36:00:: generate%2:36:00::
+run%2:38:05:: run%2:38:05:: go%2:34:09:: go%2:34:09::
+run%2:38:04:: run%2:38:04:: hide%2:39:01:: hide%2:39:01::
+run%2:38:04:: run%2:38:04:: hit%2:35:03:: hit%2:35:03::
+run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: increase%2:30:02:: increase%2:30:02::
+run%2:38:04:: run%2:38:04:: jump%2:38:11:: jump%2:38:11::
+run%2:38:04:: run%2:38:04:: know%2:31:03:: know%2:31:03::
+run%2:38:04:: run%2:38:04:: listen%2:39:00:: listen%2:39:00::
+run%2:38:04:: run%2:38:04:: look%2:39:00:: look%2:39:00::
+run%2:38:00:: run%2:38:00:: move%2:38:00:: move%2:38:00::
+run%2:38:04:: run%2:38:04:: pay%2:40:00:: pay%2:40:00::
+run%2:38:00:: run%2:38:00:: play%2:36:00:: play%2:36:00::
+run%2:38:04:: run%2:38:04:: predict%2:32:00:: predict%2:32:00::
+run%2:38:04:: run%2:38:04:: read%2:31:00:: read%2:31:00::
+say%2:32:00:: say%2:32:00:: scream%2:32:01:: scream%2:32:01::
+say%2:32:00:: say%2:32:00:: see%2:39:00:: saw%2:35:00::
+say%2:32:00:: say%2:32:00:: sell%2:40:00:: sell%2:40:00::
+say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: sing%2:36:00:: sing%2:36:00::
+say%2:32:00:: say%2:32:00:: sit%2:35:00:: sit%2:35:00::
+say%2:32:00:: say%2:32:00:: sleep%2:29:00:: sleep%2:29:00::
+say%2:32:00:: say%2:32:00:: slow%2:30:01:: slow%2:30:01::
+say%2:32:00:: say%2:32:00:: spend%2:42:00:: spend%2:42:00::
+say%2:32:00:: say%2:32:00:: strike%2:35:00:: strike%2:35:00::
+say%2:32:00:: say%2:32:00:: swim%2:38:00:: swim%2:38:00::
+say%2:32:00:: say%2:32:00:: take%2:41:00:: take%2:41:00::
+say%2:32:00:: say%2:32:00:: think%2:31:00:: think%2:31:00::
+say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: walk%2:38:00:: walk%2:38:00::
+say%2:32:00:: say%2:32:00:: write%2:36:04:: write%2:36:04::
+say%2:32:00:: say%2:32:00:: dance%2:36:00:: dance%2:36:00::
+say%2:32:00:: say%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
+say%2:32:00:: say%2:32:00:: describe%2:32:00:: describe%2:32:00::
+say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: fall%2:30:08:: fell%2:35:00::
+say%2:32:00:: say%2:32:00:: feed%2:34:00:: feed%2:34:00::
+say%2:32:00:: say%2:32:00:: fly%2:39:00:: fly%2:39:00::
+say%2:32:00:: say%2:32:00:: generate%2:36:00:: generate%2:36:00::
+say%2:32:04:: say%2:32:04:: go%2:30:08:: go%2:30:08::
+say%2:32:00:: say%2:32:00:: hide%2:39:01:: hide%2:39:01::
+say%2:32:00:: say%2:32:00:: hit%2:35:03:: hit%2:35:03::
+say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: increase%2:30:02:: increase%2:30:02::
+say%2:32:00:: say%2:32:00:: jump%2:38:11:: jump%2:38:11::
+say%2:32:00:: say%2:32:00:: know%2:31:03:: know%2:31:03::
+say%2:32:00:: say%2:32:00:: listen%2:39:00:: listen%2:39:00::
+say%2:32:00:: say%2:32:00:: look%2:39:00:: look%2:39:00::
+say%2:32:00:: say%2:32:00:: move%2:38:00:: move%2:38:00::
+say%2:32:00:: say%2:32:00:: pay%2:40:00:: pay%2:40:00::
+say%2:32:00:: say%2:32:00:: play%2:36:00:: play%2:36:00::
+say%2:32:00:: say%2:32:00:: predict%2:32:00:: predict%2:32:00::
+say%2:32:00:: say%2:32:00:: read%2:31:00:: read%2:31:00::
+say%2:32:00:: say%2:32:00:: run%2:38:04:: run%2:38:04::
+scream%2:32:01:: scream%2:32:01:: see%2:39:00:: saw%2:35:00::
+scream%2:32:01:: scream%2:32:01:: sell%2:40:00:: sell%2:40:00::
+scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: sing%2:36:00:: sing%2:36:00::
+scream%2:32:01:: scream%2:32:01:: sit%2:35:00:: sit%2:35:00::
+scream%2:32:01:: scream%2:32:01:: sleep%2:29:00:: sleep%2:29:00::
+scream%2:32:01:: scream%2:32:01:: slow%2:30:01:: slow%2:30:01::
+scream%2:32:01:: scream%2:32:01:: spend%2:42:00:: spend%2:42:00::
+scream%2:32:01:: scream%2:32:01:: strike%2:35:00:: strike%2:35:00::
+scream%2:32:01:: scream%2:32:01:: swim%2:38:00:: swim%2:38:00::
+scream%2:32:01:: scream%2:32:01:: take%2:41:00:: take%2:41:00::
+scream%2:32:01:: scream%2:32:01:: think%2:31:00:: think%2:31:00::
+scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: walk%2:38:00:: walk%2:38:00::
+scream%2:32:01:: scream%2:32:01:: write%2:36:04:: write%2:36:04::
+scream%2:32:01:: scream%2:32:01:: dance%2:36:00:: dance%2:36:00::
+scream%2:32:01:: scream%2:32:01:: decrease%2:30:00:: decrease%2:30:00::
+scream%2:32:01:: scream%2:32:01:: describe%2:32:00:: describe%2:32:00::
+scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: fall%2:30:08:: fell%2:35:00::
+scream%2:32:01:: scream%2:32:01:: feed%2:34:00:: feed%2:34:00::
+scream%2:32:01:: scream%2:32:01:: fly%2:39:00:: fly%2:39:00::
+scream%2:32:01:: scream%2:32:01:: generate%2:36:00:: generate%2:36:00::
+scream%2:32:01:: scream%2:32:01:: go%2:30:08:: go%2:30:08::
+scream%2:32:01:: scream%2:32:01:: hide%2:39:01:: hide%2:39:01::
+scream%2:32:01:: scream%2:32:01:: hit%2:35:03:: hit%2:35:03::
+scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: increase%2:30:02:: increase%2:30:02::
+scream%2:32:01:: scream%2:32:01:: jump%2:38:11:: jump%2:38:11::
+scream%2:32:01:: scream%2:32:01:: know%2:31:03:: know%2:31:03::
+scream%2:32:01:: scream%2:32:01:: listen%2:39:00:: listen%2:39:00::
+scream%2:32:01:: scream%2:32:01:: look%2:39:00:: look%2:39:00::
+scream%2:32:01:: scream%2:32:01:: move%2:38:00:: move%2:38:00::
+scream%2:32:01:: scream%2:32:01:: pay%2:40:00:: pay%2:40:00::
+scream%2:32:01:: scream%2:32:01:: play%2:36:00:: play%2:36:00::
+scream%2:32:01:: scream%2:32:01:: predict%2:32:00:: predict%2:32:00::
+scream%2:32:01:: scream%2:32:01:: read%2:31:00:: read%2:31:00::
+scream%2:32:01:: scream%2:32:01:: run%2:38:04:: run%2:38:04::
+scream%2:32:01:: scream%2:32:01:: say%2:32:00:: say%2:32:00::
+see%2:39:00:: saw%2:35:00:: sell%2:40:00:: sell%2:40:00::
+see%2:39:00:: saw%2:35:00::
+see%2:39:00:: saw%2:35:00:: sing%2:36:00:: sing%2:36:00::
+see%2:39:00:: saw%2:35:00:: sit%2:35:00:: sit%2:35:00::
+see%2:39:00:: saw%2:35:00:: sleep%2:29:00:: sleep%2:29:00::
+see%2:39:00:: saw%2:35:00:: slow%2:30:01:: slow%2:30:01::
+see%2:39:00:: saw%2:35:00:: spend%2:42:00:: spend%2:42:00::
+see%2:39:00:: saw%2:35:00:: strike%2:35:00:: strike%2:35:00::
+see%2:39:00:: saw%2:35:00:: swim%2:38:00:: swim%2:38:00::
+see%2:35:09:: saw%2:35:00:: take%2:41:00:: take%2:41:00::
+see%2:31:08:: saw%2:35:00:: think%2:31:00:: think%2:31:00::
+see%2:39:00:: saw%2:35:00::
+see%2:39:00:: saw%2:35:00:: walk%2:38:00:: walk%2:38:00::
+see%2:39:00:: saw%2:35:00:: write%2:36:04:: write%2:36:04::
+see%2:39:00:: saw%2:35:00:: dance%2:36:00:: dance%2:36:00::
+see%2:39:00:: saw%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
+see%2:39:00:: saw%2:35:00:: describe%2:32:00:: describe%2:32:00::
+see%2:39:00:: saw%2:35:00::
+see%2:39:00:: saw%2:35:00:: fall%2:30:08:: fell%2:35:00::
+see%2:39:00:: saw%2:35:00:: feed%2:34:00:: feed%2:34:00::
+see%2:39:00:: saw%2:35:00:: fly%2:39:00:: fly%2:39:00::
+see%2:39:00:: saw%2:35:00:: generate%2:36:00:: generate%2:36:00::
+see%2:41:10:: saw%2:35:00:: go%2:30:08:: go%2:30:08::
+see%2:39:00:: saw%2:35:00:: hide%2:39:01:: hide%2:39:01::
+see%2:39:00:: saw%2:35:00:: hit%2:35:03:: hit%2:35:03::
+see%2:39:00:: saw%2:35:00::
+see%2:39:00:: saw%2:35:00:: increase%2:30:02:: increase%2:30:02::
+see%2:39:00:: saw%2:35:00:: jump%2:38:11:: jump%2:38:11::
+see%2:39:02:: saw%2:35:00:: know%2:31:03:: know%2:31:03::
+see%2:39:00:: saw%2:35:00:: listen%2:39:00:: listen%2:39:00::
+see%2:39:13:: saw%2:35:00:: look%2:39:00:: look%2:39:00::
+see%2:39:00:: saw%2:35:00:: move%2:38:00:: move%2:38:00::
+see%2:41:11:: saw%2:35:00:: pay%2:40:00:: pay%2:40:00::
+see%2:39:00:: saw%2:35:00:: play%2:36:00:: play%2:36:00::
+see%2:39:00:: saw%2:35:00:: predict%2:32:00:: predict%2:32:00::
+see%2:39:00:: saw%2:35:00:: read%2:31:00:: read%2:31:00::
+see%2:39:00:: saw%2:35:00:: run%2:38:04:: run%2:38:04::
+see%2:39:00:: saw%2:35:00:: say%2:32:00:: say%2:32:00::
+see%2:39:00:: saw%2:35:00:: scream%2:32:01:: scream%2:32:01::
+sell%2:40:00:: sell%2:40:00::
+sell%2:40:00:: sell%2:40:00:: sing%2:36:00:: sing%2:36:00::
+sell%2:40:00:: sell%2:40:00:: sit%2:35:00:: sit%2:35:00::
+sell%2:40:00:: sell%2:40:00:: sleep%2:29:00:: sleep%2:29:00::
+sell%2:40:00:: sell%2:40:00:: slow%2:30:01:: slow%2:30:01::
+sell%2:40:00:: sell%2:40:00:: spend%2:42:00:: spend%2:42:00::
+sell%2:40:00:: sell%2:40:00:: strike%2:35:00:: strike%2:35:00::
+sell%2:40:00:: sell%2:40:00:: swim%2:38:00:: swim%2:38:00::
+sell%2:40:00:: sell%2:40:00:: take%2:41:00:: take%2:41:00::
+sell%2:40:00:: sell%2:40:00:: think%2:31:00:: think%2:31:00::
+sell%2:40:00:: sell%2:40:00::
+sell%2:40:00:: sell%2:40:00:: walk%2:38:00:: walk%2:38:00::
+sell%2:40:00:: sell%2:40:00:: write%2:36:04:: write%2:36:04::
+sell%2:40:00:: sell%2:40:00:: dance%2:36:00:: dance%2:36:00::
+sell%2:40:00:: sell%2:40:00:: decrease%2:30:00:: decrease%2:30:00::
+sell%2:40:00:: sell%2:40:00:: describe%2:32:00:: describe%2:32:00::
+sell%2:40:00:: sell%2:40:00::
+sell%2:40:00:: sell%2:40:00:: fall%2:30:08:: fell%2:35:00::
+sell%2:40:00:: sell%2:40:00:: feed%2:34:00:: feed%2:34:00::
+sell%2:40:00:: sell%2:40:00:: fly%2:39:00:: fly%2:39:00::
+sell%2:40:00:: sell%2:40:00:: generate%2:36:00:: generate%2:36:00::
+sell%2:40:00:: sell%2:40:00:: go%2:30:08:: go%2:30:08::
+sell%2:40:00:: sell%2:40:00:: hide%2:39:01:: hide%2:39:01::
+sell%2:40:00:: sell%2:40:00:: hit%2:35:03:: hit%2:35:03::
+sell%2:40:00:: sell%2:40:00::
+sell%2:40:00:: sell%2:40:00:: increase%2:30:02:: increase%2:30:02::
+sell%2:40:00:: sell%2:40:00:: jump%2:38:11:: jump%2:38:11::
+sell%2:40:00:: sell%2:40:00:: know%2:31:03:: know%2:31:03::
+sell%2:40:00:: sell%2:40:00:: listen%2:39:00:: listen%2:39:00::
+sell%2:40:00:: sell%2:40:00:: look%2:39:00:: look%2:39:00::
+sell%2:40:00:: sell%2:40:00:: move%2:38:00:: move%2:38:00::
+sell%2:40:00:: sell%2:40:00:: pay%2:40:00:: pay%2:40:00::
+sell%2:40:00:: sell%2:40:00:: play%2:36:00:: play%2:36:00::
+sell%2:40:00:: sell%2:40:00:: predict%2:32:00:: predict%2:32:00::
+sell%2:40:00:: sell%2:40:00:: read%2:31:00:: read%2:31:00::
+sell%2:40:00:: sell%2:40:00:: run%2:38:04:: run%2:38:04::
+sell%2:40:00:: sell%2:40:00:: say%2:32:00:: say%2:32:00::
+sell%2:40:00:: sell%2:40:00:: scream%2:32:01:: scream%2:32:01::
+sell%2:40:00:: sell%2:40:00:: see%2:39:00:: saw%2:35:00::
+sing%2:36:00:: sing%2:36:00::
+sit%2:35:00:: sit%2:35:00::
+sleep%2:29:00:: sleep%2:29:00::
+slow%2:30:01:: slow%2:30:01::
+spend%2:42:00:: spend%2:42:00::
+strike%2:35:00:: strike%2:35:00::
+swim%2:38:00:: swim%2:38:00::
+take%2:41:00:: take%2:41:00::
+think%2:31:00:: think%2:31:00::
+walk%2:38:00:: walk%2:38:00::
+write%2:36:04:: write%2:36:04::
+dance%2:36:00:: dance%2:36:00::
+shrink%2:30:11:: shrink%2:30:11:: decrease%2:30:00:: decrease%2:30:00::
+describe%2:32:00:: describe%2:32:00::
+fall%2:30:08:: fell%2:35:00::
+feed%2:34:00:: feed%2:34:00::
+fly%2:39:00:: fly%2:39:00::
+generate%2:36:00:: generate%2:36:00::
+go%2:30:08:: go%2:30:08::
+hide%2:39:01:: hide%2:39:01::
+hit%2:35:03:: hit%2:35:03::
+increase%2:30:02:: increase%2:30:02::
+jump%2:38:11:: jump%2:38:11::
+know%2:31:03:: know%2:31:03::
+listen%2:39:00:: listen%2:39:00::
+look%2:39:00:: look%2:39:00::
+shrink%2:38:00:: shrink%2:38:00:: move%2:38:00:: move%2:38:00::
+pay%2:40:00:: pay%2:40:00::
+play%2:36:00:: play%2:36:00::
+predict%2:32:00:: predict%2:32:00::
+read%2:31:00:: read%2:31:00::
+run%2:38:04:: run%2:38:04::
+say%2:32:00:: say%2:32:00::
+scream%2:32:01:: scream%2:32:01::
+see%2:39:00:: saw%2:35:00::
+sell%2:40:00:: sell%2:40:00::
+sing%2:36:00:: sing%2:36:00:: sit%2:35:00:: sit%2:35:00::
+sing%2:36:00:: sing%2:36:00:: sleep%2:29:00:: sleep%2:29:00::
+sing%2:36:00:: sing%2:36:00:: slow%2:30:01:: slow%2:30:01::
+sing%2:36:00:: sing%2:36:00:: spend%2:42:00:: spend%2:42:00::
+sing%2:36:00:: sing%2:36:00:: strike%2:35:00:: strike%2:35:00::
+sing%2:36:00:: sing%2:36:00:: swim%2:38:00:: swim%2:38:00::
+sing%2:36:00:: sing%2:36:00:: take%2:41:00:: take%2:41:00::
+sing%2:36:00:: sing%2:36:00:: think%2:31:00:: think%2:31:00::
+sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: walk%2:38:00:: walk%2:38:00::
+sing%2:36:00:: sing%2:36:00:: write%2:36:04:: write%2:36:04::
+sing%2:36:00:: sing%2:36:00:: dance%2:36:00:: dance%2:36:00::
+sing%2:36:00:: sing%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
+sing%2:36:00:: sing%2:36:00:: describe%2:32:00:: describe%2:32:00::
+sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: fall%2:30:08:: fell%2:35:00::
+sing%2:36:00:: sing%2:36:00:: feed%2:34:00:: feed%2:34:00::
+sing%2:36:00:: sing%2:36:00:: fly%2:39:00:: fly%2:39:00::
+sing%2:36:00:: sing%2:36:00:: generate%2:36:00:: generate%2:36:00::
+sing%2:36:00:: sing%2:36:00:: go%2:30:08:: go%2:30:08::
+sing%2:36:00:: sing%2:36:00:: hide%2:39:01:: hide%2:39:01::
+sing%2:36:00:: sing%2:36:00:: hit%2:35:03:: hit%2:35:03::
+sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: increase%2:30:02:: increase%2:30:02::
+sing%2:36:00:: sing%2:36:00:: jump%2:38:11:: jump%2:38:11::
+sing%2:36:00:: sing%2:36:00:: know%2:31:03:: know%2:31:03::
+sing%2:36:00:: sing%2:36:00:: listen%2:39:00:: listen%2:39:00::
+sing%2:36:00:: sing%2:36:00:: look%2:39:00:: look%2:39:00::
+sing%2:36:00:: sing%2:36:00:: move%2:38:00:: move%2:38:00::
+sing%2:36:00:: sing%2:36:00:: pay%2:40:00:: pay%2:40:00::
+sing%2:36:00:: sing%2:36:00:: play%2:36:00:: play%2:36:00::
+sing%2:36:00:: sing%2:36:00:: predict%2:32:00:: predict%2:32:00::
+sing%2:36:00:: sing%2:36:00:: read%2:31:00:: read%2:31:00::
+sing%2:36:00:: sing%2:36:00:: run%2:38:04:: run%2:38:04::
+sing%2:36:00:: sing%2:36:00:: say%2:32:00:: say%2:32:00::
+sing%2:36:00:: sing%2:36:00:: scream%2:32:01:: scream%2:32:01::
+sing%2:36:00:: sing%2:36:00:: see%2:39:00:: saw%2:35:00::
+sing%2:36:00:: sing%2:36:00:: sell%2:40:00:: sell%2:40:00::
+sing%2:36:00:: sing%2:36:00::
+sit%2:35:00:: sit%2:35:00:: sleep%2:29:00:: sleep%2:29:00::
+sit%2:35:00:: sit%2:35:00:: slow%2:30:01:: slow%2:30:01::
+sit%2:35:00:: sit%2:35:00:: spend%2:42:00:: spend%2:42:00::
+sit%2:35:00:: sit%2:35:00:: strike%2:35:00:: strike%2:35:00::
+sit%2:35:00:: sit%2:35:00:: swim%2:38:00:: swim%2:38:00::
+sit%2:35:00:: sit%2:35:00:: take%2:41:00:: take%2:41:00::
+sit%2:35:00:: sit%2:35:00:: think%2:31:00:: think%2:31:00::
+sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: walk%2:38:00:: walk%2:38:00::
+sit%2:35:00:: sit%2:35:00:: write%2:36:04:: write%2:36:04::
+sit%2:35:00:: sit%2:35:00:: dance%2:36:00:: dance%2:36:00::
+sit%2:35:00:: sit%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
+sit%2:35:00:: sit%2:35:00:: describe%2:32:00:: describe%2:32:00::
+sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: fall%2:30:08:: fell%2:35:00::
+sit%2:35:00:: sit%2:35:00:: feed%2:34:00:: feed%2:34:00::
+sit%2:35:00:: sit%2:35:00:: fly%2:39:00:: fly%2:39:00::
+sit%2:35:00:: sit%2:35:00:: generate%2:36:00:: generate%2:36:00::
+sit%2:35:00:: sit%2:35:00:: go%2:30:08:: go%2:30:08::
+sit%2:35:00:: sit%2:35:00:: hide%2:39:01:: hide%2:39:01::
+sit%2:35:00:: sit%2:35:00:: hit%2:35:03:: hit%2:35:03::
+sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: increase%2:30:02:: increase%2:30:02::
+sit%2:35:00:: sit%2:35:00:: jump%2:38:11:: jump%2:38:11::
+sit%2:35:00:: sit%2:35:00:: know%2:31:03:: know%2:31:03::
+sit%2:35:00:: sit%2:35:00:: listen%2:39:00:: listen%2:39:00::
+sit%2:35:00:: sit%2:35:00:: look%2:39:00:: look%2:39:00::
+sit%2:35:00:: sit%2:35:00:: move%2:38:00:: move%2:38:00::
+sit%2:35:00:: sit%2:35:00:: pay%2:40:00:: pay%2:40:00::
+sit%2:35:00:: sit%2:35:00:: play%2:36:00:: play%2:36:00::
+sit%2:35:00:: sit%2:35:00:: predict%2:32:00:: predict%2:32:00::
+sit%2:35:00:: sit%2:35:00:: read%2:31:00:: read%2:31:00::
+sit%2:35:00:: sit%2:35:00:: run%2:38:04:: run%2:38:04::
+sit%2:35:00:: sit%2:35:00:: say%2:32:00:: say%2:32:00::
+sit%2:35:00:: sit%2:35:00:: scream%2:32:01:: scream%2:32:01::
+sit%2:35:00:: sit%2:35:00:: see%2:39:00:: saw%2:35:00::
+sit%2:35:00:: sit%2:35:00:: sell%2:40:00:: sell%2:40:00::
+sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: sing%2:36:00:: sing%2:36:00::
+sleep%2:29:00:: sleep%2:29:00:: slow%2:30:01:: slow%2:30:01::
+sleep%2:29:00:: sleep%2:29:00:: spend%2:42:00:: spend%2:42:00::
+sleep%2:29:00:: sleep%2:29:00:: strike%2:35:00:: strike%2:35:00::
+sleep%2:29:00:: sleep%2:29:00:: swim%2:38:00:: swim%2:38:00::
+sleep%2:29:00:: sleep%2:29:00:: take%2:41:00:: take%2:41:00::
+sleep%2:29:00:: sleep%2:29:00:: think%2:31:00:: think%2:31:00::
+sleep%2:29:00:: sleep%2:29:00::
+sleep%2:29:00:: sleep%2:29:00:: walk%2:38:00:: walk%2:38:00::
+sleep%2:29:00:: sleep%2:29:00:: write%2:36:04:: write%2:36:04::
+sleep%2:29:00:: sleep%2:29:00:: dance%2:36:00:: dance%2:36:00::
+sleep%2:29:00:: sleep%2:29:00:: decrease%2:30:00:: decrease%2:30:00::
+sleep%2:29:00:: sleep%2:29:00:: describe%2:32:00:: describe%2:32:00::
+sleep%2:29:00:: sleep%2:29:00::
+sleep%2:29:00:: sleep%2:29:00:: fall%2:30:08:: fell%2:35:00::
+sleep%2:29:00:: sleep%2:29:00:: feed%2:34:00:: feed%2:34:00::
+sleep%2:29:00:: sleep%2:29:00:: fly%2:39:00:: fly%2:39:00::
+sleep%2:29:00:: sleep%2:29:00:: generate%2:36:00:: generate%2:36:00::
+sleep%2:29:00:: sleep%2:29:00:: go%2:30:08:: go%2:30:08::
+sleep%2:29:00:: sleep%2:29:00:: hide%2:39:01:: hide%2:39:01::
+sleep%2:29:00:: sleep%2:29:00:: hit%2:35:03:: hit%2:35:03::
+sleep%2:29:00:: sleep%2:29:00::
+sleep%2:29:00:: sleep%2:29:00:: increase%2:30:02:: increase%2:30:02::
+sleep%2:29:00:: sleep%2:29:00:: jump%2:38:11:: jump%2:38:11::
+sleep%2:29:00:: sleep%2:29:00:: know%2:31:03:: know%2:31:03::
+sleep%2:29:00:: sleep%2:29:00:: listen%2:39:00:: listen%2:39:00::
+sleep%2:29:00:: sleep%2:29:00:: look%2:39:00:: look%2:39:00::
+sleep%2:29:00:: sleep%2:29:00:: move%2:38:00:: move%2:38:00::
+sleep%2:29:00:: sleep%2:29:00:: pay%2:40:00:: pay%2:40:00::
+sleep%2:29:00:: sleep%2:29:00:: play%2:36:00:: play%2:36:00::
+sleep%2:29:00:: sleep%2:29:00:: predict%2:32:00:: predict%2:32:00::
+sleep%2:29:00:: sleep%2:29:00:: read%2:31:00:: read%2:31:00::
+sleep%2:29:00:: sleep%2:29:00:: run%2:38:04:: run%2:38:04::
+sleep%2:29:00:: sleep%2:29:00:: say%2:32:00:: say%2:32:00::
+sleep%2:29:00:: sleep%2:29:00:: scream%2:32:01:: scream%2:32:01::
+sleep%2:29:00:: sleep%2:29:00:: see%2:39:00:: saw%2:35:00::
+sleep%2:29:00:: sleep%2:29:00:: sell%2:40:00:: sell%2:40:00::
+sleep%2:29:00:: sleep%2:29:00::
+sleep%2:29:00:: sleep%2:29:00:: sing%2:36:00:: sing%2:36:00::
+sleep%2:29:00:: sleep%2:29:00:: sit%2:35:00:: sit%2:35:00::
+slow%2:30:01:: slow%2:30:01:: spend%2:42:00:: spend%2:42:00::
+slow%2:30:01:: slow%2:30:01:: strike%2:35:00:: strike%2:35:00::
+slow%2:30:01:: slow%2:30:01:: swim%2:38:00:: swim%2:38:00::
+slow%2:30:01:: slow%2:30:01:: take%2:41:00:: take%2:41:00::
+slow%2:30:01:: slow%2:30:01:: think%2:31:00:: think%2:31:00::
+slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: walk%2:38:00:: walk%2:38:00::
+slow%2:30:01:: slow%2:30:01:: write%2:36:04:: write%2:36:04::
+slow%2:30:01:: slow%2:30:01:: dance%2:36:00:: dance%2:36:00::
+slow%2:30:01:: slow%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
+slow%2:30:01:: slow%2:30:01:: describe%2:32:00:: describe%2:32:00::
+slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: fall%2:30:08:: fell%2:35:00::
+slow%2:30:01:: slow%2:30:01:: feed%2:34:00:: feed%2:34:00::
+slow%2:30:01:: slow%2:30:01:: fly%2:39:00:: fly%2:39:00::
+slow%2:30:01:: slow%2:30:01:: generate%2:36:00:: generate%2:36:00::
+slow%2:30:01:: slow%2:30:01:: go%2:30:08:: go%2:30:08::
+slow%2:30:01:: slow%2:30:01:: hide%2:39:01:: hide%2:39:01::
+slow%2:30:01:: slow%2:30:01:: hit%2:35:03:: hit%2:35:03::
+slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: increase%2:30:02:: increase%2:30:02::
+slow%2:30:01:: slow%2:30:01:: jump%2:38:11:: jump%2:38:11::
+slow%2:30:01:: slow%2:30:01:: know%2:31:03:: know%2:31:03::
+slow%2:30:01:: slow%2:30:01:: listen%2:39:00:: listen%2:39:00::
+slow%2:30:01:: slow%2:30:01:: look%2:39:00:: look%2:39:00::
+slow%2:30:05:: slow%2:30:05:: move%2:38:00:: move%2:38:00::
+slow%2:30:01:: slow%2:30:01:: pay%2:40:00:: pay%2:40:00::
+slow%2:30:01:: slow%2:30:01:: play%2:36:00:: play%2:36:00::
+slow%2:30:01:: slow%2:30:01:: predict%2:32:00:: predict%2:32:00::
+slow%2:30:01:: slow%2:30:01:: read%2:31:00:: read%2:31:00::
+slow%2:30:01:: slow%2:30:01:: run%2:38:04:: run%2:38:04::
+slow%2:30:01:: slow%2:30:01:: say%2:32:00:: say%2:32:00::
+slow%2:30:01:: slow%2:30:01:: scream%2:32:01:: scream%2:32:01::
+slow%2:30:01:: slow%2:30:01:: see%2:39:00:: saw%2:35:00::
+slow%2:30:01:: slow%2:30:01:: sell%2:40:00:: sell%2:40:00::
+slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: sing%2:36:00:: sing%2:36:00::
+slow%2:30:01:: slow%2:30:01:: sit%2:35:00:: sit%2:35:00::
+slow%2:30:01:: slow%2:30:01:: sleep%2:29:00:: sleep%2:29:00::
+spend%2:42:00:: spend%2:42:00:: strike%2:35:00:: strike%2:35:00::
+spend%2:42:00:: spend%2:42:00:: swim%2:38:00:: swim%2:38:00::
+spend%2:42:00:: spend%2:42:00:: take%2:41:00:: take%2:41:00::
+spend%2:42:00:: spend%2:42:00:: think%2:31:00:: think%2:31:00::
+spend%2:42:00:: spend%2:42:00::
+spend%2:42:00:: spend%2:42:00:: walk%2:38:00:: walk%2:38:00::
+spend%2:42:00:: spend%2:42:00:: write%2:36:04:: write%2:36:04::
+spend%2:42:00:: spend%2:42:00:: dance%2:36:00:: dance%2:36:00::
+spend%2:42:00:: spend%2:42:00:: decrease%2:30:00:: decrease%2:30:00::
+spend%2:42:00:: spend%2:42:00:: describe%2:32:00:: describe%2:32:00::
+spend%2:42:00:: spend%2:42:00::
+spend%2:42:00:: spend%2:42:00:: fall%2:30:08:: fell%2:35:00::
+spend%2:42:00:: spend%2:42:00:: feed%2:34:00:: feed%2:34:00::
+spend%2:42:00:: spend%2:42:00:: fly%2:39:00:: fly%2:39:00::
+spend%2:42:00:: spend%2:42:00:: generate%2:36:00:: generate%2:36:00::
+spend%2:42:00:: spend%2:42:00:: go%2:30:08:: go%2:30:08::
+spend%2:42:00:: spend%2:42:00:: hide%2:39:01:: hide%2:39:01::
+spend%2:42:00:: spend%2:42:00:: hit%2:35:03:: hit%2:35:03::
+spend%2:42:00:: spend%2:42:00::
+spend%2:42:00:: spend%2:42:00:: increase%2:30:02:: increase%2:30:02::
+spend%2:42:00:: spend%2:42:00:: jump%2:38:11:: jump%2:38:11::
+spend%2:42:00:: spend%2:42:00:: know%2:31:03:: know%2:31:03::
+spend%2:42:00:: spend%2:42:00:: listen%2:39:00:: listen%2:39:00::
+spend%2:42:00:: spend%2:42:00:: look%2:39:00:: look%2:39:00::
+spend%2:42:00:: spend%2:42:00:: move%2:38:00:: move%2:38:00::
+spend%2:42:00:: spend%2:42:00:: pay%2:40:00:: pay%2:40:00::
+spend%2:42:00:: spend%2:42:00:: play%2:36:00:: play%2:36:00::
+spend%2:42:00:: spend%2:42:00:: predict%2:32:00:: predict%2:32:00::
+spend%2:42:00:: spend%2:42:00:: read%2:31:00:: read%2:31:00::
+spend%2:42:00:: spend%2:42:00:: run%2:38:04:: run%2:38:04::
+spend%2:42:00:: spend%2:42:00:: say%2:32:00:: say%2:32:00::
+spend%2:42:00:: spend%2:42:00:: scream%2:32:01:: scream%2:32:01::
+spend%2:42:00:: spend%2:42:00:: see%2:39:00:: saw%2:35:00::
+spend%2:42:00:: spend%2:42:00:: sell%2:40:00:: sell%2:40:00::
+spend%2:42:00:: spend%2:42:00::
+spend%2:42:00:: spend%2:42:00:: sing%2:36:00:: sing%2:36:00::
+spend%2:42:00:: spend%2:42:00:: sit%2:35:00:: sit%2:35:00::
+spend%2:42:00:: spend%2:42:00:: sleep%2:29:00:: sleep%2:29:00::
+spend%2:42:00:: spend%2:42:00:: slow%2:30:01:: slow%2:30:01::
+strike%2:35:00:: strike%2:35:00:: swim%2:38:00:: swim%2:38:00::
+strike%2:42:00:: strike%2:42:00:: take%2:41:00:: take%2:41:00::
+strike%2:35:00:: strike%2:35:00:: think%2:31:00:: think%2:31:00::
+strike%2:35:00:: strike%2:35:00::
+strike%2:35:00:: strike%2:35:00:: walk%2:38:00:: walk%2:38:00::
+strike%2:35:00:: strike%2:35:00:: write%2:36:04:: write%2:36:04::
+strike%2:35:00:: strike%2:35:00:: dance%2:36:00:: dance%2:36:00::
+strike%2:35:00:: strike%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
+strike%2:35:00:: strike%2:35:00:: describe%2:32:00:: describe%2:32:00::
+strike%2:35:00:: strike%2:35:00::
+strike%2:35:00:: strike%2:35:00:: fall%2:30:08:: fell%2:35:00::
+strike%2:35:00:: strike%2:35:00:: feed%2:34:00:: feed%2:34:00::
+strike%2:35:00:: strike%2:35:00:: fly%2:39:00:: fly%2:39:00::
+strike%2:35:00:: strike%2:35:00:: generate%2:36:00:: generate%2:36:00::
+strike%2:35:00:: strike%2:35:00:: go%2:30:08:: go%2:30:08::
+strike%2:35:00:: strike%2:35:00:: hide%2:39:01:: hide%2:39:01::
+strike%2:35:00:: strike%2:35:00:: hit%2:35:00:: hit%2:35:00::
+strike%2:35:00:: strike%2:35:00::
+strike%2:35:00:: strike%2:35:00:: increase%2:30:02:: increase%2:30:02::
+strike%2:35:00:: strike%2:35:00:: jump%2:38:11:: jump%2:38:11::
+strike%2:35:00:: strike%2:35:00:: know%2:31:03:: know%2:31:03::
+strike%2:35:00:: strike%2:35:00:: listen%2:39:00:: listen%2:39:00::
+strike%2:35:00:: strike%2:35:00:: look%2:39:00:: look%2:39:00::
+strike%2:35:00:: strike%2:35:00:: move%2:38:00:: move%2:38:00::
+strike%2:35:00:: strike%2:35:00:: pay%2:40:00:: pay%2:40:00::
+strike%2:35:00:: strike%2:35:00:: play%2:36:00:: play%2:36:00::
+strike%2:35:00:: strike%2:35:00:: predict%2:32:00:: predict%2:32:00::
+strike%2:35:00:: strike%2:35:00:: read%2:31:00:: read%2:31:00::
+strike%2:35:00:: strike%2:35:00:: run%2:38:04:: run%2:38:04::
+strike%2:35:00:: strike%2:35:00:: say%2:32:00:: say%2:32:00::
+strike%2:35:00:: strike%2:35:00:: scream%2:32:01:: scream%2:32:01::
+strike%2:35:00:: strike%2:35:00:: see%2:39:00:: saw%2:35:00::
+strike%2:35:00:: strike%2:35:00:: sell%2:40:00:: sell%2:40:00::
+strike%2:35:00:: strike%2:35:00::
+strike%2:35:00:: strike%2:35:00:: sing%2:36:00:: sing%2:36:00::
+strike%2:35:00:: strike%2:35:00:: sit%2:35:00:: sit%2:35:00::
+strike%2:35:00:: strike%2:35:00:: sleep%2:29:00:: sleep%2:29:00::
+strike%2:35:00:: strike%2:35:00:: slow%2:30:01:: slow%2:30:01::
+strike%2:35:00:: strike%2:35:00:: spend%2:42:00:: spend%2:42:00::
+swim%2:38:00:: swim%2:38:00:: take%2:41:00:: take%2:41:00::
+swim%2:38:00:: swim%2:38:00:: think%2:31:00:: think%2:31:00::
+swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: walk%2:38:00:: walk%2:38:00::
+swim%2:38:00:: swim%2:38:00:: write%2:36:04:: write%2:36:04::
+swim%2:38:00:: swim%2:38:00:: dance%2:36:00:: dance%2:36:00::
+swim%2:38:00:: swim%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
+swim%2:38:00:: swim%2:38:00:: describe%2:32:00:: describe%2:32:00::
+swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: fall%2:30:08:: fell%2:35:00::
+swim%2:38:00:: swim%2:38:00:: feed%2:34:00:: feed%2:34:00::
+swim%2:38:00:: swim%2:38:00:: fly%2:39:00:: fly%2:39:00::
+swim%2:38:00:: swim%2:38:00:: generate%2:36:00:: generate%2:36:00::
+swim%2:38:00:: swim%2:38:00:: go%2:30:08:: go%2:30:08::
+swim%2:38:00:: swim%2:38:00:: hide%2:39:01:: hide%2:39:01::
+swim%2:38:00:: swim%2:38:00:: hit%2:35:03:: hit%2:35:03::
+swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: increase%2:30:02:: increase%2:30:02::
+swim%2:38:00:: swim%2:38:00:: jump%2:38:11:: jump%2:38:11::
+swim%2:38:00:: swim%2:38:00:: know%2:31:03:: know%2:31:03::
+swim%2:38:00:: swim%2:38:00:: listen%2:39:00:: listen%2:39:00::
+swim%2:38:00:: swim%2:38:00:: look%2:39:00:: look%2:39:00::
+swim%2:38:00:: swim%2:38:00:: move%2:38:00:: move%2:38:00::
+swim%2:38:00:: swim%2:38:00:: pay%2:40:00:: pay%2:40:00::
+swim%2:38:00:: swim%2:38:00:: play%2:36:00:: play%2:36:00::
+swim%2:38:00:: swim%2:38:00:: predict%2:32:00:: predict%2:32:00::
+swim%2:38:00:: swim%2:38:00:: read%2:31:00:: read%2:31:00::
+swim%2:38:00:: swim%2:38:00:: run%2:38:04:: run%2:38:04::
+swim%2:38:00:: swim%2:38:00:: say%2:32:00:: say%2:32:00::
+swim%2:38:00:: swim%2:38:00:: scream%2:32:01:: scream%2:32:01::
+swim%2:38:00:: swim%2:38:00:: see%2:39:00:: saw%2:35:00::
+swim%2:38:00:: swim%2:38:00:: sell%2:40:00:: sell%2:40:00::
+swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: sing%2:36:00:: sing%2:36:00::
+swim%2:38:00:: swim%2:38:00:: sit%2:35:00:: sit%2:35:00::
+swim%2:38:00:: swim%2:38:00:: sleep%2:29:00:: sleep%2:29:00::
+swim%2:38:00:: swim%2:38:00:: slow%2:30:01:: slow%2:30:01::
+swim%2:38:00:: swim%2:38:00:: spend%2:42:00:: spend%2:42:00::
+swim%2:38:00:: swim%2:38:00:: strike%2:35:00:: strike%2:35:00::
+take%2:41:00:: take%2:41:00:: think%2:31:01:: think%2:31:01::
+take%2:41:00:: take%2:41:00:: vanish%2:30:00:: vanish%2:30:00::
+take%2:41:00:: take%2:41:00:: walk%2:38:00:: walk%2:38:00::
+take%2:41:00:: take%2:41:00:: write%2:36:04:: write%2:36:04::
+take%2:41:00:: take%2:41:00:: dance%2:36:00:: dance%2:36:00::
+take%2:41:00:: take%2:41:00:: decrease%2:30:00:: decrease%2:30:00::
+take%2:41:00:: take%2:41:00:: describe%2:32:00:: describe%2:32:00::
+take%2:41:00:: take%2:41:00::
+take%2:41:00:: take%2:41:00:: fall%2:30:00:: fell%2:35:00::
+take%2:41:00:: take%2:41:00:: feed%2:34:00:: feed%2:34:00::
+take%2:41:00:: take%2:41:00:: fly%2:38:03:: fly%2:38:03::
+take%2:41:00:: take%2:41:00:: generate%2:36:00:: generate%2:36:00::
+take%2:41:00:: take%2:41:00:: go%2:30:08:: go%2:30:08::
+take%2:41:00:: take%2:41:00:: hide%2:39:01:: hide%2:39:01::
+take%2:41:00:: take%2:41:00:: hit%2:34:00:: hit%2:34:00::
+take%2:41:00:: take%2:41:00::
+take%2:41:00:: take%2:41:00:: increase%2:30:02:: increase%2:30:02::
+take%2:41:00:: take%2:41:00:: jump%2:38:00:: jump%2:38:00::
+take%2:41:00:: take%2:41:00:: know%2:31:03:: know%2:31:03::
+take%2:41:00:: take%2:41:00:: listen%2:39:00:: listen%2:39:00::
+take%2:41:00:: take%2:41:00:: look%2:39:00:: look%2:39:00::
+take%2:41:00:: take%2:41:00:: move%2:38:00:: move%2:38:00::
+take%2:41:00:: take%2:41:00:: pay%2:40:13:: pay%2:40:13::
+take%2:41:00:: take%2:41:00:: play%2:36:00:: play%2:36:00::
+take%2:41:00:: take%2:41:00:: predict%2:32:00:: predict%2:32:00::
+take%2:41:00:: take%2:41:00:: read%2:31:00:: read%2:31:00::
+take%2:41:00:: take%2:41:00:: run%2:38:04:: run%2:38:04::
+take%2:41:00:: take%2:41:00:: say%2:32:00:: say%2:32:00::
+take%2:41:00:: take%2:41:00:: scream%2:32:01:: scream%2:32:01::
+take%2:41:00:: take%2:41:00:: see%2:35:09:: saw%2:35:00::
+take%2:41:00:: take%2:41:00:: sell%2:40:00:: sell%2:40:00::
+take%2:41:00:: take%2:41:00::
+take%2:41:00:: take%2:41:00:: sing%2:36:00:: sing%2:36:00::
+take%2:41:00:: take%2:41:00:: sit%2:35:00:: sit%2:35:00::
+take%2:41:00:: take%2:41:00:: sleep%2:29:00:: sleep%2:29:00::
+take%2:41:00:: take%2:41:00:: slow%2:30:01:: slow%2:30:01::
+take%2:41:00:: take%2:41:00:: spend%2:42:00:: spend%2:42:00::
+take%2:41:00:: take%2:41:00:: strike%2:42:00:: strike%2:42:00::
+take%2:41:00:: take%2:41:00:: swim%2:38:00:: swim%2:38:00::
+think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: walk%2:38:00:: walk%2:38:00::
+think%2:31:00:: think%2:31:00:: write%2:36:04:: write%2:36:04::
+think%2:31:00:: think%2:31:00:: dance%2:36:00:: dance%2:36:00::
+think%2:31:00:: think%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
+think%2:31:00:: think%2:31:00:: describe%2:32:00:: describe%2:32:00::
+think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: fall%2:30:08:: fell%2:35:00::
+think%2:31:00:: think%2:31:00:: feed%2:34:00:: feed%2:34:00::
+think%2:31:00:: think%2:31:00:: fly%2:39:00:: fly%2:39:00::
+think%2:31:00:: think%2:31:00:: generate%2:36:00:: generate%2:36:00::
+think%2:31:00:: think%2:31:00:: go%2:30:08:: go%2:30:08::
+think%2:31:00:: think%2:31:00:: hide%2:39:01:: hide%2:39:01::
+think%2:31:00:: think%2:31:00:: hit%2:35:03:: hit%2:35:03::
+think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: increase%2:30:02:: increase%2:30:02::
+think%2:31:00:: think%2:31:00:: jump%2:38:11:: jump%2:38:11::
+think%2:31:00:: think%2:31:00:: know%2:31:03:: know%2:31:03::
+think%2:31:00:: think%2:31:00:: listen%2:39:00:: listen%2:39:00::
+think%2:31:01:: think%2:31:01:: look%2:39:00:: look%2:39:00::
+think%2:31:00:: think%2:31:00:: move%2:38:00:: move%2:38:00::
+think%2:31:00:: think%2:31:00:: pay%2:40:00:: pay%2:40:00::
+think%2:31:00:: think%2:31:00:: play%2:36:00:: play%2:36:00::
+think%2:31:00:: think%2:31:00:: predict%2:32:00:: predict%2:32:00::
+think%2:31:00:: think%2:31:00:: read%2:31:00:: read%2:31:00::
+think%2:31:00:: think%2:31:00:: run%2:38:04:: run%2:38:04::
+think%2:31:00:: think%2:31:00:: say%2:32:00:: say%2:32:00::
+think%2:31:00:: think%2:31:00:: scream%2:32:01:: scream%2:32:01::
+think%2:31:00:: think%2:31:00:: see%2:31:08:: saw%2:35:00::
+think%2:31:00:: think%2:31:00:: sell%2:40:00:: sell%2:40:00::
+think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: sing%2:36:00:: sing%2:36:00::
+think%2:31:00:: think%2:31:00:: sit%2:35:00:: sit%2:35:00::
+think%2:31:00:: think%2:31:00:: sleep%2:29:00:: sleep%2:29:00::
+think%2:31:00:: think%2:31:00:: slow%2:30:01:: slow%2:30:01::
+think%2:31:00:: think%2:31:00:: spend%2:42:00:: spend%2:42:00::
+think%2:31:00:: think%2:31:00:: strike%2:35:00:: strike%2:35:00::
+think%2:31:00:: think%2:31:00:: swim%2:38:00:: swim%2:38:00::
+think%2:31:01:: think%2:31:01:: take%2:41:00:: take%2:41:00::
+walk%2:38:00:: walk%2:38:00::
+write%2:36:04:: write%2:36:04::
+dance%2:36:00:: dance%2:36:00::
+vanish%2:30:01:: vanish%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
+describe%2:32:00:: describe%2:32:00::
+vanish%2:30:00:: vanish%2:30:00:: fall%2:30:08:: fell%2:35:00::
+feed%2:34:00:: feed%2:34:00::
+fly%2:39:00:: fly%2:39:00::
+generate%2:36:00:: generate%2:36:00::
+vanish%2:38:05:: vanish%2:38:05:: go%2:30:08:: go%2:30:08::
+hide%2:39:01:: hide%2:39:01::
+hit%2:35:03:: hit%2:35:03::
+increase%2:30:02:: increase%2:30:02::
+jump%2:38:11:: jump%2:38:11::
+know%2:31:03:: know%2:31:03::
+listen%2:39:00:: listen%2:39:00::
+look%2:39:00:: look%2:39:00::
+move%2:38:00:: move%2:38:00::
+pay%2:40:00:: pay%2:40:00::
+play%2:36:00:: play%2:36:00::
+predict%2:32:00:: predict%2:32:00::
+read%2:31:00:: read%2:31:00::
+run%2:38:04:: run%2:38:04::
+say%2:32:00:: say%2:32:00::
+scream%2:32:01:: scream%2:32:01::
+see%2:39:00:: saw%2:35:00::
+sell%2:40:00:: sell%2:40:00::
+sing%2:36:00:: sing%2:36:00::
+sit%2:35:00:: sit%2:35:00::
+sleep%2:29:00:: sleep%2:29:00::
+slow%2:30:01:: slow%2:30:01::
+spend%2:42:00:: spend%2:42:00::
+strike%2:35:00:: strike%2:35:00::
+swim%2:38:00:: swim%2:38:00::
+vanish%2:30:00:: vanish%2:30:00:: take%2:41:00:: take%2:41:00::
+think%2:31:00:: think%2:31:00::
+walk%2:38:00:: walk%2:38:00:: write%2:36:04:: write%2:36:04::
+walk%2:38:00:: walk%2:38:00:: dance%2:36:00:: dance%2:36:00::
+walk%2:38:00:: walk%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
+walk%2:38:00:: walk%2:38:00:: describe%2:32:00:: describe%2:32:00::
+walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: fall%2:30:08:: fell%2:35:00::
+walk%2:38:00:: walk%2:38:00:: feed%2:34:00:: feed%2:34:00::
+walk%2:38:00:: walk%2:38:00:: fly%2:39:00:: fly%2:39:00::
+walk%2:38:00:: walk%2:38:00:: generate%2:36:00:: generate%2:36:00::
+walk%2:38:00:: walk%2:38:00:: go%2:30:08:: go%2:30:08::
+walk%2:38:00:: walk%2:38:00:: hide%2:39:01:: hide%2:39:01::
+walk%2:38:00:: walk%2:38:00:: hit%2:35:03:: hit%2:35:03::
+walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: increase%2:30:02:: increase%2:30:02::
+walk%2:38:00:: walk%2:38:00:: jump%2:38:11:: jump%2:38:11::
+walk%2:38:00:: walk%2:38:00:: know%2:31:03:: know%2:31:03::
+walk%2:38:00:: walk%2:38:00:: listen%2:39:00:: listen%2:39:00::
+walk%2:38:00:: walk%2:38:00:: look%2:39:00:: look%2:39:00::
+walk%2:38:00:: walk%2:38:00:: move%2:38:00:: move%2:38:00::
+walk%2:38:00:: walk%2:38:00:: pay%2:40:00:: pay%2:40:00::
+walk%2:38:00:: walk%2:38:00:: play%2:36:00:: play%2:36:00::
+walk%2:38:00:: walk%2:38:00:: predict%2:32:00:: predict%2:32:00::
+walk%2:38:00:: walk%2:38:00:: read%2:31:00:: read%2:31:00::
+walk%2:38:00:: walk%2:38:00:: run%2:38:04:: run%2:38:04::
+walk%2:38:00:: walk%2:38:00:: say%2:32:00:: say%2:32:00::
+walk%2:38:00:: walk%2:38:00:: scream%2:32:01:: scream%2:32:01::
+walk%2:38:00:: walk%2:38:00:: see%2:39:00:: saw%2:35:00::
+walk%2:38:00:: walk%2:38:00:: sell%2:40:00:: sell%2:40:00::
+walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: sing%2:36:00:: sing%2:36:00::
+walk%2:38:00:: walk%2:38:00:: sit%2:35:00:: sit%2:35:00::
+walk%2:38:00:: walk%2:38:00:: sleep%2:29:00:: sleep%2:29:00::
+walk%2:38:00:: walk%2:38:00:: slow%2:30:01:: slow%2:30:01::
+walk%2:38:00:: walk%2:38:00:: spend%2:42:00:: spend%2:42:00::
+walk%2:38:00:: walk%2:38:00:: strike%2:35:00:: strike%2:35:00::
+walk%2:38:00:: walk%2:38:00:: swim%2:38:00:: swim%2:38:00::
+walk%2:38:00:: walk%2:38:00:: take%2:41:00:: take%2:41:00::
+walk%2:38:00:: walk%2:38:00:: think%2:31:00:: think%2:31:00::
+walk%2:38:00:: walk%2:38:00::
+write%2:36:04:: write%2:36:04:: dance%2:36:00:: dance%2:36:00::
+write%2:36:04:: write%2:36:04:: decrease%2:30:00:: decrease%2:30:00::
+write%2:36:04:: write%2:36:04:: describe%2:32:00:: describe%2:32:00::
+write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: fall%2:30:08:: fell%2:35:00::
+write%2:36:04:: write%2:36:04:: feed%2:34:00:: feed%2:34:00::
+write%2:36:04:: write%2:36:04:: fly%2:39:00:: fly%2:39:00::
+write%2:36:04:: write%2:36:04:: generate%2:36:00:: generate%2:36:00::
+write%2:36:04:: write%2:36:04:: go%2:30:08:: go%2:30:08::
+write%2:36:04:: write%2:36:04:: hide%2:39:01:: hide%2:39:01::
+write%2:36:04:: write%2:36:04:: hit%2:35:03:: hit%2:35:03::
+write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: increase%2:30:02:: increase%2:30:02::
+write%2:36:04:: write%2:36:04:: jump%2:38:11:: jump%2:38:11::
+write%2:36:04:: write%2:36:04:: know%2:31:03:: know%2:31:03::
+write%2:36:04:: write%2:36:04:: listen%2:39:00:: listen%2:39:00::
+write%2:36:04:: write%2:36:04:: look%2:39:00:: look%2:39:00::
+write%2:36:04:: write%2:36:04:: move%2:38:00:: move%2:38:00::
+write%2:36:04:: write%2:36:04:: pay%2:40:00:: pay%2:40:00::
+write%2:36:04:: write%2:36:04:: play%2:36:00:: play%2:36:00::
+write%2:36:04:: write%2:36:04:: predict%2:32:00:: predict%2:32:00::
+write%2:36:04:: write%2:36:04:: read%2:31:00:: read%2:31:00::
+write%2:36:04:: write%2:36:04:: run%2:38:04:: run%2:38:04::
+write%2:36:04:: write%2:36:04:: say%2:32:00:: say%2:32:00::
+write%2:36:04:: write%2:36:04:: scream%2:32:01:: scream%2:32:01::
+write%2:36:04:: write%2:36:04:: see%2:39:00:: saw%2:35:00::
+write%2:36:04:: write%2:36:04:: sell%2:40:00:: sell%2:40:00::
+write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: sing%2:36:00:: sing%2:36:00::
+write%2:36:04:: write%2:36:04:: sit%2:35:00:: sit%2:35:00::
+write%2:36:04:: write%2:36:04:: sleep%2:29:00:: sleep%2:29:00::
+write%2:36:04:: write%2:36:04:: slow%2:30:01:: slow%2:30:01::
+write%2:36:04:: write%2:36:04:: spend%2:42:00:: spend%2:42:00::
+write%2:36:04:: write%2:36:04:: strike%2:35:00:: strike%2:35:00::
+write%2:36:04:: write%2:36:04:: swim%2:38:00:: swim%2:38:00::
+write%2:36:04:: write%2:36:04:: take%2:41:00:: take%2:41:00::
+write%2:36:04:: write%2:36:04:: think%2:31:00:: think%2:31:00::
+write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: walk%2:38:00:: walk%2:38:00::

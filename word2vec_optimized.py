@@ -487,8 +487,10 @@ def main(_):
   opts = Options()
   if FLAGS.use:
     path = 'data/'
-    correct_filename = '%s%s' % (path, 'capital-common-countries-corrects.txt')
-    incorrect_filename = '%s%s' % (path, 'capital-common-countries-incorrects.txt')
+    # correct_filename = '%s%s' % (path, 'text8-capital-words-corrects.txt')
+    # incorrect_filename = '%s%s' % (path, 'text8-capital-words-incorrects.txt')
+    correct_filename = '%s%s' % (path, 'text8-synsets-capital-words-corrects.txt')
+    incorrect_filename = '%s%s' % (path, 'text8-synsets-capital-words-incorrects.txt')
     use(opts, correct_filename, incorrect_filename, True)
   elif not FLAGS.train_data or not FLAGS.eval_data or not FLAGS.save_path:
     """Train a word2vec model."""

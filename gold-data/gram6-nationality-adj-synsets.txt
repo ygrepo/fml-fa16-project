@@ -1,0 +1,1600 @@
+: gram6-nationality-adjective
+albania%1:15:00:: albanian%1:10:00:: argentina%1:15:00::
+albania%1:15:00:: albanian%1:10:00:: australia%1:17:00:: australian%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: china%1:15:00:: chinese%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: england%1:15:00:: english%1:10:00::
+albania%1:15:00:: albanian%3:01:00:: france%1:15:00:: french%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: germany%1:15:00:: german%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: greece%1:15:00:: greek%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: india%1:15:00:: indian%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: italy%1:15:00:: italian%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: korea%1:15:00:: korean%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: moldova%1:15:00::
+albania%1:15:00:: albanian%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: poland%1:15:00:: polish%1:10:00::
+albania%1:15:00:: albanian%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: russia%1:15:02:: russian%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: slovakia%1:15:00::
+albania%1:15:00:: albanian%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+albania%1:15:00:: albanian%1:10:00:: sweden%1:15:00::
+albania%1:15:00:: albanian%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+albania%1:15:00:: albanian%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+argentina%1:15:00:: australia%1:17:00:: australian%1:10:00::
+argentina%1:15:00:: austria%1:15:00:: austrian%1:18:00::
+argentina%1:15:00:: belarus%1:15:00:: belorussian%1:18:00::
+argentina%1:15:00:: brazil%1:15:00:: brazilian%3:01:00::
+argentina%1:15:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+argentina%1:15:00:: cambodia%1:15:00:: cambodian%1:18:00::
+argentina%1:15:00:: chile%1:15:00:: chilean%1:18:00::
+argentina%1:15:00:: china%1:15:00:: chinese%1:10:00::
+argentina%1:15:00:: colombia%1:15:00:: colombian%3:01:00::
+argentina%1:15:00:: croatia%1:15:00:: croatian%1:18:00::
+argentina%1:15:00:: denmark%1:15:00:: danish%1:10:00::
+argentina%1:15:00:: egypt%1:15:00:: egyptian%1:18:00::
+argentina%1:15:00:: england%1:15:00:: english%1:10:00::
+argentina%1:15:00:: france%1:15:00:: french%1:10:00::
+argentina%1:15:00:: germany%1:15:00:: german%3:01:00::
+argentina%1:15:00:: greece%1:15:00:: greek%1:10:00::
+argentina%1:15:00:: iceland%1:15:00:: icelandic%1:10:00::
+argentina%1:15:00:: india%1:15:00:: indian%1:10:00::
+argentina%1:15:00:: ireland%1:15:01:: irish%1:10:00::
+argentina%1:15:00:: israel%1:15:00:: israeli%1:18:00::
+argentina%1:15:00:: italy%1:15:00:: italian%3:01:00::
+argentina%1:15:00:: japan%1:06:01:: japanese%3:01:00::
+argentina%1:15:00:: korea%1:15:00:: korean%1:18:00::
+argentina%1:15:00:: macedonia%1:15:00:: macedonian%1:18:00::
+argentina%1:15:00:: malta%1:15:01:: maltese%1:18:00::
+argentina%1:15:00:: mexico%1:15:00:: mexican%1:18:00::
+argentina%1:15:00:: moldova%1:15:00::
+argentina%1:15:00:: netherlands%1:15:00:: dutch%1:10:00::
+argentina%1:15:00:: norway%1:15:00:: norwegian%3:01:00::
+argentina%1:15:00:: peru%1:15:00:: peruvian%1:18:00::
+argentina%1:15:00:: poland%1:15:00:: polish%1:10:00::
+argentina%1:15:00:: portugal%1:15:00:: portuguese%1:18:00::
+argentina%1:15:00:: russia%1:15:02:: russian%1:18:00::
+argentina%1:15:00:: slovakia%1:15:00::
+argentina%1:15:00:: spain%1:15:00:: spanish%3:01:00::
+argentina%1:15:00:: sweden%1:15:00::
+argentina%1:15:00:: switzerland%1:15:00:: swiss%1:18:00::
+argentina%1:15:00:: thailand%1:15:00:: thai%1:10:00::
+argentina%1:15:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+australia%1:17:00:: australian%1:10:00:: china%1:15:00:: chinese%1:10:00::
+australia%1:17:00:: australian%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+australia%1:17:00:: australian%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: england%1:15:00:: english%1:10:00::
+australia%1:17:00:: australian%1:10:00:: france%1:15:00:: french%1:10:00::
+australia%1:17:00:: australian%1:10:00:: germany%1:15:00:: german%3:01:00::
+australia%1:17:00:: australian%1:10:00:: greece%1:15:00:: greek%1:10:00::
+australia%1:17:00:: australian%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+australia%1:17:00:: australian%1:10:00:: india%1:15:00:: indian%1:10:00::
+australia%1:17:00:: australian%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+australia%1:17:00:: australian%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+australia%1:17:00:: australian%1:10:00:: italy%1:15:00:: italian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+australia%1:17:00:: australian%1:10:00:: korea%1:15:00:: korean%1:18:00::
+australia%1:17:00:: australian%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+australia%1:17:00:: australian%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+australia%1:17:00:: australian%1:10:00:: moldova%1:15:00::
+australia%1:17:00:: australian%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+australia%1:17:00:: australian%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: poland%1:15:00:: polish%1:10:00::
+australia%1:17:00:: australian%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+australia%1:17:00:: australian%1:10:00:: russia%1:15:02:: russian%1:18:00::
+australia%1:17:00:: australian%1:10:00:: slovakia%1:15:00::
+australia%1:17:00:: australian%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+australia%1:17:00:: australian%1:10:00:: sweden%1:15:00::
+australia%1:17:00:: australian%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+australia%1:17:00:: australian%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+australia%1:17:00:: australian%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+australia%1:17:00:: australian%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+austria%1:15:00:: austrian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+austria%1:15:00:: austrian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: england%1:15:00:: english%1:10:00::
+austria%1:15:00:: austrian%3:01:00:: france%1:15:00:: french%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: germany%1:15:00:: german%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: india%1:15:00:: indian%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+austria%1:15:00:: austrian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: moldova%1:15:00::
+austria%1:15:00:: austrian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: slovakia%1:15:00::
+austria%1:15:00:: austrian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: sweden%1:15:00::
+austria%1:15:00:: austrian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+austria%1:15:00:: austrian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+austria%1:15:00:: austrian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+austria%1:15:00:: austrian%1:18:00:: argentina%1:15:00::
+belarus%1:15:00:: belorussian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: china%1:15:00:: chinese%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: england%1:15:00:: english%1:10:00::
+belarus%1:15:00:: france%1:15:00:: french%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: germany%1:15:00:: german%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: india%1:15:00:: indian%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: italy%1:15:00:: italian%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: moldova%1:15:00::
+belarus%1:15:00:: belorussian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: slovakia%1:15:00::
+belarus%1:15:00:: belorussian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: sweden%1:15:00::
+belarus%1:15:00:: belorussian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+belarus%1:15:00:: belorussian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+belarus%1:15:00:: belorussian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+belarus%1:15:00:: belorussian%1:18:00:: argentina%1:15:00::
+belarus%1:15:00:: belorussian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+brazil%1:15:00:: brazilian%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: england%1:15:00:: english%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: france%1:15:00:: french%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: germany%1:15:00:: german%3:01:00::
+brazil%1:15:00:: brazilian%3:01:00:: greece%1:15:00:: greek%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: india%1:15:00:: indian%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+brazil%1:15:00:: brazilian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: moldova%1:15:00::
+brazil%1:15:00:: brazilian%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: norway%1:15:00:: norwegian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+brazil%1:15:00:: brazilian%1:18:00:: slovakia%1:15:00::
+brazil%1:15:00:: brazilian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+brazil%1:15:00:: brazilian%1:18:00:: sweden%1:15:00::
+brazil%1:15:00:: brazilian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+brazil%1:15:00:: brazilian%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+brazil%1:15:00:: brazilian%1:18:00:: argentina%1:15:00::
+brazil%1:15:00:: brazilian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+brazil%1:15:00:: brazilian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: china%1:15:00:: chinese%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: england%1:15:00:: english%1:10:00::
+bulgaria%1:15:00:: bulgarian%3:01:00:: france%1:15:00:: french%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: germany%1:15:00:: german%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: india%1:15:00:: indian%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: italy%1:15:00:: italian%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: moldova%1:15:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: slovakia%1:15:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: sweden%1:15:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: argentina%1:15:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+bulgaria%1:15:00:: bulgarian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: china%1:15:00:: chinese%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: england%1:15:00:: english%1:10:00::
+cambodia%1:15:00:: cambodian%3:01:00:: france%1:15:00:: french%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: germany%1:15:00:: german%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: india%1:15:00:: indian%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: italy%1:15:00:: italian%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: moldova%1:15:00::
+cambodia%1:15:00:: cambodian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: slovakia%1:15:00::
+cambodia%1:15:00:: cambodian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: sweden%1:15:00:: swedish%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+cambodia%1:15:00:: cambodian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: argentina%1:15:00::
+cambodia%1:15:00:: cambodian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+cambodia%1:15:00:: cambodian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+cambodia%1:15:00:: cambodian%1:18:00:: brazil%1:15:00:: brazilian%1:18:00::
+chilean%1:18:00:: china%1:15:00:: chinese%1:10:00::
+chilean%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+chilean%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+chilean%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+chilean%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+chilean%1:18:00:: england%1:15:00:: english%1:10:00::
+chilean%1:18:00:: france%1:15:00:: french%1:10:00::
+chilean%1:18:00:: germany%1:15:00:: german%3:01:00::
+chilean%1:18:00:: greece%1:15:00:: greek%1:10:00::
+chilean%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+chilean%1:18:00:: india%1:15:00:: indian%1:10:00::
+chilean%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+chilean%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+chile%1:15:00:: chilean%1:18:00:: italy%1:15:00:: italian%3:01:00::
+chile%1:15:00:: chilean%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+chilean%1:18:00:: korea%1:15:00:: korean%1:18:00::
+chilean%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+chilean%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+chilean%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+chilean%1:18:00:: moldova%1:15:00::
+chilean%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+chilean%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+chilean%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+chilean%1:18:00:: poland%1:15:00:: polish%1:10:00::
+chilean%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+chilean%1:18:00:: russia%1:15:02:: russian%1:18:00::
+chilean%1:18:00:: slovakia%1:15:00::
+chilean%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+chilean%1:18:00:: sweden%1:15:00::
+chilean%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+chilean%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+chilean%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+chilean%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+chilean%1:18:00:: argentina%1:15:00::
+chilean%1:18:00:: australia%1:17:00:: australian%1:10:00::
+chilean%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+chilean%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+chilean%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+chilean%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+china%1:15:00:: chinese%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: england%1:15:00:: english%1:10:00::
+china%1:15:00:: chinese%1:10:00:: france%1:15:00:: french%1:10:00::
+china%1:15:00:: chinese%1:10:00:: germany%1:15:00:: german%3:01:00::
+china%1:15:00:: chinese%1:10:00:: greece%1:15:00:: greek%1:10:00::
+china%1:15:00:: chinese%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+china%1:15:00:: chinese%1:10:00:: india%1:15:00:: indian%1:10:00::
+china%1:15:00:: chinese%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+china%1:15:00:: chinese%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+china%1:15:00:: chinese%1:10:00:: italy%1:15:00:: italian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+china%1:15:00:: chinese%1:10:00:: korea%1:15:00:: korean%1:18:00::
+china%1:15:00:: chinese%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+china%1:15:00:: chinese%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+china%1:15:00:: chinese%1:10:00:: moldova%1:15:00::
+china%1:15:00:: chinese%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+china%1:15:00:: chinese%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: peru%1:15:00:: peruvian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: poland%1:15:00:: polish%1:10:00::
+china%1:15:00:: chinese%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+china%1:15:00:: chinese%1:10:00:: russia%1:15:02:: russian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: slovakia%1:15:00::
+china%1:15:00:: chinese%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+china%1:15:00:: chinese%1:10:00:: sweden%1:15:00:: swedish%1:10:00::
+china%1:15:00:: chinese%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+china%1:15:00:: chinese%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+china%1:15:00:: chinese%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+china%1:15:00:: chinese%1:10:00:: argentina%1:15:00::
+china%1:15:00:: chinese%1:10:00:: australia%1:17:00:: australian%1:10:00::
+china%1:15:00:: chinese%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+china%1:15:00:: chinese%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+china%1:15:00:: chinese%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: denmark%1:15:00:: danish%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: england%1:15:00:: english%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: france%1:15:00:: french%1:10:00::
+colombia%1:15:00:: colombian%1:18:00:: germany%1:15:00:: german%3:01:00::
+colombia%1:15:00:: colombian%3:01:00:: greece%1:15:00:: greek%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: india%1:15:00:: indian%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: japan%1:06:01:: japanese%1:18:00::
+colombia%1:15:00:: colombian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: macedonia%1:15:00:: macedonian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: moldova%1:15:00::
+colombia%1:15:00:: colombian%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: norway%1:15:00:: norwegian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: peru%1:15:00:: peruvian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: slovakia%1:15:00::
+colombia%1:15:00:: colombian%3:01:00:: spain%1:15:00:: spanish%3:01:00::
+colombia%1:15:00:: colombian%3:01:00:: sweden%1:15:00:: swedish%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: albania%1:15:00:: albanian%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: argentina%1:15:00::
+colombia%1:15:00:: colombian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+colombia%1:15:00:: colombian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+colombia%1:15:00:: colombian%3:01:00:: chile%1:15:00:: chilean%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: england%1:15:00:: english%1:10:00::
+croatia%1:15:00:: croatian%3:01:00:: france%1:15:00:: french%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: germany%1:15:00:: german%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: india%1:15:00:: indian%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: italy%1:15:00:: italian%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: moldova%1:15:00::
+croatia%1:15:00:: croatian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: slovakia%1:15:00::
+croatia%1:15:00:: croatian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: sweden%1:15:00::
+croatia%1:15:00:: croatian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: argentina%1:15:00::
+croatia%1:15:00:: croatian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+croatia%1:15:00:: croatian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+croatia%1:15:00:: croatian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+croatia%1:15:00:: croatian%1:18:00:: china%1:15:00:: chinese%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: england%1:15:00:: english%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: france%1:15:00:: french%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: germany%1:15:00:: german%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: greece%1:15:00:: greek%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: iceland%1:15:01:: icelandic%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: india%1:15:00:: indian%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: italy%1:15:00:: italian%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: korea%1:15:00:: korean%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: moldova%1:15:00::
+denmark%1:15:00:: danish%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: poland%1:15:00:: polish%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: russia%1:15:02:: russian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: slovakia%1:15:00::
+denmark%1:15:00:: danish%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: sweden%1:15:00::
+denmark%1:15:00:: danish%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: argentina%1:15:00::
+denmark%1:15:00:: danish%1:10:00:: australia%1:17:00:: australian%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+denmark%1:15:00:: danish%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+denmark%1:15:00:: danish%1:10:00:: china%1:15:00:: chinese%1:10:00::
+denmark%1:15:00:: danish%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: england%1:15:00:: english%1:10:00::
+egypt%1:15:00:: egyptian%3:01:00:: france%1:15:00:: french%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: germany%1:15:00:: german%3:01:00::
+egypt%1:15:00:: egyptian%1:10:00:: greece%1:15:00:: greek%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: india%1:15:00:: indian%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+egypt%1:15:00:: egyptian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+egypt%1:15:00:: egyptian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: moldova%1:15:00::
+egypt%1:15:00:: egyptian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+egypt%1:15:00:: egyptian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: slovakia%1:15:00::
+egypt%1:15:00:: egyptian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: sweden%1:15:00::
+egypt%1:15:00:: egyptian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: argentina%1:15:00::
+egypt%1:15:00:: egyptian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+egypt%1:15:00:: egyptian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+egypt%1:15:00:: egyptian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+egypt%1:15:00:: egyptian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+egypt%1:15:00:: egyptian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+egypt%1:15:00:: egyptian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+england%1:15:00:: english%1:10:00:: france%1:15:00:: french%3:01:00::
+england%1:15:00:: english%1:10:00:: germany%1:15:00:: german%3:01:00::
+england%1:15:00:: english%1:10:00:: greece%1:15:00:: greek%1:10:00::
+england%1:15:00:: english%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+england%1:15:00:: english%1:10:00:: india%1:15:00:: indian%1:10:00::
+england%1:15:00:: english%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+england%1:15:00:: english%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+england%1:15:00:: english%1:10:00:: italy%1:15:00:: italian%3:01:00::
+england%1:15:00:: english%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+england%1:15:00:: english%1:10:00:: korea%1:15:00:: korean%1:18:00::
+england%1:15:00:: english%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+england%1:15:00:: english%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+england%1:15:00:: english%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+england%1:15:00:: english%1:10:00:: moldova%1:15:00::
+england%1:15:00:: english%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+england%1:15:00:: english%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+england%1:15:00:: english%1:10:00:: peru%1:15:00:: peruvian%3:01:00::
+england%1:15:00:: english%1:10:00:: poland%1:15:00:: polish%1:10:00::
+england%1:15:00:: english%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+england%1:15:00:: english%1:10:00:: russia%1:15:02:: russian%1:18:00::
+england%1:15:00:: english%1:10:00:: slovakia%1:15:00::
+england%1:15:00:: english%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+england%1:15:00:: english%1:10:00:: sweden%1:15:00::
+england%1:15:00:: english%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+england%1:15:00:: english%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+england%1:15:00:: english%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+england%1:15:00:: english%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+england%1:15:00:: english%1:10:00:: argentina%1:15:00::
+england%1:15:00:: english%1:10:00:: australia%1:17:00:: australian%1:10:00::
+england%1:15:00:: english%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+england%1:15:00:: english%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+england%1:15:00:: english%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+england%1:15:00:: english%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+england%1:15:00:: english%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+england%1:15:00:: english%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+england%1:15:00:: english%1:10:00:: china%1:15:00:: chinese%1:10:00::
+england%1:15:00:: english%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+england%1:15:00:: english%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+england%1:15:00:: english%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+france%1:15:00:: french%1:10:00:: germany%1:15:00:: german%3:01:00::
+france%1:15:00:: french%1:10:00:: greece%1:15:00:: greek%1:10:00::
+france%1:15:00:: french%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+france%1:15:00:: french%1:10:00:: india%1:15:00:: indian%1:10:00::
+france%1:15:00:: french%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+france%1:15:00:: french%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+france%1:15:00:: french%3:01:00:: italy%1:15:00:: italian%1:10:00::
+france%1:15:00:: french%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+france%1:15:00:: french%1:10:00:: korea%1:15:00:: korean%1:18:00::
+france%1:15:00:: french%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+france%1:15:00:: french%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+france%1:15:00:: french%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+france%1:15:00:: french%1:10:00:: moldova%1:15:00::
+france%1:15:00:: french%1:10:00:: netherlands%1:15:00::
+france%1:15:00:: french%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+france%1:15:00:: french%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+france%1:15:00:: french%1:10:00:: poland%1:15:00::
+france%1:15:00:: french%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+france%1:15:00:: french%3:01:00:: russia%1:15:02:: russian%1:18:00::
+france%1:15:00:: french%1:10:00:: slovakia%1:15:00::
+france%1:15:00:: french%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+france%1:15:00:: french%1:10:00:: sweden%1:15:00::
+france%1:15:00:: french%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+france%1:15:00:: french%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+france%1:15:00:: french%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+france%1:15:00:: french%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+france%1:15:00:: french%1:10:00:: argentina%1:15:00::
+france%1:15:00:: french%1:10:00:: australia%1:17:00:: australian%1:10:00::
+france%1:15:00:: french%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+france%1:15:00:: french%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+france%1:15:00:: french%1:10:00:: brazil%1:15:00:: brazilian%1:18:00::
+france%1:15:00:: french%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+france%1:15:00:: french%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+france%1:15:00:: french%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+france%1:15:00:: french%3:01:00:: china%1:15:00:: chinese%1:10:00::
+france%1:15:00:: french%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+france%1:15:00:: french%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+france%1:15:00:: french%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+france%1:15:00:: french%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+germany%1:15:00:: german%3:01:00:: greece%1:15:00:: greek%1:10:00::
+germany%1:15:00:: german%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+germany%1:15:00:: german%3:01:00:: india%1:15:00:: indian%1:10:00::
+germany%1:15:00:: german%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+germany%1:15:00:: german%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+germany%1:15:00:: german%3:01:00:: italy%1:15:00:: italian%1:10:00::
+germany%1:15:00:: german%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+germany%1:15:00:: german%1:10:00:: korea%1:15:00:: korean%1:18:00::
+germany%1:15:00:: german%3:01:00:: macedonia%1:15:00:: macedonian%1:18:00::
+germany%1:15:00:: german%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+germany%1:15:00:: german%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+germany%1:15:00:: german%3:01:00:: moldova%1:15:00::
+germany%1:15:00:: german%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+germany%1:15:00:: german%3:01:00:: norway%1:15:00:: norwegian%1:18:00::
+germany%1:15:00:: german%3:01:00:: peru%1:15:00:: peruvian%1:18:00::
+germany%1:15:00:: german%3:01:00:: poland%1:15:00:: polish%1:10:00::
+germany%1:15:00:: german%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+germany%1:15:00:: german%3:01:00:: russia%1:15:02:: russian%1:18:00::
+germany%1:15:00:: german%3:01:00:: slovakia%1:15:00::
+germany%1:15:00:: german%3:01:00:: spain%1:15:00:: spanish%3:01:00::
+germany%1:15:00:: german%3:01:00:: sweden%1:15:00:: swedish%1:10:00::
+germany%1:15:00:: german%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+germany%1:15:00:: german%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+germany%1:15:00:: german%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+germany%1:15:00:: german%3:01:00:: albania%1:15:00:: albanian%1:10:00::
+germany%1:15:00:: german%3:01:00:: argentina%1:15:00::
+germany%1:15:00:: german%1:10:00:: australia%1:17:00:: australian%1:10:00::
+germany%1:15:00:: german%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+germany%1:15:00:: german%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+germany%1:15:00:: german%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+germany%1:15:00:: german%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+germany%1:15:00:: german%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+germany%1:15:00:: german%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+germany%1:15:00:: german%3:01:00:: china%1:15:00:: chinese%1:10:00::
+germany%1:15:00:: german%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+germany%1:15:00:: german%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+germany%1:15:00:: german%3:01:00:: denmark%1:15:00:: danish%1:10:00::
+germany%1:15:00:: german%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+germany%1:15:00:: german%3:01:00:: england%1:15:00:: english%1:10:00::
+greece%1:15:00:: greek%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+greece%1:15:00:: greek%1:10:00:: india%1:15:00:: indian%1:10:00::
+greece%1:15:00:: greek%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+greece%1:15:00:: greek%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+greece%1:15:00:: greek%1:10:00:: italy%1:15:00:: italian%3:01:00::
+greece%1:15:00:: greek%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+greece%1:15:00:: greek%1:10:00:: korea%1:15:00:: korean%1:18:00::
+greece%1:15:00:: greek%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+greece%1:15:00:: greek%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+greece%1:15:00:: greek%1:10:00:: moldova%1:15:00::
+greece%1:15:00:: greek%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+greece%1:15:00:: greek%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+greece%1:15:00:: greek%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: poland%1:15:00:: polish%1:10:00::
+greece%1:15:00:: greek%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+greece%1:15:00:: greek%1:10:00:: russia%1:15:02:: russian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: slovakia%1:15:00::
+greece%1:15:00:: greek%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+greece%1:15:00:: greek%1:10:00:: sweden%1:15:00::
+greece%1:15:00:: greek%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+greece%1:15:00:: greek%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+greece%1:15:00:: greek%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+greece%1:15:00:: greek%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+greece%1:15:00:: greek%1:10:00:: argentina%1:15:00::
+greece%1:15:00:: greek%1:10:00:: australia%1:17:00:: australian%1:10:00::
+greece%1:15:00:: greek%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+greece%1:15:00:: greek%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+greece%1:15:00:: greek%1:10:00:: china%1:15:00:: chinese%1:10:00::
+greece%1:15:00:: greek%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+greece%1:15:00:: greek%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+greece%1:15:00:: greek%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+greece%1:15:00:: greek%1:10:00:: egypt%1:15:00:: egyptian%1:10:00::
+greece%1:15:00:: greek%1:10:00:: england%1:15:00:: english%1:10:00::
+greece%1:15:00:: greek%1:10:00:: france%1:15:00:: french%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: india%1:15:00:: indian%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: italy%1:15:00:: italian%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: korea%1:15:00:: korean%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: moldova%1:15:00::
+iceland%1:15:00:: icelandic%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: poland%1:15:00:: polish%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: russia%1:15:02:: russian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: slovakia%1:15:00::
+iceland%1:15:00:: icelandic%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: sweden%1:15:00::
+iceland%1:15:00:: icelandic%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: argentina%1:15:00::
+iceland%1:15:00:: icelandic%1:10:00:: australia%1:17:00:: australian%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: china%1:15:00:: chinese%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+iceland%1:15:00:: icelandic%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+iceland%1:15:01:: icelandic%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+iceland%1:15:00:: icelandic%1:10:00:: england%1:15:00:: english%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: france%1:15:00:: french%1:10:00::
+iceland%1:15:00:: icelandic%1:10:00:: germany%1:15:00:: german%3:01:00::
+india%1:15:00:: indian%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+india%1:15:00:: indian%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+india%1:15:00:: indian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+india%1:15:00:: indian%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+india%1:15:00:: indian%1:10:00:: korea%1:15:00:: korean%1:18:00::
+india%1:15:00:: indian%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+india%1:15:00:: indian%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+india%1:15:00:: indian%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+india%1:15:00:: indian%1:10:00:: moldova%1:15:00::
+india%1:15:00:: indian%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+india%1:15:00:: indian%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+india%1:15:00:: indian%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+india%1:15:00:: indian%1:10:00:: poland%1:15:00:: polish%1:10:00::
+india%1:15:00:: indian%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+india%1:15:00:: indian%1:10:00:: russia%1:15:02:: russian%1:18:00::
+india%1:15:00:: indian%1:10:00:: slovakia%1:15:00::
+india%1:15:00:: indian%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+india%1:15:00:: indian%1:10:00:: sweden%1:15:00::
+india%1:15:00:: indian%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+india%1:15:00:: indian%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+india%1:15:00:: indian%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+india%1:15:00:: indian%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+india%1:15:00:: indian%1:10:00:: argentina%1:15:00::
+india%1:15:00:: indian%1:10:00:: australia%1:17:00:: australian%1:10:00::
+india%1:15:00:: indian%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+india%1:15:00:: indian%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+india%1:15:00:: indian%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+india%1:15:00:: indian%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+india%1:15:00:: indian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+india%1:15:00:: indian%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+india%1:15:00:: indian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+india%1:15:00:: indian%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+india%1:15:00:: indian%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+india%1:15:00:: indian%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+india%1:15:00:: indian%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+india%1:15:00:: indian%1:10:00:: england%1:15:00:: english%1:10:00::
+india%1:15:00:: indian%3:01:00:: france%1:15:00:: french%1:10:00::
+india%1:15:00:: indian%1:10:00:: germany%1:15:00:: german%3:01:00::
+india%1:15:00:: indian%1:10:00:: greece%1:15:00:: greek%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: italy%1:15:00:: italian%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: korea%1:15:00:: korean%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: moldova%1:15:00::
+ireland%1:15:01:: irish%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: poland%1:15:00:: polish%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: russia%1:15:02:: russian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: slovakia%1:15:00::
+ireland%1:15:01:: irish%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: sweden%1:15:00::
+ireland%1:15:01:: irish%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: argentina%1:15:00::
+ireland%1:15:01:: irish%1:10:00:: australia%1:17:00:: australian%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: china%1:15:00:: chinese%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+ireland%1:15:01:: irish%1:10:00:: england%1:15:00:: english%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: france%1:15:00:: french%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: germany%1:15:00:: german%3:01:00::
+ireland%1:15:01:: irish%1:10:00:: greece%1:15:00:: greek%1:10:00::
+ireland%1:15:01:: irish%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: italy%1:15:00:: italian%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: korea%1:15:00:: korean%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: moldova%1:15:00::
+israel%1:15:00:: israeli%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: poland%1:15:00:: polish%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: russia%1:15:02:: russian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: slovakia%1:15:00::
+israel%1:15:00:: israeli%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: sweden%1:15:00::
+israel%1:15:00:: israeli%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: argentina%1:15:00::
+israel%1:15:00:: israeli%1:18:00:: australia%1:17:00:: australian%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: china%1:15:00:: chinese%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+israel%1:15:00:: israeli%1:18:00:: england%1:15:00:: english%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: france%1:15:00:: french%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: germany%1:15:00:: german%3:01:00::
+israel%1:15:00:: israeli%1:18:00:: greece%1:15:00:: greek%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+israel%1:15:00:: israeli%1:18:00:: india%1:15:00:: indian%1:10:00::
+italy%1:15:00:: italian%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+italy%1:15:00:: italian%1:10:00:: korea%1:15:00:: korean%1:18:00::
+italy%1:15:00:: italian%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+italy%1:15:00:: italian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+italy%1:15:00:: italian%3:01:00:: moldova%1:15:00::
+italy%1:15:00:: italian%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+italy%1:15:00:: italian%3:01:00:: norway%1:15:00:: norwegian%3:01:00::
+italy%1:15:00:: italian%1:10:00:: peru%1:15:00:: peruvian%3:01:00::
+italy%1:15:00:: italian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+italy%1:15:00:: italian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+italy%1:15:00:: italian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: slovakia%1:15:00::
+italy%1:15:00:: italian%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+italy%1:15:00:: italian%1:10:00:: sweden%1:15:00::
+italy%1:15:00:: italian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+italy%1:15:00:: italian%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+italy%1:15:00:: italian%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+italy%1:15:00:: italian%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+italy%1:15:00:: italian%3:01:00:: argentina%1:15:00::
+italy%1:15:00:: italian%1:10:00:: australia%1:17:00:: australian%1:10:00::
+italy%1:15:00:: italian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+italy%1:15:00:: italian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+italy%1:15:00:: italian%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+italy%1:15:00:: italian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+italy%1:15:00:: italian%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+italy%1:15:00:: italian%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+italy%1:15:00:: italian%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+italy%1:15:00:: italian%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+italy%1:15:00:: italian%1:10:00:: england%1:15:00:: english%1:10:00::
+italy%1:15:00:: italian%3:01:00:: france%1:15:00:: french%1:10:00::
+italy%1:15:00:: italian%1:10:00:: germany%1:15:00:: german%3:01:00::
+italy%1:15:00:: italian%3:01:00:: greece%1:15:00:: greek%1:10:00::
+italy%1:15:00:: italian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+italy%1:15:00:: italian%3:01:00:: india%1:15:00:: indian%1:10:00::
+italy%1:15:00:: italian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+japan%1:06:01:: japanese%1:18:00:: korea%1:15:00:: korean%1:18:00::
+japan%1:06:01:: japanese%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: moldova%1:15:00::
+japan%1:06:01:: japanese%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: norway%1:15:00:: norwegian%3:01:00::
+japan%1:06:01:: japanese%1:18:00:: peru%1:15:00:: peruvian%3:01:00::
+japan%1:06:01:: japanese%3:01:00:: poland%1:15:00:: polish%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: russia%1:15:02:: russian%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: slovakia%1:15:00::
+japan%1:06:01:: japanese%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+japan%1:06:01:: japanese%1:18:00:: sweden%1:15:00:: swedish%3:01:00::
+japan%1:06:01:: japanese%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+japan%1:06:01:: japanese%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: argentina%1:15:00::
+japan%1:06:01:: japanese%1:18:00:: australia%1:17:00:: australian%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: brazil%1:15:00:: brazilian%3:01:00::
+japan%1:06:01:: japanese%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+japan%1:06:01:: japanese%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+japan%1:06:01:: japanese%3:01:00:: china%1:15:00:: chinese%1:10:00::
+japan%1:06:01:: japanese%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+japan%1:06:01:: japanese%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+japan%1:06:01:: japanese%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: egypt%1:15:00:: egyptian%3:01:00::
+japan%1:06:01:: japanese%1:18:00:: england%1:15:00:: english%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: france%1:15:00:: french%3:01:00::
+japan%1:06:01:: japanese%1:18:00:: germany%1:15:00:: german%3:01:00::
+japan%1:06:01:: japanese%3:01:00:: greece%1:15:00:: greek%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: india%1:15:00:: indian%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+japan%1:06:01:: japanese%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+korea%1:15:00:: korean%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+korea%1:15:00:: korean%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+korea%1:15:00:: korean%1:18:00:: moldova%1:15:00::
+korea%1:15:00:: korean%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+korea%1:15:00:: korean%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+korea%1:15:00:: korean%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: poland%1:15:00:: polish%1:10:00::
+korea%1:15:00:: korean%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+korea%1:15:00:: korean%1:18:00:: russia%1:15:02:: russian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: slovakia%1:15:00::
+korea%1:15:00:: korean%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+korea%1:15:00:: korean%1:18:00:: sweden%1:15:00::
+korea%1:15:00:: korean%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+korea%1:15:00:: korean%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+korea%1:15:00:: korean%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+korea%1:15:00:: korean%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+korea%1:15:00:: korean%1:18:00:: argentina%1:15:00::
+korea%1:15:00:: korean%1:18:00:: australia%1:17:00:: australian%1:10:00::
+korea%1:15:00:: korean%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+korea%1:15:00:: korean%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+korea%1:15:00:: korean%1:18:00:: china%1:15:00:: chinese%1:10:00::
+korea%1:15:00:: korean%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+korea%1:15:00:: korean%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+korea%1:15:00:: korean%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+korea%1:15:00:: korean%1:18:00:: england%1:15:00:: english%1:10:00::
+korea%1:15:00:: korean%1:18:00:: france%1:15:00:: french%1:10:00::
+korea%1:15:00:: korean%1:18:00:: germany%1:15:00:: german%3:01:00::
+korea%1:15:00:: korean%1:18:00:: greece%1:15:00:: greek%1:10:00::
+korea%1:15:00:: korean%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+korea%1:15:00:: korean%1:18:00:: india%1:15:00:: indian%1:10:00::
+korea%1:15:00:: korean%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+korea%1:15:00:: korean%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+korea%1:15:00:: korean%1:18:00:: italy%1:15:00:: italian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: moldova%1:15:00::
+macedonia%1:15:00:: macedonian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: russia%1:15:02:: russian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: slovakia%1:15:00::
+macedonia%1:15:00:: macedonian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: sweden%1:15:00::
+macedonia%1:15:00:: macedonian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: argentina%1:15:00::
+macedonia%1:15:00:: macedonian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: china%1:15:00:: chinese%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: england%1:15:00:: english%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: france%1:15:00:: french%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: germany%1:15:00:: german%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: india%1:15:00:: indian%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+macedonia%1:15:00:: macedonian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+macedonia%1:15:00:: macedonian%1:18:00:: italy%1:15:00:: italian%3:01:00::
+macedonia%1:15:00:: macedonian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: moldova%1:15:00::
+malta%1:15:01:: maltese%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: poland%1:15:00:: polish%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: russia%1:15:02:: russian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: slovakia%1:15:00::
+malta%1:15:01:: maltese%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: sweden%1:15:00::
+malta%1:15:01:: maltese%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: argentina%1:15:00::
+malta%1:15:01:: maltese%1:18:00:: australia%1:17:00:: australian%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: china%1:15:00:: chinese%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: england%1:15:00:: english%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: france%1:15:00:: french%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: germany%1:15:00:: german%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: greece%1:15:00:: greek%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: india%1:15:00:: indian%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+malta%1:15:01:: maltese%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+malta%1:15:01:: maltese%1:18:00:: italy%1:15:00:: italian%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+malta%1:15:01:: maltese%1:18:00:: korea%1:15:00:: korean%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: moldova%1:15:00::
+mexico%1:15:00:: mexican%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: poland%1:15:00:: polish%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: russia%1:15:02:: russian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: slovakia%1:15:00::
+mexico%1:15:00:: mexican%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: sweden%1:15:00:: swedish%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: argentina%1:15:00::
+mexico%1:15:00:: mexican%1:18:00:: australia%1:17:00:: australian%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: brazil%1:15:00:: brazilian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: china%1:15:00:: chinese%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: england%1:15:00:: english%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: france%1:15:00:: french%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: germany%1:15:00:: german%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: greece%1:15:00:: greek%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: india%1:15:00:: indian%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+mexico%1:15:00:: mexican%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: italy%1:15:00:: italian%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+mexico%1:15:00:: mexican%1:18:00:: korea%1:15:00:: korean%1:18:00::
+mexico%1:15:00:: mexican%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+moldova%1:15:00:: netherlands%1:15:00:: dutch%1:10:00::
+moldova%1:15:00:: norway%1:15:00:: norwegian%3:01:00::
+moldova%1:15:00:: peru%1:15:00:: peruvian%1:18:00::
+moldova%1:15:00:: poland%1:15:00:: polish%1:10:00::
+moldova%1:15:00:: portugal%1:15:00:: portuguese%1:18:00::
+moldova%1:15:00:: russia%1:15:02:: russian%1:18:00::
+moldova%1:15:00:: slovakia%1:15:00::
+moldova%1:15:00:: spain%1:15:00:: spanish%3:01:00::
+moldova%1:15:00:: sweden%1:15:00::
+moldova%1:15:00:: switzerland%1:15:00:: swiss%1:18:00::
+moldova%1:15:00:: thailand%1:15:00:: thai%1:10:00::
+moldova%1:15:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+moldova%1:15:00:: albania%1:15:00:: albanian%1:10:00::
+moldova%1:15:00:: argentina%1:15:00::
+moldova%1:15:00:: australia%1:17:00:: australian%1:10:00::
+moldova%1:15:00:: austria%1:15:00:: austrian%1:18:00::
+moldova%1:15:00:: belarus%1:15:00:: belorussian%1:18:00::
+moldova%1:15:00:: brazil%1:15:00:: brazilian%3:01:00::
+moldova%1:15:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+moldova%1:15:00:: cambodia%1:15:00:: cambodian%1:18:00::
+moldova%1:15:00:: chile%1:15:00:: chilean%1:18:00::
+moldova%1:15:00:: china%1:15:00:: chinese%1:10:00::
+moldova%1:15:00:: colombia%1:15:00:: colombian%3:01:00::
+moldova%1:15:00:: croatia%1:15:00:: croatian%1:18:00::
+moldova%1:15:00:: denmark%1:15:00:: danish%1:10:00::
+moldova%1:15:00:: egypt%1:15:00:: egyptian%1:18:00::
+moldova%1:15:00:: england%1:15:00:: english%1:10:00::
+moldova%1:15:00:: france%1:15:00:: french%1:10:00::
+moldova%1:15:00:: germany%1:15:00:: german%3:01:00::
+moldova%1:15:00:: greece%1:15:00:: greek%1:10:00::
+moldova%1:15:00:: iceland%1:15:00:: icelandic%1:10:00::
+moldova%1:15:00:: india%1:15:00:: indian%1:10:00::
+moldova%1:15:00:: ireland%1:15:01:: irish%1:10:00::
+moldova%1:15:00:: israel%1:15:00:: israeli%1:18:00::
+moldova%1:15:00:: italy%1:15:00:: italian%3:01:00::
+moldova%1:15:00:: japan%1:06:01:: japanese%3:01:00::
+moldova%1:15:00:: korea%1:15:00:: korean%1:18:00::
+moldova%1:15:00:: macedonia%1:15:00:: macedonian%1:18:00::
+moldova%1:15:00:: malta%1:15:01:: maltese%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: poland%1:15:00:: polish%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: russia%1:15:02:: russian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: slovakia%1:15:00::
+netherlands%1:15:00:: dutch%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: sweden%1:15:00::
+netherlands%1:15:00:: dutch%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: argentina%1:15:00::
+netherlands%1:15:00:: dutch%1:10:00:: australia%1:17:00:: australian%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: china%1:15:00:: chinese%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: england%1:15:00:: english%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: france%1:15:00:: french%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: germany%1:15:00:: german%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: greece%1:15:00:: greek%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: india%1:15:00:: indian%1:10:00::
+netherlands%1:15:00:: dutch%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+netherlands%1:15:00:: israel%1:15:00:: israeli%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: italy%1:15:00:: italian%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+netherlands%1:15:00:: dutch%1:10:00:: korea%1:15:00:: korean%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+netherlands%1:15:00:: dutch%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: peru%1:15:00:: peruvian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: slovakia%1:15:00::
+norway%1:15:00:: norwegian%3:01:00:: spain%1:15:00:: spanish%3:01:00::
+norway%1:15:00:: norwegian%3:01:00:: sweden%1:15:00:: swedish%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: albania%1:15:00:: albanian%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: argentina%1:15:00::
+norway%1:15:00:: norwegian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+norway%1:15:00:: norwegian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+norway%1:15:00:: norwegian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+norway%1:15:00:: norwegian%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: denmark%1:15:00:: danish%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: england%1:15:00:: english%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: france%1:15:00:: french%1:10:00::
+norway%1:15:00:: norwegian%1:18:00:: germany%1:15:00:: german%3:01:00::
+norway%1:15:00:: norwegian%3:01:00:: greece%1:15:00:: greek%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: india%1:15:00:: indian%1:10:00::
+norway%1:15:00:: norwegian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+norwegian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+norway%1:15:00:: norwegian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+norwegian%3:01:00:: korea%1:15:00:: korean%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: macedonia%1:15:00:: macedonian%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+norway%1:15:00:: norwegian%3:01:00:: moldova%1:15:00::
+peru%1:15:00:: peruvian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: slovakia%1:15:00::
+peru%1:15:00:: peruvian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+peru%1:15:00:: peruvian%1:18:00:: sweden%1:15:00::
+peru%1:15:00:: peruvian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: argentina%1:15:00::
+peru%1:15:00:: peruvian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+peru%1:15:00:: peruvian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+peru%1:15:00:: peruvian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: england%1:15:00:: english%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: france%1:15:00:: french%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: germany%1:15:00:: german%3:01:00::
+peru%1:15:00:: peruvian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: india%1:15:00:: indian%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+peru%1:15:00:: peruvian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+peru%1:15:00:: peruvian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+peru%1:15:00:: peruvian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+peru%1:15:00:: peruvian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+peru%1:15:00:: peruvian%1:18:00:: moldova%1:15:00::
+peru%1:15:00:: peruvian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+poland%1:15:00:: polish%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+poland%1:15:00:: polish%1:10:00:: russia%1:15:02:: russian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: slovakia%1:15:00::
+poland%1:15:00:: polish%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+poland%1:15:00:: polish%1:10:00:: sweden%1:15:00::
+poland%1:15:00:: polish%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+poland%1:15:00:: polish%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+poland%1:15:00:: polish%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+poland%1:15:00:: polish%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+poland%1:15:00:: polish%1:10:00:: argentina%1:15:00::
+poland%1:15:00:: polish%1:10:00:: australia%1:17:00:: australian%1:10:00::
+poland%1:15:00:: polish%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+poland%1:15:00:: polish%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+poland%1:15:00:: polish%1:10:00:: china%1:15:00:: chinese%1:10:00::
+poland%1:15:00:: polish%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+poland%1:15:00:: polish%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+poland%1:15:00:: polish%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: england%1:15:00:: english%1:10:00::
+poland%1:15:00:: polish%1:10:00:: france%1:15:00:: french%1:10:00::
+poland%1:15:00:: polish%1:10:00:: germany%1:15:00:: german%3:01:00::
+poland%1:15:00:: polish%1:10:00:: greece%1:15:00:: greek%1:10:00::
+poland%1:15:00:: polish%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+poland%1:15:00:: polish%1:10:00:: india%1:15:00:: indian%1:10:00::
+poland%1:15:00:: polish%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+poland%1:15:00:: polish%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+poland%1:15:00:: polish%1:10:00:: italy%1:15:00:: italian%3:01:00::
+poland%1:15:00:: polish%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+poland%1:15:00:: polish%1:10:00:: korea%1:15:00:: korean%1:18:00::
+poland%1:15:00:: polish%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+poland%1:15:00:: polish%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+poland%1:15:00:: polish%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+poland%1:15:00:: polish%1:10:00:: moldova%1:15:00::
+poland%1:15:00:: polish%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+poland%1:15:00:: polish%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: russia%1:15:02:: russian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: slovakia%1:15:00::
+portugal%1:15:00:: portuguese%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: sweden%1:15:00::
+portugal%1:15:00:: portuguese%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: argentina%1:15:00::
+portugal%1:15:00:: portuguese%1:18:00:: australia%1:17:00:: australian%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: china%1:15:00:: chinese%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: england%1:15:00:: english%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: france%1:15:00:: french%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: germany%1:15:00:: german%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: greece%1:15:00:: greek%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: india%1:15:00:: indian%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: italy%1:15:00:: italian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: korea%1:15:00:: korean%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+portugal%1:15:00:: portuguese%1:18:00:: moldova%1:15:00::
+portugal%1:15:00:: portuguese%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+portugal%1:15:00:: portuguese%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+portugal%1:15:00:: portuguese%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: slovakia%1:15:00::
+russia%1:15:02:: russian%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+russia%1:15:02:: russian%1:18:00:: sweden%1:15:00:: swedish%1:10:00::
+russia%1:15:02:: russian%1:18:00:: switzerland%1:15:00:: swiss%1:18:00::
+russia%1:15:02:: russian%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+russia%1:15:02:: russian%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+russia%1:15:02:: russian%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+russia%1:15:02:: russian%1:18:00:: argentina%1:15:00::
+russia%1:15:02:: russian%1:18:00:: australia%1:17:00:: australian%1:10:00::
+russia%1:15:02:: russian%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: brazil%1:15:00:: brazilian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+russia%1:15:02:: russian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+russia%1:15:02:: russian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+russia%1:15:02:: russian%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+russia%1:15:02:: russian%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+russia%1:15:02:: russian%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: england%1:15:00:: english%1:10:00::
+russia%1:15:02:: russian%3:01:00:: france%1:15:00:: french%1:10:00::
+russia%1:15:02:: russian%1:18:00:: germany%1:15:00:: german%3:01:00::
+russia%1:15:02:: russian%1:18:00:: greece%1:15:00:: greek%1:10:00::
+russia%1:15:02:: russian%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+russia%1:15:02:: russian%1:18:00:: india%1:15:00:: indian%1:10:00::
+russia%1:15:02:: russian%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+russia%1:15:02:: russian%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+russia%1:15:02:: russian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+russia%1:15:02:: russian%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+russia%1:15:02:: russian%1:18:00:: korea%1:15:00:: korean%1:18:00::
+russia%1:15:02:: russian%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+russia%1:15:02:: russian%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+russia%1:15:02:: russian%1:18:00:: moldova%1:15:00::
+russia%1:15:02:: russian%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+russia%1:15:02:: russian%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+russia%1:15:02:: russian%1:18:00:: peru%1:15:00:: peruvian%1:18:00::
+russia%1:15:02:: russian%1:18:00:: poland%1:15:00:: polish%1:10:00::
+slovakia%1:15:00:: spain%1:15:00:: spanish%3:01:00::
+slovakia%1:15:00:: sweden%1:15:00::
+slovakia%1:15:00:: switzerland%1:15:00:: swiss%1:18:00::
+slovakia%1:15:00:: thailand%1:15:00:: thai%1:10:00::
+slovakia%1:15:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+slovakia%1:15:00:: albania%1:15:00:: albanian%1:10:00::
+slovakia%1:15:00:: argentina%1:15:00::
+slovakia%1:15:00:: australia%1:17:00:: australian%1:10:00::
+slovakia%1:15:00:: austria%1:15:00:: austrian%1:18:00::
+slovakia%1:15:00:: belarus%1:15:00:: belorussian%1:18:00::
+slovakia%1:15:00:: brazil%1:15:00:: brazilian%3:01:00::
+slovakia%1:15:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+slovakia%1:15:00:: slovakian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+slovakia%1:15:00:: chile%1:15:00:: chilean%1:18:00::
+slovakia%1:15:00:: slovakian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+slovakia%1:15:00:: colombia%1:15:00:: colombian%3:01:00::
+slovakia%1:15:00:: croatia%1:15:00:: croatian%1:18:00::
+slovakia%1:15:00:: denmark%1:15:00:: danish%1:10:00::
+slovakia%1:15:00:: egypt%1:15:00:: egyptian%1:18:00::
+slovakia%1:15:00:: england%1:15:00:: english%1:10:00::
+slovakia%1:15:00:: slovakian%3:01:00:: france%1:15:00:: french%1:10:00::
+slovakia%1:15:00:: germany%1:15:00:: german%3:01:00::
+slovakia%1:15:00:: greece%1:15:00:: greek%1:10:00::
+slovakia%1:15:00:: iceland%1:15:00:: icelandic%1:10:00::
+slovakia%1:15:00:: india%1:15:00:: indian%1:10:00::
+slovakia%1:15:00:: ireland%1:15:01:: irish%1:10:00::
+slovakia%1:15:00:: israel%1:15:00:: israeli%1:18:00::
+slovakia%1:15:00:: slovakian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+slovakia%1:15:00:: japan%1:06:01:: japanese%3:01:00::
+slovakia%1:15:00:: korea%1:15:00:: korean%1:18:00::
+slovakia%1:15:00:: macedonia%1:15:00:: macedonian%1:18:00::
+slovakia%1:15:00:: malta%1:15:01:: maltese%1:18:00::
+slovakia%1:15:00:: mexico%1:15:00:: mexican%1:18:00::
+slovakia%1:15:00:: moldova%1:15:00::
+slovakia%1:15:00:: netherlands%1:15:00:: dutch%1:10:00::
+slovakia%1:15:00:: norway%1:15:00:: norwegian%3:01:00::
+slovakia%1:15:00:: peru%1:15:00:: peruvian%1:18:00::
+slovakia%1:15:00:: poland%1:15:00:: polish%1:10:00::
+slovakia%1:15:00:: portugal%1:15:00:: portuguese%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: sweden%1:15:00:: swedish%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: thailand%1:15:00:: thai%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: ukraine%1:15:00:: ukrainian%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: albania%1:15:00:: albanian%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: argentina%1:15:00::
+spain%1:15:00:: spanish%3:01:00:: australia%1:17:00:: australian%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: chile%1:15:00:: chilean%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: china%1:15:00:: chinese%1:10:00::
+spain%1:15:00:: spanish%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+spain%1:15:00:: spanish%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: denmark%1:15:00:: danish%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: england%1:15:00:: english%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: france%1:15:00:: french%1:10:00::
+spain%1:15:00:: spanish%1:10:00:: germany%1:15:00:: german%3:01:00::
+spain%1:15:00:: spanish%3:01:00:: greece%1:15:00:: greek%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: india%1:15:00:: indian%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: italy%1:15:00:: italian%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: japan%1:06:01:: japanese%1:18:00::
+spain%1:15:00:: spanish%1:10:00:: korea%1:15:00:: korean%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: macedonia%1:15:00:: macedonian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: moldova%1:15:00::
+spain%1:15:00:: spanish%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: norway%1:15:00:: norwegian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: peru%1:15:00:: peruvian%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: poland%1:15:00:: polish%1:10:00::
+spain%1:15:00:: spanish%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+spain%1:15:00:: spanish%3:01:00:: russia%1:15:02:: russian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: switzerland%1:15:00:: swiss%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: thailand%1:15:00:: thai%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: argentina%1:15:00::
+sweden%1:15:00:: swedish%1:10:00:: australia%1:17:00:: australian%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+sweden%1:15:00:: swedish%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+sweden%1:15:00:: swedish%3:01:00:: china%1:15:00:: chinese%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: england%1:15:00:: english%1:10:00::
+sweden%1:15:00:: swedish%3:01:00:: france%1:15:00:: french%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: germany%1:15:00:: german%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: greece%1:15:00:: greek%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: india%1:15:00:: indian%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+sweden%1:15:00:: swedish%3:01:00:: italy%1:15:00:: italian%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: korea%1:15:00:: korean%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: moldova%1:15:00::
+sweden%1:15:00:: swedish%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+sweden%1:15:00:: swedish%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: poland%1:15:00:: polish%1:10:00::
+sweden%1:15:00:: swedish%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: russia%1:15:02:: russian%1:18:00::
+sweden%1:15:00:: swedish%1:10:00:: slovakia%1:15:00::
+switzerland%1:15:00:: swiss%1:18:00:: thailand%1:15:00:: thai%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: albania%1:15:00:: albanian%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: argentina%1:15:00::
+switzerland%1:15:00:: swiss%1:18:00:: australia%1:17:00:: australian%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: austria%1:15:00:: austrian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: belarus%1:15:00:: belorussian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: brazil%1:15:00:: brazilian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: cambodia%1:15:00:: cambodian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: chile%1:15:00:: chilean%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: china%1:15:00:: chinese%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: colombia%1:15:00:: colombian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: croatia%1:15:00:: croatian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: denmark%1:15:00:: danish%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: egypt%1:15:00:: egyptian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: england%1:15:00:: english%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: france%1:15:00:: french%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: germany%1:15:00:: german%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: greece%1:15:00:: greek%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: iceland%1:15:00:: icelandic%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: india%1:15:00:: indian%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: ireland%1:15:01:: irish%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: israel%1:15:00:: israeli%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: italy%1:15:00:: italian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: japan%1:06:01:: japanese%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: korea%1:15:00:: korean%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: macedonia%1:15:00:: macedonian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: malta%1:15:01:: maltese%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: mexico%1:15:00:: mexican%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: moldova%1:15:00::
+switzerland%1:15:00:: swiss%1:18:00:: netherlands%1:15:00:: dutch%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: norway%1:15:00:: norwegian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: peru%1:15:00:: peruvian%3:01:00::
+switzerland%1:15:00:: swiss%1:18:00:: poland%1:15:00:: polish%1:10:00::
+switzerland%1:15:00:: swiss%1:18:00:: portugal%1:15:00:: portuguese%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: russia%1:15:02:: russian%1:18:00::
+switzerland%1:15:00:: swiss%1:18:00:: slovakia%1:15:00::
+switzerland%1:15:00:: swiss%1:18:00:: spain%1:15:00:: spanish%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: ukraine%1:15:00:: ukrainian%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: argentina%1:15:00::
+thailand%1:15:00:: thai%1:10:00:: australia%1:17:00:: australian%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: austria%1:15:00:: austrian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: belarus%1:15:00:: belorussian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: brazil%1:15:00:: brazilian%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: cambodia%1:15:00:: cambodian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: china%1:15:00:: chinese%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: croatia%1:15:00:: croatian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: egypt%1:15:00:: egyptian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: england%1:15:00:: english%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: france%1:15:00:: french%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: germany%1:15:00:: german%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: greece%1:15:00:: greek%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: iceland%1:15:00:: icelandic%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: india%1:15:00:: indian%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: ireland%1:15:01:: irish%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: israel%1:15:00:: israeli%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: italy%1:15:00:: italian%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: korea%1:15:00:: korean%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: malta%1:15:01:: maltese%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: mexico%1:15:00:: mexican%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: moldova%1:15:00::
+thailand%1:15:00:: thai%1:10:00:: netherlands%1:15:00:: dutch%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: norway%1:15:00:: norwegian%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: poland%1:15:00:: polish%1:10:00::
+thailand%1:15:00:: thai%1:10:00:: portugal%1:15:00:: portuguese%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: russia%1:15:02:: russian%1:18:00::
+thailand%1:15:00:: thai%1:10:00:: slovakia%1:15:00::
+thailand%1:15:00:: thai%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+thailand%1:15:00:: thai%1:10:00:: sweden%1:15:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: albania%1:15:00:: albanian%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: argentina%1:15:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: australia%1:17:00:: australian%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: austria%1:15:00:: austrian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: belarus%1:15:00:: belorussian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: brazil%1:15:00:: brazilian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: bulgaria%1:15:00:: bulgarian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: cambodia%1:15:00:: cambodian%1:18:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: chile%1:15:00:: chilean%1:18:00::
+ukrainian%3:01:00:: china%1:15:00:: chinese%1:10:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: colombia%1:15:00:: colombian%3:01:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: croatia%1:15:00:: croatian%1:18:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: denmark%1:15:00:: danish%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: egypt%1:15:00:: egyptian%1:18:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: england%1:15:00:: english%1:10:00::
+ukrainian%3:01:00:: france%1:15:00:: french%1:10:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: germany%1:15:00:: german%3:01:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: greece%1:15:00:: greek%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: iceland%1:15:00:: icelandic%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: india%1:15:00:: indian%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: ireland%1:15:01:: irish%1:10:00::
+ukrainian%3:01:00:: israel%1:15:00:: israeli%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: italy%1:15:00:: italian%1:10:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: japan%1:06:01:: japanese%3:01:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: korea%1:15:00:: korean%1:18:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: macedonia%1:15:00:: macedonian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: malta%1:15:01:: maltese%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: mexico%1:15:00:: mexican%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: moldova%1:15:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: netherlands%1:15:00:: dutch%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: norway%1:15:00:: norwegian%1:18:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: peru%1:15:00:: peruvian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: poland%1:15:00:: polish%1:10:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: portugal%1:15:00:: portuguese%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: russia%1:15:02:: russian%1:18:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: slovakia%1:15:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: spain%1:15:00:: spanish%3:01:00::
+ukraine%1:15:00:: ukrainian%1:10:00:: sweden%1:15:00::
+ukraine%1:15:00:: ukrainian%3:01:00:: switzerland%1:15:00:: swiss%1:18:00::
