@@ -153,6 +153,7 @@ class Word2Vec(object):
     self.save_vocab()
     self.correct_file = None
     self.incorrect_file = None
+    self.lenient = True
 
   def read_analogies(self):
     """Reads through the analogy question file.
@@ -386,7 +387,8 @@ class Word2Vec(object):
             if self.correct_file is not None:
               self.correct_file.write(log_line + "\n")
             break
-          elif self.lenient and (response.split("%")[0] == predicted.split("%")[0]):
+          elif (self.lenient is not None) and self.lenient \
+                  and (response.split("%")[0] == predicted.split("%")[0]):
             correct += 1
             #print(log_line)
             if self.correct_file is not None:
@@ -491,8 +493,6 @@ def main(_):
   opts = Options()
   if FLAGS.use:
     path = 'data/'
-    # correct_filename = '%s%s' % (path, 'text8-capital-words-corrects.txt')
-    # incorrect_filename = '%s%s' % (path, 'text8-capital-words-incorrects.txt')
     correct_filename = FLAGS.answer_filename + '-corrects.txt'
     correct_filename = '%s%s' % (path, correct_filename)
     incorrect_filename = FLAGS.answer_filename + '-incorrects.txt'
