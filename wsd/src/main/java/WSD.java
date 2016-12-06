@@ -18,16 +18,17 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
 public class WSD {
-    Logger logger = Logger.getLogger(WSD.class);
+    private static Logger logger = Logger.getLogger(WSD.class);
 
     private WordNetSenseKeySenseInventory inventory;
     private SimplifiedLesk lesk;
@@ -327,8 +328,9 @@ public class WSD {
         WordNetSenseKeySenseInventory inventory =
                 new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
-        //logger.debug(wsd.getBestSense("Athens", "Athens Greece Baghdad Iraq", POS.NOUN));
-//        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
+        logger.debug(wsd.getBestSense("Baghdad", "Athens Greece Baghdad Iraq", POS.NOUN));
+        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
+ //        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
 //        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
 //        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
 //        for(String idx: indices) {
@@ -339,7 +341,7 @@ public class WSD {
 //            wsd.generateWordStreamSenses(if2, of2, 4, 1000000);
 //        }
 
-        wsd.generateQASenseFromFiles();
+//        wsd.generateQASenseFromFiles();
 
     }
 
