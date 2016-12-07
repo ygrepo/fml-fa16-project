@@ -34,7 +34,9 @@ public class WSD {
     private SimplifiedLesk lesk;
 
     private static Joiner JOINER = Joiner.on(" ").skipNulls();
-    private static List<String> FILENAMES= ImmutableList.of("city","family","gram1-adj-adv","gram2-opposite","gram3-comparative","gram4-superlative",
+//    private static List<String> FILENAMES= ImmutableList.of("gram6-nationality-adj");
+    private static List<String> FILENAMES= ImmutableList.of("capital-common-countries","capital-world","currency",
+            "city","family","gram1-adj-adv","gram2-opposite","gram3-comparative","gram4-superlative",
             "gram5-present-participle","gram6-nationality-adj","gram7-past-tense","gram8-plural","gram9-plural-verbs");
 
     public WSD(WordNetSenseKeySenseInventory inventory) {
@@ -62,15 +64,6 @@ public class WSD {
             }
         }
         return best;
-//        for (String sense : senseProbmap.keySet()) {
-//            logger.debug("ID: " + sense);
-//            logger.debug("Sense key: " + inventory.getWordNetSenseKey(sense, lemma));
-//            logger.debug("Description: " + inventory.getSenseDescription(sense));
-//            logger.debug("Definition: " + inventory.getSenseDefinition(sense));
-//            logger.debug("Examples: " + inventory.getSenseExamples(sense));
-//            logger.debug("Words: " + inventory.getSenseWords(sense));
-//            logger.debug("Neighbours: " + inventory.getSenseNeighbours(sense));
-//        }
     }
 
     public String readStringFromFile(String filename) {
@@ -175,6 +168,7 @@ public class WSD {
                 if (StringUtils.isBlank(sensesLine)) {
                     logger.warn("No senses for line=" + line);
                     unkLine++;
+                    senseList.add(line);
                     continue;
                 }
                 senseList.add(sensesLine);
@@ -239,20 +233,20 @@ public class WSD {
         String[] lps = stuple.split(",");
         if (lps.length != 2) {
             logger.debug("Not a valid tuple=" + stuple);
-            String word = lps[0];
-            return word;
+            return lps[0];
         }
         String lemma = lps[0];
         String spos = lps[1];
         POS pos = getPos(spos);
         if (pos == null) {
             logger.debug("Not pos valid tuple=" + stuple);
-            String word = lps[0];
-            return word;
+            return lps[0];
         }
         logger.debug(String.format("Lemma=%s,Pos=%s, context=%s", lemma, pos, context));
         String sense = getBestSense(lemma, context, pos);
         logger.debug("Sense=" + sense);
+        if (StringUtils.isBlank(sense))
+            return lps[0];
         return sense;
     }
 
@@ -328,9 +322,17 @@ public class WSD {
         WordNetSenseKeySenseInventory inventory =
                 new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
-        logger.debug(wsd.getBestSense("Baghdad", "Athens Greece Baghdad Iraq", POS.NOUN));
-        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
- //        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
+//        logger.debug(wsd.getBestSense("Baghdad", "Athens Greece Baghdad Iraq", POS.NOUN));
+//        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
+//        logger.debug(wsd.getBestSense("real", "denmark krone brazil real", POS.NOUN));
+//        logger.debug(wsd.getBestSense("kuna", "Algeria dinar Croatia kuna", POS.NOUN));
+//        logger.debug(wsd.getBestSense("kuna", "Algeria dinar Macedonia denar", POS.NOUN));
+//        logger.debug(wsd.getBestSense("cheerfully", "amaze amazingly cheerful cheerfully", POS.ADV));
+//        logger.debug(wsd.getBestSense("apparently", "amaze amazingly apparent apparently", POS.ADV));
+//        logger.debug(wsd.getBestSense("impossibly","acceptable unacceptable possibly impossibly", POS.ADJ));
+
+
+//        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
 //        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
 //        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
 //        for(String idx: indices) {
@@ -341,7 +343,7 @@ public class WSD {
 //            wsd.generateWordStreamSenses(if2, of2, 4, 1000000);
 //        }
 
-//        wsd.generateQASenseFromFiles();
+        wsd.generateQASenseFromFiles();
 
     }
 

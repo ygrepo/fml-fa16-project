@@ -41,6 +41,9 @@ class TAG_MODE:
     FULL_TAGGING = 0
     ADJ = 1
     VERB = 2
+    NOUN = 3
+    ADJ_ADV = 4
+    NOUN_ADJ = 5
 
 class WordnetUtils():
     def __init__(self, path, win_size=3):
@@ -387,36 +390,67 @@ class WordnetUtils():
         print("word_size=%d, rejected=%.3f" % (words_sz, rejected_percent))
         return tuples
 
-    def generate_lemma_adj(self, words):
+    def generate_lemma_given_pos(self, words, pos):
         '''
        This helper function is used for the questions-answers challenge.
-       The tagger always gets wrongs when the question consists of 3 adjectives
-       thus generates for the 3 lemme the POS 'a'.
-       It returns a list of (lemma, 'a').
+       The tagger is sometimes wrongs thus this generates for the 3 lemmas the given POS.
+       It returns a list of (lemma, pos).
        :param words:
        :return: tuples
        '''
         tuples = []
         for word in words:
-            lemma = self.lemmatizer.lemmatize(word, 'a')
-            #print("word=%s,lemma=%s" % (word, lemma))
-            tuples.append((lemma, 'a'))
+            lemma = self.lemmatizer.lemmatize(word, pos)
+            print("word=%s,lemma=%s" % (word, lemma))
+            tuples.append((lemma, pos))
         return tuples
 
-    def generate_lemma_verb(self, words):
+    def generate_lemma_adj_adv(self, words):
         '''
        This helper function is used for the questions-answers challenge.
-       The tagger always gets wrongs when the question consists of 3 verbs
-       thus generates for the 3 lemme the POS 'v'.
-       It returns a list of (lemma, 'v').
+       The function returns (lemma1,'a'),(lemma2,'r'),(lemma3,'a'),(lemma4,'r')
        :param words:
        :return: tuples
        '''
         tuples = []
-        for word in words:
-            lemma = self.lemmatizer.lemmatize(word, 'v')
-            #print("word=%s,lemma=%s" % (word, lemma))
-            tuples.append((lemma, 'v'))
+        if len(words) != 4:
+            return tuples
+        lemma = self.lemmatizer.lemmatize(words[0], 'a')
+        print("word=%s,lemma=%s" % (words[0], lemma))
+        tuples.append((lemma, 'a'))
+        lemma = self.lemmatizer.lemmatize(words[1], 'r')
+        print("word=%s,lemma=%s" % (words[1], lemma))
+        tuples.append((lemma, 'r'))
+        lemma = self.lemmatizer.lemmatize(words[2], 'a')
+        print("word=%s,lemma=%s" % (words[2], lemma))
+        tuples.append((lemma, 'a'))
+        lemma = self.lemmatizer.lemmatize(words[3], 'r')
+        print("word=%s,lemma=%s" % (words[3], lemma))
+        tuples.append((lemma, 'r'))
+        return tuples
+
+    def generate_lemma_noun_adj(self, words):
+        '''
+       This helper function is used for the questions-answers challenge.
+       The function returns (lemma1,'n'),(lemma2,'a'),(lemma3,'n'),(lemma4,'a')
+       :param words:
+       :return: tuples
+       '''
+        tuples = []
+        if len(words) != 4:
+            return tuples
+        lemma = self.lemmatizer.lemmatize(words[0], 'n')
+        print("word=%s,lemma=%s" % (words[0], lemma))
+        tuples.append((lemma, 'n'))
+        lemma = self.lemmatizer.lemmatize(words[1], 'a')
+        print("word=%s,lemma=%s" % (words[1], lemma))
+        tuples.append((lemma, 'a'))
+        lemma = self.lemmatizer.lemmatize(words[2], 'n')
+        print("word=%s,lemma=%s" % (words[2], lemma))
+        tuples.append((lemma, 'n'))
+        lemma = self.lemmatizer.lemmatize(words[3], 'a')
+        print("word=%s,lemma=%s" % (words[3], lemma))
+        tuples.append((lemma, 'a'))
         return tuples
 
     def transform(self, synsetids):
@@ -662,7 +696,7 @@ def generate_news_lemma_pos(path):
 
 def determine_tagging_mode(word_line):
     if word_line.startswith(": gram1"):
-        return TAG_MODE.FULL_TAGGING
+        return TAG_MODE.ADJ_ADV
     elif word_line.startswith(": gram2"):
         return TAG_MODE.ADJ
     elif word_line.startswith(": gram3"):
@@ -672,13 +706,15 @@ def determine_tagging_mode(word_line):
     elif word_line.startswith(": gram5"):
         return TAG_MODE.VERB
     elif word_line.startswith(": gram6"):
-        return TAG_MODE.FULL_TAGGING
+        return TAG_MODE.NOUN_ADJ
     elif word_line.startswith(": gram7"):
         return TAG_MODE.VERB
     elif word_line.startswith(": gram8"):
         return TAG_MODE.FULL_TAGGING
     elif word_line.startswith(": gram9"):
         return TAG_MODE.VERB
+    elif word_line.startswith(": currency"):
+        return TAG_MODE.NOUN
     elif word_line.startswith(":"):
         return TAG_MODE.FULL_TAGGING
     return None
@@ -706,10 +742,15 @@ def generate_qa_lemma_pos_with_filename(path, filename):
         if tagging_mode == TAG_MODE.FULL_TAGGING:
             tuplel = wn_utils.generate_lemma_pos(words)
         elif tagging_mode == TAG_MODE.ADJ:
-            tuplel = wn_utils.generate_lemma_adj(words)
+            tuplel = wn_utils.generate_lemma_given_pos(words, 'a')
         elif tagging_mode == TAG_MODE.VERB:
-            tuplel = wn_utils.generate_lemma_verb(words)
-
+            tuplel = wn_utils.generate_lemma_given_pos(words, 'v')
+        elif tagging_mode == TAG_MODE.NOUN:
+            tuplel = wn_utils.generate_lemma_given_pos(words, 'n')
+        elif tagging_mode == TAG_MODE.NOUN_ADJ:
+            tuplel = wn_utils.generate_lemma_noun_adj(words)
+        elif tagging_mode == TAG_MODE.ADJ_ADV:
+            tuplel = wn_utils.generate_lemma_adj_adv(words)
         #print("Tuples=%s" %tuplel)
         tuples.append(tuplel)
     print("Tuples=%s" %tuples[:10])
@@ -718,8 +759,9 @@ def generate_qa_lemma_pos_with_filename(path, filename):
     save_list_list_to_text_file(output_filename, tuples)
 
 def generate_qa_lemma_pos(path):
-    filenames = ['city','family','gram1-adj-adv','gram2-opposite','gram3-comparative','gram4-superlative',
-                 'gram5-present-participle','gram6-nationality-adj','gram7-past-tense','gram8-plural','gram9-plural-verbs']
+    #filenames = ['gram6-nationality-adj']
+    filenames = ['capital-common-countries','capital-world','currency', 'city','family','gram1-adj-adv','gram2-opposite','gram3-comparative','gram4-superlative',
+                  'gram5-present-participle','gram6-nationality-adj','gram7-past-tense','gram8-plural','gram9-plural-verbs']
     for filename in filenames:
         generate_qa_lemma_pos_with_filename(path, filename)
 
@@ -729,7 +771,7 @@ if __name__ == '__main__':
     # test_lesk()
     # test_pywsd()
     # test_window()
-    # sample(path)
+    # sample(path)gram6-nationality-adj
     # generate_text8_words_synsets(path)
     # generate_text8_lemma_pos(path)
     generate_qa_lemma_pos(path)
