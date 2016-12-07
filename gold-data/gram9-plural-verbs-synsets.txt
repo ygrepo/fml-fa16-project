@@ -1,12 +1,12 @@
 : gram9-plural-verbs
 decrease%2:30:00:: decrease%2:30:00:: describe%2:32:00:: describe%2:32:00::
 decrease%2:30:00:: decrease%2:30:00:: eat%2:34:00:: eat%2:34:00::
-decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: enhance enhance
 decrease%2:30:00:: decrease%2:30:00:: estimate%2:31:00:: estimate%2:31:00::
 decrease%2:30:00:: decrease%2:30:00:: find%2:40:00:: find%2:40:00::
 decrease%2:30:00:: decrease%2:30:00:: generate%2:36:00:: generate%2:36:00::
 decrease%2:30:00:: decrease%2:30:00:: go%2:30:08:: go%2:30:08::
-decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: implement implement
 decrease%2:30:00:: decrease%2:30:00:: increase%2:30:00:: increase%2:30:00::
 decrease%2:30:00:: decrease%2:30:00:: listen%2:39:00:: listen%2:39:00::
 decrease%2:30:00:: decrease%2:30:00:: play%2:36:00:: play%2:36:00::
@@ -29,12 +29,12 @@ decrease%2:30:00:: decrease%2:30:00:: walk%2:38:00:: walk%2:38:00::
 decrease%2:30:00:: decrease%2:30:00:: work%2:29:00:: work%2:29:00::
 decrease%2:30:00:: decrease%2:30:00:: write%2:36:04:: write%2:36:04::
 describe%2:32:00:: describe%2:32:00:: eat%2:34:00:: eat%2:34:00::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: enhance enhance
 describe%2:32:00:: describe%2:32:00:: estimate%2:31:00:: estimate%2:31:00::
 describe%2:32:00:: describe%2:32:00:: find%2:40:00:: find%2:40:00::
 describe%2:32:00:: describe%2:32:00:: generate%2:36:00:: generate%2:36:00::
 describe%2:32:00:: describe%2:32:00:: go%2:30:08:: go%2:30:08::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: implement implement
 describe%2:32:00:: describe%2:32:00:: increase%2:30:02:: increase%2:30:02::
 describe%2:32:00:: describe%2:32:00:: listen%2:39:00:: listen%2:39:00::
 describe%2:32:00:: describe%2:32:00:: play%2:36:00:: play%2:36:00::
@@ -52,17 +52,17 @@ describe%2:32:00:: describe%2:32:00:: speak%2:32:00:: speak%2:32:00::
 describe%2:32:00:: describe%2:32:00:: swim%2:38:00:: swim%2:38:00::
 describe%2:32:00:: describe%2:32:00:: talk%2:32:01:: talk%2:32:01::
 describe%2:32:00:: describe%2:32:00:: think%2:31:00:: think%2:31:00::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: vanish vanish
 describe%2:32:00:: describe%2:32:00:: walk%2:38:00:: walk%2:38:00::
 describe%2:32:00:: describe%2:32:00:: work%2:29:00:: work%2:29:00::
 describe%2:32:00:: describe%2:32:00:: write%2:36:04:: write%2:36:04::
 describe%2:32:00:: describe%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
-eat%2:34:00:: eat%2:34:00::
+eat%2:34:00:: eat%2:34:00:: enhance enhance
 eat%2:34:00:: eat%2:34:00:: estimate%2:31:00:: estimate%2:31:00::
 eat%2:34:00:: eat%2:34:00:: find%2:40:00:: find%2:40:00::
 eat%2:34:00:: eat%2:34:00:: generate%2:36:00:: generate%2:36:00::
 eat%2:34:00:: eat%2:34:00:: go%2:30:08:: go%2:30:08::
-eat%2:34:00:: eat%2:34:00::
+eat%2:34:00:: eat%2:34:00:: implement implement
 eat%2:34:00:: eat%2:34:00:: increase%2:30:02:: increase%2:30:02::
 eat%2:34:00:: eat%2:34:00:: listen%2:39:00:: listen%2:39:00::
 eat%2:34:00:: eat%2:34:00:: play%2:36:00:: play%2:36:00::
@@ -80,43 +80,45 @@ eat%2:34:00:: eat%2:34:00:: speak%2:32:00:: speak%2:32:00::
 eat%2:34:00:: eat%2:34:00:: swim%2:38:00:: swim%2:38:00::
 eat%2:34:00:: eat%2:34:00:: talk%2:32:01:: talk%2:32:01::
 eat%2:34:00:: eat%2:34:00:: think%2:31:00:: think%2:31:00::
-eat%2:34:00:: eat%2:34:00::
+eat%2:34:00:: eat%2:34:00:: vanish vanish
 eat%2:34:00:: eat%2:34:00:: walk%2:38:00:: walk%2:38:00::
 eat%2:34:00:: eat%2:34:00:: work%2:29:00:: work%2:29:00::
 eat%2:34:00:: eat%2:34:00:: write%2:36:04:: write%2:36:04::
 eat%2:34:00:: eat%2:34:00:: decrease%2:30:00:: decrease%2:30:00::
 eat%2:34:00:: eat%2:34:00:: describe%2:32:00:: describe%2:32:00::
-estimate%2:31:00:: estimate%2:31:00::
-find%2:40:00:: find%2:40:00::
-generate%2:36:00:: generate%2:36:00::
-go%2:30:08:: go%2:30:08::
+enhance enhance estimate%2:31:00:: estimate%2:31:00::
+enhance enhance find%2:40:00:: find%2:40:00::
+enhance enhance generate%2:36:00:: generate%2:36:00::
+enhance enhance go%2:30:08:: go%2:30:08::
+enhance enhance implement implement
 enhance%2:30:00:: enhance%2:30:00:: increase%2:30:02:: increase%2:30:02::
-listen%2:39:00:: listen%2:39:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-provide%2:40:00:: provide%2:40:00::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-search%2:35:01:: search%2:35:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-speak%2:32:00:: speak%2:32:00::
-swim%2:38:00:: swim%2:38:00::
-talk%2:32:01:: talk%2:32:01::
-think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
-work%2:29:00:: work%2:29:00::
-write%2:36:04:: write%2:36:04::
-decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-eat%2:34:00:: eat%2:34:00::
+enhance enhance listen%2:39:00:: listen%2:39:00::
+enhance enhance play%2:36:00:: play%2:36:00::
+enhance enhance predict%2:32:00:: predict%2:32:00::
+enhance enhance provide%2:40:00:: provide%2:40:00::
+enhance enhance say%2:32:00:: say%2:32:00::
+enhance enhance scream%2:32:01:: scream%2:32:01::
+enhance enhance search%2:35:01:: search%2:35:01::
+enhance enhance see%2:39:00:: see%2:39:00::
+enhance enhance shuffle%2:35:00:: shuffle%2:35:00::
+enhance enhance sing%2:36:00:: sing%2:36:00::
+enhance enhance sit%2:35:00:: sit%2:35:00::
+enhance enhance slow%2:30:01:: slow%2:30:01::
+enhance enhance speak%2:32:00:: speak%2:32:00::
+enhance enhance swim%2:38:00:: swim%2:38:00::
+enhance enhance talk%2:32:01:: talk%2:32:01::
+enhance enhance think%2:31:00:: think%2:31:00::
+enhance enhance vanish vanish
+enhance enhance walk%2:38:00:: walk%2:38:00::
+enhance enhance work%2:29:00:: work%2:29:00::
+enhance enhance write%2:36:04:: write%2:36:04::
+enhance enhance decrease%2:30:00:: decrease%2:30:00::
+enhance enhance describe%2:32:00:: describe%2:32:00::
+enhance enhance eat%2:34:00:: eat%2:34:00::
 estimate%2:31:00:: estimate%2:31:00:: find%2:40:00:: find%2:40:00::
 estimate%2:31:00:: estimate%2:31:00:: generate%2:36:00:: generate%2:36:00::
 estimate%2:31:00:: estimate%2:31:00:: go%2:30:08:: go%2:30:08::
-estimate%2:31:00:: estimate%2:31:00::
+estimate%2:31:00:: estimate%2:31:00:: implement implement
 estimate%2:31:00:: estimate%2:31:00:: increase%2:30:02:: increase%2:30:02::
 estimate%2:31:00:: estimate%2:31:00:: listen%2:39:00:: listen%2:39:00::
 estimate%2:31:00:: estimate%2:31:00:: play%2:36:00:: play%2:36:00::
@@ -134,17 +136,17 @@ estimate%2:31:00:: estimate%2:31:00:: speak%2:32:00:: speak%2:32:00::
 estimate%2:31:00:: estimate%2:31:00:: swim%2:38:00:: swim%2:38:00::
 estimate%2:31:00:: estimate%2:31:00:: talk%2:32:01:: talk%2:32:01::
 estimate%2:31:00:: estimate%2:31:00:: think%2:31:00:: think%2:31:00::
-estimate%2:31:00:: estimate%2:31:00::
+estimate%2:31:00:: estimate%2:31:00:: vanish vanish
 estimate%2:31:00:: estimate%2:31:00:: walk%2:38:00:: walk%2:38:00::
 estimate%2:31:00:: estimate%2:31:00:: work%2:29:00:: work%2:29:00::
 estimate%2:31:00:: estimate%2:31:00:: write%2:36:04:: write%2:36:04::
 estimate%2:31:00:: estimate%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
 estimate%2:31:00:: estimate%2:31:00:: describe%2:32:00:: describe%2:32:00::
 estimate%2:31:00:: estimate%2:31:00:: eat%2:34:00:: eat%2:34:00::
-estimate%2:31:00:: estimate%2:31:00::
+estimate%2:31:00:: estimate%2:31:00:: enhance enhance
 find%2:40:00:: find%2:40:00:: generate%2:36:00:: generate%2:36:00::
 find%2:39:01:: find%2:39:01:: go%2:30:08:: go%2:30:08::
-find%2:40:00:: find%2:40:00::
+find%2:40:00:: find%2:40:00:: implement implement
 find%2:40:00:: find%2:40:00:: increase%2:30:02:: increase%2:30:02::
 find%2:40:00:: find%2:40:00:: listen%2:39:00:: listen%2:39:00::
 find%2:40:00:: find%2:40:00:: play%2:36:00:: play%2:36:00::
@@ -162,17 +164,17 @@ find%2:40:00:: find%2:40:00:: speak%2:32:00:: speak%2:32:00::
 find%2:40:00:: find%2:40:00:: swim%2:38:00:: swim%2:38:00::
 find%2:40:00:: find%2:40:00:: talk%2:32:01:: talk%2:32:01::
 find%2:40:00:: find%2:40:00:: think%2:31:00:: think%2:31:00::
-find%2:40:00:: find%2:40:00::
+find%2:40:00:: find%2:40:00:: vanish vanish
 find%2:40:00:: find%2:40:00:: walk%2:38:00:: walk%2:38:00::
 find%2:40:00:: find%2:40:00:: work%2:29:00:: work%2:29:00::
 find%2:40:00:: find%2:40:00:: write%2:36:04:: write%2:36:04::
 find%2:40:00:: find%2:40:00:: decrease%2:30:00:: decrease%2:30:00::
 find%2:40:00:: find%2:40:00:: describe%2:32:00:: describe%2:32:00::
 find%2:40:00:: find%2:40:00:: eat%2:34:00:: eat%2:34:00::
-find%2:40:00:: find%2:40:00::
+find%2:40:00:: find%2:40:00:: enhance enhance
 find%2:40:00:: find%2:40:00:: estimate%2:31:00:: estimate%2:31:00::
 generate%2:36:00:: generate%2:36:00:: go%2:30:08:: go%2:30:08::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: implement implement
 generate%2:36:00:: generate%2:36:00:: increase%2:30:02:: increase%2:30:02::
 generate%2:36:00:: generate%2:36:00:: listen%2:39:00:: listen%2:39:00::
 generate%2:36:00:: generate%2:36:00:: play%2:36:00:: play%2:36:00::
@@ -190,14 +192,14 @@ generate%2:36:00:: generate%2:36:00:: speak%2:32:00:: speak%2:32:00::
 generate%2:36:00:: generate%2:36:00:: swim%2:38:00:: swim%2:38:00::
 generate%2:36:00:: generate%2:36:00:: talk%2:32:01:: talk%2:32:01::
 generate%2:36:00:: generate%2:36:00:: think%2:31:00:: think%2:31:00::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: vanish vanish
 generate%2:36:00:: generate%2:36:00:: walk%2:38:00:: walk%2:38:00::
 generate%2:36:00:: generate%2:36:00:: work%2:29:00:: work%2:29:00::
 generate%2:36:00:: generate%2:36:00:: write%2:36:04:: write%2:36:04::
 generate%2:36:00:: generate%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 generate%2:36:00:: generate%2:36:00:: describe%2:32:00:: describe%2:32:00::
 generate%2:36:00:: generate%2:36:00:: eat%2:34:00:: eat%2:34:00::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: enhance enhance
 generate%2:36:00:: generate%2:36:00:: estimate%2:31:00:: estimate%2:31:00::
 generate%2:36:00:: generate%2:36:00:: find%2:40:00:: find%2:40:00::
 go%2:30:08:: go%2:30:08:: implement%2:30:00:: implement%2:30:00::
@@ -225,36 +227,38 @@ go%2:30:08:: go%2:30:08:: write%2:36:04:: write%2:36:04::
 go%2:30:08:: go%2:30:08:: decrease%2:30:00:: decrease%2:30:00::
 go%2:30:08:: go%2:30:08:: describe%2:32:00:: describe%2:32:00::
 go%2:30:08:: go%2:30:08:: eat%2:34:00:: eat%2:34:00::
-go%2:30:08:: go%2:30:08::
+go%2:30:08:: go%2:30:08:: enhance enhance
 go%2:30:08:: go%2:30:08:: estimate%2:31:00:: estimate%2:31:00::
 go%2:30:08:: go%2:30:08:: find%2:39:01:: find%2:39:01::
 go%2:30:08:: go%2:30:08:: generate%2:36:00:: generate%2:36:00::
-increase%2:30:02:: increase%2:30:02::
-listen%2:39:00:: listen%2:39:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-provide%2:40:00:: provide%2:40:00::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-search%2:35:01:: search%2:35:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-speak%2:32:00:: speak%2:32:00::
-swim%2:38:00:: swim%2:38:00::
-talk%2:32:01:: talk%2:32:01::
-think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
+implement implement increase%2:30:02:: increase%2:30:02::
+implement implement listen%2:39:00:: listen%2:39:00::
+implement implement play%2:36:00:: play%2:36:00::
+implement implement predict%2:32:00:: predict%2:32:00::
+implement implement provide%2:40:00:: provide%2:40:00::
+implement implement say%2:32:00:: say%2:32:00::
+implement implement scream%2:32:01:: scream%2:32:01::
+implement implement search%2:35:01:: search%2:35:01::
+implement implement see%2:39:00:: see%2:39:00::
+implement implement shuffle%2:35:00:: shuffle%2:35:00::
+implement implement sing%2:36:00:: sing%2:36:00::
+implement implement sit%2:35:00:: sit%2:35:00::
+implement implement slow%2:30:01:: slow%2:30:01::
+implement implement speak%2:32:00:: speak%2:32:00::
+implement implement swim%2:38:00:: swim%2:38:00::
+implement implement talk%2:32:01:: talk%2:32:01::
+implement implement think%2:31:00:: think%2:31:00::
+implement implement vanish vanish
+implement implement walk%2:38:00:: walk%2:38:00::
 implement%2:41:01:: implement%2:41:01:: work%2:29:00:: work%2:29:00::
-write%2:36:04:: write%2:36:04::
-decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-eat%2:34:00:: eat%2:34:00::
-estimate%2:31:00:: estimate%2:31:00::
-find%2:40:00:: find%2:40:00::
-generate%2:36:00:: generate%2:36:00::
+implement implement write%2:36:04:: write%2:36:04::
+implement implement decrease%2:30:00:: decrease%2:30:00::
+implement implement describe%2:32:00:: describe%2:32:00::
+implement implement eat%2:34:00:: eat%2:34:00::
+implement implement enhance enhance
+implement implement estimate%2:31:00:: estimate%2:31:00::
+implement implement find%2:40:00:: find%2:40:00::
+implement implement generate%2:36:00:: generate%2:36:00::
 implement%2:30:00:: implement%2:30:00:: go%2:30:08:: go%2:30:08::
 increase%2:30:02:: increase%2:30:02:: listen%2:39:00:: listen%2:39:00::
 increase%2:30:02:: increase%2:30:02:: play%2:36:00:: play%2:36:00::
@@ -272,7 +276,7 @@ increase%2:30:02:: increase%2:30:02:: speak%2:32:00:: speak%2:32:00::
 increase%2:30:02:: increase%2:30:02:: swim%2:38:00:: swim%2:38:00::
 increase%2:30:02:: increase%2:30:02:: talk%2:32:01:: talk%2:32:01::
 increase%2:30:02:: increase%2:30:02:: think%2:31:00:: think%2:31:00::
-increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: vanish vanish
 increase%2:30:02:: increase%2:30:02:: walk%2:38:00:: walk%2:38:00::
 increase%2:30:02:: increase%2:30:02:: work%2:29:00:: work%2:29:00::
 increase%2:30:02:: increase%2:30:02:: write%2:36:04:: write%2:36:04::
@@ -284,7 +288,7 @@ increase%2:30:02:: increase%2:30:02:: estimate%2:31:00:: estimate%2:31:00::
 increase%2:30:02:: increase%2:30:02:: find%2:40:00:: find%2:40:00::
 increase%2:30:02:: increase%2:30:02:: generate%2:36:00:: generate%2:36:00::
 increase%2:30:00:: increase%2:30:00:: go%2:30:08:: go%2:30:08::
-increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: implement implement
 listen%2:39:00:: listen%2:39:00:: play%2:36:00:: play%2:36:00::
 listen%2:39:00:: listen%2:39:00:: predict%2:32:00:: predict%2:32:00::
 listen%2:39:00:: listen%2:39:00:: provide%2:40:00:: provide%2:40:00::
@@ -300,19 +304,19 @@ listen%2:39:00:: listen%2:39:00:: speak%2:32:00:: speak%2:32:00::
 listen%2:39:00:: listen%2:39:00:: swim%2:38:00:: swim%2:38:00::
 listen%2:39:00:: listen%2:39:00:: talk%2:32:01:: talk%2:32:01::
 listen%2:39:00:: listen%2:39:00:: think%2:31:00:: think%2:31:00::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: vanish vanish
 listen%2:39:00:: listen%2:39:00:: walk%2:38:00:: walk%2:38:00::
 listen%2:39:00:: listen%2:39:00:: work%2:29:00:: work%2:29:00::
 listen%2:39:00:: listen%2:39:00:: write%2:36:04:: write%2:36:04::
 listen%2:39:00:: listen%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
 listen%2:39:00:: listen%2:39:00:: describe%2:32:00:: describe%2:32:00::
 listen%2:39:00:: listen%2:39:00:: eat%2:34:00:: eat%2:34:00::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: enhance enhance
 listen%2:39:00:: listen%2:39:00:: estimate%2:31:00:: estimate%2:31:00::
 listen%2:39:00:: listen%2:39:00:: find%2:40:00:: find%2:40:00::
 listen%2:39:00:: listen%2:39:00:: generate%2:36:00:: generate%2:36:00::
 listen%2:39:00:: listen%2:39:00:: go%2:30:08:: go%2:30:08::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: implement implement
 listen%2:39:00:: listen%2:39:00:: increase%2:30:02:: increase%2:30:02::
 play%2:36:00:: play%2:36:00:: predict%2:32:00:: predict%2:32:00::
 play%2:36:00:: play%2:36:00:: provide%2:40:00:: provide%2:40:00::
@@ -328,19 +332,19 @@ play%2:36:00:: play%2:36:00:: speak%2:32:00:: speak%2:32:00::
 play%2:36:00:: play%2:36:00:: swim%2:38:00:: swim%2:38:00::
 play%2:36:00:: play%2:36:00:: talk%2:32:01:: talk%2:32:01::
 play%2:36:00:: play%2:36:00:: think%2:31:00:: think%2:31:00::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: vanish vanish
 play%2:36:00:: play%2:36:00:: walk%2:38:00:: walk%2:38:00::
 play%2:36:00:: play%2:36:00:: work%2:29:00:: work%2:29:00::
 play%2:36:00:: play%2:36:00:: write%2:36:04:: write%2:36:04::
 play%2:36:00:: play%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 play%2:36:00:: play%2:36:00:: describe%2:32:00:: describe%2:32:00::
 play%2:36:00:: play%2:36:00:: eat%2:34:00:: eat%2:34:00::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: enhance enhance
 play%2:36:00:: play%2:36:00:: estimate%2:31:00:: estimate%2:31:00::
 play%2:36:00:: play%2:36:00:: find%2:40:00:: find%2:40:00::
 play%2:36:00:: play%2:36:00:: generate%2:36:00:: generate%2:36:00::
 play%2:36:00:: play%2:36:00:: go%2:30:08:: go%2:30:08::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: implement implement
 play%2:36:00:: play%2:36:00:: increase%2:30:02:: increase%2:30:02::
 play%2:36:00:: play%2:36:00:: listen%2:39:00:: listen%2:39:00::
 predict%2:32:00:: predict%2:32:00:: provide%2:40:00:: provide%2:40:00::
@@ -356,19 +360,19 @@ predict%2:32:00:: predict%2:32:00:: speak%2:32:00:: speak%2:32:00::
 predict%2:32:00:: predict%2:32:00:: swim%2:38:00:: swim%2:38:00::
 predict%2:32:00:: predict%2:32:00:: talk%2:32:01:: talk%2:32:01::
 predict%2:32:00:: predict%2:32:00:: think%2:31:00:: think%2:31:00::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: vanish vanish
 predict%2:32:00:: predict%2:32:00:: walk%2:38:00:: walk%2:38:00::
 predict%2:32:00:: predict%2:32:00:: work%2:29:00:: work%2:29:00::
 predict%2:32:00:: predict%2:32:00:: write%2:36:04:: write%2:36:04::
 predict%2:32:00:: predict%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
 predict%2:32:00:: predict%2:32:00:: describe%2:32:00:: describe%2:32:00::
 predict%2:32:00:: predict%2:32:00:: eat%2:34:00:: eat%2:34:00::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: enhance enhance
 predict%2:32:00:: predict%2:32:00:: estimate%2:31:00:: estimate%2:31:00::
 predict%2:32:00:: predict%2:32:00:: find%2:40:00:: find%2:40:00::
 predict%2:32:00:: predict%2:32:00:: generate%2:36:00:: generate%2:36:00::
 predict%2:32:00:: predict%2:32:00:: go%2:30:08:: go%2:30:08::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: implement implement
 predict%2:32:00:: predict%2:32:00:: increase%2:30:02:: increase%2:30:02::
 predict%2:32:00:: predict%2:32:00:: listen%2:39:00:: listen%2:39:00::
 predict%2:32:00:: predict%2:32:00:: play%2:36:00:: play%2:36:00::
@@ -384,19 +388,19 @@ provide%2:40:00:: provide%2:40:00:: speak%2:32:00:: speak%2:32:00::
 provide%2:40:00:: provide%2:40:00:: swim%2:38:00:: swim%2:38:00::
 provide%2:40:00:: provide%2:40:00:: talk%2:32:01:: talk%2:32:01::
 provide%2:40:00:: provide%2:40:00:: think%2:31:00:: think%2:31:00::
-provide%2:40:00:: provide%2:40:00::
+provide%2:40:00:: provide%2:40:00:: vanish vanish
 provide%2:40:00:: provide%2:40:00:: walk%2:38:00:: walk%2:38:00::
 provide%2:40:00:: provide%2:40:00:: work%2:29:00:: work%2:29:00::
 provide%2:40:00:: provide%2:40:00:: write%2:36:04:: write%2:36:04::
 provide%2:40:00:: provide%2:40:00:: decrease%2:30:00:: decrease%2:30:00::
 provide%2:40:00:: provide%2:40:00:: describe%2:32:00:: describe%2:32:00::
 provide%2:40:00:: provide%2:40:00:: eat%2:34:00:: eat%2:34:00::
-provide%2:40:00:: provide%2:40:00::
+provide%2:40:00:: provide%2:40:00:: enhance enhance
 provide%2:40:00:: provide%2:40:00:: estimate%2:31:00:: estimate%2:31:00::
 provide%2:40:00:: provide%2:40:00:: find%2:40:00:: find%2:40:00::
 provide%2:40:00:: provide%2:40:00:: generate%2:36:00:: generate%2:36:00::
 provide%2:40:00:: provide%2:40:00:: go%2:30:08:: go%2:30:08::
-provide%2:40:00:: provide%2:40:00::
+provide%2:40:00:: provide%2:40:00:: implement implement
 provide%2:40:00:: provide%2:40:00:: increase%2:30:02:: increase%2:30:02::
 provide%2:40:00:: provide%2:40:00:: listen%2:39:00:: listen%2:39:00::
 provide%2:40:00:: provide%2:40:00:: play%2:36:00:: play%2:36:00::
@@ -412,19 +416,19 @@ say%2:32:13:: say%2:32:13:: speak%2:32:00:: speak%2:32:00::
 say%2:32:00:: say%2:32:00:: swim%2:38:00:: swim%2:38:00::
 say%2:32:03:: say%2:32:03:: talk%2:32:01:: talk%2:32:01::
 say%2:32:00:: say%2:32:00:: think%2:31:00:: think%2:31:00::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: vanish vanish
 say%2:32:00:: say%2:32:00:: walk%2:38:00:: walk%2:38:00::
 say%2:32:00:: say%2:32:00:: work%2:29:00:: work%2:29:00::
 say%2:32:00:: say%2:32:00:: write%2:36:04:: write%2:36:04::
 say%2:32:00:: say%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
 say%2:32:00:: say%2:32:00:: describe%2:32:00:: describe%2:32:00::
 say%2:32:00:: say%2:32:00:: eat%2:34:00:: eat%2:34:00::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: enhance enhance
 say%2:32:00:: say%2:32:00:: estimate%2:31:00:: estimate%2:31:00::
 say%2:32:00:: say%2:32:00:: find%2:40:00:: find%2:40:00::
 say%2:32:00:: say%2:32:00:: generate%2:36:00:: generate%2:36:00::
 say%2:32:04:: say%2:32:04:: go%2:30:08:: go%2:30:08::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: implement implement
 say%2:32:00:: say%2:32:00:: increase%2:30:02:: increase%2:30:02::
 say%2:32:00:: say%2:32:00:: listen%2:39:00:: listen%2:39:00::
 say%2:32:00:: say%2:32:00:: play%2:36:00:: play%2:36:00::
@@ -440,19 +444,19 @@ scream%2:32:01:: scream%2:32:01:: speak%2:32:00:: speak%2:32:00::
 scream%2:32:01:: scream%2:32:01:: swim%2:38:00:: swim%2:38:00::
 scream%2:32:08:: scream%2:32:08:: talk%2:32:01:: talk%2:32:01::
 scream%2:32:01:: scream%2:32:01:: think%2:31:00:: think%2:31:00::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: vanish vanish
 scream%2:32:01:: scream%2:32:01:: walk%2:38:00:: walk%2:38:00::
 scream%2:32:01:: scream%2:32:01:: work%2:29:00:: work%2:29:00::
 scream%2:32:01:: scream%2:32:01:: write%2:36:04:: write%2:36:04::
 scream%2:32:01:: scream%2:32:01:: decrease%2:30:00:: decrease%2:30:00::
 scream%2:32:01:: scream%2:32:01:: describe%2:32:00:: describe%2:32:00::
 scream%2:32:01:: scream%2:32:01:: eat%2:34:00:: eat%2:34:00::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: enhance enhance
 scream%2:32:01:: scream%2:32:01:: estimate%2:31:00:: estimate%2:31:00::
 scream%2:32:01:: scream%2:32:01:: find%2:40:00:: find%2:40:00::
 scream%2:32:01:: scream%2:32:01:: generate%2:36:00:: generate%2:36:00::
 scream%2:32:01:: scream%2:32:01:: go%2:30:08:: go%2:30:08::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: implement implement
 scream%2:32:01:: scream%2:32:01:: increase%2:30:02:: increase%2:30:02::
 scream%2:32:01:: scream%2:32:01:: listen%2:39:00:: listen%2:39:00::
 scream%2:32:01:: scream%2:32:01:: play%2:36:00:: play%2:36:00::
@@ -468,19 +472,19 @@ search%2:35:01:: search%2:35:01:: speak%2:32:00:: speak%2:32:00::
 search%2:35:01:: search%2:35:01:: swim%2:38:00:: swim%2:38:00::
 search%2:35:01:: search%2:35:01:: talk%2:32:01:: talk%2:32:01::
 search%2:35:01:: search%2:35:01:: think%2:31:00:: think%2:31:00::
-search%2:35:01:: search%2:35:01::
+search%2:35:01:: search%2:35:01:: vanish vanish
 search%2:35:01:: search%2:35:01:: walk%2:38:00:: walk%2:38:00::
 search%2:35:01:: search%2:35:01:: work%2:29:00:: work%2:29:00::
 search%2:35:01:: search%2:35:01:: write%2:36:04:: write%2:36:04::
 search%2:35:01:: search%2:35:01:: decrease%2:30:00:: decrease%2:30:00::
 search%2:35:01:: search%2:35:01:: describe%2:32:00:: describe%2:32:00::
 search%2:35:01:: search%2:35:01:: eat%2:34:00:: eat%2:34:00::
-search%2:35:01:: search%2:35:01::
+search%2:35:01:: search%2:35:01:: enhance enhance
 search%2:35:01:: search%2:35:01:: estimate%2:31:00:: estimate%2:31:00::
 search%2:35:01:: search%2:35:01:: find%2:40:00:: find%2:40:00::
 search%2:35:01:: search%2:35:01:: generate%2:36:00:: generate%2:36:00::
 search%2:35:01:: search%2:35:01:: go%2:35:13:: go%2:35:13::
-search%2:35:01:: search%2:35:01::
+search%2:35:01:: search%2:35:01:: implement implement
 search%2:35:01:: search%2:35:01:: increase%2:30:02:: increase%2:30:02::
 search%2:35:01:: search%2:35:01:: listen%2:39:00:: listen%2:39:00::
 search%2:35:01:: search%2:35:01:: play%2:36:00:: play%2:36:00::
@@ -496,19 +500,19 @@ see%2:39:00:: see%2:39:00:: speak%2:32:00:: speak%2:32:00::
 see%2:39:00:: see%2:39:00:: swim%2:38:00:: swim%2:38:00::
 see%2:39:00:: see%2:39:00:: talk%2:32:01:: talk%2:32:01::
 see%2:31:08:: see%2:31:08:: think%2:31:00:: think%2:31:00::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: vanish vanish
 see%2:39:00:: see%2:39:00:: walk%2:38:00:: walk%2:38:00::
 see%2:39:00:: see%2:39:00:: work%2:29:00:: work%2:29:00::
 see%2:39:00:: see%2:39:00:: write%2:36:04:: write%2:36:04::
 see%2:39:00:: see%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
 see%2:39:00:: see%2:39:00:: describe%2:32:00:: describe%2:32:00::
 see%2:39:00:: see%2:39:00:: eat%2:34:00:: eat%2:34:00::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: enhance enhance
 see%2:39:00:: see%2:39:00:: estimate%2:31:00:: estimate%2:31:00::
 see%2:39:00:: see%2:39:00:: find%2:40:00:: find%2:40:00::
 see%2:39:00:: see%2:39:00:: generate%2:36:00:: generate%2:36:00::
 see%2:41:10:: see%2:41:10:: go%2:30:08:: go%2:30:08::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: implement implement
 see%2:39:00:: see%2:39:00:: increase%2:30:02:: increase%2:30:02::
 see%2:39:00:: see%2:39:00:: listen%2:39:00:: listen%2:39:00::
 see%2:39:00:: see%2:39:00:: play%2:36:00:: play%2:36:00::
@@ -524,19 +528,19 @@ shuffle%2:35:00:: shuffle%2:35:00:: speak%2:32:00:: speak%2:32:00::
 shuffle%2:35:00:: shuffle%2:35:00:: swim%2:38:00:: swim%2:38:00::
 shuffle%2:35:00:: shuffle%2:35:00:: talk%2:32:01:: talk%2:32:01::
 shuffle%2:35:00:: shuffle%2:35:00:: think%2:31:00:: think%2:31:00::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: vanish vanish
 shuffle%2:38:00:: shuffle%2:38:00:: walk%2:38:00:: walk%2:38:00::
 shuffle%2:35:00:: shuffle%2:35:00:: work%2:29:00:: work%2:29:00::
 shuffle%2:35:00:: shuffle%2:35:00:: write%2:36:04:: write%2:36:04::
 shuffle%2:35:00:: shuffle%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
 shuffle%2:35:00:: shuffle%2:35:00:: describe%2:32:00:: describe%2:32:00::
 shuffle%2:35:00:: shuffle%2:35:00:: eat%2:34:00:: eat%2:34:00::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: enhance enhance
 shuffle%2:35:00:: shuffle%2:35:00:: estimate%2:31:00:: estimate%2:31:00::
 shuffle%2:35:00:: shuffle%2:35:00:: find%2:40:00:: find%2:40:00::
 shuffle%2:35:00:: shuffle%2:35:00:: generate%2:36:00:: generate%2:36:00::
 shuffle%2:35:00:: shuffle%2:35:00:: go%2:30:08:: go%2:30:08::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: implement implement
 shuffle%2:35:00:: shuffle%2:35:00:: increase%2:30:02:: increase%2:30:02::
 shuffle%2:35:00:: shuffle%2:35:00:: listen%2:39:00:: listen%2:39:00::
 shuffle%2:35:00:: shuffle%2:35:00:: play%2:36:00:: play%2:36:00::
@@ -552,19 +556,19 @@ sing%2:36:00:: sing%2:36:00:: speak%2:32:00:: speak%2:32:00::
 sing%2:36:00:: sing%2:36:00:: swim%2:38:00:: swim%2:38:00::
 sing%2:36:00:: sing%2:36:00:: talk%2:32:01:: talk%2:32:01::
 sing%2:36:00:: sing%2:36:00:: think%2:31:00:: think%2:31:00::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: vanish vanish
 sing%2:36:00:: sing%2:36:00:: walk%2:38:00:: walk%2:38:00::
 sing%2:36:00:: sing%2:36:00:: work%2:29:00:: work%2:29:00::
 sing%2:36:00:: sing%2:36:00:: write%2:36:04:: write%2:36:04::
 sing%2:36:00:: sing%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 sing%2:36:00:: sing%2:36:00:: describe%2:32:00:: describe%2:32:00::
 sing%2:36:00:: sing%2:36:00:: eat%2:34:00:: eat%2:34:00::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: enhance enhance
 sing%2:36:00:: sing%2:36:00:: estimate%2:31:00:: estimate%2:31:00::
 sing%2:36:00:: sing%2:36:00:: find%2:40:00:: find%2:40:00::
 sing%2:36:00:: sing%2:36:00:: generate%2:36:00:: generate%2:36:00::
 sing%2:36:00:: sing%2:36:00:: go%2:30:08:: go%2:30:08::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: implement implement
 sing%2:36:00:: sing%2:36:00:: increase%2:30:02:: increase%2:30:02::
 sing%2:36:00:: sing%2:36:00:: listen%2:39:00:: listen%2:39:00::
 sing%2:36:00:: sing%2:36:00:: play%2:36:00:: play%2:36:00::
@@ -580,19 +584,19 @@ sit%2:35:00:: sit%2:35:00:: speak%2:32:00:: speak%2:32:00::
 sit%2:35:00:: sit%2:35:00:: swim%2:38:00:: swim%2:38:00::
 sit%2:35:00:: sit%2:35:00:: talk%2:32:01:: talk%2:32:01::
 sit%2:35:00:: sit%2:35:00:: think%2:31:00:: think%2:31:00::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: vanish vanish
 sit%2:35:00:: sit%2:35:00:: walk%2:38:00:: walk%2:38:00::
 sit%2:35:00:: sit%2:35:00:: work%2:29:00:: work%2:29:00::
 sit%2:35:00:: sit%2:35:00:: write%2:36:04:: write%2:36:04::
 sit%2:35:00:: sit%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
 sit%2:35:00:: sit%2:35:00:: describe%2:32:00:: describe%2:32:00::
 sit%2:35:00:: sit%2:35:00:: eat%2:34:00:: eat%2:34:00::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: enhance enhance
 sit%2:35:00:: sit%2:35:00:: estimate%2:31:00:: estimate%2:31:00::
 sit%2:35:00:: sit%2:35:00:: find%2:40:00:: find%2:40:00::
 sit%2:35:00:: sit%2:35:00:: generate%2:36:00:: generate%2:36:00::
 sit%2:35:00:: sit%2:35:00:: go%2:30:08:: go%2:30:08::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: implement implement
 sit%2:35:00:: sit%2:35:00:: increase%2:30:02:: increase%2:30:02::
 sit%2:35:00:: sit%2:35:00:: listen%2:39:00:: listen%2:39:00::
 sit%2:35:00:: sit%2:35:00:: play%2:36:00:: play%2:36:00::
@@ -608,19 +612,19 @@ slow%2:30:01:: slow%2:30:01:: speak%2:32:00:: speak%2:32:00::
 slow%2:30:01:: slow%2:30:01:: swim%2:38:00:: swim%2:38:00::
 slow%2:30:01:: slow%2:30:01:: talk%2:32:01:: talk%2:32:01::
 slow%2:30:01:: slow%2:30:01:: think%2:31:00:: think%2:31:00::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: vanish vanish
 slow%2:30:01:: slow%2:30:01:: walk%2:38:00:: walk%2:38:00::
 slow%2:30:01:: slow%2:30:01:: work%2:29:00:: work%2:29:00::
 slow%2:30:01:: slow%2:30:01:: write%2:36:04:: write%2:36:04::
 slow%2:30:01:: slow%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
 slow%2:30:01:: slow%2:30:01:: describe%2:32:00:: describe%2:32:00::
 slow%2:30:01:: slow%2:30:01:: eat%2:34:00:: eat%2:34:00::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: enhance enhance
 slow%2:30:01:: slow%2:30:01:: estimate%2:31:00:: estimate%2:31:00::
 slow%2:30:01:: slow%2:30:01:: find%2:40:00:: find%2:40:00::
 slow%2:30:01:: slow%2:30:01:: generate%2:36:00:: generate%2:36:00::
 slow%2:30:01:: slow%2:30:01:: go%2:30:08:: go%2:30:08::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: implement implement
 slow%2:30:01:: slow%2:30:01:: increase%2:30:02:: increase%2:30:02::
 slow%2:30:01:: slow%2:30:01:: listen%2:39:00:: listen%2:39:00::
 slow%2:30:01:: slow%2:30:01:: play%2:36:00:: play%2:36:00::
@@ -636,19 +640,19 @@ slow%2:30:01:: slow%2:30:01:: sit%2:35:00:: sit%2:35:00::
 speak%2:32:00:: speak%2:32:00:: swim%2:38:00:: swim%2:38:00::
 speak%2:32:01:: speak%2:32:01:: talk%2:32:01:: talk%2:32:01::
 speak%2:32:00:: speak%2:32:00:: think%2:31:00:: think%2:31:00::
-speak%2:32:00:: speak%2:32:00::
+speak%2:32:00:: speak%2:32:00:: vanish vanish
 speak%2:32:00:: speak%2:32:00:: walk%2:38:00:: walk%2:38:00::
 speak%2:32:00:: speak%2:32:00:: work%2:29:00:: work%2:29:00::
 speak%2:32:00:: speak%2:32:00:: write%2:36:04:: write%2:36:04::
 speak%2:32:00:: speak%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
 speak%2:32:00:: speak%2:32:00:: describe%2:32:00:: describe%2:32:00::
 speak%2:32:00:: speak%2:32:00:: eat%2:34:00:: eat%2:34:00::
-speak%2:32:00:: speak%2:32:00::
+speak%2:32:00:: speak%2:32:00:: enhance enhance
 speak%2:32:00:: speak%2:32:00:: estimate%2:31:00:: estimate%2:31:00::
 speak%2:32:00:: speak%2:32:00:: find%2:40:00:: find%2:40:00::
 speak%2:32:00:: speak%2:32:00:: generate%2:36:00:: generate%2:36:00::
 speak%2:32:00:: speak%2:32:00:: go%2:30:08:: go%2:30:08::
-speak%2:32:00:: speak%2:32:00::
+speak%2:32:00:: speak%2:32:00:: implement implement
 speak%2:32:00:: speak%2:32:00:: increase%2:30:02:: increase%2:30:02::
 speak%2:32:00:: speak%2:32:00:: listen%2:39:00:: listen%2:39:00::
 speak%2:32:00:: speak%2:32:00:: play%2:36:00:: play%2:36:00::
@@ -664,19 +668,19 @@ speak%2:32:00:: speak%2:32:00:: sit%2:35:00:: sit%2:35:00::
 speak%2:32:00:: speak%2:32:00:: slow%2:30:01:: slow%2:30:01::
 swim%2:38:00:: swim%2:38:00:: talk%2:32:01:: talk%2:32:01::
 swim%2:38:00:: swim%2:38:00:: think%2:31:00:: think%2:31:00::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: vanish vanish
 swim%2:38:00:: swim%2:38:00:: walk%2:38:00:: walk%2:38:00::
 swim%2:38:00:: swim%2:38:00:: work%2:29:00:: work%2:29:00::
 swim%2:38:00:: swim%2:38:00:: write%2:36:04:: write%2:36:04::
 swim%2:38:00:: swim%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
 swim%2:38:00:: swim%2:38:00:: describe%2:32:00:: describe%2:32:00::
 swim%2:38:00:: swim%2:38:00:: eat%2:34:00:: eat%2:34:00::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: enhance enhance
 swim%2:38:00:: swim%2:38:00:: estimate%2:31:00:: estimate%2:31:00::
 swim%2:38:00:: swim%2:38:00:: find%2:40:00:: find%2:40:00::
 swim%2:38:00:: swim%2:38:00:: generate%2:36:00:: generate%2:36:00::
 swim%2:38:00:: swim%2:38:00:: go%2:30:08:: go%2:30:08::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: implement implement
 swim%2:38:00:: swim%2:38:00:: increase%2:30:02:: increase%2:30:02::
 swim%2:38:00:: swim%2:38:00:: listen%2:39:00:: listen%2:39:00::
 swim%2:38:00:: swim%2:38:00:: play%2:36:00:: play%2:36:00::
@@ -692,19 +696,19 @@ swim%2:38:00:: swim%2:38:00:: sit%2:35:00:: sit%2:35:00::
 swim%2:38:00:: swim%2:38:00:: slow%2:30:01:: slow%2:30:01::
 swim%2:38:00:: swim%2:38:00:: speak%2:32:00:: speak%2:32:00::
 talk%2:32:01:: talk%2:32:01:: think%2:31:00:: think%2:31:00::
-talk%2:32:01:: talk%2:32:01::
+talk%2:32:01:: talk%2:32:01:: vanish vanish
 talk%2:32:01:: talk%2:32:01:: walk%2:38:00:: walk%2:38:00::
 talk%2:32:01:: talk%2:32:01:: work%2:29:00:: work%2:29:00::
 talk%2:32:01:: talk%2:32:01:: write%2:36:04:: write%2:36:04::
 talk%2:32:01:: talk%2:32:01:: decrease%2:30:00:: decrease%2:30:00::
 talk%2:32:01:: talk%2:32:01:: describe%2:32:00:: describe%2:32:00::
 talk%2:32:01:: talk%2:32:01:: eat%2:34:00:: eat%2:34:00::
-talk%2:32:01:: talk%2:32:01::
+talk%2:32:01:: talk%2:32:01:: enhance enhance
 talk%2:32:01:: talk%2:32:01:: estimate%2:31:00:: estimate%2:31:00::
 talk%2:32:01:: talk%2:32:01:: find%2:40:00:: find%2:40:00::
 talk%2:32:01:: talk%2:32:01:: generate%2:36:00:: generate%2:36:00::
 talk%2:32:01:: talk%2:32:01:: go%2:30:08:: go%2:30:08::
-talk%2:32:01:: talk%2:32:01::
+talk%2:32:01:: talk%2:32:01:: implement implement
 talk%2:32:01:: talk%2:32:01:: increase%2:30:02:: increase%2:30:02::
 talk%2:32:01:: talk%2:32:01:: listen%2:39:00:: listen%2:39:00::
 talk%2:32:01:: talk%2:32:01:: play%2:36:00:: play%2:36:00::
@@ -720,19 +724,19 @@ talk%2:32:01:: talk%2:32:01:: sit%2:35:00:: sit%2:35:00::
 talk%2:32:01:: talk%2:32:01:: slow%2:30:01:: slow%2:30:01::
 talk%2:32:01:: talk%2:32:01:: speak%2:32:01:: speak%2:32:01::
 talk%2:32:01:: talk%2:32:01:: swim%2:38:00:: swim%2:38:00::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: vanish vanish
 think%2:31:00:: think%2:31:00:: walk%2:38:00:: walk%2:38:00::
 think%2:31:00:: think%2:31:00:: work%2:29:00:: work%2:29:00::
 think%2:31:00:: think%2:31:00:: write%2:36:04:: write%2:36:04::
 think%2:31:00:: think%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
 think%2:31:00:: think%2:31:00:: describe%2:32:00:: describe%2:32:00::
 think%2:31:00:: think%2:31:00:: eat%2:34:00:: eat%2:34:00::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: enhance enhance
 think%2:31:00:: think%2:31:00:: estimate%2:31:00:: estimate%2:31:00::
 think%2:31:00:: think%2:31:00:: find%2:40:00:: find%2:40:00::
 think%2:31:00:: think%2:31:00:: generate%2:36:00:: generate%2:36:00::
 think%2:31:00:: think%2:31:00:: go%2:30:08:: go%2:30:08::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: implement implement
 think%2:31:00:: think%2:31:00:: increase%2:30:02:: increase%2:30:02::
 think%2:31:00:: think%2:31:00:: listen%2:39:00:: listen%2:39:00::
 think%2:31:00:: think%2:31:00:: play%2:36:00:: play%2:36:00::
@@ -749,44 +753,46 @@ think%2:31:00:: think%2:31:00:: slow%2:30:01:: slow%2:30:01::
 think%2:31:00:: think%2:31:00:: speak%2:32:00:: speak%2:32:00::
 think%2:31:00:: think%2:31:00:: swim%2:38:00:: swim%2:38:00::
 think%2:31:00:: think%2:31:00:: talk%2:32:01:: talk%2:32:01::
-walk%2:38:00:: walk%2:38:00::
-work%2:29:00:: work%2:29:00::
-write%2:36:04:: write%2:36:04::
+vanish vanish walk%2:38:00:: walk%2:38:00::
+vanish vanish work%2:29:00:: work%2:29:00::
+vanish vanish write%2:36:04:: write%2:36:04::
 vanish%2:30:01:: vanish%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-eat%2:34:00:: eat%2:34:00::
-estimate%2:31:00:: estimate%2:31:00::
-find%2:40:00:: find%2:40:00::
-generate%2:36:00:: generate%2:36:00::
+vanish vanish describe%2:32:00:: describe%2:32:00::
+vanish vanish eat%2:34:00:: eat%2:34:00::
+vanish vanish enhance enhance
+vanish vanish estimate%2:31:00:: estimate%2:31:00::
+vanish vanish find%2:40:00:: find%2:40:00::
+vanish vanish generate%2:36:00:: generate%2:36:00::
 vanish%2:38:05:: vanish%2:38:05:: go%2:30:08:: go%2:30:08::
-increase%2:30:02:: increase%2:30:02::
-listen%2:39:00:: listen%2:39:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-provide%2:40:00:: provide%2:40:00::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-search%2:35:01:: search%2:35:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-speak%2:32:00:: speak%2:32:00::
-swim%2:38:00:: swim%2:38:00::
-talk%2:32:01:: talk%2:32:01::
-think%2:31:00:: think%2:31:00::
+vanish vanish implement implement
+vanish vanish increase%2:30:02:: increase%2:30:02::
+vanish vanish listen%2:39:00:: listen%2:39:00::
+vanish vanish play%2:36:00:: play%2:36:00::
+vanish vanish predict%2:32:00:: predict%2:32:00::
+vanish vanish provide%2:40:00:: provide%2:40:00::
+vanish vanish say%2:32:00:: say%2:32:00::
+vanish vanish scream%2:32:01:: scream%2:32:01::
+vanish vanish search%2:35:01:: search%2:35:01::
+vanish vanish see%2:39:00:: see%2:39:00::
+vanish vanish shuffle%2:35:00:: shuffle%2:35:00::
+vanish vanish sing%2:36:00:: sing%2:36:00::
+vanish vanish sit%2:35:00:: sit%2:35:00::
+vanish vanish slow%2:30:01:: slow%2:30:01::
+vanish vanish speak%2:32:00:: speak%2:32:00::
+vanish vanish swim%2:38:00:: swim%2:38:00::
+vanish vanish talk%2:32:01:: talk%2:32:01::
+vanish vanish think%2:31:00:: think%2:31:00::
 walk%2:38:00:: walk%2:38:00:: work%2:29:00:: work%2:29:00::
 walk%2:38:00:: walk%2:38:00:: write%2:36:04:: write%2:36:04::
 walk%2:38:00:: walk%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
 walk%2:38:00:: walk%2:38:00:: describe%2:32:00:: describe%2:32:00::
 walk%2:38:00:: walk%2:38:00:: eat%2:34:00:: eat%2:34:00::
-walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: enhance enhance
 walk%2:38:00:: walk%2:38:00:: estimate%2:31:00:: estimate%2:31:00::
 walk%2:38:00:: walk%2:38:00:: find%2:40:00:: find%2:40:00::
 walk%2:38:00:: walk%2:38:00:: generate%2:36:00:: generate%2:36:00::
 walk%2:38:00:: walk%2:38:00:: go%2:30:08:: go%2:30:08::
-walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: implement implement
 walk%2:38:00:: walk%2:38:00:: increase%2:30:02:: increase%2:30:02::
 walk%2:38:00:: walk%2:38:00:: listen%2:39:00:: listen%2:39:00::
 walk%2:38:00:: walk%2:38:00:: play%2:36:00:: play%2:36:00::
@@ -804,12 +810,12 @@ walk%2:38:00:: walk%2:38:00:: speak%2:32:00:: speak%2:32:00::
 walk%2:38:00:: walk%2:38:00:: swim%2:38:00:: swim%2:38:00::
 walk%2:38:00:: walk%2:38:00:: talk%2:32:01:: talk%2:32:01::
 walk%2:38:00:: walk%2:38:00:: think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: vanish vanish
 work%2:29:00:: work%2:29:00:: write%2:36:00:: write%2:36:00::
 work%2:29:00:: work%2:29:00:: decrease%2:30:00:: decrease%2:30:00::
 work%2:29:00:: work%2:29:00:: describe%2:32:00:: describe%2:32:00::
 work%2:29:00:: work%2:29:00:: eat%2:34:00:: eat%2:34:00::
-work%2:29:00:: work%2:29:00::
+work%2:29:00:: work%2:29:00:: enhance enhance
 work%2:29:00:: work%2:29:00:: estimate%2:31:00:: estimate%2:31:00::
 work%2:29:00:: work%2:29:00:: find%2:40:00:: find%2:40:00::
 work%2:29:00:: work%2:29:00:: generate%2:36:00:: generate%2:36:00::
@@ -832,17 +838,17 @@ work%2:29:00:: work%2:29:00:: speak%2:32:00:: speak%2:32:00::
 work%2:29:00:: work%2:29:00:: swim%2:38:00:: swim%2:38:00::
 work%2:29:00:: work%2:29:00:: talk%2:32:01:: talk%2:32:01::
 work%2:29:00:: work%2:29:00:: think%2:31:00:: think%2:31:00::
-work%2:29:00:: work%2:29:00::
+work%2:29:00:: work%2:29:00:: vanish vanish
 work%2:29:00:: work%2:29:00:: walk%2:38:00:: walk%2:38:00::
 write%2:36:04:: write%2:36:04:: decrease%2:30:00:: decrease%2:30:00::
 write%2:36:04:: write%2:36:04:: describe%2:32:00:: describe%2:32:00::
 write%2:36:04:: write%2:36:04:: eat%2:34:00:: eat%2:34:00::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: enhance enhance
 write%2:36:04:: write%2:36:04:: estimate%2:31:00:: estimate%2:31:00::
 write%2:36:04:: write%2:36:04:: find%2:40:00:: find%2:40:00::
 write%2:36:04:: write%2:36:04:: generate%2:36:00:: generate%2:36:00::
 write%2:36:04:: write%2:36:04:: go%2:30:08:: go%2:30:08::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: implement implement
 write%2:36:04:: write%2:36:04:: increase%2:30:02:: increase%2:30:02::
 write%2:36:04:: write%2:36:04:: listen%2:39:00:: listen%2:39:00::
 write%2:36:04:: write%2:36:04:: play%2:36:00:: play%2:36:00::
@@ -860,6 +866,6 @@ write%2:36:04:: write%2:36:04:: speak%2:32:00:: speak%2:32:00::
 write%2:36:04:: write%2:36:04:: swim%2:38:00:: swim%2:38:00::
 write%2:36:04:: write%2:36:04:: talk%2:32:01:: talk%2:32:01::
 write%2:36:04:: write%2:36:04:: think%2:31:00:: think%2:31:00::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: vanish vanish
 write%2:36:04:: write%2:36:04:: walk%2:38:00:: walk%2:38:00::
 write%2:36:00:: write%2:36:00:: work%2:29:00:: work%2:29:00::

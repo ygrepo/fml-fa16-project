@@ -1,0 +1,16 @@
+Lenient=False
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
+Data file:  data/2016-12-04-text8-synsets.txt
+Vocab size:  58016  + UNK
+Words per epoch:  15320733
+Eval analogy file:  data/currency-synsets.txt
+Questions:  418
+Eval    8/418 accuracy =  1.9%
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
+Data file:  data/2016-12-04-text8-synsets.txt
+Vocab size:  58016  + UNK
+Words per epoch:  15320733
+Eval analogy file:  data/currency-synsets.txt
+Questions:  418
+Eval   11/418 accuracy =  2.6%

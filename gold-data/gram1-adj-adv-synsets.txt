@@ -1,991 +1,993 @@
 : gram1-adjective-to-adverb
-amaze%2:31:00:: amazingly%4:02:00:: apparent%5:00:00:superficial:00
-amaze%2:31:00:: amazingly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-amaze%2:31:00:: amazingly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: fortunately%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: free%3:00:01:: freely%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: happy%3:00:00::
-amaze%2:31:00:: amazingly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-amaze%2:31:00:: amazingly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: mostly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: occasionally%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-amaze%2:31:00:: amazingly%4:02:00:: precisely%4:02:01::
-amaze%2:31:00:: amazingly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: quick%5:00:00:hurried:00
-amaze%2:31:00:: amazingly%4:02:00:: quiet%5:00:00:calm:00
-amaze%2:31:00:: amazingly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: rarely%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: reluctantly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: slow%3:00:02::
-amaze%2:31:00:: amazingly%4:02:00:: sudden%3:00:00::
-amaze%2:31:00:: amazingly%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00:: usual%3:00:00:: usually%4:02:00::
-calm%2:37:01::
-cheerful%3:00:00:: cheerfully%4:02:00::
-apparent%5:00:00:superficial:00 complete%5:00:00:perfect:00 completely%4:02:04::
-efficient%5:00:00:competent:00 efficiently%4:02:00::
-fortunate%5:00:00:blessed:00 fortunately%4:02:00::
-free%3:00:01:: freely%4:02:00::
-happy%3:00:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05::
-infrequent%3:00:00:: infrequently%4:02:00::
-lucky%3:00:00:: luckily%4:02:00::
-mostly%4:02:00::
-obvious%3:00:00:: obviously%4:02:00::
-occasionally%4:02:00::
-possible%3:00:00:: possibly%4:02:01::
-precisely%4:02:01::
-professional%5:00:00:white-collar:00 professionally%4:02:00::
-quick%5:00:00:hurried:00
-quiet%5:00:00:calm:00
-rapidly%4:02:00::
-rarely%4:02:00::
-reluctantly%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00::
-slow%3:00:02:: slowly%4:02:01::
-sudden%3:00:00::
-swiftly%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00::
-usual%3:00:00:: usually%4:02:00::
-amazingly%4:02:00::
-calm%1:07:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04::
-calm%1:07:00:: efficiently%4:02:00::
-calm%1:07:00:: fortunately%4:02:00::
-calm%1:07:00:: free%3:00:01:: freely%4:02:00::
-calm%1:07:00::
-calm%1:07:00:: happy%3:00:00::
-calm%1:07:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-calm%1:07:00:: infrequently%4:02:00::
-calm%1:07:00:: lucky%3:00:00:: luckily%4:02:00::
-mostly%4:02:00::
-calm%1:07:00:: obvious%3:00:00:: obviously%4:02:00::
-calm%1:07:00:: occasionally%4:02:00::
-calm%1:07:00:: possible%3:00:00:: possibly%4:02:01::
-calm%1:07:00:: precisely%4:02:01::
-calm%1:07:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-calm%1:07:00:: quick%5:00:00:hurried:00
-calm%1:07:00:: quiet%5:00:00:calm:00
-calm%1:07:00:: rapidly%4:02:00::
-calm%1:07:00:: rarely%4:02:00::
-calm%1:07:00:: reluctantly%4:02:00::
-calm%1:07:00:: safe%5:00:00:sound:00 safely%4:02:00::
-calm%1:07:00:: serious%5:00:00:important:00 seriously%4:02:00::
-calm%1:07:00:: slow%2:30:05:: slowly%4:02:01::
-calm%1:07:00:: sudden%3:00:00::
-calm%1:07:00:: swiftly%4:02:00::
-calm%1:07:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-calm%1:07:00:: unfortunate%1:18:00:: unfortunately%4:02:00::
-calm%1:07:00:: usual%3:00:00:: usually%4:02:00::
-calm%1:07:00:: amaze%2:31:00:: amazingly%4:02:00::
-calm%1:07:00::
+amazing amazingly%4:02:00:: apparent%5:00:00:superficial:00 apparently
+amazing amazingly%4:02:00:: calm calmly
+amazing amazingly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+amazing amazingly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+amazing amazingly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+amazing amazingly%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+amazing amazingly%4:02:00:: free%3:00:01:: freely%4:02:00::
+amazing amazingly%4:02:00:: furious furiously
+amazing amazingly%4:02:00:: happy%3:00:00:: happily
+amazing amazingly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+amazing amazingly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+amazing amazingly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+amazing amazingly%4:02:00:: most mostly%4:02:00::
+amazing amazingly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+amazing amazingly%4:02:00:: occasional occasionally%4:02:00::
+amazing amazingly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+amazing amazingly%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+amazing amazingly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+amazing amazingly%4:02:00:: quick%5:00:00:hurried:00 quickly
+amazing amazingly%4:02:00:: quiet%5:00:00:calm:00 quietly
+amazing amazingly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+amazing amazingly%4:02:00:: rare rarely%4:02:00::
+amazing amazingly%4:02:00:: reluctant reluctantly%4:02:00::
+amazing amazingly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+amazing amazingly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+amazing amazingly%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+amazing amazingly%4:02:00:: sudden%3:00:00:: suddenly
+amazing amazingly%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+amazing amazingly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+amazing amazingly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+amazing amazingly%4:02:00:: usual%3:00:00:: usually%4:02:00::
+apparent%5:00:00:superficial:00 apparently calm calmly
+apparent%5:00:00:superficial:00 apparently cheerful%3:00:00:: cheerfully%4:02:00::
+apparent%5:00:00:superficial:00 apparently complete%5:00:00:perfect:00 completely%4:02:04::
+apparent%5:00:00:superficial:00 apparently efficient%5:00:00:competent:00 efficiently%4:02:00::
+apparent%5:00:00:superficial:00 apparently fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+apparent%5:00:00:superficial:00 apparently free%3:00:01:: freely%4:02:00::
+apparent%5:00:00:superficial:00 apparently furious furiously
+apparent%5:00:00:superficial:00 apparently happy%3:00:00:: happily
+apparent%5:00:00:superficial:00 apparently immediate%5:00:00:proximate:00 immediately%4:02:05::
+apparent%5:00:00:superficial:00 apparently infrequent%3:00:00:: infrequently%4:02:00::
+apparent%5:00:00:superficial:00 apparently lucky%3:00:00:: luckily%4:02:00::
+apparent%5:00:00:superficial:00 apparently most mostly%4:02:00::
+apparent%5:00:00:superficial:00 apparently obvious%3:00:00:: obviously%4:02:00::
+apparent%5:00:00:superficial:00 apparently occasional occasionally%4:02:00::
+apparent%5:00:00:superficial:00 apparently possible%3:00:00:: possibly%4:02:01::
+apparent%5:00:00:superficial:00 apparently precise%3:00:00:: precisely%4:02:01::
+apparent%5:00:00:superficial:00 apparently professional%5:00:00:white-collar:00 professionally%4:02:00::
+apparent%5:00:00:superficial:00 apparently quick%5:00:00:hurried:00 quickly
+apparent%5:00:00:superficial:00 apparently quiet%5:00:00:calm:00 quietly
+apparent%5:00:00:superficial:00 apparently rapid%5:00:00:fast:01 rapidly%4:02:00::
+apparent%5:00:00:superficial:00 apparently rare rarely%4:02:00::
+apparent%5:00:00:superficial:00 apparently reluctant reluctantly%4:02:00::
+apparent%5:00:00:superficial:00 apparently safe%5:00:00:sound:00 safely%4:02:00::
+apparent%5:00:00:superficial:00 apparently serious%5:00:00:important:00 seriously%4:02:00::
+apparent%5:00:00:superficial:00 apparently slow%3:00:02:: slowly%4:02:01::
+apparent%5:00:00:superficial:00 apparently sudden%3:00:00:: suddenly
+apparent%5:00:00:superficial:00 apparently swift%5:00:00:fast:01 swiftly%4:02:00::
+apparent%5:00:00:superficial:00 apparently typical%5:00:00:characteristic:00 typically%4:02:00::
+apparent%5:00:00:superficial:00 apparently unfortunate%3:00:00:: unfortunately%4:02:00::
+apparent%5:00:00:superficial:00 apparently usual%3:00:00:: usually%4:02:00::
+apparent%5:00:00:superficial:00 apparently amazing amazingly%4:02:00::
+calm calmly cheerful%3:00:00:: cheerfully%4:02:00::
+calm calmly complete%5:00:00:perfect:00 completely%4:02:04::
+calm calmly efficient%5:00:00:competent:00 efficiently%4:02:00::
+calm calmly fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+calm%3:00:00:: calmly free%3:00:01:: freely%4:02:00::
+calm calmly furious furiously
+calm calmly happy%3:00:00:: happily
+calm calmly immediate%5:00:00:proximate:00 immediately%4:02:05::
+calm calmly infrequent%3:00:00:: infrequently%4:02:00::
+calm calmly lucky%3:00:00:: luckily%4:02:00::
+calm calmly most mostly%4:02:00::
+calm calmly obvious%3:00:00:: obviously%4:02:00::
+calm calmly occasional occasionally%4:02:00::
+calm calmly possible%3:00:00:: possibly%4:02:01::
+calm calmly precise%3:00:00:: precisely%4:02:01::
+calm calmly professional%5:00:00:white-collar:00 professionally%4:02:00::
+calm calmly quick%5:00:00:hurried:00 quickly
+calm calmly quiet%5:00:00:calm:00 quietly
+calm calmly rapid%5:00:00:fast:01 rapidly%4:02:00::
+calm calmly rare rarely%4:02:00::
+calm calmly reluctant reluctantly%4:02:00::
+calm calmly safe%5:00:00:sound:00 safely%4:02:00::
+calm calmly serious%5:00:00:important:00 seriously%4:02:00::
+calm calmly slow%3:00:02:: slowly%4:02:01::
+calm calmly sudden%3:00:00:: suddenly
+calm calmly swift%5:00:00:fast:01 swiftly%4:02:00::
+calm calmly typical%5:00:00:characteristic:00 typically%4:02:00::
+calm calmly unfortunate%3:00:00:: unfortunately%4:02:00::
+calm calmly usual%3:00:00:: usually%4:02:00::
+calm calmly amazing amazingly%4:02:00::
+calm calmly apparent%5:00:00:superficial:00 apparently
 cheerful%3:00:00:: cheerfully%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 cheerful%3:00:00:: cheerfully%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: fortunately%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: free%3:00:01:: freely%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: happy%3:00:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: immediately%4:02:05::
+cheerful%3:00:00:: cheerfully%4:02:00:: furious furiously
+cheerful%3:00:00:: cheerfully%4:02:00:: happy%3:00:00:: happily
+cheerful%3:00:00:: cheerfully%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 cheerful%3:00:00:: cheerfully%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: mostly%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: most mostly%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: occasionally%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: occasional occasionally%4:02:00::
 cheerful%5:00:00:optimistic:00 cheerfully%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-cheerful%3:00:00:: cheerfully%4:02:00:: precisely%4:02:01::
+cheerful%3:00:00:: cheerfully%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 cheerful%3:00:00:: cheerfully%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: quick%5:00:00:hurried:00
-cheerful%3:00:00:: cheerfully%4:02:00:: quiet%5:00:00:calm:00
-cheerful%3:00:00:: cheerfully%4:02:00:: rapidly%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: rarely%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: reluctantly%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: quick%5:00:00:hurried:00 quickly
+cheerful%3:00:00:: cheerfully%4:02:00:: quiet%5:00:00:calm:00 quietly
+cheerful%3:00:00:: cheerfully%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: rare rarely%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: reluctant reluctantly%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: slow%3:00:02::
-cheerful%3:00:00:: cheerfully%4:02:00:: sudden%3:00:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: swiftly%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+cheerful%3:00:00:: cheerfully%4:02:00:: sudden%3:00:00:: suddenly
+cheerful%3:00:00:: cheerfully%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 cheerful%3:00:00:: cheerfully%4:02:00:: usual%3:00:00:: usually%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: amazingly%4:02:00::
-cheerful%3:00:00:: cheerfully%4:02:00:: apparent%5:00:00:superficial:00
-cheerful%3:00:00:: cheerfully%4:02:00:: calm%2:37:01::
+cheerful%3:00:00:: cheerfully%4:02:00:: amazing amazingly%4:02:00::
+cheerful%3:00:00:: cheerfully%4:02:00:: apparent%5:00:00:superficial:00 apparently
+cheerful%3:00:00:: cheerfully%4:02:00:: calm calmly
 complete%5:00:00:perfect:00 completely%4:02:04:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: fortunately%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: free%5:00:00:nonexistent:00 freely%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04::
-complete%5:00:00:perfect:00 completely%4:02:04:: happy%3:00:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: immediately%4:02:05::
+complete%5:00:00:perfect:00 completely%4:02:04:: furious furiously
+complete%5:00:00:perfect:00 completely%4:02:04:: happy%3:00:00:: happily
+complete%5:00:00:perfect:00 completely%4:02:04:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 complete%5:00:00:perfect:00 completely%4:02:04:: infrequent%3:00:00:: infrequently%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: lucky%3:00:00:: luckily%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: mostly%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: most mostly%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: obvious%3:00:00:: obviously%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: occasionally%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: occasional occasionally%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: possible%3:00:00:: possibly%4:02:01::
-complete%5:00:00:perfect:00 completely%4:02:04:: precisely%4:02:01::
+complete%5:00:00:perfect:00 completely%4:02:04:: precise%3:00:00:: precisely%4:02:01::
 complete%5:00:00:perfect:00 completely%4:02:04:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: quick%5:00:00:hurried:00
-complete%5:00:00:perfect:00 completely%4:02:04:: quiet%5:00:00:calm:00
+complete%5:00:00:perfect:00 completely%4:02:04:: quick%5:00:00:hurried:00 quickly
+complete%5:00:00:perfect:00 completely%4:02:04:: quiet%5:00:00:calm:00 quietly
 complete%5:00:00:perfect:00 completely%4:02:04:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: rarely%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: reluctantly%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: rare rarely%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: reluctant reluctantly%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: safe%5:00:00:sound:00 safely%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: serious%3:00:02:: seriously%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: slow%3:00:02::
-complete%5:00:00:perfect:00 completely%4:02:04:: sudden%3:00:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: slow%3:00:02:: slowly%4:02:01::
+complete%5:00:00:perfect:00 completely%4:02:04:: sudden%3:00:00:: suddenly
 complete%5:00:00:perfect:00 completely%4:02:04:: swift%5:00:00:fast:01 swiftly%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: typical%5:00:00:characteristic:00 typically%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: unfortunate%3:00:00:: unfortunately%4:02:00::
 complete%5:00:00:perfect:00 completely%4:02:04:: usual%3:00:00:: usually%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: amazingly%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04:: apparent%5:00:00:superficial:00
-complete%5:00:00:perfect:00 completely%4:02:04::
+complete%5:00:00:perfect:00 completely%4:02:04:: amazing amazingly%4:02:00::
+complete%5:00:00:perfect:00 completely%4:02:04:: apparent%5:00:00:superficial:00 apparently
+complete%5:00:00:perfect:00 completely%4:02:04:: calm calmly
 complete%5:00:00:perfect:00 completely%4:02:04:: cheerful%3:00:00:: cheerfully%4:02:00::
-efficiently%4:02:00:: fortunately%4:02:00::
-efficiently%4:02:00:: free%3:00:01:: freely%4:02:00::
-efficiently%4:02:00::
-efficiently%4:02:00:: happy%3:00:00::
-efficiently%4:02:00:: immediately%4:02:05::
-efficiently%4:02:00:: infrequently%4:02:00::
-efficiently%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-efficient%5:00:00:competent:00 efficiently%4:02:00:: mostly%4:02:00::
-efficiently%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-efficiently%4:02:00:: occasionally%4:02:00::
-efficiently%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-efficiently%4:02:00:: precisely%4:02:01::
-efficiently%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-efficiently%4:02:00:: quick%5:00:00:hurried:00
-efficiently%4:02:00:: quiet%5:00:00:calm:00
-efficient%5:00:00:competent:00 efficiently%4:02:00:: rapidly%4:02:00::
-efficient%5:00:00:competent:00 efficiently%4:02:00:: rarely%4:02:00::
-efficiently%4:02:00:: reluctantly%4:02:00::
-efficiently%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-efficiently%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-efficient%5:00:00:competent:00 efficiently%4:02:00:: slow%2:30:05:: slowly%4:02:01::
-efficiently%4:02:00::
-efficiently%4:02:00:: swiftly%4:02:00::
-efficiently%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-efficiently%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-efficiently%4:02:00:: usual%3:00:00:: usually%4:02:00::
-efficiently%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-efficiently%4:02:00::
-efficiently%4:02:00:: calm%2:37:01::
-efficiently%4:02:00:: cheerfully%4:02:00::
-efficient%5:00:00:competent:00 efficiently%4:02:00:: complete%2:30:02:: completely%4:02:04::
-fortunately%4:02:00:: free%3:00:01:: freely%4:02:00::
-fortunately%4:02:00::
-fortunately%4:02:00:: happy%3:00:00::
-fortunately%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-fortunately%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
-fortunately%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-fortunately%4:02:00:: mostly%4:02:00::
-fortunately%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-fortunately%4:02:00:: occasionally%4:02:00::
-fortunately%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-fortunately%4:02:00:: precise%3:00:00:: precisely%4:02:01::
-fortunately%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-fortunately%4:02:00:: quick%5:00:00:hurried:00
-fortunately%4:02:00:: quiet%5:00:00:calm:00
-fortunately%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-fortunately%4:02:00:: rarely%4:02:00::
-fortunately%4:02:00:: reluctantly%4:02:00::
-fortunately%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-fortunately%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-fortunately%4:02:00:: slow%3:00:02::
-fortunately%4:02:00:: sudden%3:00:00::
-fortunately%4:02:00:: swiftly%4:02:00::
-fortunately%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-fortunately%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-fortunately%4:02:00:: usual%3:00:00:: usually%4:02:00::
-fortunately%4:02:00:: amazingly%4:02:00::
-fortunately%4:02:00:: apparent%5:00:00:superficial:00
-fortunately%4:02:00::
-fortunately%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-fortunately%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-fortunately%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-free%3:00:01:: freely%4:02:00::
-free%3:00:01:: freely%4:02:00:: happy%3:00:00::
-free%3:00:01:: freely%4:02:00:: immediately%4:02:05::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: free%3:00:01:: freely%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: furious furiously
+efficient%5:00:00:competent:00 efficiently%4:02:00:: happy%3:00:00:: happily
+efficient%5:00:00:competent:00 efficiently%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: most mostly%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: occasional occasionally%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: quick%5:00:00:hurried:00 quickly
+efficient%5:00:00:competent:00 efficiently%4:02:00:: quiet%5:00:00:calm:00 quietly
+efficient%5:00:00:competent:00 efficiently%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: rare rarely%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: reluctant reluctantly%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: sudden%3:00:00:: suddenly
+efficient%5:00:00:competent:00 efficiently%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: usual%3:00:00:: usually%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: amazing amazingly%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: apparent%5:00:00:superficial:00 apparently
+efficient%5:00:00:competent:00 efficiently%4:02:00:: calm calmly
+efficient%5:00:00:competent:00 efficiently%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+efficient%5:00:00:competent:00 efficiently%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: free%3:00:01:: freely%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: furious furiously
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: happy%3:00:00:: happily
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: most mostly%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: occasional occasionally%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: quick%5:00:00:hurried:00 quickly
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: quiet%5:00:00:calm:00 quietly
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: rare rarely%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: reluctant reluctantly%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: sudden%3:00:00:: suddenly
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: usual%3:00:00:: usually%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: amazing amazingly%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: apparent%5:00:00:superficial:00 apparently
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: calm calmly
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+fortunate%5:00:00:blessed:00 fortunately%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+free%3:00:01:: freely%4:02:00:: furious furiously
+free%3:00:01:: freely%4:02:00:: happy%3:00:00:: happily
+free%3:00:01:: freely%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 free%3:00:01:: freely%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 free%3:00:01:: freely%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-free%3:00:01:: freely%4:02:00:: mostly%4:02:00::
+free%3:00:01:: freely%4:02:00:: most mostly%4:02:00::
 free%3:00:01:: freely%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-free%3:00:01:: freely%4:02:00:: occasionally%4:02:00::
+free%3:00:01:: freely%4:02:00:: occasional occasionally%4:02:00::
 free%3:00:01:: freely%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-free%3:00:01:: freely%4:02:00:: precisely%4:02:01::
+free%3:00:01:: freely%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 free%3:00:01:: freely%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-free%3:00:01:: freely%4:02:00:: quick%5:00:00:hurried:00
+free%3:00:01:: freely%4:02:00:: quick%5:00:00:hurried:00 quickly
 free%3:00:01:: freely%4:02:00:: quiet%5:00:00:calm:00 quietly%4:02:01::
 free%3:00:01:: freely%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-free%3:00:01:: freely%4:02:00:: rarely%4:02:00::
-free%3:00:01:: freely%4:02:00:: reluctantly%4:02:00::
+free%3:00:01:: freely%4:02:00:: rare rarely%4:02:00::
+free%3:00:01:: freely%4:02:00:: reluctant reluctantly%4:02:00::
 free%3:00:01:: freely%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 free%3:00:01:: freely%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-free%3:00:01:: freely%4:02:00:: slow%3:00:02::
-free%3:00:01:: freely%4:02:00:: sudden%3:00:00::
-free%3:00:01:: freely%4:02:00:: swiftly%4:02:00::
+free%3:00:01:: freely%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+free%3:00:01:: freely%4:02:00:: sudden%3:00:00:: suddenly
+free%3:00:01:: freely%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 free%3:00:01:: freely%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 free%3:00:01:: freely%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 free%3:00:01:: freely%4:02:00:: usual%3:00:00:: usually%4:02:00::
-free%3:00:01:: freely%4:02:00:: amazingly%4:02:00::
-free%3:00:01:: freely%4:02:00:: apparent%5:00:00:superficial:00
-free%3:00:01:: freely%4:02:00:: calm%3:00:00::
+free%3:00:01:: freely%4:02:00:: amazing amazingly%4:02:00::
+free%3:00:01:: freely%4:02:00:: apparent%5:00:00:superficial:00 apparently
+free%3:00:01:: freely%4:02:00:: calm%3:00:00:: calmly
 free%3:00:01:: freely%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 free%5:00:00:nonexistent:00 freely%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 free%3:00:01:: freely%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-free%3:00:01:: freely%4:02:00:: fortunately%4:02:00::
-happy%3:00:00::
-immediately%4:02:05::
-infrequent%3:00:00:: infrequently%4:02:00::
-lucky%3:00:00:: luckily%4:02:00::
-mostly%4:02:00::
-obvious%3:00:00:: obviously%4:02:00::
-occasionally%4:02:00::
-possible%3:00:00:: possibly%4:02:01::
-precisely%4:02:01::
-professional%5:00:00:white-collar:00 professionally%4:02:00::
-quick%5:00:00:hurried:00
-quiet%5:00:00:calm:00
-rapid%5:00:00:fast:01 rapidly%4:02:00::
-rarely%4:02:00::
-reluctantly%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00::
-slow%3:00:02::
-sudden%3:00:00::
-swiftly%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00::
-usual%3:00:00:: usually%4:02:00::
-amaze%2:31:00:: amazingly%4:02:00::
-apparent%5:00:00:superficial:00
-cheerful%3:00:00:: cheerfully%4:02:00::
-complete%5:00:00:perfect:00 completely%4:02:04::
-efficient%5:00:00:competent:00 efficiently%4:02:00::
-fortunately%4:02:00::
-free%3:00:01:: freely%4:02:00::
-happy%3:00:00:: immediately%4:02:05::
-happy%3:00:00:: infrequently%4:02:00::
+free%3:00:01:: freely%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+furious furiously happy%3:00:00:: happily
+furious furiously immediate%5:00:00:proximate:00 immediately%4:02:05::
+furious furiously infrequent%3:00:00:: infrequently%4:02:00::
+furious furiously lucky%3:00:00:: luckily%4:02:00::
+furious furiously most mostly%4:02:00::
+furious furiously obvious%3:00:00:: obviously%4:02:00::
+furious furiously occasional occasionally%4:02:00::
+furious furiously possible%3:00:00:: possibly%4:02:01::
+furious furiously precise%3:00:00:: precisely%4:02:01::
+furious furiously professional%5:00:00:white-collar:00 professionally%4:02:00::
+furious furiously quick%5:00:00:hurried:00 quickly
+furious furiously quiet%5:00:00:calm:00 quietly
+furious furiously rapid%5:00:00:fast:01 rapidly%4:02:00::
+furious furiously rare rarely%4:02:00::
+furious furiously reluctant reluctantly%4:02:00::
+furious furiously safe%5:00:00:sound:00 safely%4:02:00::
+furious furiously serious%5:00:00:important:00 seriously%4:02:00::
+furious furiously slow%3:00:02:: slowly%4:02:01::
+furious furiously sudden%3:00:00:: suddenly
+furious furiously swift%5:00:00:fast:01 swiftly%4:02:00::
+furious furiously typical%5:00:00:characteristic:00 typically%4:02:00::
+furious furiously unfortunate%3:00:00:: unfortunately%4:02:00::
+furious furiously usual%3:00:00:: usually%4:02:00::
+furious furiously amazing amazingly%4:02:00::
+furious furiously apparent%5:00:00:superficial:00 apparently
+furious furiously calm calmly
+furious furiously cheerful%3:00:00:: cheerfully%4:02:00::
+furious furiously complete%5:00:00:perfect:00 completely%4:02:04::
+furious furiously efficient%5:00:00:competent:00 efficiently%4:02:00::
+furious furiously fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+furious furiously free%3:00:01:: freely%4:02:00::
+happy%3:00:00:: happily immediate%5:00:00:proximate:00 immediately%4:02:05::
+happy%3:00:00:: happily infrequent%3:00:00:: infrequently%4:02:00::
 happy%3:00:00:: happily%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-happy%3:00:00:: mostly%4:02:00::
-happy%3:00:00:: obvious%3:00:00:: obviously%4:02:00::
-happy%3:00:00:: occasionally%4:02:00::
-happy%3:00:00:: possible%3:00:00:: possibly%4:02:01::
-happy%3:00:00:: precisely%4:02:01::
-happy%3:00:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-happy%3:00:00:: quick%5:00:00:hurried:00
-happy%3:00:00:: quiet%5:00:00:calm:00
-happy%3:00:00:: rapidly%4:02:00::
-happy%3:00:00:: rarely%4:02:00::
-happy%3:00:00:: reluctantly%4:02:00::
-happy%3:00:00:: safe%5:00:00:sound:00 safely%4:02:00::
-happy%3:00:00:: serious%5:00:00:important:00 seriously%4:02:00::
-happy%3:00:00:: slow%3:00:02::
-happy%3:00:00:: sudden%3:00:00::
-happy%3:00:00:: swiftly%4:02:00::
-happy%3:00:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+happy%3:00:00:: happily most mostly%4:02:00::
+happy%3:00:00:: happily obvious%3:00:00:: obviously%4:02:00::
+happy%3:00:00:: happily occasional occasionally%4:02:00::
+happy%3:00:00:: happily possible%3:00:00:: possibly%4:02:01::
+happy%3:00:00:: happily precise%3:00:00:: precisely%4:02:01::
+happy%3:00:00:: happily professional%5:00:00:white-collar:00 professionally%4:02:00::
+happy%3:00:00:: happily quick%5:00:00:hurried:00 quickly
+happy%3:00:00:: happily quiet%5:00:00:calm:00 quietly
+happy%3:00:00:: happily rapid%5:00:00:fast:01 rapidly%4:02:00::
+happy%3:00:00:: happily rare rarely%4:02:00::
+happy%3:00:00:: happily reluctant reluctantly%4:02:00::
+happy%3:00:00:: happily safe%5:00:00:sound:00 safely%4:02:00::
+happy%3:00:00:: happily serious%5:00:00:important:00 seriously%4:02:00::
+happy%3:00:00:: happily slow%3:00:02:: slowly%4:02:01::
+happy%3:00:00:: happily sudden%3:00:00:: suddenly
+happy%3:00:00:: happily swift%5:00:00:fast:01 swiftly%4:02:00::
+happy%3:00:00:: happily typical%5:00:00:characteristic:00 typically%4:02:00::
 happy%3:00:00:: happily%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-happy%3:00:00:: usual%3:00:00:: usually%4:02:00::
-happy%3:00:00:: amaze%2:31:00:: amazingly%4:02:00::
-happy%3:00:00:: apparent%5:00:00:superficial:00
-happy%3:00:00:: calm%2:37:01::
-happy%3:00:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-happy%3:00:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-happy%3:00:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-happy%3:00:00:: fortunately%4:02:00::
-happy%3:00:00:: free%3:00:01:: freely%4:02:00::
-happy%3:00:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: infrequently%4:02:00::
+happy%3:00:00:: happily usual%3:00:00:: usually%4:02:00::
+happy%3:00:00:: happily amazing amazingly%4:02:00::
+happy%3:00:00:: happily apparent%5:00:00:superficial:00 apparently
+happy%3:00:00:: happily calm calmly
+happy%3:00:00:: happily cheerful%3:00:00:: cheerfully%4:02:00::
+happy%3:00:00:: happily complete%5:00:00:perfect:00 completely%4:02:04::
+happy%3:00:00:: happily efficient%5:00:00:competent:00 efficiently%4:02:00::
+happy%3:00:00:: happily fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+happy%3:00:00:: happily free%3:00:01:: freely%4:02:00::
+happy%3:00:00:: happily furious furiously
+immediate%5:00:00:proximate:00 immediately%4:02:05:: infrequent%3:00:00:: infrequently%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: lucky%3:00:00:: luckily%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: mostly%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: most mostly%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: obvious%3:00:00:: obviously%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: occasionally%4:02:00::
-immediately%4:02:05:: possible%3:00:00:: possibly%4:02:01::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: precisely%4:02:01::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: occasional occasionally%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: possible%3:00:00:: possibly%4:02:01::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: precise%3:00:00:: precisely%4:02:01::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-immediate%5:00:00:fast:01 immediately%4:02:05:: quick%5:00:00:hurried:00
-immediate%5:00:00:proximate:00 immediately%4:02:05:: quiet%5:00:00:calm:00
+immediate%5:00:00:fast:01 immediately%4:02:05:: quick%5:00:00:hurried:00 quickly
+immediate%5:00:00:proximate:00 immediately%4:02:05:: quiet%5:00:00:calm:00 quietly
 immediate%5:00:00:proximate:00 immediately%4:02:05:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: rarely%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: reluctantly%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: rare rarely%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: reluctant reluctantly%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: safe%5:00:00:sound:00 safely%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: serious%5:00:00:important:00 seriously%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: slow%3:00:02::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: sudden%3:00:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: swiftly%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: slow%3:00:02:: slowly%4:02:01::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: sudden%3:00:00:: suddenly
+immediate%5:00:00:proximate:00 immediately%4:02:05:: swift%5:00:00:fast:01 swiftly%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: typical%5:00:00:characteristic:00 typically%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: unfortunate%3:00:00:: unfortunately%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: usual%3:00:00:: usually%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: amaze%2:31:00:: amazingly%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: apparent%5:00:00:superficial:00
-immediate%5:00:00:proximate:00 immediately%4:02:05::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: amazing amazingly%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: apparent%5:00:00:superficial:00 apparently
+immediate%5:00:00:proximate:00 immediately%4:02:05:: calm calmly
 immediate%5:00:00:proximate:00 immediately%4:02:05:: cheerful%3:00:00:: cheerfully%4:02:00::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: complete%5:00:00:perfect:00 completely%4:02:04::
 immediate%5:00:00:proximate:00 immediately%4:02:05:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: fortunately%4:02:00::
-immediately%4:02:05:: free%3:00:01:: freely%4:02:00::
-immediate%5:00:00:proximate:00 immediately%4:02:05::
-immediate%5:00:00:proximate:00 immediately%4:02:05:: happy%3:00:00::
-infrequently%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-infrequently%4:02:00:: mostly%4:02:00::
-infrequently%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-infrequently%4:02:00:: occasionally%4:02:00::
-infrequently%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-infrequently%4:02:00:: precisely%4:02:01::
-infrequently%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-infrequently%4:02:00:: quick%5:00:00:hurried:00
-infrequently%4:02:00:: quiet%5:00:00:calm:00
-infrequently%4:02:00:: rapidly%4:02:00::
-infrequently%4:02:00:: rarely%4:02:00::
-infrequently%4:02:00:: reluctantly%4:02:00::
-infrequently%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-infrequently%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-infrequently%4:02:00:: slow%3:00:02::
-infrequently%4:02:00::
-infrequently%4:02:00:: swiftly%4:02:00::
-infrequently%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-infrequently%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-infrequently%4:02:00:: usual%3:00:00:: usually%4:02:00::
-infrequently%4:02:00:: amazingly%4:02:00::
-infrequently%4:02:00:: apparent%5:00:00:superficial:00
-infrequently%4:02:00:: calm%2:37:01::
-infrequently%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-infrequently%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-infrequently%4:02:00:: efficiently%4:02:00::
-infrequently%4:02:00:: fortunately%4:02:00::
-infrequently%4:02:00:: free%3:00:01:: freely%4:02:00::
-infrequently%4:02:00::
-infrequently%4:02:00:: happy%3:00:00::
-infrequently%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-lucky%3:00:00:: luckily%4:02:00:: mostly%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: free%3:00:01:: freely%4:02:00::
+immediate%5:00:00:proximate:00 immediately%4:02:05:: furious furiously
+immediate%5:00:00:proximate:00 immediately%4:02:05:: happy%3:00:00:: happily
+infrequent%3:00:00:: infrequently%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: most mostly%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: occasional occasionally%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+infrequent%3:00:00:: infrequently%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+infrequent%3:00:00:: infrequently%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: quick%5:00:00:hurried:00 quickly
+infrequent%3:00:00:: infrequently%4:02:00:: quiet%5:00:00:calm:00 quietly
+infrequent%3:00:00:: infrequently%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: rare rarely%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: reluctant reluctantly%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+infrequent%3:00:00:: infrequently%4:02:00:: sudden%3:00:00:: suddenly
+infrequent%3:00:00:: infrequently%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: usual%3:00:00:: usually%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: amazing amazingly%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: apparent%5:00:00:superficial:00 apparently
+infrequent%3:00:00:: infrequently%4:02:00:: calm calmly
+infrequent%3:00:00:: infrequently%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+infrequent%3:00:00:: infrequently%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: free%3:00:01:: freely%4:02:00::
+infrequent%3:00:00:: infrequently%4:02:00:: furious furiously
+infrequent%3:00:00:: infrequently%4:02:00:: happy%3:00:00:: happily
+infrequent%3:00:00:: infrequently%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+lucky%3:00:00:: luckily%4:02:00:: most mostly%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: occasionally%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: occasional occasionally%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-lucky%3:00:00:: luckily%4:02:00:: precisely%4:02:01::
+lucky%3:00:00:: luckily%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 lucky%3:00:00:: luckily%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: quick%5:00:00:hurried:00
-lucky%3:00:00:: luckily%4:02:00:: quiet%5:00:00:calm:00
-lucky%3:00:00:: luckily%4:02:00:: rapidly%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: rarely%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: reluctantly%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: quick%5:00:00:hurried:00 quickly
+lucky%3:00:00:: luckily%4:02:00:: quiet%5:00:00:calm:00 quietly
+lucky%3:00:00:: luckily%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: rare rarely%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: reluctant reluctantly%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: slow%3:00:02::
-lucky%3:00:00:: luckily%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: swiftly%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+lucky%3:00:00:: luckily%4:02:00:: sudden%3:00:00:: suddenly
+lucky%3:00:00:: luckily%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: unfortunately%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: usual%3:00:00:: usually%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-lucky%3:00:00:: luckily%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: calm%2:37:01::
+lucky%3:00:00:: luckily%4:02:00:: amazing amazingly%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: apparent%5:00:00:superficial:00 apparently
+lucky%3:00:00:: luckily%4:02:00:: calm calmly
 lucky%3:00:00:: luckily%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 lucky%3:00:00:: luckily%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: fortunately%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 lucky%3:00:00:: luckily%4:02:00:: free%3:00:01:: freely%4:02:00::
-lucky%3:00:00:: luckily%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: furious furiously
 lucky%3:00:00:: luckily%4:02:00:: happy%3:00:00:: happily%4:02:00::
-lucky%3:00:00:: luckily%4:02:00:: immediately%4:02:05::
-lucky%3:00:00:: luckily%4:02:00:: infrequently%4:02:00::
-mostly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-mostly%4:02:00:: occasionally%4:02:00::
-mostly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-mostly%4:02:00:: precisely%4:02:01::
-mostly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-mostly%4:02:00:: quick%5:00:00:hurried:00
-mostly%4:02:00:: quiet%5:00:00:calm:00
-mostly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-mostly%4:02:00:: rarely%4:02:00::
-mostly%4:02:00:: reluctantly%4:02:00::
-mostly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-mostly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-mostly%4:02:00:: slow%3:00:02::
-mostly%4:02:00:: sudden%3:00:00::
-mostly%4:02:00:: swiftly%4:02:00::
-mostly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-mostly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+lucky%3:00:00:: luckily%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+lucky%3:00:00:: luckily%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+most mostly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+most mostly%4:02:00:: occasional occasionally%4:02:00::
+most mostly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+most mostly%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+most mostly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+most mostly%4:02:00:: quick%5:00:00:hurried:00 quickly
+most mostly%4:02:00:: quiet%5:00:00:calm:00 quietly
+most mostly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+most mostly%4:02:00:: rare rarely%4:02:00::
+most mostly%4:02:00:: reluctant reluctantly%4:02:00::
+most mostly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+most mostly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+most mostly%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+most mostly%4:02:00:: sudden%3:00:00:: suddenly
+most mostly%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+most mostly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+most mostly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 most%3:00:01:: mostly%4:02:00:: usual%3:00:00:: usually%4:02:00::
-mostly%4:02:00:: amazingly%4:02:00::
-mostly%4:02:00:: apparent%5:00:00:superficial:00
-mostly%4:02:00::
-mostly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-mostly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-mostly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-mostly%4:02:00:: fortunately%4:02:00::
-mostly%4:02:00:: free%3:00:01:: freely%4:02:00::
-mostly%4:02:00::
-mostly%4:02:00:: happy%3:00:00::
-mostly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-mostly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
-mostly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: occasionally%4:02:00::
+most mostly%4:02:00:: amazing amazingly%4:02:00::
+most mostly%4:02:00:: apparent%5:00:00:superficial:00 apparently
+most mostly%4:02:00:: calm calmly
+most mostly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+most mostly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+most mostly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+most mostly%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+most mostly%4:02:00:: free%3:00:01:: freely%4:02:00::
+most mostly%4:02:00:: furious furiously
+most mostly%4:02:00:: happy%3:00:00:: happily
+most mostly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+most mostly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+most mostly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: occasional occasionally%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-obvious%3:00:00:: obviously%4:02:00:: precisely%4:02:01::
+obvious%3:00:00:: obviously%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 obvious%3:00:00:: obviously%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: quick%5:00:00:hurried:00
-obvious%3:00:00:: obviously%4:02:00:: quiet%5:00:00:calm:00
+obvious%3:00:00:: obviously%4:02:00:: quick%5:00:00:hurried:00 quickly
+obvious%3:00:00:: obviously%4:02:00:: quiet%5:00:00:calm:00 quietly
 obvious%3:00:00:: obviously%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: rarely%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: reluctantly%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: rare rarely%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: reluctant reluctantly%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: slow%3:00:02::
-obvious%3:00:00:: obviously%4:02:00:: sudden%3:00:00::
-obvious%3:00:00:: obviously%4:02:00:: swiftly%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+obvious%3:00:00:: obviously%4:02:00:: sudden%3:00:00:: suddenly
+obvious%3:00:00:: obviously%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: usual%3:00:00:: usually%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: apparent%5:00:00:superficial:00
-obvious%3:00:00:: obviously%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: amazing amazingly%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: apparent%5:00:00:superficial:00 apparently
+obvious%3:00:00:: obviously%4:02:00:: calm calmly
 obvious%3:00:00:: obviously%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 obvious%3:00:00:: obviously%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: fortunately%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: free%3:00:01:: freely%4:02:00::
-obvious%3:00:00:: obviously%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: happy%3:00:00::
-obvious%3:00:00:: obviously%4:02:00:: immediately%4:02:05::
+obvious%3:00:00:: obviously%4:02:00:: furious furiously
+obvious%3:00:00:: obviously%4:02:00:: happy%3:00:00:: happily
+obvious%3:00:00:: obviously%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 obvious%3:00:00:: obviously%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 obvious%3:00:00:: obviously%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-obvious%3:00:00:: obviously%4:02:00:: mostly%4:02:00::
-occasionally%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-occasionally%4:02:00:: precisely%4:02:01::
-occasionally%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-occasionally%4:02:00:: quick%5:00:00:hurried:00
-occasionally%4:02:00:: quiet%5:00:00:calm:00
-occasionally%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-occasionally%4:02:00:: rarely%4:02:00::
-occasionally%4:02:00:: reluctantly%4:02:00::
-occasionally%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-occasionally%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-occasionally%4:02:00:: slow%3:00:02::
-occasionally%4:02:00:: sudden%3:00:00::
-occasionally%4:02:00:: swiftly%4:02:00::
-occasionally%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-occasionally%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+obvious%3:00:00:: obviously%4:02:00:: most mostly%4:02:00::
+occasional occasionally%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+occasional occasionally%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+occasional occasionally%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+occasional occasionally%4:02:00:: quick%5:00:00:hurried:00 quickly
+occasional occasionally%4:02:00:: quiet%5:00:00:calm:00 quietly
+occasional occasionally%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+occasional occasionally%4:02:00:: rare rarely%4:02:00::
+occasional occasionally%4:02:00:: reluctant reluctantly%4:02:00::
+occasional occasionally%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+occasional occasionally%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+occasional occasionally%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+occasional occasionally%4:02:00:: sudden%3:00:00:: suddenly
+occasional occasionally%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+occasional occasionally%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+occasional occasionally%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 occasional%5:00:00:unpredictable:00 occasionally%4:02:00:: usual%3:00:00:: usually%4:02:00::
-occasionally%4:02:00:: amazingly%4:02:00::
-occasionally%4:02:00:: apparent%5:00:00:superficial:00
-occasionally%4:02:00:: calm%2:37:01::
-occasionally%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-occasionally%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-occasionally%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-occasionally%4:02:00:: fortunately%4:02:00::
-occasionally%4:02:00:: free%3:00:01:: freely%4:02:00::
-occasionally%4:02:00::
-occasionally%4:02:00:: happy%3:00:00::
-occasionally%4:02:00:: immediately%4:02:05::
-occasionally%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
-occasionally%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-occasionally%4:02:00:: mostly%4:02:00::
-occasionally%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: precisely%4:02:01::
-possible%3:00:00:: possibly%4:02:01:: professional%5:00:00:white-collar:00
-possible%3:00:00:: possibly%4:02:01:: quick%5:00:00:hurried:00
-possible%3:00:00:: possibly%4:02:01:: quiet%5:00:00:calm:00
-possible%3:00:00:: possibly%4:02:01:: rapidly%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: rarely%4:02:00::
-possible%3:00:00:: possibly%4:02:01::
+occasional occasionally%4:02:00:: amazing amazingly%4:02:00::
+occasional occasionally%4:02:00:: apparent%5:00:00:superficial:00 apparently
+occasional occasionally%4:02:00:: calm calmly
+occasional occasionally%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+occasional occasionally%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+occasional occasionally%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+occasional occasionally%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+occasional occasionally%4:02:00:: free%3:00:01:: freely%4:02:00::
+occasional occasionally%4:02:00:: furious furiously
+occasional occasionally%4:02:00:: happy%3:00:00:: happily
+occasional occasionally%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+occasional occasionally%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+occasional occasionally%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+occasional occasionally%4:02:00:: most mostly%4:02:00::
+occasional occasionally%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: precise%3:00:00:: precisely%4:02:01::
+possible%3:00:00:: possibly%4:02:01:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: quick%5:00:00:hurried:00 quickly
+possible%3:00:00:: possibly%4:02:01:: quiet%5:00:00:calm:00 quietly
+possible%3:00:00:: possibly%4:02:01:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: rare rarely%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: reluctant reluctantly%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: safe%5:00:00:sound:00 safely%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: serious%5:00:00:important:00 seriously%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: slow%3:00:02::
-possible%3:00:00:: possibly%4:02:01:: sudden%3:00:00::
-possible%3:00:00:: possibly%4:02:01:: swiftly%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: slow%3:00:02:: slowly%4:02:01::
+possible%3:00:00:: possibly%4:02:01:: sudden%3:00:00:: suddenly
+possible%3:00:00:: possibly%4:02:01:: swift%5:00:00:fast:01 swiftly%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: typical%5:00:00:characteristic:00 typically%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: unfortunately%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: unfortunate%3:00:00:: unfortunately%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: usual%3:00:00:: usually%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: amaze%2:31:00:: amazingly%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: apparent%5:00:00:superficial:00
-possible%3:00:00:: possibly%4:02:01:: calm%2:37:01::
+possible%3:00:00:: possibly%4:02:01:: amazing amazingly%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: apparent%5:00:00:superficial:00 apparently
+possible%3:00:00:: possibly%4:02:01:: calm calmly
 possible%3:00:00:: possibly%4:02:01:: cheerful%5:00:00:optimistic:00 cheerfully%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: complete%5:00:00:perfect:00 completely%4:02:04::
 possible%3:00:00:: possibly%4:02:01:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: fortunately%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: free%3:00:01:: freely%4:02:00::
-possible%3:00:00:: possibly%4:02:01::
-possible%3:00:00:: possibly%4:02:01:: happy%3:00:00::
-possible%3:00:00:: possibly%4:02:01:: immediately%4:02:05::
-possible%3:00:00:: possibly%4:02:01:: infrequently%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: furious furiously
+possible%3:00:00:: possibly%4:02:01:: happy%3:00:00:: happily
+possible%3:00:00:: possibly%4:02:01:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+possible%3:00:00:: possibly%4:02:01:: infrequent%3:00:00:: infrequently%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: lucky%3:00:00:: luckily%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: mostly%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: most mostly%4:02:00::
 possible%3:00:00:: possibly%4:02:01:: obvious%3:00:00:: obviously%4:02:00::
-possible%3:00:00:: possibly%4:02:01:: occasionally%4:02:00::
-precisely%4:02:01:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-precisely%4:02:01:: quick%5:00:00:hurried:00
-precisely%4:02:01:: quiet%5:00:00:calm:00
-precisely%4:02:01:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-precisely%4:02:01:: rarely%4:02:00::
-precisely%4:02:01:: reluctantly%4:02:00::
-precisely%4:02:01:: safe%5:00:00:sound:00 safely%4:02:00::
-precisely%4:02:01:: serious%5:00:00:important:00 seriously%4:02:00::
-precisely%4:02:01:: slow%3:00:02::
-precisely%4:02:01:: sudden%3:00:00::
-precisely%4:02:01:: swiftly%4:02:00::
-precisely%4:02:01:: typical%5:00:00:characteristic:00 typically%4:02:00::
-precisely%4:02:01:: unfortunate%3:00:00:: unfortunately%4:02:00::
-precisely%4:02:01:: usual%3:00:00:: usually%4:02:00::
-precisely%4:02:01:: amazingly%4:02:00::
-precisely%4:02:01:: apparent%5:00:00:superficial:00
-precisely%4:02:01::
-precisely%4:02:01:: cheerful%3:00:00:: cheerfully%4:02:00::
-precisely%4:02:01:: complete%5:00:00:perfect:00 completely%4:02:04::
-precisely%4:02:01:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-precisely%4:02:01:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
-precisely%4:02:01:: free%3:00:01:: freely%4:02:00::
-precisely%4:02:01::
-precisely%4:02:01:: happy%3:00:00::
-precisely%4:02:01:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-precisely%4:02:01:: infrequent%3:00:00:: infrequently%4:02:00::
-precisely%4:02:01:: lucky%3:00:00:: luckily%4:02:00::
-precisely%4:02:01:: mostly%4:02:00::
-precisely%4:02:01:: obvious%3:00:00:: obviously%4:02:00::
-precisely%4:02:01:: occasionally%4:02:00::
-precisely%4:02:01:: possible%3:00:00:: possibly%4:02:01::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: quick%5:00:00:hurried:00
-professional%5:00:00:white-collar:00 professionally%4:02:00:: quiet%5:00:00:calm:00
-professional%5:00:00:white-collar:00 professionally%4:02:00:: rapidly%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: rarely%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: reluctantly%4:02:00::
+possible%3:00:00:: possibly%4:02:01:: occasional occasionally%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: quick%5:00:00:hurried:00 quickly
+precise%3:00:00:: precisely%4:02:01:: quiet%5:00:00:calm:00 quietly
+precise%3:00:00:: precisely%4:02:01:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: rare rarely%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: reluctant reluctantly%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: safe%5:00:00:sound:00 safely%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: serious%5:00:00:important:00 seriously%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: slow%3:00:02:: slowly%4:02:01::
+precise%3:00:00:: precisely%4:02:01:: sudden%3:00:00:: suddenly
+precise%3:00:00:: precisely%4:02:01:: swift%5:00:00:fast:01 swiftly%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: typical%5:00:00:characteristic:00 typically%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: unfortunate%3:00:00:: unfortunately%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: usual%3:00:00:: usually%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: amazing amazingly%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: apparent%5:00:00:superficial:00 apparently
+precise%3:00:00:: precisely%4:02:01:: calm calmly
+precise%3:00:00:: precisely%4:02:01:: cheerful%3:00:00:: cheerfully%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: complete%5:00:00:perfect:00 completely%4:02:04::
+precise%3:00:00:: precisely%4:02:01:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: free%3:00:01:: freely%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: furious furiously
+precise%3:00:00:: precisely%4:02:01:: happy%3:00:00:: happily
+precise%3:00:00:: precisely%4:02:01:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+precise%3:00:00:: precisely%4:02:01:: infrequent%3:00:00:: infrequently%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: lucky%3:00:00:: luckily%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: most mostly%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: obvious%3:00:00:: obviously%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: occasional occasionally%4:02:00::
+precise%3:00:00:: precisely%4:02:01:: possible%3:00:00:: possibly%4:02:01::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: quick%5:00:00:hurried:00 quickly
+professional%5:00:00:white-collar:00 professionally%4:02:00:: quiet%5:00:00:calm:00 quietly
+professional%5:00:00:white-collar:00 professionally%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: rare rarely%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: reluctant reluctantly%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: slow%3:00:02::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: sudden%3:00:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: swiftly%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: sudden%3:00:00:: suddenly
+professional%5:00:00:white-collar:00 professionally%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: usual%3:00:00:: usually%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: amazingly%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: apparent%5:00:00:superficial:00
-professional%5:00:00:white-collar:00 professionally%4:02:00:: calm%2:37:01::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: amazing amazingly%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: apparent%5:00:00:superficial:00 apparently
+professional%5:00:00:white-collar:00 professionally%4:02:00:: calm calmly
 professional%5:00:00:white-collar:00 professionally%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: fortunately%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: free%3:00:01:: freely%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: happy%3:00:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: immediately%4:02:05::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: furious furiously
+professional%5:00:00:white-collar:00 professionally%4:02:00:: happy%3:00:00:: happily
+professional%5:00:00:white-collar:00 professionally%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: mostly%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: most mostly%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: occasionally%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: occasional occasionally%4:02:00::
 professional%5:00:00:white-collar:00 professionally%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-professional%5:00:00:white-collar:00 professionally%4:02:00:: precisely%4:02:01::
-quick%5:00:00:hurried:00 quiet%5:00:00:calm:00
-quick%5:00:00:hurried:00 quickly%4:02:00:: rapidly%4:02:00::
-quick%5:00:00:hurried:00 rarely%4:02:00::
-quick%5:00:00:hurried:00 reluctantly%4:02:00::
-quick%5:00:00:hurried:00 safe%5:00:00:sound:00 safely%4:02:00::
-quick%5:00:00:hurried:00 serious%5:00:00:important:00 seriously%4:02:00::
-quick%5:00:00:hurried:00 slow%2:30:05:: slowly%4:02:01::
-quick%5:00:00:hurried:00 sudden%3:00:00:: suddenly%4:02:00::
-quick%5:00:00:hurried:00 swiftly%4:02:00::
-quick%5:00:00:hurried:00 typical%5:00:00:characteristic:00 typically%4:02:00::
-quick%5:00:00:hurried:00 unfortunately%4:02:00::
-quick%5:00:00:hurried:00 usual%3:00:00:: usually%4:02:00::
-quick%5:00:00:hurried:00 amaze%2:31:00:: amazingly%4:02:00::
-quick%5:00:00:hurried:00
-quick%5:00:00:hurried:00 calm%2:37:01::
-quick%5:00:00:hurried:00 cheerfully%4:02:00::
-quick%5:00:00:hurried:00 complete%5:00:00:perfect:00 completely%4:02:04::
-quick%5:00:00:hurried:00 efficiently%4:02:00::
-quick%5:00:00:hurried:00 fortunately%4:02:00::
-quick%5:00:00:hurried:00 free%3:00:01:: freely%4:02:00::
-quick%5:00:00:hurried:00
-quick%5:00:00:hurried:00 happy%3:00:00::
-quick%5:00:00:hurried:00 immediately%4:02:05::
-quick%5:00:00:hurried:00 infrequently%4:02:00::
-quick%5:00:00:hurried:00 lucky%3:00:00:: luckily%4:02:00::
-quick%5:00:00:hurried:00 mostly%4:02:00::
-quick%5:00:00:hurried:00 obvious%3:00:00:: obviously%4:02:00::
-quick%5:00:00:hurried:00 occasionally%4:02:00::
-quick%5:00:00:hurried:00 possible%3:00:00:: possibly%4:02:01::
-quick%5:00:00:hurried:00 precisely%4:02:01::
-quick%5:00:00:hurried:00 professional%5:00:00:white-collar:00 professionally%4:02:00::
-quiet%5:00:00:calm:00 rapidly%4:02:00::
-quiet%5:00:00:calm:00 rarely%4:02:00::
-quiet%5:00:00:calm:00 reluctantly%4:02:00::
-quiet%5:00:00:calm:00 safe%5:00:00:sound:00 safely%4:02:00::
-quiet%5:00:00:calm:00 serious%5:00:00:important:00 seriously%4:02:00::
-quiet%5:00:00:calm:00 slow%3:00:02::
-quiet%5:00:00:calm:00 sudden%3:00:00::
-quiet%5:00:00:calm:00 swiftly%4:02:00::
-quiet%5:00:00:calm:00 typical%5:00:00:characteristic:00 typically%4:02:00::
-quiet%5:00:00:calm:00 unfortunately%4:02:00::
-quiet%5:00:00:calm:00 usual%3:00:00:: usually%4:02:00::
-quiet%5:00:00:calm:00 amaze%2:31:00:: amazingly%4:02:00::
-quiet%5:00:00:calm:00 apparent%5:00:00:superficial:00
-quiet%5:00:00:calm:00 calm%2:37:01::
-quiet%5:00:00:calm:00 cheerful%3:00:00:: cheerfully%4:02:00::
-quiet%5:00:00:calm:00 complete%5:00:00:perfect:00 completely%4:02:04::
-quiet%5:00:00:calm:00 efficiently%4:02:00::
-quiet%5:00:00:calm:00 fortunately%4:02:00::
+professional%5:00:00:white-collar:00 professionally%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+quick%5:00:00:hurried:00 quickly quiet%5:00:00:calm:00 quietly
+quick%5:00:00:hurried:00 quickly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+quick%5:00:00:hurried:00 quickly rare rarely%4:02:00::
+quick%5:00:00:hurried:00 quickly reluctant reluctantly%4:02:00::
+quick%5:00:00:hurried:00 quickly safe%5:00:00:sound:00 safely%4:02:00::
+quick%5:00:00:hurried:00 quickly serious%5:00:00:important:00 seriously%4:02:00::
+quick%5:00:00:hurried:00 quickly slow%3:00:02:: slowly%4:02:01::
+quick%5:00:00:hurried:00 quickly sudden%3:00:00:: suddenly%4:02:00::
+quick%5:00:00:hurried:00 quickly swift%5:00:00:fast:01 swiftly%4:02:00::
+quick%5:00:00:hurried:00 quickly typical%5:00:00:characteristic:00 typically%4:02:00::
+quick%5:00:00:hurried:00 quickly unfortunate%3:00:00:: unfortunately%4:02:00::
+quick%5:00:00:hurried:00 quickly usual%3:00:00:: usually%4:02:00::
+quick%5:00:00:hurried:00 quickly amazing amazingly%4:02:00::
+quick%5:00:00:hurried:00 quickly apparent%5:00:00:superficial:00 apparently
+quick%5:00:00:hurried:00 quickly calm calmly
+quick%5:00:00:hurried:00 quickly cheerful%3:00:00:: cheerfully%4:02:00::
+quick%5:00:00:hurried:00 quickly complete%5:00:00:perfect:00 completely%4:02:04::
+quick%5:00:00:hurried:00 quickly efficient%5:00:00:competent:00 efficiently%4:02:00::
+quick%5:00:00:hurried:00 quickly fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+quick%5:00:00:hurried:00 quickly free%3:00:01:: freely%4:02:00::
+quick%5:00:00:hurried:00 quickly furious furiously
+quick%5:00:00:hurried:00 quickly happy%3:00:00:: happily
+quick%5:00:00:hurried:00 quickly immediate%5:00:00:fast:01 immediately%4:02:05::
+quick%5:00:00:hurried:00 quickly infrequent%3:00:00:: infrequently%4:02:00::
+quick%5:00:00:hurried:00 quickly lucky%3:00:00:: luckily%4:02:00::
+quick%5:00:00:hurried:00 quickly most mostly%4:02:00::
+quick%5:00:00:hurried:00 quickly obvious%3:00:00:: obviously%4:02:00::
+quick%5:00:00:hurried:00 quickly occasional occasionally%4:02:00::
+quick%5:00:00:hurried:00 quickly possible%3:00:00:: possibly%4:02:01::
+quick%5:00:00:hurried:00 quickly precise%3:00:00:: precisely%4:02:01::
+quick%5:00:00:hurried:00 quickly professional%5:00:00:white-collar:00 professionally%4:02:00::
+quiet%5:00:00:calm:00 quietly rapid%5:00:00:fast:01 rapidly%4:02:00::
+quiet%5:00:00:calm:00 quietly rare rarely%4:02:00::
+quiet%5:00:00:calm:00 quietly reluctant reluctantly%4:02:00::
+quiet%5:00:00:calm:00 quietly safe%5:00:00:sound:00 safely%4:02:00::
+quiet%5:00:00:calm:00 quietly serious%5:00:00:important:00 seriously%4:02:00::
+quiet%5:00:00:calm:00 quietly slow%3:00:02:: slowly%4:02:01::
+quiet%5:00:00:calm:00 quietly sudden%3:00:00:: suddenly
+quiet%5:00:00:calm:00 quietly swift%5:00:00:fast:01 swiftly%4:02:00::
+quiet%5:00:00:calm:00 quietly typical%5:00:00:characteristic:00 typically%4:02:00::
+quiet%5:00:00:calm:00 quietly unfortunate%3:00:00:: unfortunately%4:02:00::
+quiet%5:00:00:calm:00 quietly usual%3:00:00:: usually%4:02:00::
+quiet%5:00:00:calm:00 quietly amazing amazingly%4:02:00::
+quiet%5:00:00:calm:00 quietly apparent%5:00:00:superficial:00 apparently
+quiet%5:00:00:calm:00 quietly calm calmly
+quiet%5:00:00:calm:00 quietly cheerful%3:00:00:: cheerfully%4:02:00::
+quiet%5:00:00:calm:00 quietly complete%5:00:00:perfect:00 completely%4:02:04::
+quiet%5:00:00:calm:00 quietly efficient%5:00:00:competent:00 efficiently%4:02:00::
+quiet%5:00:00:calm:00 quietly fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 quiet%5:00:00:calm:00 quietly%4:02:01:: free%3:00:01:: freely%4:02:00::
-quiet%5:00:00:calm:00
-quiet%5:00:00:calm:00 happy%3:00:00::
-quiet%5:00:00:calm:00 immediately%4:02:05::
-quiet%5:00:00:calm:00 infrequently%4:02:00::
-quiet%5:00:00:calm:00 lucky%3:00:00:: luckily%4:02:00::
-quiet%5:00:00:calm:00 mostly%4:02:00::
-quiet%5:00:00:calm:00 obvious%3:00:00:: obviously%4:02:00::
-quiet%5:00:00:calm:00 occasionally%4:02:00::
-quiet%5:00:00:calm:00 possible%3:00:00:: possibly%4:02:01::
-quiet%5:00:00:calm:00 precisely%4:02:01::
-quiet%5:00:00:calm:00 professional%5:00:00:white-collar:00 professionally%4:02:00::
-quiet%5:00:00:calm:00 quick%5:00:00:hurried:00
-rapid%5:00:00:fast:01 rapidly%4:02:00:: rarely%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: reluctantly%4:02:00::
+quiet%5:00:00:calm:00 quietly furious furiously
+quiet%5:00:00:calm:00 quietly happy%3:00:00:: happily
+quiet%5:00:00:calm:00 quietly immediate%5:00:00:proximate:00 immediately%4:02:05::
+quiet%5:00:00:calm:00 quietly infrequent%3:00:00:: infrequently%4:02:00::
+quiet%5:00:00:calm:00 quietly lucky%3:00:00:: luckily%4:02:00::
+quiet%5:00:00:calm:00 quietly most mostly%4:02:00::
+quiet%5:00:00:calm:00 quietly obvious%3:00:00:: obviously%4:02:00::
+quiet%5:00:00:calm:00 quietly occasional occasionally%4:02:00::
+quiet%5:00:00:calm:00 quietly possible%3:00:00:: possibly%4:02:01::
+quiet%5:00:00:calm:00 quietly precise%3:00:00:: precisely%4:02:01::
+quiet%5:00:00:calm:00 quietly professional%5:00:00:white-collar:00 professionally%4:02:00::
+quiet%5:00:00:calm:00 quietly quick%5:00:00:hurried:00 quickly
+rapid%5:00:00:fast:01 rapidly%4:02:00:: rare rarely%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: reluctant reluctantly%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: slow%3:00:02::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: sudden%3:00:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: swiftly%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: sudden%3:00:00:: suddenly
+rapid%5:00:00:fast:01 rapidly%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: unfortunately%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: usual%3:00:00:: usually%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: apparent%5:00:00:superficial:00
-rapid%5:00:00:fast:01 rapidly%4:02:00:: calm%2:37:01::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: amazing amazingly%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: apparent%5:00:00:superficial:00 apparently
+rapid%5:00:00:fast:01 rapidly%4:02:00:: calm calmly
 rapid%5:00:00:fast:01 rapidly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: fortunately%4:02:00::
-rapid%1:17:00:: rapidly%4:02:00:: free%2:40:02:: freely%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: happy%3:00:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: immediately%4:02:05::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: free%3:00:01:: freely%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: furious furiously
+rapid%5:00:00:fast:01 rapidly%4:02:00:: happy%3:00:00:: happily
+rapid%5:00:00:fast:01 rapidly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: mostly%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: most mostly%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: occasionally%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: occasional occasionally%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: precisely%4:02:01::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
 rapid%5:00:00:fast:01 rapidly%4:02:00:: quick%5:00:00:hurried:00 quickly%4:02:00::
-rapid%5:00:00:fast:01 rapidly%4:02:00:: quiet%5:00:00:calm:00
-rarely%4:02:00::
-rarely%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-rarely%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-rarely%4:02:00:: slow%3:00:02::
-rarely%4:02:00:: sudden%3:00:00::
-rarely%4:02:00:: swiftly%4:02:00::
-rarely%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-rarely%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-rarely%4:02:00:: usual%3:00:00:: usually%4:02:00::
-rarely%4:02:00:: amazingly%4:02:00::
-rarely%4:02:00:: apparent%5:00:00:superficial:00
-rarely%4:02:00:: calm%2:37:01::
-rarely%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-rarely%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-rarely%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-rarely%4:02:00:: fortunately%4:02:00::
-rarely%4:02:00:: free%3:00:01:: freely%4:02:00::
-rarely%4:02:00::
-rarely%4:02:00:: happy%3:00:00::
-rarely%4:02:00:: immediately%4:02:05::
-rarely%4:02:00:: infrequently%4:02:00::
-rarely%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-rarely%4:02:00:: mostly%4:02:00::
-rarely%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-rarely%4:02:00:: occasionally%4:02:00::
-rarely%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-rarely%4:02:00:: precisely%4:02:01::
-rarely%4:02:00:: professional%5:00:00:white-collar:00
-rarely%4:02:00:: quick%5:00:00:hurried:00
-rarely%4:02:00:: quiet%5:00:00:calm:00
-rarely%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-reluctantly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-reluctantly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-reluctantly%4:02:00:: slow%3:00:02::
-reluctantly%4:02:00:: sudden%3:00:00::
-reluctantly%4:02:00:: swiftly%4:02:00::
-reluctantly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-reluctantly%4:02:00:: unfortunately%4:02:00::
-reluctantly%4:02:00:: usual%3:00:00:: usually%4:02:00::
-reluctantly%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-reluctantly%4:02:00:: apparent%5:00:00:superficial:00
-reluctantly%4:02:00:: calm%2:37:01::
-reluctantly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-reluctantly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-reluctantly%4:02:00:: efficiently%4:02:00::
-reluctantly%4:02:00:: fortunately%4:02:00::
-reluctantly%4:02:00:: free%3:00:01:: freely%4:02:00::
-reluctantly%4:02:00::
-reluctantly%4:02:00:: happy%3:00:00::
-reluctantly%4:02:00:: immediately%4:02:05::
-reluctantly%4:02:00:: infrequently%4:02:00::
-reluctantly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-reluctantly%4:02:00:: mostly%4:02:00::
-reluctantly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-reluctantly%4:02:00:: occasionally%4:02:00::
-reluctantly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-reluctantly%4:02:00:: precisely%4:02:01::
-reluctantly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-reluctantly%4:02:00:: quick%5:00:00:hurried:00
-reluctantly%4:02:00:: quiet%5:00:00:calm:00
-reluctantly%4:02:00:: rapidly%4:02:00::
-reluctantly%4:02:00:: rarely%4:02:00::
+rapid%5:00:00:fast:01 rapidly%4:02:00:: quiet%5:00:00:calm:00 quietly
+rare rarely%4:02:00:: reluctant reluctantly%4:02:00::
+rare rarely%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+rare rarely%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+rare rarely%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+rare rarely%4:02:00:: sudden%3:00:00:: suddenly
+rare rarely%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+rare rarely%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+rare rarely%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+rare rarely%4:02:00:: usual%3:00:00:: usually%4:02:00::
+rare rarely%4:02:00:: amazing amazingly%4:02:00::
+rare rarely%4:02:00:: apparent%5:00:00:superficial:00 apparently
+rare rarely%4:02:00:: calm calmly
+rare rarely%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+rare rarely%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+rare rarely%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+rare rarely%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+rare rarely%4:02:00:: free%3:00:01:: freely%4:02:00::
+rare rarely%4:02:00:: furious furiously
+rare rarely%4:02:00:: happy%3:00:00:: happily
+rare rarely%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+rare rarely%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+rare rarely%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+rare rarely%4:02:00:: most mostly%4:02:00::
+rare rarely%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+rare rarely%4:02:00:: occasional occasionally%4:02:00::
+rare rarely%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+rare rarely%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+rare rarely%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+rare rarely%4:02:00:: quick%5:00:00:hurried:00 quickly
+rare rarely%4:02:00:: quiet%5:00:00:calm:00 quietly
+rare rarely%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+reluctant reluctantly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+reluctant reluctantly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+reluctant reluctantly%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+reluctant reluctantly%4:02:00:: sudden%3:00:00:: suddenly
+reluctant reluctantly%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
+reluctant reluctantly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+reluctant reluctantly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+reluctant reluctantly%4:02:00:: usual%3:00:00:: usually%4:02:00::
+reluctant reluctantly%4:02:00:: amazing amazingly%4:02:00::
+reluctant reluctantly%4:02:00:: apparent%5:00:00:superficial:00 apparently
+reluctant reluctantly%4:02:00:: calm calmly
+reluctant reluctantly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+reluctant reluctantly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+reluctant reluctantly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+reluctant reluctantly%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+reluctant reluctantly%4:02:00:: free%3:00:01:: freely%4:02:00::
+reluctant reluctantly%4:02:00:: furious furiously
+reluctant reluctantly%4:02:00:: happy%3:00:00:: happily
+reluctant reluctantly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+reluctant reluctantly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+reluctant reluctantly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+reluctant reluctantly%4:02:00:: most mostly%4:02:00::
+reluctant reluctantly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+reluctant reluctantly%4:02:00:: occasional occasionally%4:02:00::
+reluctant reluctantly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+reluctant reluctantly%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+reluctant reluctantly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+reluctant reluctantly%4:02:00:: quick%5:00:00:hurried:00 quickly
+reluctant reluctantly%4:02:00:: quiet%5:00:00:calm:00 quietly
+reluctant reluctantly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+reluctant reluctantly%4:02:00:: rare rarely%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: slow%3:00:02::
-safe%5:00:00:sound:00 safely%4:02:00:: sudden%3:00:00::
-safe%5:00:00:sound:00 safely%4:02:00:: swiftly%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+safe%5:00:00:sound:00 safely%4:02:00:: sudden%3:00:00:: suddenly
+safe%5:00:00:sound:00 safely%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: usual%3:00:00:: usually%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: amazingly%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: apparent%5:00:00:superficial:00
-safe%5:00:00:sound:00 safely%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: amazing amazingly%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: apparent%5:00:00:superficial:00 apparently
+safe%5:00:00:sound:00 safely%4:02:00:: calm calmly
 safe%5:00:00:sound:00 safely%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 safe%5:00:00:sound:00 safely%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: fortunately%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: free%3:00:01:: freely%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: happy%3:00:00::
-safe%5:00:00:sound:00 safely%4:02:00:: immediately%4:02:05::
+safe%5:00:00:sound:00 safely%4:02:00:: furious furiously
+safe%5:00:00:sound:00 safely%4:02:00:: happy%3:00:00:: happily
+safe%5:00:00:sound:00 safely%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 safe%5:00:00:sound:00 safely%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: mostly%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: most mostly%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: occasionally%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: occasional occasionally%4:02:00::
 safe%5:00:00:sound:00 safely%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-safe%5:00:00:sound:00 safely%4:02:00:: precisely%4:02:01::
+safe%5:00:00:sound:00 safely%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 safe%5:00:00:sound:00 safely%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: quick%5:00:00:hurried:00
-safe%5:00:00:sound:00 safely%4:02:00:: quiet%5:00:00:calm:00
+safe%5:00:00:sound:00 safely%4:02:00:: quick%5:00:00:hurried:00 quickly
+safe%5:00:00:sound:00 safely%4:02:00:: quiet%5:00:00:calm:00 quietly
 safe%5:00:00:sound:00 safely%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: rarely%4:02:00::
-safe%5:00:00:sound:00 safely%4:02:00:: reluctantly%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: slow%3:00:02::
-serious%5:00:00:important:00 seriously%4:02:00:: sudden%3:00:00::
-serious%5:00:00:important:00 seriously%4:02:00:: swiftly%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: rare rarely%4:02:00::
+safe%5:00:00:sound:00 safely%4:02:00:: reluctant reluctantly%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+serious%5:00:00:important:00 seriously%4:02:00:: sudden%3:00:00:: suddenly
+serious%5:00:00:important:00 seriously%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: usual%3:00:00:: usually%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: apparent%5:00:00:superficial:00
-serious%5:00:00:important:00 seriously%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: amazing amazingly%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: apparent%5:00:00:superficial:00 apparently
+serious%5:00:00:important:00 seriously%4:02:00:: calm calmly
 serious%5:00:00:important:00 seriously%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 serious%3:00:02:: seriously%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 serious%5:00:00:important:00 seriously%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: fortunately%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: free%3:00:01:: freely%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: happy%3:00:00::
-serious%5:00:00:important:00 seriously%4:02:00:: immediately%4:02:05::
+serious%5:00:00:important:00 seriously%4:02:00:: furious furiously
+serious%5:00:00:important:00 seriously%4:02:00:: happy%3:00:00:: happily
+serious%5:00:00:important:00 seriously%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 serious%5:00:00:important:00 seriously%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: mostly%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: most mostly%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: occasionally%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: occasional occasionally%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-serious%5:00:00:important:00 seriously%4:02:00:: precisely%4:02:01::
+serious%5:00:00:important:00 seriously%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 serious%5:00:00:important:00 seriously%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: quick%5:00:00:hurried:00
-serious%5:00:00:important:00 seriously%4:02:00:: quiet%5:00:00:calm:00
-serious%5:00:00:important:00 seriously%4:02:00:: rapidly%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: rarely%4:02:00::
-serious%5:00:00:important:00 seriously%4:02:00:: reluctantly%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: quick%5:00:00:hurried:00 quickly
+serious%5:00:00:important:00 seriously%4:02:00:: quiet%5:00:00:calm:00 quietly
+serious%5:00:00:important:00 seriously%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: rare rarely%4:02:00::
+serious%5:00:00:important:00 seriously%4:02:00:: reluctant reluctantly%4:02:00::
 serious%5:00:00:important:00 seriously%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: sudden%3:00:00::
-slow%3:00:02:: slowly%4:02:01:: swiftly%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: sudden%3:00:00:: suddenly
+slow%3:00:02:: slowly%4:02:01:: swift%5:00:00:fast:01 swiftly%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: typical%5:00:00:characteristic:00 typically%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: unfortunate%3:00:00:: unfortunately%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: usual%3:00:00:: usually%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: amazingly%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: apparent%5:00:00:superficial:00
-slow%3:00:02:: slowly%4:02:01::
+slow%3:00:02:: slowly%4:02:01:: amazing amazingly%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: apparent%5:00:00:superficial:00 apparently
+slow%3:00:02:: slowly%4:02:01:: calm calmly
 slow%3:00:02:: slowly%4:02:01:: cheerful%3:00:00:: cheerfully%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: complete%5:00:00:perfect:00 completely%4:02:04::
 slow%3:00:02:: slowly%4:02:01:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: fortunately%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: free%3:00:01:: freely%4:02:00::
-slow%3:00:02:: slowly%4:02:01::
-slow%3:00:02:: slowly%4:02:01:: happy%3:00:00::
-slow%3:00:02:: slowly%4:02:01:: immediately%4:02:05::
-slow%3:00:02:: slowly%4:02:01:: infrequently%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: furious furiously
+slow%3:00:02:: slowly%4:02:01:: happy%3:00:00:: happily
+slow%3:00:02:: slowly%4:02:01:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+slow%3:00:02:: slowly%4:02:01:: infrequent%3:00:00:: infrequently%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: lucky%3:00:00:: luckily%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: mostly%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: most mostly%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: obvious%3:00:00:: obviously%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: occasionally%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: occasional occasionally%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: possible%3:00:00:: possibly%4:02:01::
-slow%3:00:02:: slowly%4:02:01:: precisely%4:02:01::
+slow%3:00:02:: slowly%4:02:01:: precise%3:00:00:: precisely%4:02:01::
 slow%3:00:02:: slowly%4:02:01:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: quick%5:00:00:hurried:00
-slow%3:00:02:: slowly%4:02:01:: quiet%5:00:00:calm:00
+slow%3:00:02:: slowly%4:02:01:: quick%5:00:00:hurried:00 quickly
+slow%3:00:02:: slowly%4:02:01:: quiet%5:00:00:calm:00 quietly
 slow%3:00:02:: slowly%4:02:01:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: rarely%4:02:00::
-slow%3:00:02:: slowly%4:02:01:: reluctantly%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: rare rarely%4:02:00::
+slow%3:00:02:: slowly%4:02:01:: reluctant reluctantly%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: safe%5:00:00:sound:00 safely%4:02:00::
 slow%3:00:02:: slowly%4:02:01:: serious%5:00:00:important:00 seriously%4:02:00::
-sudden%3:00:00:: swiftly%4:02:00::
-sudden%3:00:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-sudden%3:00:00:: unfortunately%4:02:00::
-sudden%3:00:00:: usual%3:00:00:: usually%4:02:00::
-sudden%3:00:00:: amaze%2:31:00:: amazingly%4:02:00::
-sudden%3:00:00::
-sudden%3:00:00:: calm%2:37:01::
-sudden%3:00:00:: cheerfully%4:02:00::
-sudden%3:00:00:: complete%2:30:02:: completely%4:02:04::
-sudden%3:00:00:: efficiently%4:02:00::
-sudden%3:00:00:: fortunately%4:02:00::
-sudden%3:00:00:: free%3:00:01:: freely%4:02:00::
-sudden%3:00:00::
-sudden%3:00:00:: happy%3:00:00::
-sudden%3:00:00:: immediately%4:02:05::
-sudden%3:00:00:: infrequently%4:02:00::
-sudden%3:00:00:: lucky%3:00:00:: luckily%4:02:00::
-sudden%3:00:00:: mostly%4:02:00::
-sudden%3:00:00:: obvious%3:00:00:: obviously%4:02:00::
-sudden%3:00:00:: occasionally%4:02:00::
-sudden%3:00:00:: possible%3:00:00:: possibly%4:02:01::
-sudden%3:00:00:: precisely%4:02:01::
-sudden%3:00:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-sudden%3:00:00:: suddenly%4:02:00:: quick%5:00:00:hurried:00
-sudden%3:00:00:: quiet%5:00:00:calm:00
-sudden%3:00:00:: rapidly%4:02:00::
-sudden%3:00:00:: rarely%4:02:00::
-sudden%3:00:00:: reluctantly%4:02:00::
-sudden%3:00:00:: safe%5:00:00:sound:00 safely%4:02:00::
-sudden%3:00:00:: serious%5:00:00:important:00 seriously%4:02:00::
-sudden%3:00:00:: slow%2:30:05:: slowly%4:02:01::
-swift%1:05:00:: swiftly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: usual%3:00:00:: usually%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: amazingly%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: apparent%5:00:00:superficial:00
-swift%1:05:00:: swiftly%4:02:00:: calm%2:37:01::
-swift%1:05:00:: swiftly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
-swift%1:05:00:: swiftly%4:02:00:: efficiently%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: fortunately%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: free%3:00:01:: freely%4:02:00::
-swift%1:05:00:: swiftly%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: happy%3:00:00::
-swift%1:05:00:: swiftly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
-swift%1:05:00:: swiftly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-swiftly%4:02:00:: mostly%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: occasionally%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-swift%1:05:00:: swiftly%4:02:00:: precisely%4:02:01::
-swift%1:05:00:: swiftly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: quick%5:00:00:hurried:00
-swift%1:05:00:: swiftly%4:02:00:: quiet%5:00:00:calm:00
-swift%1:05:00:: swiftly%4:02:00:: rapidly%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: rarely%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: reluctantly%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
-swift%1:05:00:: swiftly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-swiftly%4:02:00:: slow%3:00:02::
-swift%1:05:00:: swiftly%4:02:00::
+sudden%3:00:00:: suddenly swift%5:00:00:fast:01 swiftly%4:02:00::
+sudden%3:00:00:: suddenly typical%5:00:00:characteristic:00 typically%4:02:00::
+sudden%3:00:00:: suddenly unfortunate%3:00:00:: unfortunately%4:02:00::
+sudden%3:00:00:: suddenly usual%3:00:00:: usually%4:02:00::
+sudden%3:00:00:: suddenly amazing amazingly%4:02:00::
+sudden%3:00:00:: suddenly apparent%5:00:00:superficial:00 apparently
+sudden%3:00:00:: suddenly calm calmly
+sudden%3:00:00:: suddenly cheerful%3:00:00:: cheerfully%4:02:00::
+sudden%3:00:00:: suddenly complete%5:00:00:perfect:00 completely%4:02:04::
+sudden%3:00:00:: suddenly efficient%5:00:00:competent:00 efficiently%4:02:00::
+sudden%3:00:00:: suddenly fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+sudden%3:00:00:: suddenly free%3:00:01:: freely%4:02:00::
+sudden%3:00:00:: suddenly furious furiously
+sudden%3:00:00:: suddenly happy%3:00:00:: happily
+sudden%3:00:00:: suddenly immediate%5:00:00:proximate:00 immediately%4:02:05::
+sudden%3:00:00:: suddenly infrequent%3:00:00:: infrequently%4:02:00::
+sudden%3:00:00:: suddenly lucky%3:00:00:: luckily%4:02:00::
+sudden%3:00:00:: suddenly most mostly%4:02:00::
+sudden%3:00:00:: suddenly obvious%3:00:00:: obviously%4:02:00::
+sudden%3:00:00:: suddenly occasional occasionally%4:02:00::
+sudden%3:00:00:: suddenly possible%3:00:00:: possibly%4:02:01::
+sudden%3:00:00:: suddenly precise%3:00:00:: precisely%4:02:01::
+sudden%3:00:00:: suddenly professional%5:00:00:white-collar:00 professionally%4:02:00::
+sudden%3:00:00:: suddenly%4:02:00:: quick%5:00:00:hurried:00 quickly
+sudden%3:00:00:: suddenly quiet%5:00:00:calm:00 quietly
+sudden%3:00:00:: suddenly rapid%5:00:00:fast:01 rapidly%4:02:00::
+sudden%3:00:00:: suddenly rare rarely%4:02:00::
+sudden%3:00:00:: suddenly reluctant reluctantly%4:02:00::
+sudden%3:00:00:: suddenly safe%5:00:00:sound:00 safely%4:02:00::
+sudden%3:00:00:: suddenly serious%5:00:00:important:00 seriously%4:02:00::
+sudden%3:00:00:: suddenly slow%3:00:02:: slowly%4:02:01::
+swift%5:00:00:fast:01 swiftly%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: usual%3:00:00:: usually%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: amazing amazingly%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: apparent%5:00:00:superficial:00 apparently
+swift%5:00:00:fast:01 swiftly%4:02:00:: calm calmly
+swift%5:00:00:fast:01 swiftly%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+swift%5:00:00:fast:01 swiftly%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: free%3:00:01:: freely%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: furious furiously
+swift%5:00:00:fast:01 swiftly%4:02:00:: happy%3:00:00:: happily
+swift%5:00:00:fast:01 swiftly%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+swift%5:00:00:fast:01 swiftly%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: most mostly%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: occasional occasionally%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: possible%3:00:00:: possibly%4:02:01::
+swift%5:00:00:fast:01 swiftly%4:02:00:: precise%3:00:00:: precisely%4:02:01::
+swift%5:00:00:fast:01 swiftly%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: quick%5:00:00:hurried:00 quickly
+swift%5:00:00:fast:01 swiftly%4:02:00:: quiet%5:00:00:calm:00 quietly
+swift%5:00:00:fast:01 swiftly%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: rare rarely%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: reluctant reluctantly%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
+swift%5:00:00:fast:01 swiftly%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+swift%5:00:00:fast:01 swiftly%4:02:00:: sudden%3:00:00:: suddenly
 typical%5:00:00:characteristic:00 typically%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: usual%3:00:00:: usually%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: apparent%5:00:00:superficial:00
-typical%5:00:00:characteristic:00 typically%4:02:00:: calm%2:37:01::
+typical%5:00:00:characteristic:00 typically%4:02:00:: amazing amazingly%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: apparent%5:00:00:superficial:00 apparently
+typical%5:00:00:characteristic:00 typically%4:02:00:: calm calmly
 typical%5:00:00:characteristic:00 typically%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 typical%5:00:00:characteristic:00 typically%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: fortunately%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: free%3:00:01:: freely%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: happy%3:00:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: immediately%4:02:05::
+typical%5:00:00:characteristic:00 typically%4:02:00:: furious furiously
+typical%5:00:00:characteristic:00 typically%4:02:00:: happy%3:00:00:: happily
+typical%5:00:00:characteristic:00 typically%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 typical%5:00:00:characteristic:00 typically%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: mostly%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: most mostly%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: occasionally%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: occasional occasionally%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-typical%5:00:00:characteristic:00 typically%4:02:00:: precisely%4:02:01::
+typical%5:00:00:characteristic:00 typically%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 typical%5:00:00:characteristic:00 typically%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: quick%5:00:00:hurried:00
-typical%5:00:00:characteristic:00 typically%4:02:00:: quiet%5:00:00:calm:00
-typical%5:00:00:characteristic:00 typically%4:02:00:: rapidly%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: rarely%4:02:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: reluctantly%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: quick%5:00:00:hurried:00 quickly
+typical%5:00:00:characteristic:00 typically%4:02:00:: quiet%5:00:00:calm:00 quietly
+typical%5:00:00:characteristic:00 typically%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: rare rarely%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: reluctant reluctantly%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
 typical%5:00:00:characteristic:00 typically%4:02:00:: slow%3:00:02:: slowly%4:02:01::
-typical%5:00:00:characteristic:00 typically%4:02:00:: sudden%3:00:00::
-typical%5:00:00:characteristic:00 typically%4:02:00:: swiftly%4:02:00::
+typical%5:00:00:characteristic:00 typically%4:02:00:: sudden%3:00:00:: suddenly
+typical%5:00:00:characteristic:00 typically%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: usual%3:00:00:: usually%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: apparent%5:00:00:superficial:00
-unfortunate%3:00:00:: unfortunately%4:02:00:: calm%2:37:01::
+unfortunate%3:00:00:: unfortunately%4:02:00:: amazing amazingly%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: apparent%5:00:00:superficial:00 apparently
+unfortunate%3:00:00:: unfortunately%4:02:00:: calm calmly
 unfortunate%3:00:00:: unfortunately%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
 unfortunate%3:00:00:: unfortunately%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: fortunately%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: free%3:00:01:: freely%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: furious furiously
 unfortunate%3:00:00:: unfortunately%4:02:00:: happy%3:00:00:: happily%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: immediately%4:02:05::
+unfortunate%3:00:00:: unfortunately%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
 unfortunate%3:00:00:: unfortunately%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: mostly%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: most mostly%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
-unfortunate%3:00:00:: occasionally%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: occasional occasionally%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-unfortunate%3:00:00:: unfortunately%4:02:00:: precisely%4:02:01::
+unfortunate%3:00:00:: unfortunately%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 unfortunate%3:00:00:: unfortunately%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: quick%5:00:00:hurried:00
-unfortunate%3:00:00:: unfortunately%4:02:00:: quiet%5:00:00:calm:00
+unfortunate%3:00:00:: unfortunately%4:02:00:: quick%5:00:00:hurried:00 quickly
+unfortunate%3:00:00:: unfortunately%4:02:00:: quiet%5:00:00:calm:00 quietly
 unfortunate%3:00:00:: unfortunately%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: rarely%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: reluctantly%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: rare rarely%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: reluctant reluctantly%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: slow%3:00:02::
-unfortunate%3:00:00:: unfortunately%4:02:00:: sudden%3:00:00::
-unfortunate%3:00:00:: unfortunately%4:02:00:: swiftly%4:02:00::
+unfortunate%3:00:00:: unfortunately%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+unfortunate%3:00:00:: unfortunately%4:02:00:: sudden%3:00:00:: suddenly
+unfortunate%3:00:00:: unfortunately%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 unfortunate%3:00:00:: unfortunately%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-usual%3:00:00:: usually%4:02:00:: amaze%2:31:00:: amazingly%4:02:00::
-usual%3:00:00:: usually%4:02:00::
-usual%3:00:00:: usually%4:02:00:: calm%2:37:01::
-usual%3:00:00:: usually%4:02:00:: cheerfully%4:02:00::
-usual%3:00:00:: usually%4:02:00:: complete%2:30:02:: completely%4:02:04::
-usual%3:00:00:: usually%4:02:00:: efficiently%4:02:00::
-usual%3:00:00:: usually%4:02:00:: fortunately%4:02:00::
-usual%3:00:00:: usually%4:02:00:: free%2:40:02:: freely%4:02:00::
-usual%3:00:00:: usually%4:02:00::
-usual%3:00:00:: usually%4:02:00:: happy%3:00:00::
-usual%3:00:00:: usually%4:02:00:: immediately%4:02:05::
-usual%3:00:00:: usually%4:02:00:: infrequently%4:02:00::
+usual%3:00:00:: usually%4:02:00:: amazing amazingly%4:02:00::
+usual%3:00:00:: usually%4:02:00:: apparent%5:00:00:superficial:00 apparently
+usual%3:00:00:: usually%4:02:00:: calm calmly
+usual%3:00:00:: usually%4:02:00:: cheerful%3:00:00:: cheerfully%4:02:00::
+usual%3:00:00:: usually%4:02:00:: complete%5:00:00:perfect:00 completely%4:02:04::
+usual%3:00:00:: usually%4:02:00:: efficient%5:00:00:competent:00 efficiently%4:02:00::
+usual%3:00:00:: usually%4:02:00:: fortunate%5:00:00:blessed:00 fortunately%4:02:00::
+usual%3:00:00:: usually%4:02:00:: free%3:00:01:: freely%4:02:00::
+usual%3:00:00:: usually%4:02:00:: furious furiously
+usual%3:00:00:: usually%4:02:00:: happy%3:00:00:: happily
+usual%3:00:00:: usually%4:02:00:: immediate%5:00:00:proximate:00 immediately%4:02:05::
+usual%3:00:00:: usually%4:02:00:: infrequent%3:00:00:: infrequently%4:02:00::
 usual%3:00:00:: usually%4:02:00:: lucky%3:00:00:: luckily%4:02:00::
 usual%3:00:00:: usually%4:02:00:: most%3:00:01:: mostly%4:02:00::
 usual%3:00:00:: usually%4:02:00:: obvious%3:00:00:: obviously%4:02:00::
 usual%3:00:00:: usually%4:02:00:: occasional%5:00:00:unpredictable:00 occasionally%4:02:00::
 usual%3:00:00:: usually%4:02:00:: possible%3:00:00:: possibly%4:02:01::
-usual%3:00:00:: usually%4:02:00:: precisely%4:02:01::
+usual%3:00:00:: usually%4:02:00:: precise%3:00:00:: precisely%4:02:01::
 usual%3:00:00:: usually%4:02:00:: professional%5:00:00:white-collar:00 professionally%4:02:00::
-usual%3:00:00:: usually%4:02:00:: quick%5:00:00:hurried:00
-usual%3:00:00:: usually%4:02:00:: quiet%5:00:00:calm:00
-usual%3:00:00:: usually%4:02:00:: rapidly%4:02:00::
-usual%3:00:00:: usually%4:02:00:: rarely%4:02:00::
-usual%3:00:00:: usually%4:02:00:: reluctantly%4:02:00::
-usual%3:00:00:: usually%4:02:00:: safely%4:02:00::
+usual%3:00:00:: usually%4:02:00:: quick%5:00:00:hurried:00 quickly
+usual%3:00:00:: usually%4:02:00:: quiet%5:00:00:calm:00 quietly
+usual%3:00:00:: usually%4:02:00:: rapid%5:00:00:fast:01 rapidly%4:02:00::
+usual%3:00:00:: usually%4:02:00:: rare rarely%4:02:00::
+usual%3:00:00:: usually%4:02:00:: reluctant reluctantly%4:02:00::
+usual%3:00:00:: usually%4:02:00:: safe%5:00:00:sound:00 safely%4:02:00::
 usual%3:00:00:: usually%4:02:00:: serious%5:00:00:important:00 seriously%4:02:00::
-usual%3:00:00:: usually%4:02:00:: slow%2:30:05:: slowly%4:02:01::
-usual%3:00:00:: usually%4:02:00:: sudden%3:00:00::
-usual%3:00:00:: usually%4:02:00:: swiftly%4:02:00::
+usual%3:00:00:: usually%4:02:00:: slow%3:00:02:: slowly%4:02:01::
+usual%3:00:00:: usually%4:02:00:: sudden%3:00:00:: suddenly
+usual%3:00:00:: usually%4:02:00:: swift%5:00:00:fast:01 swiftly%4:02:00::
 usual%3:00:00:: usually%4:02:00:: typical%5:00:00:characteristic:00 typically%4:02:00::
-usual%3:00:00:: usually%4:02:00:: unfortunately%4:02:00::
+usual%3:00:00:: usually%4:02:00:: unfortunate%3:00:00:: unfortunately%4:02:00::

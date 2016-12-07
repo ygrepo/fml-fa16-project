@@ -1,141 +1,141 @@
 : gram1-adjective-to-adverb
- amaze,v amazingly,r apparent,a apparently,r
- amaze,v amazingly,r calm,a calmly,n
- amaze,v amazingly,r cheerful,a cheerfully,r
- amaze,v amazingly,r complete,a completely,r
- amaze,v amazingly,r efficient,a efficiently,r
- amaze,v amazingly,r fortunate,v fortunately,r
- amaze,v amazingly,r free,a freely,r
- amaze,v amazingly,r furious,a furiously,r
- amaze,v amazingly,r happy,a happily,r
- amaze,v amazingly,r immediate,a immediately,r
- amaze,v amazingly,r infrequent,a infrequently,r
- amaze,v amazingly,r lucky,a luckily,r
- amaze,v amazingly,r most,a mostly,r
- amaze,v amazingly,r obvious,a obviously,r
- amaze,v amazingly,r occasional,a occasionally,r
- amaze,v amazingly,r possible,a possibly,r
- amaze,v amazingly,r precise,v precisely,r
- amaze,v amazingly,r professional,a professionally,r
- amaze,v amazingly,r quick,a quickly,r
- amaze,v amazingly,r quiet,a quietly,r
- amaze,v amazingly,r rapid,a rapidly,r
- amaze,v amazingly,r rare,a rarely,r
- amaze,v amazingly,r reluctant,a reluctantly,r
- amaze,v amazingly,r safe,a safely,r
- amaze,v amazingly,r serious,a seriously,r
- amaze,v amazingly,r slow,a slowly,n
- amaze,v amazingly,r sudden,a suddenly,r
- amaze,v amazingly,r swift,a swiftly,r
- amaze,v amazingly,r typical,a typically,r
- amaze,v amazingly,r unfortunate,a unfortunately,r
- amaze,v amazingly,r usual,a usually,r
- apparent,n apparently,r calm,v calmly,n
- apparent,n apparently,r cheerful,a cheerfully,r
+ amazing,a amazingly,r apparent,a apparently,r
+ amazing,a amazingly,r calm,a calmly,r
+ amazing,a amazingly,r cheerful,a cheerfully,r
+ amazing,a amazingly,r complete,a completely,r
+ amazing,a amazingly,r efficient,a efficiently,r
+ amazing,a amazingly,r fortunate,a fortunately,r
+ amazing,a amazingly,r free,a freely,r
+ amazing,a amazingly,r furious,a furiously,r
+ amazing,a amazingly,r happy,a happily,r
+ amazing,a amazingly,r immediate,a immediately,r
+ amazing,a amazingly,r infrequent,a infrequently,r
+ amazing,a amazingly,r lucky,a luckily,r
+ amazing,a amazingly,r most,a mostly,r
+ amazing,a amazingly,r obvious,a obviously,r
+ amazing,a amazingly,r occasional,a occasionally,r
+ amazing,a amazingly,r possible,a possibly,r
+ amazing,a amazingly,r precise,a precisely,r
+ amazing,a amazingly,r professional,a professionally,r
+ amazing,a amazingly,r quick,a quickly,r
+ amazing,a amazingly,r quiet,a quietly,r
+ amazing,a amazingly,r rapid,a rapidly,r
+ amazing,a amazingly,r rare,a rarely,r
+ amazing,a amazingly,r reluctant,a reluctantly,r
+ amazing,a amazingly,r safe,a safely,r
+ amazing,a amazingly,r serious,a seriously,r
+ amazing,a amazingly,r slow,a slowly,r
+ amazing,a amazingly,r sudden,a suddenly,r
+ amazing,a amazingly,r swift,a swiftly,r
+ amazing,a amazingly,r typical,a typically,r
+ amazing,a amazingly,r unfortunate,a unfortunately,r
+ amazing,a amazingly,r usual,a usually,r
+ apparent,a apparently,r calm,a calmly,r
+ apparent,a apparently,r cheerful,a cheerfully,r
  apparent,a apparently,r complete,a completely,r
- apparent,n apparently,r efficient,a efficiently,r
- apparent,n apparently,r fortunate,a fortunately,r
- apparent,n apparently,r free,a freely,r
- apparent,n apparently,r furious,a furiously,r
- apparent,n apparently,r happy,a happily,r
- apparent,n apparently,r immediate,a immediately,r
- apparent,n apparently,r infrequent,a infrequently,r
- apparent,n apparently,r lucky,a luckily,r
- apparent,n apparently,r most,r mostly,r
- apparent,n apparently,r obvious,a obviously,r
- apparent,n apparently,r occasional,a occasionally,r
- apparent,n apparently,r possible,a possibly,r
- apparent,n apparently,r precise,v precisely,r
- apparent,n apparently,r professional,a professionally,r
- apparent,n apparently,r quick,a quickly,r
- apparent,n apparently,r quiet,a quietly,r
- apparent,n apparently,r rapid,v rapidly,r
- apparent,n apparently,r rare,a rarely,r
- apparent,n apparently,r reluctant,a reluctantly,r
- apparent,n apparently,r safe,a safely,r
- apparent,n apparently,r serious,a seriously,r
- apparent,n apparently,r slow,a slowly,r
- apparent,n apparently,r sudden,a suddenly,r
- apparent,n apparently,r swift,v swiftly,r
- apparent,n apparently,r typical,a typically,r
- apparent,n apparently,r unfortunate,a unfortunately,r
- apparent,n apparently,r usual,a usually,r
- apparent,n apparently,r amazing,a amazingly,r
- calm,n calmly,r cheerful,a cheerfully,r
+ apparent,a apparently,r efficient,a efficiently,r
+ apparent,a apparently,r fortunate,a fortunately,r
+ apparent,a apparently,r free,a freely,r
+ apparent,a apparently,r furious,a furiously,r
+ apparent,a apparently,r happy,a happily,r
+ apparent,a apparently,r immediate,a immediately,r
+ apparent,a apparently,r infrequent,a infrequently,r
+ apparent,a apparently,r lucky,a luckily,r
+ apparent,a apparently,r most,a mostly,r
+ apparent,a apparently,r obvious,a obviously,r
+ apparent,a apparently,r occasional,a occasionally,r
+ apparent,a apparently,r possible,a possibly,r
+ apparent,a apparently,r precise,a precisely,r
+ apparent,a apparently,r professional,a professionally,r
+ apparent,a apparently,r quick,a quickly,r
+ apparent,a apparently,r quiet,a quietly,r
+ apparent,a apparently,r rapid,a rapidly,r
+ apparent,a apparently,r rare,a rarely,r
+ apparent,a apparently,r reluctant,a reluctantly,r
+ apparent,a apparently,r safe,a safely,r
+ apparent,a apparently,r serious,a seriously,r
+ apparent,a apparently,r slow,a slowly,r
+ apparent,a apparently,r sudden,a suddenly,r
+ apparent,a apparently,r swift,a swiftly,r
+ apparent,a apparently,r typical,a typically,r
+ apparent,a apparently,r unfortunate,a unfortunately,r
+ apparent,a apparently,r usual,a usually,r
+ apparent,a apparently,r amazing,a amazingly,r
+ calm,a calmly,r cheerful,a cheerfully,r
  calm,a calmly,r complete,a completely,r
- calm,n calmly,n efficient,n efficiently,r
- calm,n calmly,n fortunate,n fortunately,r
- calm,n calmly,r free,a freely,r
- calm,n calmly,r furious,a furiously,r
- calm,n calmly,n happy,a happily,r
- calm,n calmly,r immediate,a immediately,r
- calm,n calmly,n infrequent,n infrequently,r
- calm,n calmly,n lucky,a luckily,r
- calm,a calmly,v most,a mostly,r
- calm,n calmly,r obvious,a obviously,r
- calm,n calmly,v occasional,a occasionally,r
- calm,n calmly,n possible,a possibly,r
- calm,n calmly,n precise,v precisely,r
- calm,n calmly,v professional,a professionally,r
- calm,n calmly,n quick,a quickly,r
- calm,n calmly,n quiet,a quietly,r
- calm,n calmly,n rapid,v rapidly,r
- calm,n calmly,r rare,v rarely,r
- calm,n calmly,n reluctant,n reluctantly,r
- calm,n calmly,n safe,a safely,r
- calm,n calmly,r serious,a seriously,r
- calm,n calmly,r slow,v slowly,r
- calm,n calmly,n sudden,a suddenly,r
- calm,n calmly,r swift,v swiftly,r
- calm,n calmly,r typical,a typically,r
- calm,n calmly,n unfortunate,n unfortunately,r
- calm,n calmly,r usual,a usually,r
- calm,n calmly,n amaze,v amazingly,r
- calm,n calmly,n apparent,n apparently,r
+ calm,a calmly,r efficient,a efficiently,r
+ calm,a calmly,r fortunate,a fortunately,r
+ calm,a calmly,r free,a freely,r
+ calm,a calmly,r furious,a furiously,r
+ calm,a calmly,r happy,a happily,r
+ calm,a calmly,r immediate,a immediately,r
+ calm,a calmly,r infrequent,a infrequently,r
+ calm,a calmly,r lucky,a luckily,r
+ calm,a calmly,r most,a mostly,r
+ calm,a calmly,r obvious,a obviously,r
+ calm,a calmly,r occasional,a occasionally,r
+ calm,a calmly,r possible,a possibly,r
+ calm,a calmly,r precise,a precisely,r
+ calm,a calmly,r professional,a professionally,r
+ calm,a calmly,r quick,a quickly,r
+ calm,a calmly,r quiet,a quietly,r
+ calm,a calmly,r rapid,a rapidly,r
+ calm,a calmly,r rare,a rarely,r
+ calm,a calmly,r reluctant,a reluctantly,r
+ calm,a calmly,r safe,a safely,r
+ calm,a calmly,r serious,a seriously,r
+ calm,a calmly,r slow,a slowly,r
+ calm,a calmly,r sudden,a suddenly,r
+ calm,a calmly,r swift,a swiftly,r
+ calm,a calmly,r typical,a typically,r
+ calm,a calmly,r unfortunate,a unfortunately,r
+ calm,a calmly,r usual,a usually,r
+ calm,a calmly,r amazing,a amazingly,r
+ calm,a calmly,r apparent,a apparently,r
  cheerful,a cheerfully,r complete,a completely,r
  cheerful,a cheerfully,r efficient,a efficiently,r
- cheerful,a cheerfully,r fortunate,v fortunately,r
+ cheerful,a cheerfully,r fortunate,a fortunately,r
  cheerful,a cheerfully,r free,a freely,r
  cheerful,a cheerfully,r furious,a furiously,r
  cheerful,a cheerfully,r happy,a happily,r
- cheerful,a cheerfully,r immediate,v immediately,r
+ cheerful,a cheerfully,r immediate,a immediately,r
  cheerful,a cheerfully,r infrequent,a infrequently,r
  cheerful,a cheerfully,r lucky,a luckily,r
  cheerful,a cheerfully,r most,a mostly,r
  cheerful,a cheerfully,r obvious,a obviously,r
  cheerful,a cheerfully,r occasional,a occasionally,r
  cheerful,a cheerfully,r possible,a possibly,r
- cheerful,a cheerfully,r precise,v precisely,r
+ cheerful,a cheerfully,r precise,a precisely,r
  cheerful,a cheerfully,r professional,a professionally,r
  cheerful,a cheerfully,r quick,a quickly,r
  cheerful,a cheerfully,r quiet,a quietly,r
- cheerful,a cheerfully,r rapid,v rapidly,r
+ cheerful,a cheerfully,r rapid,a rapidly,r
  cheerful,a cheerfully,r rare,a rarely,r
  cheerful,a cheerfully,r reluctant,a reluctantly,r
  cheerful,a cheerfully,r safe,a safely,r
  cheerful,a cheerfully,r serious,a seriously,r
- cheerful,a cheerfully,r slow,a slowly,n
+ cheerful,a cheerfully,r slow,a slowly,r
  cheerful,a cheerfully,r sudden,a suddenly,r
- cheerful,a cheerfully,r swift,v swiftly,r
+ cheerful,a cheerfully,r swift,a swiftly,r
  cheerful,a cheerfully,r typical,a typically,r
  cheerful,a cheerfully,r unfortunate,a unfortunately,r
  cheerful,a cheerfully,r usual,a usually,r
  cheerful,a cheerfully,r amazing,a amazingly,r
  cheerful,a cheerfully,r apparent,a apparently,r
- cheerful,a cheerfully,r calm,v calmly,n
+ cheerful,a cheerfully,r calm,a calmly,r
  complete,a completely,r efficient,a efficiently,r
- complete,a completely,r fortunate,v fortunately,r
+ complete,a completely,r fortunate,a fortunately,r
  complete,a completely,r free,a freely,r
  complete,a completely,r furious,a furiously,r
  complete,a completely,r happy,a happily,r
- complete,a completely,r immediate,v immediately,r
+ complete,a completely,r immediate,a immediately,r
  complete,a completely,r infrequent,a infrequently,r
  complete,a completely,r lucky,a luckily,r
  complete,a completely,r most,a mostly,r
  complete,a completely,r obvious,a obviously,r
  complete,a completely,r occasional,a occasionally,r
  complete,a completely,r possible,a possibly,r
- complete,a completely,r precise,v precisely,r
+ complete,a completely,r precise,a precisely,r
  complete,a completely,r professional,a professionally,r
  complete,a completely,r quick,a quickly,r
  complete,a completely,r quiet,a quietly,r
@@ -144,7 +144,7 @@
  complete,a completely,r reluctant,a reluctantly,r
  complete,a completely,r safe,a safely,r
  complete,a completely,r serious,a seriously,r
- complete,a completely,r slow,a slowly,n
+ complete,a completely,r slow,a slowly,r
  complete,a completely,r sudden,a suddenly,r
  complete,a completely,r swift,a swiftly,r
  complete,a completely,r typical,a typically,r
@@ -152,80 +152,80 @@
  complete,a completely,r usual,a usually,r
  complete,a completely,r amazing,a amazingly,r
  complete,a completely,r apparent,a apparently,r
- complete,a completely,r calm,a calmly,n
+ complete,a completely,r calm,a calmly,r
  complete,a completely,r cheerful,a cheerfully,r
- efficient,n efficiently,r fortunate,v fortunately,r
- efficient,n efficiently,r free,a freely,r
- efficient,n efficiently,r furious,a furiously,r
- efficient,n efficiently,r happy,a happily,r
- efficient,n efficiently,r immediate,v immediately,r
- efficient,n efficiently,r infrequent,v infrequently,r
- efficient,n efficiently,r lucky,a luckily,r
+ efficient,a efficiently,r fortunate,a fortunately,r
+ efficient,a efficiently,r free,a freely,r
+ efficient,a efficiently,r furious,a furiously,r
+ efficient,a efficiently,r happy,a happily,r
+ efficient,a efficiently,r immediate,a immediately,r
+ efficient,a efficiently,r infrequent,a infrequently,r
+ efficient,a efficiently,r lucky,a luckily,r
  efficient,a efficiently,r most,a mostly,r
- efficient,n efficiently,r obvious,a obviously,r
- efficient,n efficiently,r occasional,a occasionally,r
- efficient,n efficiently,r possible,a possibly,r
- efficient,n efficiently,r precise,v precisely,r
- efficient,n efficiently,r professional,a professionally,r
- efficient,n efficiently,r quick,a quickly,r
- efficient,n efficiently,r quiet,a quietly,r
- efficient,a efficiently,r rapid,v rapidly,r
- efficient,a efficiently,r rare,v rarely,r
- efficient,n efficiently,r reluctant,a reluctantly,r
- efficient,n efficiently,r safe,a safely,r
- efficient,n efficiently,r serious,a seriously,r
- efficient,a efficiently,r slow,v slowly,r
- efficient,n efficiently,r sudden,v suddenly,r
- efficient,n efficiently,r swift,v swiftly,r
- efficient,n efficiently,r typical,a typically,r
- efficient,n efficiently,r unfortunate,a unfortunately,r
- efficient,n efficiently,r usual,a usually,r
- efficient,n efficiently,r amaze,v amazingly,r
- efficient,n efficiently,r apparent,v apparently,r
- efficient,n efficiently,r calm,v calmly,n
- efficient,n efficiently,r cheerful,v cheerfully,r
- efficient,a efficiently,r complete,v completely,r
- fortunate,n fortunately,r free,a freely,r
- fortunate,n fortunately,r furious,a furiously,r
- fortunate,n fortunately,r happy,a happily,r
- fortunate,n fortunately,r immediate,a immediately,r
- fortunate,n fortunately,r infrequent,a infrequently,r
- fortunate,n fortunately,r lucky,a luckily,r
- fortunate,v fortunately,r most,a mostly,r
- fortunate,n fortunately,r obvious,a obviously,r
- fortunate,n fortunately,r occasional,a occasionally,r
- fortunate,n fortunately,r possible,a possibly,r
- fortunate,n fortunately,r precise,a precisely,r
- fortunate,n fortunately,r professional,a professionally,r
- fortunate,n fortunately,r quick,a quickly,r
- fortunate,n fortunately,r quiet,a quietly,r
- fortunate,n fortunately,r rapid,a rapidly,r
- fortunate,n fortunately,r rare,a rarely,r
- fortunate,n fortunately,r reluctant,a reluctantly,r
- fortunate,n fortunately,r safe,a safely,r
- fortunate,n fortunately,r serious,a seriously,r
- fortunate,n fortunately,r slow,a slowly,n
- fortunate,n fortunately,r sudden,a suddenly,r
- fortunate,n fortunately,r swift,v swiftly,r
- fortunate,n fortunately,r typical,a typically,r
- fortunate,n fortunately,r unfortunate,a unfortunately,r
- fortunate,n fortunately,r usual,a usually,r
- fortunate,n fortunately,r amazing,a amazingly,r
- fortunate,n fortunately,r apparent,a apparently,r
- fortunate,n fortunately,r calm,a calmly,n
- fortunate,n fortunately,r cheerful,a cheerfully,r
- fortunate,v fortunately,r complete,a completely,r
- fortunate,n fortunately,r efficient,a efficiently,r
+ efficient,a efficiently,r obvious,a obviously,r
+ efficient,a efficiently,r occasional,a occasionally,r
+ efficient,a efficiently,r possible,a possibly,r
+ efficient,a efficiently,r precise,a precisely,r
+ efficient,a efficiently,r professional,a professionally,r
+ efficient,a efficiently,r quick,a quickly,r
+ efficient,a efficiently,r quiet,a quietly,r
+ efficient,a efficiently,r rapid,a rapidly,r
+ efficient,a efficiently,r rare,a rarely,r
+ efficient,a efficiently,r reluctant,a reluctantly,r
+ efficient,a efficiently,r safe,a safely,r
+ efficient,a efficiently,r serious,a seriously,r
+ efficient,a efficiently,r slow,a slowly,r
+ efficient,a efficiently,r sudden,a suddenly,r
+ efficient,a efficiently,r swift,a swiftly,r
+ efficient,a efficiently,r typical,a typically,r
+ efficient,a efficiently,r unfortunate,a unfortunately,r
+ efficient,a efficiently,r usual,a usually,r
+ efficient,a efficiently,r amazing,a amazingly,r
+ efficient,a efficiently,r apparent,a apparently,r
+ efficient,a efficiently,r calm,a calmly,r
+ efficient,a efficiently,r cheerful,a cheerfully,r
+ efficient,a efficiently,r complete,a completely,r
+ fortunate,a fortunately,r free,a freely,r
+ fortunate,a fortunately,r furious,a furiously,r
+ fortunate,a fortunately,r happy,a happily,r
+ fortunate,a fortunately,r immediate,a immediately,r
+ fortunate,a fortunately,r infrequent,a infrequently,r
+ fortunate,a fortunately,r lucky,a luckily,r
+ fortunate,a fortunately,r most,a mostly,r
+ fortunate,a fortunately,r obvious,a obviously,r
+ fortunate,a fortunately,r occasional,a occasionally,r
+ fortunate,a fortunately,r possible,a possibly,r
+ fortunate,a fortunately,r precise,a precisely,r
+ fortunate,a fortunately,r professional,a professionally,r
+ fortunate,a fortunately,r quick,a quickly,r
+ fortunate,a fortunately,r quiet,a quietly,r
+ fortunate,a fortunately,r rapid,a rapidly,r
+ fortunate,a fortunately,r rare,a rarely,r
+ fortunate,a fortunately,r reluctant,a reluctantly,r
+ fortunate,a fortunately,r safe,a safely,r
+ fortunate,a fortunately,r serious,a seriously,r
+ fortunate,a fortunately,r slow,a slowly,r
+ fortunate,a fortunately,r sudden,a suddenly,r
+ fortunate,a fortunately,r swift,a swiftly,r
+ fortunate,a fortunately,r typical,a typically,r
+ fortunate,a fortunately,r unfortunate,a unfortunately,r
+ fortunate,a fortunately,r usual,a usually,r
+ fortunate,a fortunately,r amazing,a amazingly,r
+ fortunate,a fortunately,r apparent,a apparently,r
+ fortunate,a fortunately,r calm,a calmly,r
+ fortunate,a fortunately,r cheerful,a cheerfully,r
+ fortunate,a fortunately,r complete,a completely,r
+ fortunate,a fortunately,r efficient,a efficiently,r
  free,a freely,r furious,a furiously,r
  free,a freely,r happy,a happily,r
- free,a freely,r immediate,v immediately,r
+ free,a freely,r immediate,a immediately,r
  free,a freely,r infrequent,a infrequently,r
  free,a freely,r lucky,a luckily,r
  free,a freely,r most,a mostly,r
  free,a freely,r obvious,a obviously,r
  free,a freely,r occasional,a occasionally,r
  free,a freely,r possible,a possibly,r
- free,a freely,r precise,v precisely,r
+ free,a freely,r precise,a precisely,r
  free,a freely,r professional,a professionally,r
  free,a freely,r quick,a quickly,r
  free,a freely,r quiet,a quietly,r
@@ -234,28 +234,28 @@
  free,a freely,r reluctant,a reluctantly,r
  free,a freely,r safe,a safely,r
  free,a freely,r serious,a seriously,r
- free,a freely,r slow,a slowly,n
+ free,a freely,r slow,a slowly,r
  free,a freely,r sudden,a suddenly,r
- free,a freely,r swift,v swiftly,r
+ free,a freely,r swift,a swiftly,r
  free,a freely,r typical,a typically,r
  free,a freely,r unfortunate,a unfortunately,r
  free,a freely,r usual,a usually,r
  free,a freely,r amazing,a amazingly,r
  free,a freely,r apparent,a apparently,r
- free,a freely,r calm,a calmly,n
+ free,a freely,r calm,a calmly,r
  free,a freely,r cheerful,a cheerfully,r
  free,a freely,r complete,a completely,r
  free,a freely,r efficient,a efficiently,r
- free,a freely,r fortunate,v fortunately,r
+ free,a freely,r fortunate,a fortunately,r
  furious,a furiously,r happy,a happily,r
- furious,a furiously,r immediate,v immediately,r
+ furious,a furiously,r immediate,a immediately,r
  furious,a furiously,r infrequent,a infrequently,r
  furious,a furiously,r lucky,a luckily,r
  furious,a furiously,r most,a mostly,r
  furious,a furiously,r obvious,a obviously,r
  furious,a furiously,r occasional,a occasionally,r
  furious,a furiously,r possible,a possibly,r
- furious,a furiously,r precise,v precisely,r
+ furious,a furiously,r precise,a precisely,r
  furious,a furiously,r professional,a professionally,r
  furious,a furiously,r quick,a quickly,r
  furious,a furiously,r quiet,a quietly,r
@@ -264,58 +264,58 @@
  furious,a furiously,r reluctant,a reluctantly,r
  furious,a furiously,r safe,a safely,r
  furious,a furiously,r serious,a seriously,r
- furious,a furiously,r slow,a slowly,n
+ furious,a furiously,r slow,a slowly,r
  furious,a furiously,r sudden,a suddenly,r
- furious,a furiously,r swift,v swiftly,r
+ furious,a furiously,r swift,a swiftly,r
  furious,a furiously,r typical,a typically,r
  furious,a furiously,r unfortunate,a unfortunately,r
  furious,a furiously,r usual,a usually,r
- furious,a furiously,r amaze,v amazingly,r
+ furious,a furiously,r amazing,a amazingly,r
  furious,a furiously,r apparent,a apparently,r
- furious,a furiously,r calm,a calmly,n
+ furious,a furiously,r calm,a calmly,r
  furious,a furiously,r cheerful,a cheerfully,r
  furious,a furiously,r complete,a completely,r
  furious,a furiously,r efficient,a efficiently,r
- furious,a furiously,r fortunate,v fortunately,r
+ furious,a furiously,r fortunate,a fortunately,r
  furious,a furiously,r free,a freely,r
- happy,a happily,r immediate,v immediately,r
- happy,a happily,r infrequent,n infrequently,r
+ happy,a happily,r immediate,a immediately,r
+ happy,a happily,r infrequent,a infrequently,r
  happy,a happily,r lucky,a luckily,r
  happy,a happily,r most,a mostly,r
  happy,a happily,r obvious,a obviously,r
  happy,a happily,r occasional,a occasionally,r
  happy,a happily,r possible,a possibly,r
- happy,a happily,r precise,v precisely,r
+ happy,a happily,r precise,a precisely,r
  happy,a happily,r professional,a professionally,r
  happy,a happily,r quick,a quickly,r
  happy,a happily,r quiet,a quietly,r
- happy,a happily,r rapid,v rapidly,r
+ happy,a happily,r rapid,a rapidly,r
  happy,a happily,r rare,a rarely,r
  happy,a happily,r reluctant,a reluctantly,r
  happy,a happily,r safe,a safely,r
  happy,a happily,r serious,a seriously,r
- happy,a happily,r slow,a slowly,n
+ happy,a happily,r slow,a slowly,r
  happy,a happily,r sudden,a suddenly,r
- happy,a happily,r swift,v swiftly,r
+ happy,a happily,r swift,a swiftly,r
  happy,a happily,r typical,a typically,r
  happy,a happily,r unfortunate,a unfortunately,r
  happy,a happily,r usual,a usually,r
- happy,a happily,r amaze,v amazingly,r
+ happy,a happily,r amazing,a amazingly,r
  happy,a happily,r apparent,a apparently,r
- happy,a happily,r calm,v calmly,n
+ happy,a happily,r calm,a calmly,r
  happy,a happily,r cheerful,a cheerfully,r
  happy,a happily,r complete,a completely,r
  happy,a happily,r efficient,a efficiently,r
- happy,a happily,r fortunate,v fortunately,r
+ happy,a happily,r fortunate,a fortunately,r
  happy,a happily,r free,a freely,r
  happy,a happily,r furious,a furiously,r
- immediate,a immediately,r infrequent,n infrequently,r
+ immediate,a immediately,r infrequent,a infrequently,r
  immediate,a immediately,r lucky,a luckily,r
  immediate,a immediately,r most,a mostly,r
  immediate,a immediately,r obvious,a obviously,r
  immediate,a immediately,r occasional,a occasionally,r
- immediate,v immediately,r possible,a possibly,r
- immediate,a immediately,r precise,v precisely,r
+ immediate,a immediately,r possible,a possibly,r
+ immediate,a immediately,r precise,a precisely,r
  immediate,a immediately,r professional,a professionally,r
  immediate,a immediately,r quick,a quickly,r
  immediate,a immediately,r quiet,a quietly,r
@@ -324,88 +324,88 @@
  immediate,a immediately,r reluctant,a reluctantly,r
  immediate,a immediately,r safe,a safely,r
  immediate,a immediately,r serious,a seriously,r
- immediate,a immediately,r slow,a slowly,n
+ immediate,a immediately,r slow,a slowly,r
  immediate,a immediately,r sudden,a suddenly,r
- immediate,a immediately,r swift,v swiftly,r
+ immediate,a immediately,r swift,a swiftly,r
  immediate,a immediately,r typical,a typically,r
  immediate,a immediately,r unfortunate,a unfortunately,r
  immediate,a immediately,r usual,a usually,r
- immediate,a immediately,r amaze,v amazingly,r
+ immediate,a immediately,r amazing,a amazingly,r
  immediate,a immediately,r apparent,a apparently,r
- immediate,a immediately,r calm,a calmly,n
+ immediate,a immediately,r calm,a calmly,r
  immediate,a immediately,r cheerful,a cheerfully,r
  immediate,a immediately,r complete,a completely,r
  immediate,a immediately,r efficient,a efficiently,r
- immediate,a immediately,r fortunate,v fortunately,r
- immediate,v immediately,r free,a freely,r
+ immediate,a immediately,r fortunate,a fortunately,r
+ immediate,a immediately,r free,a freely,r
  immediate,a immediately,r furious,a furiously,r
  immediate,a immediately,r happy,a happily,r
- infrequent,n infrequently,r lucky,a luckily,r
- infrequent,n infrequently,r most,r mostly,r
- infrequent,n infrequently,r obvious,a obviously,r
- infrequent,n infrequently,r occasional,a occasionally,r
- infrequent,n infrequently,r possible,a possibly,r
- infrequent,n infrequently,r precise,v precisely,r
- infrequent,n infrequently,r professional,a professionally,r
- infrequent,n infrequently,r quick,a quickly,r
- infrequent,n infrequently,r quiet,a quietly,r
- infrequent,n infrequently,r rapid,v rapidly,r
- infrequent,n infrequently,r rare,a rarely,r
- infrequent,n infrequently,r reluctant,a reluctantly,r
- infrequent,n infrequently,r safe,a safely,r
- infrequent,n infrequently,r serious,a seriously,r
- infrequent,n infrequently,r slow,a slowly,n
- infrequent,n infrequently,r sudden,v suddenly,r
- infrequent,n infrequently,r swift,v swiftly,r
- infrequent,n infrequently,r typical,a typically,r
- infrequent,n infrequently,r unfortunate,a unfortunately,r
- infrequent,n infrequently,r usual,a usually,r
- infrequent,n infrequently,r amazing,a amazingly,r
- infrequent,n infrequently,r apparent,a apparently,r
- infrequent,n infrequently,r calm,v calmly,n
- infrequent,n infrequently,r cheerful,a cheerfully,r
- infrequent,n infrequently,r complete,a completely,r
- infrequent,n infrequently,r efficient,v efficiently,r
- infrequent,n infrequently,r fortunate,v fortunately,r
- infrequent,n infrequently,r free,a freely,r
- infrequent,n infrequently,r furious,a furiously,r
- infrequent,n infrequently,r happy,a happily,r
- infrequent,n infrequently,r immediate,a immediately,r
+ infrequent,a infrequently,r lucky,a luckily,r
+ infrequent,a infrequently,r most,a mostly,r
+ infrequent,a infrequently,r obvious,a obviously,r
+ infrequent,a infrequently,r occasional,a occasionally,r
+ infrequent,a infrequently,r possible,a possibly,r
+ infrequent,a infrequently,r precise,a precisely,r
+ infrequent,a infrequently,r professional,a professionally,r
+ infrequent,a infrequently,r quick,a quickly,r
+ infrequent,a infrequently,r quiet,a quietly,r
+ infrequent,a infrequently,r rapid,a rapidly,r
+ infrequent,a infrequently,r rare,a rarely,r
+ infrequent,a infrequently,r reluctant,a reluctantly,r
+ infrequent,a infrequently,r safe,a safely,r
+ infrequent,a infrequently,r serious,a seriously,r
+ infrequent,a infrequently,r slow,a slowly,r
+ infrequent,a infrequently,r sudden,a suddenly,r
+ infrequent,a infrequently,r swift,a swiftly,r
+ infrequent,a infrequently,r typical,a typically,r
+ infrequent,a infrequently,r unfortunate,a unfortunately,r
+ infrequent,a infrequently,r usual,a usually,r
+ infrequent,a infrequently,r amazing,a amazingly,r
+ infrequent,a infrequently,r apparent,a apparently,r
+ infrequent,a infrequently,r calm,a calmly,r
+ infrequent,a infrequently,r cheerful,a cheerfully,r
+ infrequent,a infrequently,r complete,a completely,r
+ infrequent,a infrequently,r efficient,a efficiently,r
+ infrequent,a infrequently,r fortunate,a fortunately,r
+ infrequent,a infrequently,r free,a freely,r
+ infrequent,a infrequently,r furious,a furiously,r
+ infrequent,a infrequently,r happy,a happily,r
+ infrequent,a infrequently,r immediate,a immediately,r
  lucky,a luckily,r most,a mostly,r
  lucky,a luckily,r obvious,a obviously,r
  lucky,a luckily,r occasional,a occasionally,r
  lucky,a luckily,r possible,a possibly,r
- lucky,a luckily,r precise,v precisely,r
+ lucky,a luckily,r precise,a precisely,r
  lucky,a luckily,r professional,a professionally,r
  lucky,a luckily,r quick,a quickly,r
  lucky,a luckily,r quiet,a quietly,r
- lucky,a luckily,r rapid,v rapidly,r
- lucky,a luckily,r rare,v rarely,r
+ lucky,a luckily,r rapid,a rapidly,r
+ lucky,a luckily,r rare,a rarely,r
  lucky,a luckily,r reluctant,a reluctantly,r
  lucky,a luckily,r safe,a safely,r
  lucky,a luckily,r serious,a seriously,r
- lucky,a luckily,r slow,a slowly,n
- lucky,a luckily,r sudden,v suddenly,r
- lucky,a luckily,r swift,v swiftly,r
+ lucky,a luckily,r slow,a slowly,r
+ lucky,a luckily,r sudden,a suddenly,r
+ lucky,a luckily,r swift,a swiftly,r
  lucky,a luckily,r typical,a typically,r
- lucky,a luckily,r unfortunate,v unfortunately,r
+ lucky,a luckily,r unfortunate,a unfortunately,r
  lucky,a luckily,r usual,a usually,r
- lucky,a luckily,r amaze,v amazingly,r
- lucky,a luckily,r apparent,n apparently,r
- lucky,a luckily,r calm,v calmly,n
+ lucky,a luckily,r amazing,a amazingly,r
+ lucky,a luckily,r apparent,a apparently,r
+ lucky,a luckily,r calm,a calmly,r
  lucky,a luckily,r cheerful,a cheerfully,r
  lucky,a luckily,r complete,a completely,r
  lucky,a luckily,r efficient,a efficiently,r
- lucky,a luckily,r fortunate,v fortunately,r
+ lucky,a luckily,r fortunate,a fortunately,r
  lucky,a luckily,r free,a freely,r
  lucky,a luckily,r furious,a furiously,r
  lucky,a luckily,r happy,a happily,r
- lucky,a luckily,r immediate,v immediately,r
- lucky,a luckily,r infrequent,n infrequently,r
+ lucky,a luckily,r immediate,a immediately,r
+ lucky,a luckily,r infrequent,a infrequently,r
  most,a mostly,r obvious,a obviously,r
  most,a mostly,r occasional,a occasionally,r
  most,a mostly,r possible,a possibly,r
- most,a mostly,r precise,v precisely,r
+ most,a mostly,r precise,a precisely,r
  most,a mostly,r professional,a professionally,r
  most,a mostly,r quick,a quickly,r
  most,a mostly,r quiet,a quietly,r
@@ -414,19 +414,19 @@
  most,a mostly,r reluctant,a reluctantly,r
  most,a mostly,r safe,a safely,r
  most,a mostly,r serious,a seriously,r
- most,a mostly,r slow,a slowly,n
+ most,a mostly,r slow,a slowly,r
  most,a mostly,r sudden,a suddenly,r
- most,a mostly,r swift,v swiftly,r
+ most,a mostly,r swift,a swiftly,r
  most,a mostly,r typical,a typically,r
  most,a mostly,r unfortunate,a unfortunately,r
  most,a mostly,r usual,a usually,r
  most,a mostly,r amazing,a amazingly,r
  most,a mostly,r apparent,a apparently,r
- most,a mostly,r calm,a calmly,n
+ most,a mostly,r calm,a calmly,r
  most,a mostly,r cheerful,a cheerfully,r
  most,a mostly,r complete,a completely,r
  most,a mostly,r efficient,a efficiently,r
- most,a mostly,r fortunate,v fortunately,r
+ most,a mostly,r fortunate,a fortunately,r
  most,a mostly,r free,a freely,r
  most,a mostly,r furious,a furiously,r
  most,a mostly,r happy,a happily,r
@@ -435,7 +435,7 @@
  most,a mostly,r lucky,a luckily,r
  obvious,a obviously,r occasional,a occasionally,r
  obvious,a obviously,r possible,a possibly,r
- obvious,a obviously,r precise,v precisely,r
+ obvious,a obviously,r precise,a precisely,r
  obvious,a obviously,r professional,a professionally,r
  obvious,a obviously,r quick,a quickly,r
  obvious,a obviously,r quiet,a quietly,r
@@ -444,28 +444,28 @@
  obvious,a obviously,r reluctant,a reluctantly,r
  obvious,a obviously,r safe,a safely,r
  obvious,a obviously,r serious,a seriously,r
- obvious,a obviously,r slow,a slowly,n
+ obvious,a obviously,r slow,a slowly,r
  obvious,a obviously,r sudden,a suddenly,r
- obvious,a obviously,r swift,v swiftly,r
+ obvious,a obviously,r swift,a swiftly,r
  obvious,a obviously,r typical,a typically,r
  obvious,a obviously,r unfortunate,a unfortunately,r
  obvious,a obviously,r usual,a usually,r
- obvious,a obviously,r amaze,v amazingly,r
+ obvious,a obviously,r amazing,a amazingly,r
  obvious,a obviously,r apparent,a apparently,r
- obvious,a obviously,r calm,a calmly,n
+ obvious,a obviously,r calm,a calmly,r
  obvious,a obviously,r cheerful,a cheerfully,r
  obvious,a obviously,r complete,a completely,r
  obvious,a obviously,r efficient,a efficiently,r
- obvious,a obviously,r fortunate,v fortunately,r
+ obvious,a obviously,r fortunate,a fortunately,r
  obvious,a obviously,r free,a freely,r
  obvious,a obviously,r furious,a furiously,r
  obvious,a obviously,r happy,a happily,r
- obvious,a obviously,r immediate,v immediately,r
+ obvious,a obviously,r immediate,a immediately,r
  obvious,a obviously,r infrequent,a infrequently,r
  obvious,a obviously,r lucky,a luckily,r
  obvious,a obviously,r most,a mostly,r
  occasional,a occasionally,r possible,a possibly,r
- occasional,a occasionally,r precise,v precisely,r
+ occasional,a occasionally,r precise,a precisely,r
  occasional,a occasionally,r professional,a professionally,r
  occasional,a occasionally,r quick,a quickly,r
  occasional,a occasionally,r quiet,a quietly,r
@@ -474,360 +474,360 @@
  occasional,a occasionally,r reluctant,a reluctantly,r
  occasional,a occasionally,r safe,a safely,r
  occasional,a occasionally,r serious,a seriously,r
- occasional,a occasionally,r slow,a slowly,n
+ occasional,a occasionally,r slow,a slowly,r
  occasional,a occasionally,r sudden,a suddenly,r
- occasional,a occasionally,r swift,v swiftly,r
+ occasional,a occasionally,r swift,a swiftly,r
  occasional,a occasionally,r typical,a typically,r
  occasional,a occasionally,r unfortunate,a unfortunately,r
  occasional,a occasionally,r usual,a usually,r
  occasional,a occasionally,r amazing,a amazingly,r
  occasional,a occasionally,r apparent,a apparently,r
- occasional,a occasionally,r calm,v calmly,n
+ occasional,a occasionally,r calm,a calmly,r
  occasional,a occasionally,r cheerful,a cheerfully,r
  occasional,a occasionally,r complete,a completely,r
  occasional,a occasionally,r efficient,a efficiently,r
- occasional,a occasionally,r fortunate,v fortunately,r
+ occasional,a occasionally,r fortunate,a fortunately,r
  occasional,a occasionally,r free,a freely,r
  occasional,a occasionally,r furious,a furiously,r
  occasional,a occasionally,r happy,a happily,r
- occasional,a occasionally,r immediate,v immediately,r
+ occasional,a occasionally,r immediate,a immediately,r
  occasional,a occasionally,r infrequent,a infrequently,r
  occasional,a occasionally,r lucky,a luckily,r
  occasional,a occasionally,r most,a mostly,r
  occasional,a occasionally,r obvious,a obviously,r
- possible,a possibly,r precise,v precisely,r
- possible,a possibly,r professional,a professionally,n
+ possible,a possibly,r precise,a precisely,r
+ possible,a possibly,r professional,a professionally,r
  possible,a possibly,r quick,a quickly,r
  possible,a possibly,r quiet,a quietly,r
- possible,a possibly,r rapid,v rapidly,r
- possible,a possibly,r rare,v rarely,r
- possible,a possibly,r reluctant,a reluctantly,n
+ possible,a possibly,r rapid,a rapidly,r
+ possible,a possibly,r rare,a rarely,r
+ possible,a possibly,r reluctant,a reluctantly,r
  possible,a possibly,r safe,a safely,r
  possible,a possibly,r serious,a seriously,r
- possible,a possibly,r slow,a slowly,n
+ possible,a possibly,r slow,a slowly,r
  possible,a possibly,r sudden,a suddenly,r
- possible,a possibly,r swift,v swiftly,r
+ possible,a possibly,r swift,a swiftly,r
  possible,a possibly,r typical,a typically,r
- possible,a possibly,r unfortunate,v unfortunately,r
+ possible,a possibly,r unfortunate,a unfortunately,r
  possible,a possibly,r usual,a usually,r
- possible,a possibly,r amaze,v amazingly,r
+ possible,a possibly,r amazing,a amazingly,r
  possible,a possibly,r apparent,a apparently,r
- possible,a possibly,r calm,v calmly,n
+ possible,a possibly,r calm,a calmly,r
  possible,a possibly,r cheerful,a cheerfully,r
  possible,a possibly,r complete,a completely,r
  possible,a possibly,r efficient,a efficiently,r
- possible,a possibly,r fortunate,v fortunately,r
+ possible,a possibly,r fortunate,a fortunately,r
  possible,a possibly,r free,a freely,r
  possible,a possibly,r furious,a furiously,r
- possible,a possibly,r happy,a happily,n
- possible,a possibly,r immediate,v immediately,r
- possible,a possibly,r infrequent,n infrequently,r
+ possible,a possibly,r happy,a happily,r
+ possible,a possibly,r immediate,a immediately,r
+ possible,a possibly,r infrequent,a infrequently,r
  possible,a possibly,r lucky,a luckily,r
  possible,a possibly,r most,a mostly,r
  possible,a possibly,r obvious,a obviously,r
  possible,a possibly,r occasional,a occasionally,r
- precise,v precisely,r professional,a professionally,r
- precise,n precisely,r quick,a quickly,r
- precise,n precisely,r quiet,a quietly,r
- precise,n precisely,r rapid,a rapidly,r
- precise,n precisely,r rare,a rarely,r
- precise,n precisely,r reluctant,a reluctantly,r
- precise,n precisely,r safe,a safely,r
- precise,n precisely,r serious,a seriously,r
- precise,v precisely,r slow,a slowly,n
- precise,n precisely,r sudden,a suddenly,r
- precise,n precisely,r swift,v swiftly,r
- precise,n precisely,r typical,a typically,r
- precise,n precisely,r unfortunate,a unfortunately,r
- precise,n precisely,r usual,a usually,r
- precise,n precisely,r amazing,a amazingly,r
- precise,n precisely,r apparent,a apparently,r
- precise,n precisely,r calm,a calmly,n
- precise,n precisely,r cheerful,a cheerfully,r
- precise,v precisely,r complete,a completely,r
- precise,n precisely,r efficient,a efficiently,r
- precise,n precisely,r fortunate,a fortunately,r
- precise,v precisely,r free,a freely,r
- precise,n precisely,r furious,a furiously,r
- precise,n precisely,r happy,a happily,r
- precise,n precisely,r immediate,a immediately,r
- precise,n precisely,r infrequent,a infrequently,r
- precise,n precisely,r lucky,a luckily,r
- precise,r precisely,r most,a mostly,r
- precise,n precisely,r obvious,a obviously,r
- precise,n precisely,r occasional,a occasionally,r
- precise,n precisely,r possible,a possibly,r
+ precise,a precisely,r professional,a professionally,r
+ precise,a precisely,r quick,a quickly,r
+ precise,a precisely,r quiet,a quietly,r
+ precise,a precisely,r rapid,a rapidly,r
+ precise,a precisely,r rare,a rarely,r
+ precise,a precisely,r reluctant,a reluctantly,r
+ precise,a precisely,r safe,a safely,r
+ precise,a precisely,r serious,a seriously,r
+ precise,a precisely,r slow,a slowly,r
+ precise,a precisely,r sudden,a suddenly,r
+ precise,a precisely,r swift,a swiftly,r
+ precise,a precisely,r typical,a typically,r
+ precise,a precisely,r unfortunate,a unfortunately,r
+ precise,a precisely,r usual,a usually,r
+ precise,a precisely,r amazing,a amazingly,r
+ precise,a precisely,r apparent,a apparently,r
+ precise,a precisely,r calm,a calmly,r
+ precise,a precisely,r cheerful,a cheerfully,r
+ precise,a precisely,r complete,a completely,r
+ precise,a precisely,r efficient,a efficiently,r
+ precise,a precisely,r fortunate,a fortunately,r
+ precise,a precisely,r free,a freely,r
+ precise,a precisely,r furious,a furiously,r
+ precise,a precisely,r happy,a happily,r
+ precise,a precisely,r immediate,a immediately,r
+ precise,a precisely,r infrequent,a infrequently,r
+ precise,a precisely,r lucky,a luckily,r
+ precise,a precisely,r most,a mostly,r
+ precise,a precisely,r obvious,a obviously,r
+ precise,a precisely,r occasional,a occasionally,r
+ precise,a precisely,r possible,a possibly,r
  professional,a professionally,r quick,a quickly,r
  professional,a professionally,r quiet,a quietly,r
- professional,a professionally,r rapid,v rapidly,r
+ professional,a professionally,r rapid,a rapidly,r
  professional,a professionally,r rare,a rarely,r
  professional,a professionally,r reluctant,a reluctantly,r
  professional,a professionally,r safe,a safely,r
  professional,a professionally,r serious,a seriously,r
- professional,a professionally,r slow,a slowly,n
+ professional,a professionally,r slow,a slowly,r
  professional,a professionally,r sudden,a suddenly,r
- professional,a professionally,r swift,v swiftly,r
+ professional,a professionally,r swift,a swiftly,r
  professional,a professionally,r typical,a typically,r
  professional,a professionally,r unfortunate,a unfortunately,r
  professional,a professionally,r usual,a usually,r
  professional,a professionally,r amazing,a amazingly,r
  professional,a professionally,r apparent,a apparently,r
- professional,a professionally,r calm,v calmly,n
+ professional,a professionally,r calm,a calmly,r
  professional,a professionally,r cheerful,a cheerfully,r
  professional,a professionally,r complete,a completely,r
  professional,a professionally,r efficient,a efficiently,r
- professional,a professionally,r fortunate,v fortunately,r
+ professional,a professionally,r fortunate,a fortunately,r
  professional,a professionally,r free,a freely,r
  professional,a professionally,r furious,a furiously,r
  professional,a professionally,r happy,a happily,r
- professional,a professionally,r immediate,v immediately,r
+ professional,a professionally,r immediate,a immediately,r
  professional,a professionally,r infrequent,a infrequently,r
  professional,a professionally,r lucky,a luckily,r
  professional,a professionally,r most,a mostly,r
  professional,a professionally,r obvious,a obviously,r
  professional,a professionally,r occasional,a occasionally,r
  professional,a professionally,r possible,a possibly,r
- professional,a professionally,r precise,v precisely,r
+ professional,a professionally,r precise,a precisely,r
  quick,a quickly,r quiet,a quietly,r
- quick,a quickly,r rapid,v rapidly,r
- quick,a quickly,r rare,v rarely,r
+ quick,a quickly,r rapid,a rapidly,r
+ quick,a quickly,r rare,a rarely,r
  quick,a quickly,r reluctant,a reluctantly,r
  quick,a quickly,r safe,a safely,r
  quick,a quickly,r serious,a seriously,r
- quick,a quickly,r slow,v slowly,r
+ quick,a quickly,r slow,a slowly,r
  quick,a quickly,r sudden,a suddenly,r
- quick,a quickly,r swift,v swiftly,r
+ quick,a quickly,r swift,a swiftly,r
  quick,a quickly,r typical,a typically,r
- quick,a quickly,r unfortunate,v unfortunately,r
+ quick,a quickly,r unfortunate,a unfortunately,r
  quick,a quickly,r usual,a usually,r
- quick,a quickly,r amaze,v amazingly,r
- quick,a quickly,r apparent,n apparently,r
- quick,a quickly,r calm,v calmly,n
- quick,a quickly,r cheerful,v cheerfully,r
+ quick,a quickly,r amazing,a amazingly,r
+ quick,a quickly,r apparent,a apparently,r
+ quick,a quickly,r calm,a calmly,r
+ quick,a quickly,r cheerful,a cheerfully,r
  quick,a quickly,r complete,a completely,r
- quick,a quickly,r efficient,n efficiently,r
- quick,a quickly,r fortunate,v fortunately,r
+ quick,a quickly,r efficient,a efficiently,r
+ quick,a quickly,r fortunate,a fortunately,r
  quick,a quickly,r free,a freely,r
  quick,a quickly,r furious,a furiously,r
  quick,a quickly,r happy,a happily,r
- quick,a quickly,r immediate,v immediately,r
- quick,a quickly,r infrequent,n infrequently,r
+ quick,a quickly,r immediate,a immediately,r
+ quick,a quickly,r infrequent,a infrequently,r
  quick,a quickly,r lucky,a luckily,r
  quick,a quickly,r most,a mostly,r
  quick,a quickly,r obvious,a obviously,r
  quick,a quickly,r occasional,a occasionally,r
  quick,a quickly,r possible,a possibly,r
- quick,a quickly,r precise,v precisely,r
+ quick,a quickly,r precise,a precisely,r
  quick,a quickly,r professional,a professionally,r
- quiet,a quietly,r rapid,v rapidly,r
- quiet,a quietly,r rare,v rarely,r
+ quiet,a quietly,r rapid,a rapidly,r
+ quiet,a quietly,r rare,a rarely,r
  quiet,a quietly,r reluctant,a reluctantly,r
  quiet,a quietly,r safe,a safely,r
  quiet,a quietly,r serious,a seriously,r
- quiet,a quietly,r slow,a slowly,n
+ quiet,a quietly,r slow,a slowly,r
  quiet,a quietly,r sudden,a suddenly,r
- quiet,a quietly,r swift,v swiftly,r
+ quiet,a quietly,r swift,a swiftly,r
  quiet,a quietly,r typical,a typically,r
- quiet,a quietly,r unfortunate,v unfortunately,r
+ quiet,a quietly,r unfortunate,a unfortunately,r
  quiet,a quietly,r usual,a usually,r
- quiet,a quietly,r amaze,v amazingly,r
+ quiet,a quietly,r amazing,a amazingly,r
  quiet,a quietly,r apparent,a apparently,r
- quiet,a quietly,r calm,v calmly,n
+ quiet,a quietly,r calm,a calmly,r
  quiet,a quietly,r cheerful,a cheerfully,r
  quiet,a quietly,r complete,a completely,r
- quiet,a quietly,r efficient,v efficiently,r
- quiet,a quietly,r fortunate,v fortunately,r
+ quiet,a quietly,r efficient,a efficiently,r
+ quiet,a quietly,r fortunate,a fortunately,r
  quiet,a quietly,r free,a freely,r
  quiet,a quietly,r furious,a furiously,r
  quiet,a quietly,r happy,a happily,r
- quiet,a quietly,r immediate,v immediately,r
- quiet,a quietly,r infrequent,v infrequently,r
+ quiet,a quietly,r immediate,a immediately,r
+ quiet,a quietly,r infrequent,a infrequently,r
  quiet,a quietly,r lucky,a luckily,r
  quiet,a quietly,r most,a mostly,r
  quiet,a quietly,r obvious,a obviously,r
  quiet,a quietly,r occasional,a occasionally,r
  quiet,a quietly,r possible,a possibly,r
- quiet,a quietly,r precise,v precisely,r
+ quiet,a quietly,r precise,a precisely,r
  quiet,a quietly,r professional,a professionally,r
  quiet,a quietly,r quick,a quickly,r
- rapid,a rapidly,r rare,v rarely,r
+ rapid,a rapidly,r rare,a rarely,r
  rapid,a rapidly,r reluctant,a reluctantly,r
  rapid,a rapidly,r safe,a safely,r
  rapid,a rapidly,r serious,a seriously,r
- rapid,a rapidly,r slow,a slowly,n
+ rapid,a rapidly,r slow,a slowly,r
  rapid,a rapidly,r sudden,a suddenly,r
- rapid,a rapidly,r swift,v swiftly,r
+ rapid,a rapidly,r swift,a swiftly,r
  rapid,a rapidly,r typical,a typically,r
- rapid,a rapidly,r unfortunate,v unfortunately,r
+ rapid,a rapidly,r unfortunate,a unfortunately,r
  rapid,a rapidly,r usual,a usually,r
- rapid,a rapidly,r amaze,v amazingly,r
+ rapid,a rapidly,r amazing,a amazingly,r
  rapid,a rapidly,r apparent,a apparently,r
- rapid,a rapidly,r calm,v calmly,n
+ rapid,a rapidly,r calm,a calmly,r
  rapid,a rapidly,r cheerful,a cheerfully,r
  rapid,a rapidly,r complete,a completely,r
  rapid,a rapidly,r efficient,a efficiently,r
- rapid,a rapidly,r fortunate,v fortunately,r
- rapid,n rapidly,r free,v freely,r
+ rapid,a rapidly,r fortunate,a fortunately,r
+ rapid,a rapidly,r free,a freely,r
  rapid,a rapidly,r furious,a furiously,r
  rapid,a rapidly,r happy,a happily,r
- rapid,a rapidly,r immediate,v immediately,r
+ rapid,a rapidly,r immediate,a immediately,r
  rapid,a rapidly,r infrequent,a infrequently,r
  rapid,a rapidly,r lucky,a luckily,r
  rapid,a rapidly,r most,a mostly,r
  rapid,a rapidly,r obvious,a obviously,r
  rapid,a rapidly,r occasional,a occasionally,r
  rapid,a rapidly,r possible,a possibly,r
- rapid,a rapidly,r precise,v precisely,r
+ rapid,a rapidly,r precise,a precisely,r
  rapid,a rapidly,r professional,a professionally,r
  rapid,a rapidly,r quick,a quickly,r
  rapid,a rapidly,r quiet,a quietly,r
- rare,a rarely,r reluctant,a reluctantly,n
+ rare,a rarely,r reluctant,a reluctantly,r
  rare,a rarely,r safe,a safely,r
  rare,a rarely,r serious,a seriously,r
- rare,a rarely,r slow,a slowly,n
+ rare,a rarely,r slow,a slowly,r
  rare,a rarely,r sudden,a suddenly,r
- rare,a rarely,r swift,v swiftly,r
+ rare,a rarely,r swift,a swiftly,r
  rare,a rarely,r typical,a typically,r
  rare,a rarely,r unfortunate,a unfortunately,r
  rare,a rarely,r usual,a usually,r
  rare,a rarely,r amazing,a amazingly,r
  rare,a rarely,r apparent,a apparently,r
- rare,a rarely,r calm,v calmly,n
+ rare,a rarely,r calm,a calmly,r
  rare,a rarely,r cheerful,a cheerfully,r
  rare,a rarely,r complete,a completely,r
  rare,a rarely,r efficient,a efficiently,r
- rare,a rarely,r fortunate,v fortunately,r
+ rare,a rarely,r fortunate,a fortunately,r
  rare,a rarely,r free,a freely,r
  rare,a rarely,r furious,a furiously,r
- rare,a rarely,r happy,a happily,n
- rare,a rarely,r immediate,v immediately,r
- rare,a rarely,r infrequent,n infrequently,r
+ rare,a rarely,r happy,a happily,r
+ rare,a rarely,r immediate,a immediately,r
+ rare,a rarely,r infrequent,a infrequently,r
  rare,a rarely,r lucky,a luckily,r
  rare,a rarely,r most,a mostly,r
  rare,a rarely,r obvious,a obviously,r
  rare,a rarely,r occasional,a occasionally,r
  rare,a rarely,r possible,a possibly,r
- rare,a rarely,r precise,v precisely,r
- rare,a rarely,r professional,a professionally,n
+ rare,a rarely,r precise,a precisely,r
+ rare,a rarely,r professional,a professionally,r
  rare,a rarely,r quick,a quickly,r
  rare,a rarely,r quiet,a quietly,r
  rare,a rarely,r rapid,a rapidly,r
  reluctant,a reluctantly,r safe,a safely,r
  reluctant,a reluctantly,r serious,a seriously,r
- reluctant,a reluctantly,r slow,a slowly,n
+ reluctant,a reluctantly,r slow,a slowly,r
  reluctant,a reluctantly,r sudden,a suddenly,r
- reluctant,a reluctantly,r swift,v swiftly,r
+ reluctant,a reluctantly,r swift,a swiftly,r
  reluctant,a reluctantly,r typical,a typically,r
- reluctant,a reluctantly,r unfortunate,v unfortunately,r
+ reluctant,a reluctantly,r unfortunate,a unfortunately,r
  reluctant,a reluctantly,r usual,a usually,r
- reluctant,a reluctantly,r amaze,v amazingly,r
+ reluctant,a reluctantly,r amazing,a amazingly,r
  reluctant,a reluctantly,r apparent,a apparently,r
- reluctant,a reluctantly,r calm,v calmly,n
+ reluctant,a reluctantly,r calm,a calmly,r
  reluctant,a reluctantly,r cheerful,a cheerfully,r
  reluctant,a reluctantly,r complete,a completely,r
- reluctant,a reluctantly,r efficient,v efficiently,r
- reluctant,a reluctantly,r fortunate,v fortunately,r
+ reluctant,a reluctantly,r efficient,a efficiently,r
+ reluctant,a reluctantly,r fortunate,a fortunately,r
  reluctant,a reluctantly,r free,a freely,r
  reluctant,a reluctantly,r furious,a furiously,r
  reluctant,a reluctantly,r happy,a happily,r
- reluctant,a reluctantly,r immediate,v immediately,r
- reluctant,a reluctantly,r infrequent,v infrequently,r
+ reluctant,a reluctantly,r immediate,a immediately,r
+ reluctant,a reluctantly,r infrequent,a infrequently,r
  reluctant,a reluctantly,r lucky,a luckily,r
  reluctant,a reluctantly,r most,a mostly,r
  reluctant,a reluctantly,r obvious,a obviously,r
  reluctant,a reluctantly,r occasional,a occasionally,r
  reluctant,a reluctantly,r possible,a possibly,r
- reluctant,a reluctantly,r precise,v precisely,r
+ reluctant,a reluctantly,r precise,a precisely,r
  reluctant,a reluctantly,r professional,a professionally,r
  reluctant,a reluctantly,r quick,a quickly,r
  reluctant,a reluctantly,r quiet,a quietly,r
- reluctant,a reluctantly,r rapid,v rapidly,r
- reluctant,a reluctantly,r rare,v rarely,r
+ reluctant,a reluctantly,r rapid,a rapidly,r
+ reluctant,a reluctantly,r rare,a rarely,r
  safe,a safely,r serious,a seriously,r
- safe,a safely,r slow,a slowly,n
+ safe,a safely,r slow,a slowly,r
  safe,a safely,r sudden,a suddenly,r
- safe,a safely,r swift,v swiftly,r
+ safe,a safely,r swift,a swiftly,r
  safe,a safely,r typical,a typically,r
  safe,a safely,r unfortunate,a unfortunately,r
  safe,a safely,r usual,a usually,r
  safe,a safely,r amazing,a amazingly,r
  safe,a safely,r apparent,a apparently,r
- safe,a safely,r calm,a calmly,n
+ safe,a safely,r calm,a calmly,r
  safe,a safely,r cheerful,a cheerfully,r
  safe,a safely,r complete,a completely,r
  safe,a safely,r efficient,a efficiently,r
- safe,a safely,r fortunate,v fortunately,r
+ safe,a safely,r fortunate,a fortunately,r
  safe,a safely,r free,a freely,r
  safe,a safely,r furious,a furiously,r
  safe,a safely,r happy,a happily,r
- safe,a safely,r immediate,v immediately,r
+ safe,a safely,r immediate,a immediately,r
  safe,a safely,r infrequent,a infrequently,r
  safe,a safely,r lucky,a luckily,r
  safe,a safely,r most,a mostly,r
  safe,a safely,r obvious,a obviously,r
  safe,a safely,r occasional,a occasionally,r
  safe,a safely,r possible,a possibly,r
- safe,a safely,r precise,v precisely,r
+ safe,a safely,r precise,a precisely,r
  safe,a safely,r professional,a professionally,r
  safe,a safely,r quick,a quickly,r
  safe,a safely,r quiet,a quietly,r
  safe,a safely,r rapid,a rapidly,r
  safe,a safely,r rare,a rarely,r
  safe,a safely,r reluctant,a reluctantly,r
- serious,a seriously,r slow,a slowly,n
+ serious,a seriously,r slow,a slowly,r
  serious,a seriously,r sudden,a suddenly,r
- serious,a seriously,r swift,v swiftly,r
+ serious,a seriously,r swift,a swiftly,r
  serious,a seriously,r typical,a typically,r
  serious,a seriously,r unfortunate,a unfortunately,r
  serious,a seriously,r usual,a usually,r
- serious,a seriously,r amaze,v amazingly,r
+ serious,a seriously,r amazing,a amazingly,r
  serious,a seriously,r apparent,a apparently,r
- serious,a seriously,r calm,a calmly,n
+ serious,a seriously,r calm,a calmly,r
  serious,a seriously,r cheerful,a cheerfully,r
  serious,a seriously,r complete,a completely,r
  serious,a seriously,r efficient,a efficiently,r
- serious,a seriously,r fortunate,v fortunately,r
+ serious,a seriously,r fortunate,a fortunately,r
  serious,a seriously,r free,a freely,r
  serious,a seriously,r furious,a furiously,r
  serious,a seriously,r happy,a happily,r
- serious,a seriously,r immediate,v immediately,r
+ serious,a seriously,r immediate,a immediately,r
  serious,a seriously,r infrequent,a infrequently,r
  serious,a seriously,r lucky,a luckily,r
  serious,a seriously,r most,a mostly,r
  serious,a seriously,r obvious,a obviously,r
  serious,a seriously,r occasional,a occasionally,r
  serious,a seriously,r possible,a possibly,r
- serious,a seriously,r precise,v precisely,r
+ serious,a seriously,r precise,a precisely,r
  serious,a seriously,r professional,a professionally,r
  serious,a seriously,r quick,a quickly,r
  serious,a seriously,r quiet,a quietly,r
- serious,a seriously,r rapid,v rapidly,r
+ serious,a seriously,r rapid,a rapidly,r
  serious,a seriously,r rare,a rarely,r
  serious,a seriously,r reluctant,a reluctantly,r
  serious,a seriously,r safe,a safely,r
  slow,a slowly,r sudden,a suddenly,r
- slow,a slowly,r swift,v swiftly,r
+ slow,a slowly,r swift,a swiftly,r
  slow,a slowly,r typical,a typically,r
  slow,a slowly,r unfortunate,a unfortunately,r
  slow,a slowly,r usual,a usually,r
  slow,a slowly,r amazing,a amazingly,r
  slow,a slowly,r apparent,a apparently,r
- slow,a slowly,r calm,a calmly,n
+ slow,a slowly,r calm,a calmly,r
  slow,a slowly,r cheerful,a cheerfully,r
  slow,a slowly,r complete,a completely,r
  slow,a slowly,r efficient,a efficiently,r
- slow,a slowly,r fortunate,v fortunately,r
+ slow,a slowly,r fortunate,a fortunately,r
  slow,a slowly,r free,a freely,r
  slow,a slowly,r furious,a furiously,r
  slow,a slowly,r happy,a happily,r
- slow,a slowly,r immediate,v immediately,r
- slow,a slowly,r infrequent,n infrequently,r
+ slow,a slowly,r immediate,a immediately,r
+ slow,a slowly,r infrequent,a infrequently,r
  slow,a slowly,r lucky,a luckily,r
  slow,a slowly,r most,a mostly,r
  slow,a slowly,r obvious,a obviously,r
  slow,a slowly,r occasional,a occasionally,r
  slow,a slowly,r possible,a possibly,r
- slow,a slowly,r precise,v precisely,r
+ slow,a slowly,r precise,a precisely,r
  slow,a slowly,r professional,a professionally,r
  slow,a slowly,r quick,a quickly,r
  slow,a slowly,r quiet,a quietly,r
@@ -836,118 +836,118 @@
  slow,a slowly,r reluctant,a reluctantly,r
  slow,a slowly,r safe,a safely,r
  slow,a slowly,r serious,a seriously,r
- sudden,a suddenly,r swift,v swiftly,r
+ sudden,a suddenly,r swift,a swiftly,r
  sudden,a suddenly,r typical,a typically,r
- sudden,a suddenly,r unfortunate,v unfortunately,r
+ sudden,a suddenly,r unfortunate,a unfortunately,r
  sudden,a suddenly,r usual,a usually,r
- sudden,a suddenly,r amaze,v amazingly,r
- sudden,a suddenly,r apparent,v apparently,r
- sudden,a suddenly,r calm,v calmly,n
- sudden,a suddenly,r cheerful,v cheerfully,r
- sudden,a suddenly,r complete,v completely,r
- sudden,a suddenly,r efficient,v efficiently,r
- sudden,a suddenly,r fortunate,v fortunately,r
+ sudden,a suddenly,r amazing,a amazingly,r
+ sudden,a suddenly,r apparent,a apparently,r
+ sudden,a suddenly,r calm,a calmly,r
+ sudden,a suddenly,r cheerful,a cheerfully,r
+ sudden,a suddenly,r complete,a completely,r
+ sudden,a suddenly,r efficient,a efficiently,r
+ sudden,a suddenly,r fortunate,a fortunately,r
  sudden,a suddenly,r free,a freely,r
  sudden,a suddenly,r furious,a furiously,r
  sudden,a suddenly,r happy,a happily,r
- sudden,a suddenly,r immediate,v immediately,r
- sudden,a suddenly,r infrequent,v infrequently,r
+ sudden,a suddenly,r immediate,a immediately,r
+ sudden,a suddenly,r infrequent,a infrequently,r
  sudden,a suddenly,r lucky,a luckily,r
  sudden,a suddenly,r most,a mostly,r
  sudden,a suddenly,r obvious,a obviously,r
  sudden,a suddenly,r occasional,a occasionally,r
  sudden,a suddenly,r possible,a possibly,r
- sudden,a suddenly,r precise,v precisely,r
+ sudden,a suddenly,r precise,a precisely,r
  sudden,a suddenly,r professional,a professionally,r
  sudden,a suddenly,r quick,a quickly,r
  sudden,a suddenly,r quiet,a quietly,r
- sudden,a suddenly,r rapid,v rapidly,r
- sudden,a suddenly,r rare,v rarely,r
- sudden,a suddenly,r reluctant,v reluctantly,r
+ sudden,a suddenly,r rapid,a rapidly,r
+ sudden,a suddenly,r rare,a rarely,r
+ sudden,a suddenly,r reluctant,a reluctantly,r
  sudden,a suddenly,r safe,a safely,r
  sudden,a suddenly,r serious,a seriously,r
- sudden,a suddenly,r slow,v slowly,r
- swift,n swiftly,r typical,a typically,r
- swift,n swiftly,r unfortunate,a unfortunately,r
- swift,n swiftly,r usual,a usually,r
- swift,n swiftly,r amazing,a amazingly,r
- swift,n swiftly,r apparent,a apparently,r
- swift,n swiftly,r calm,v calmly,n
- swift,n swiftly,r cheerful,a cheerfully,r
- swift,n swiftly,r complete,a completely,r
- swift,n swiftly,r efficient,v efficiently,r
- swift,n swiftly,r fortunate,v fortunately,r
- swift,n swiftly,r free,a freely,r
- swift,n swiftly,r furious,a furiously,r
- swift,n swiftly,r happy,a happily,r
- swift,n swiftly,r immediate,a immediately,r
- swift,n swiftly,r infrequent,a infrequently,r
- swift,n swiftly,r lucky,a luckily,r
- swift,r swiftly,r most,a mostly,r
- swift,n swiftly,r obvious,a obviously,r
- swift,n swiftly,r occasional,a occasionally,r
- swift,n swiftly,r possible,a possibly,r
- swift,n swiftly,r precise,v precisely,r
- swift,n swiftly,r professional,a professionally,r
- swift,n swiftly,r quick,a quickly,r
- swift,n swiftly,r quiet,a quietly,r
- swift,n swiftly,r rapid,v rapidly,r
- swift,n swiftly,r rare,a rarely,r
- swift,n swiftly,r reluctant,a reluctantly,r
- swift,n swiftly,r safe,a safely,r
- swift,n swiftly,r serious,a seriously,r
- swift,r swiftly,r slow,a slowly,n
- swift,n swiftly,r sudden,v suddenly,r
+ sudden,a suddenly,r slow,a slowly,r
+ swift,a swiftly,r typical,a typically,r
+ swift,a swiftly,r unfortunate,a unfortunately,r
+ swift,a swiftly,r usual,a usually,r
+ swift,a swiftly,r amazing,a amazingly,r
+ swift,a swiftly,r apparent,a apparently,r
+ swift,a swiftly,r calm,a calmly,r
+ swift,a swiftly,r cheerful,a cheerfully,r
+ swift,a swiftly,r complete,a completely,r
+ swift,a swiftly,r efficient,a efficiently,r
+ swift,a swiftly,r fortunate,a fortunately,r
+ swift,a swiftly,r free,a freely,r
+ swift,a swiftly,r furious,a furiously,r
+ swift,a swiftly,r happy,a happily,r
+ swift,a swiftly,r immediate,a immediately,r
+ swift,a swiftly,r infrequent,a infrequently,r
+ swift,a swiftly,r lucky,a luckily,r
+ swift,a swiftly,r most,a mostly,r
+ swift,a swiftly,r obvious,a obviously,r
+ swift,a swiftly,r occasional,a occasionally,r
+ swift,a swiftly,r possible,a possibly,r
+ swift,a swiftly,r precise,a precisely,r
+ swift,a swiftly,r professional,a professionally,r
+ swift,a swiftly,r quick,a quickly,r
+ swift,a swiftly,r quiet,a quietly,r
+ swift,a swiftly,r rapid,a rapidly,r
+ swift,a swiftly,r rare,a rarely,r
+ swift,a swiftly,r reluctant,a reluctantly,r
+ swift,a swiftly,r safe,a safely,r
+ swift,a swiftly,r serious,a seriously,r
+ swift,a swiftly,r slow,a slowly,r
+ swift,a swiftly,r sudden,a suddenly,r
  typical,a typically,r unfortunate,a unfortunately,r
  typical,a typically,r usual,a usually,r
- typical,a typically,r amaze,v amazingly,r
+ typical,a typically,r amazing,a amazingly,r
  typical,a typically,r apparent,a apparently,r
- typical,a typically,r calm,v calmly,n
+ typical,a typically,r calm,a calmly,r
  typical,a typically,r cheerful,a cheerfully,r
  typical,a typically,r complete,a completely,r
  typical,a typically,r efficient,a efficiently,r
- typical,a typically,r fortunate,v fortunately,r
+ typical,a typically,r fortunate,a fortunately,r
  typical,a typically,r free,a freely,r
  typical,a typically,r furious,a furiously,r
  typical,a typically,r happy,a happily,r
- typical,a typically,r immediate,v immediately,r
+ typical,a typically,r immediate,a immediately,r
  typical,a typically,r infrequent,a infrequently,r
  typical,a typically,r lucky,a luckily,r
  typical,a typically,r most,a mostly,r
  typical,a typically,r obvious,a obviously,r
  typical,a typically,r occasional,a occasionally,r
  typical,a typically,r possible,a possibly,r
- typical,a typically,r precise,v precisely,r
+ typical,a typically,r precise,a precisely,r
  typical,a typically,r professional,a professionally,r
  typical,a typically,r quick,a quickly,r
  typical,a typically,r quiet,a quietly,r
- typical,a typically,r rapid,v rapidly,r
+ typical,a typically,r rapid,a rapidly,r
  typical,a typically,r rare,a rarely,r
  typical,a typically,r reluctant,a reluctantly,r
  typical,a typically,r safe,a safely,r
  typical,a typically,r serious,a seriously,r
  typical,a typically,r slow,a slowly,r
  typical,a typically,r sudden,a suddenly,r
- typical,a typically,r swift,v swiftly,r
+ typical,a typically,r swift,a swiftly,r
  unfortunate,a unfortunately,r usual,a usually,r
- unfortunate,a unfortunately,r amaze,v amazingly,r
+ unfortunate,a unfortunately,r amazing,a amazingly,r
  unfortunate,a unfortunately,r apparent,a apparently,r
- unfortunate,a unfortunately,r calm,v calmly,n
+ unfortunate,a unfortunately,r calm,a calmly,r
  unfortunate,a unfortunately,r cheerful,a cheerfully,r
  unfortunate,a unfortunately,r complete,a completely,r
  unfortunate,a unfortunately,r efficient,a efficiently,r
- unfortunate,a unfortunately,r fortunate,v fortunately,r
+ unfortunate,a unfortunately,r fortunate,a fortunately,r
  unfortunate,a unfortunately,r free,a freely,r
  unfortunate,a unfortunately,r furious,a furiously,r
  unfortunate,a unfortunately,r happy,a happily,r
- unfortunate,a unfortunately,r immediate,v immediately,r
+ unfortunate,a unfortunately,r immediate,a immediately,r
  unfortunate,a unfortunately,r infrequent,a infrequently,r
  unfortunate,a unfortunately,r lucky,a luckily,r
  unfortunate,a unfortunately,r most,a mostly,r
  unfortunate,a unfortunately,r obvious,a obviously,r
- unfortunate,a unfortunately,a occasional,a occasionally,r
+ unfortunate,a unfortunately,r occasional,a occasionally,r
  unfortunate,a unfortunately,r possible,a possibly,r
- unfortunate,a unfortunately,r precise,v precisely,r
+ unfortunate,a unfortunately,r precise,a precisely,r
  unfortunate,a unfortunately,r professional,a professionally,r
  unfortunate,a unfortunately,r quick,a quickly,r
  unfortunate,a unfortunately,r quiet,a quietly,r
@@ -956,38 +956,38 @@
  unfortunate,a unfortunately,r reluctant,a reluctantly,r
  unfortunate,a unfortunately,r safe,a safely,r
  unfortunate,a unfortunately,r serious,a seriously,r
- unfortunate,a unfortunately,r slow,a slowly,n
+ unfortunate,a unfortunately,r slow,a slowly,r
  unfortunate,a unfortunately,r sudden,a suddenly,r
- unfortunate,a unfortunately,r swift,v swiftly,r
+ unfortunate,a unfortunately,r swift,a swiftly,r
  unfortunate,a unfortunately,r typical,a typically,r
- usual,a usually,r amaze,v amazingly,r
- usual,a usually,r apparent,v apparently,r
- usual,a usually,r calm,v calmly,n
- usual,a usually,r cheerful,v cheerfully,r
- usual,a usually,r complete,v completely,r
- usual,a usually,r efficient,v efficiently,r
- usual,a usually,r fortunate,v fortunately,r
- usual,a usually,r free,v freely,r
+ usual,a usually,r amazing,a amazingly,r
+ usual,a usually,r apparent,a apparently,r
+ usual,a usually,r calm,a calmly,r
+ usual,a usually,r cheerful,a cheerfully,r
+ usual,a usually,r complete,a completely,r
+ usual,a usually,r efficient,a efficiently,r
+ usual,a usually,r fortunate,a fortunately,r
+ usual,a usually,r free,a freely,r
  usual,a usually,r furious,a furiously,r
  usual,a usually,r happy,a happily,r
- usual,a usually,r immediate,v immediately,r
- usual,a usually,r infrequent,v infrequently,r
+ usual,a usually,r immediate,a immediately,r
+ usual,a usually,r infrequent,a infrequently,r
  usual,a usually,r lucky,a luckily,r
  usual,a usually,r most,a mostly,r
  usual,a usually,r obvious,a obviously,r
  usual,a usually,r occasional,a occasionally,r
  usual,a usually,r possible,a possibly,r
- usual,a usually,r precise,v precisely,r
+ usual,a usually,r precise,a precisely,r
  usual,a usually,r professional,a professionally,r
  usual,a usually,r quick,a quickly,r
  usual,a usually,r quiet,a quietly,r
- usual,a usually,r rapid,v rapidly,r
- usual,a usually,r rare,v rarely,r
- usual,a usually,r reluctant,v reluctantly,r
- usual,a usually,r safe,v safely,r
+ usual,a usually,r rapid,a rapidly,r
+ usual,a usually,r rare,a rarely,r
+ usual,a usually,r reluctant,a reluctantly,r
+ usual,a usually,r safe,a safely,r
  usual,a usually,r serious,a seriously,r
- usual,a usually,r slow,v slowly,r
+ usual,a usually,r slow,a slowly,r
  usual,a usually,r sudden,a suddenly,r
- usual,a usually,r swift,v swiftly,r
+ usual,a usually,r swift,a swiftly,r
  usual,a usually,r typical,a typically,r
- usual,a usually,r unfortunate,v unfortunately,r
+ usual,a usually,r unfortunate,a unfortunately,r

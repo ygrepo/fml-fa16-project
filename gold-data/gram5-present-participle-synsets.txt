@@ -1,45 +1,45 @@
 : gram5-present-participle
-code%2:32:00:: dance%2:36:00:: dance%2:36:00::
-code%2:32:00:: debug%2:30:00:: debug%2:30:00::
-code%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
-code%2:32:00:: describe%2:32:00:: describe%2:32:00::
-code%2:32:00:: discover%2:36:00:: discover%2:36:00::
-code%2:32:00::
-code%2:32:00:: fly%2:39:00:: fly%2:39:00::
-code%2:32:00:: generate%2:36:00:: generate%2:36:00::
-code%2:32:00:: go%2:30:08:: go%2:30:08::
-code%2:32:00::
-code%2:32:00:: increase%2:30:02:: increase%2:30:02::
-code%2:32:00:: invent%2:36:01:: invent%2:36:01::
-code%2:32:00:: jump%2:38:11:: jump%2:38:11::
-code%2:32:00:: listen%2:39:00:: listen%2:39:00::
-code%2:32:00:: look%2:39:00:: look%2:39:00::
-code%2:32:00:: move%2:38:00:: move%2:38:00::
-code%2:32:00:: play%2:36:00:: play%2:36:00::
-code%2:32:00:: predict%2:32:00:: predict%2:32:00::
-code%2:32:00:: read%2:31:00:: read%2:31:00::
-code%2:32:00:: run%2:38:04:: run%2:38:04::
-code%2:32:00:: say%2:32:00:: say%2:32:00::
-code%2:32:00:: scream%2:32:01:: scream%2:32:01::
-code%2:32:00:: see%2:39:00:: see%2:39:00::
-code%2:32:00:: shuffle%2:35:00:: shuffle%2:35:00::
-code%2:32:00:: sing%2:36:00:: sing%2:36:00::
-code%2:32:00:: sit%2:35:00:: sit%2:35:00::
-code%2:32:00:: slow%2:30:01:: slow%2:30:01::
-code%2:32:00:: swim%2:38:00:: swim%2:38:00::
-code%2:32:00:: think%2:31:00:: think%2:31:00::
-code%2:32:00::
-code%2:32:00:: walk%2:38:00:: walk%2:38:00::
-code%2:32:00:: write%2:36:04:: write%2:36:04::
+code%2:32:00:: cod dance%2:36:00:: dance%2:36:00::
+code%2:32:00:: cod debug%2:30:00:: debug%2:30:00::
+code%2:32:00:: cod decrease%2:30:00:: decrease%2:30:00::
+code%2:32:00:: cod describe%2:32:00:: describe%2:32:00::
+code%2:32:00:: cod discover%2:36:00:: discover%2:36:00::
+code%2:32:00:: cod enhance enhance
+code%2:32:00:: cod fly%2:39:00:: fly%2:39:00::
+code%2:32:00:: cod generate%2:36:00:: generate%2:36:00::
+code%2:32:00:: cod go%2:30:08:: go%2:30:08::
+code%2:32:00:: cod implement implement
+code%2:32:00:: cod increase%2:30:02:: increase%2:30:02::
+code%2:32:00:: cod invent%2:36:01:: invent%2:36:01::
+code%2:32:00:: cod jump%2:38:11:: jump%2:38:11::
+code%2:32:00:: cod listen%2:39:00:: listen%2:39:00::
+code%2:32:00:: cod look%2:39:00:: look%2:39:00::
+code%2:32:00:: cod move%2:38:00:: move%2:38:00::
+code%2:32:00:: cod play%2:36:00:: play%2:36:00::
+code%2:32:00:: cod predict%2:32:00:: predict%2:32:00::
+code%2:32:00:: cod read%2:31:00:: read%2:31:00::
+code%2:32:00:: cod run%2:38:04:: run%2:38:04::
+code%2:32:00:: cod say%2:32:00:: say%2:32:00::
+code%2:32:00:: cod scream%2:32:01:: scream%2:32:01::
+code%2:32:00:: cod see%2:39:00:: see%2:39:00::
+code%2:32:00:: cod shuffle%2:35:00:: shuffle%2:35:00::
+code%2:32:00:: cod sing%2:36:00:: sing%2:36:00::
+code%2:32:00:: cod sit%2:35:00:: sit%2:35:00::
+code%2:32:00:: cod slow%2:30:01:: slow%2:30:01::
+code%2:32:00:: cod swim%2:38:00:: swim%2:38:00::
+code%2:32:00:: cod think%2:31:00:: think%2:31:00::
+code%2:32:00:: cod vanish vanish
+code%2:32:00:: cod walk%2:38:00:: walk%2:38:00::
+code%2:32:00:: cod write%2:36:04:: write%2:36:04::
 dance%2:36:00:: dance%2:36:00:: debug%2:30:00:: debug%2:30:00::
 dance%2:36:00:: dance%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 dance%2:36:00:: dance%2:36:00:: describe%2:32:00:: describe%2:32:00::
 dance%2:36:00:: dance%2:36:00:: discover%2:36:00:: discover%2:36:00::
-dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: enhance enhance
 dance%2:36:00:: dance%2:36:00:: fly%2:39:00:: fly%2:39:00::
 dance%2:36:00:: dance%2:36:00:: generate%2:36:00:: generate%2:36:00::
 dance%2:36:00:: dance%2:36:00:: go%2:30:08:: go%2:30:08::
-dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: implement implement
 dance%2:36:00:: dance%2:36:00:: increase%2:30:02:: increase%2:30:02::
 dance%2:36:00:: dance%2:36:00:: invent%2:36:01:: invent%2:36:01::
 dance%2:36:00:: dance%2:36:00:: jump%2:38:11:: jump%2:38:11::
@@ -59,18 +59,18 @@ dance%2:36:00:: dance%2:36:00:: sit%2:35:00:: sit%2:35:00::
 dance%2:36:00:: dance%2:36:00:: slow%2:30:01:: slow%2:30:01::
 dance%2:36:00:: dance%2:36:00:: swim%2:38:00:: swim%2:38:00::
 dance%2:36:00:: dance%2:36:00:: think%2:31:00:: think%2:31:00::
-dance%2:36:00:: dance%2:36:00::
+dance%2:36:00:: dance%2:36:00:: vanish vanish
 dance%2:36:00:: dance%2:36:00:: walk%2:38:00:: walk%2:38:00::
 dance%2:36:00:: dance%2:36:00:: write%2:36:04:: write%2:36:04::
-dance%2:36:00:: dance%2:36:00:: code%2:32:00::
+dance%2:36:00:: dance%2:36:00:: code%2:32:00:: cod
 debug%2:30:00:: debug%2:30:00:: decrease%2:30:00:: decrease%2:30:00::
 debug%2:30:00:: debug%2:30:00:: describe%2:32:00:: describe%2:32:00::
 debug%2:30:00:: debug%2:30:00:: discover%2:36:00:: discover%2:36:00::
-debug%2:30:00:: debug%2:30:00::
+debug%2:30:00:: debug%2:30:00:: enhance enhance
 debug%2:30:00:: debug%2:30:00:: fly%2:39:00:: fly%2:39:00::
 debug%2:30:00:: debug%2:30:00:: generate%2:36:00:: generate%2:36:00::
 debug%2:30:00:: debug%2:30:00:: go%2:30:08:: go%2:30:08::
-debug%2:30:00:: debug%2:30:00::
+debug%2:30:00:: debug%2:30:00:: implement implement
 debug%2:30:00:: debug%2:30:00:: increase%2:30:02:: increase%2:30:02::
 debug%2:30:00:: debug%2:30:00:: invent%2:36:01:: invent%2:36:01::
 debug%2:30:00:: debug%2:30:00:: jump%2:38:11:: jump%2:38:11::
@@ -90,18 +90,18 @@ debug%2:30:00:: debug%2:30:00:: sit%2:35:00:: sit%2:35:00::
 debug%2:30:00:: debug%2:30:00:: slow%2:30:01:: slow%2:30:01::
 debug%2:30:00:: debug%2:30:00:: swim%2:38:00:: swim%2:38:00::
 debug%2:30:00:: debug%2:30:00:: think%2:31:00:: think%2:31:00::
-debug%2:30:00:: debug%2:30:00::
+debug%2:30:00:: debug%2:30:00:: vanish vanish
 debug%2:30:00:: debug%2:30:00:: walk%2:38:00:: walk%2:38:00::
 debug%2:30:00:: debug%2:30:00:: write%2:36:04:: write%2:36:04::
-debug%2:30:00:: debug%2:30:00:: code%2:32:00::
+debug%2:30:00:: debug%2:30:00:: code%2:32:00:: cod
 debug%2:30:00:: debug%2:30:00:: dance%2:36:00:: dance%2:36:00::
 decrease%2:30:00:: decrease%2:30:00:: describe%2:32:00:: describe%2:32:00::
 decrease%2:30:00:: decrease%2:30:00:: discover%2:36:00:: discover%2:36:00::
-decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: enhance enhance
 decrease%2:30:00:: decrease%2:30:00:: fly%2:30:00:: fly%2:30:00::
 decrease%2:30:00:: decrease%2:30:00:: generate%2:36:00:: generate%2:36:00::
 decrease%2:30:00:: decrease%2:30:00:: go%2:30:08:: go%2:30:08::
-decrease%2:30:00:: decrease%2:30:00::
+decrease%2:30:00:: decrease%2:30:00:: implement implement
 decrease%2:30:00:: decrease%2:30:00:: increase%2:30:00:: increase%2:30:00::
 decrease%2:30:00:: decrease%2:30:00:: invent%2:36:01:: invent%2:36:01::
 decrease%2:30:00:: decrease%2:30:00:: jump%2:38:11:: jump%2:38:11::
@@ -124,15 +124,15 @@ decrease%2:30:00:: decrease%2:30:00:: think%2:31:00:: think%2:31:00::
 decrease%2:30:00:: decrease%2:30:00:: vanish%2:30:01:: vanish%2:30:01::
 decrease%2:30:00:: decrease%2:30:00:: walk%2:38:00:: walk%2:38:00::
 decrease%2:30:00:: decrease%2:30:00:: write%2:36:04:: write%2:36:04::
-decrease%2:30:00:: decrease%2:30:00:: code%2:32:00::
+decrease%2:30:00:: decrease%2:30:00:: code%2:32:00:: cod
 decrease%2:30:00:: decrease%2:30:00:: dance%2:36:00:: dance%2:36:00::
 decrease%2:30:00:: decrease%2:30:00:: debug%2:30:00:: debug%2:30:00::
 describe%2:32:00:: describe%2:32:00:: discover%2:36:00:: discover%2:36:00::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: enhance enhance
 describe%2:32:00:: describe%2:32:00:: fly%2:39:00:: fly%2:39:00::
 describe%2:32:00:: describe%2:32:00:: generate%2:36:00:: generate%2:36:00::
 describe%2:32:00:: describe%2:32:00:: go%2:30:08:: go%2:30:08::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: implement implement
 describe%2:32:00:: describe%2:32:00:: increase%2:30:02:: increase%2:30:02::
 describe%2:32:00:: describe%2:32:00:: invent%2:36:01:: invent%2:36:01::
 describe%2:32:00:: describe%2:32:00:: jump%2:38:11:: jump%2:38:11::
@@ -152,18 +152,18 @@ describe%2:32:00:: describe%2:32:00:: sit%2:35:00:: sit%2:35:00::
 describe%2:32:00:: describe%2:32:00:: slow%2:30:01:: slow%2:30:01::
 describe%2:32:00:: describe%2:32:00:: swim%2:38:00:: swim%2:38:00::
 describe%2:32:00:: describe%2:32:00:: think%2:31:00:: think%2:31:00::
-describe%2:32:00:: describe%2:32:00::
+describe%2:32:00:: describe%2:32:00:: vanish vanish
 describe%2:32:00:: describe%2:32:00:: walk%2:38:00:: walk%2:38:00::
 describe%2:32:00:: describe%2:32:00:: write%2:36:04:: write%2:36:04::
-describe%2:32:00:: describe%2:32:00:: code%2:32:00::
+describe%2:32:00:: describe%2:32:00:: code%2:32:00:: cod
 describe%2:32:00:: describe%2:32:00:: dance%2:36:00:: dance%2:36:00::
 describe%2:32:00:: describe%2:32:00:: debug%2:30:00:: debug%2:30:00::
 describe%2:32:00:: describe%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
-discover%2:36:00:: discover%2:36:00::
+discover%2:36:00:: discover%2:36:00:: enhance enhance
 discover%2:36:00:: discover%2:36:00:: fly%2:39:00:: fly%2:39:00::
 discover%2:36:00:: discover%2:36:00:: generate%2:36:00:: generate%2:36:00::
 discover%2:36:00:: discover%2:36:00:: go%2:30:08:: go%2:30:08::
-discover%2:36:00:: discover%2:36:00::
+discover%2:36:00:: discover%2:36:00:: implement implement
 discover%2:36:00:: discover%2:36:00:: increase%2:30:02:: increase%2:30:02::
 discover%2:36:00:: discover%2:36:00:: invent%2:36:01:: invent%2:36:01::
 discover%2:36:00:: discover%2:36:00:: jump%2:38:11:: jump%2:38:11::
@@ -183,47 +183,49 @@ discover%2:36:00:: discover%2:36:00:: sit%2:35:00:: sit%2:35:00::
 discover%2:36:00:: discover%2:36:00:: slow%2:30:01:: slow%2:30:01::
 discover%2:36:00:: discover%2:36:00:: swim%2:38:00:: swim%2:38:00::
 discover%2:36:00:: discover%2:36:00:: think%2:31:00:: think%2:31:00::
-discover%2:36:00:: discover%2:36:00::
+discover%2:36:00:: discover%2:36:00:: vanish vanish
 discover%2:36:00:: discover%2:36:00:: walk%2:38:00:: walk%2:38:00::
 discover%2:36:00:: discover%2:36:00:: write%2:36:04:: write%2:36:04::
-discover%2:36:00:: discover%2:36:00:: code%2:32:00::
+discover%2:36:00:: discover%2:36:00:: code%2:32:00:: cod
 discover%2:36:00:: discover%2:36:00:: dance%2:36:00:: dance%2:36:00::
 discover%2:36:00:: discover%2:36:00:: debug%2:30:00:: debug%2:30:00::
 discover%2:36:00:: discover%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 discover%2:36:00:: discover%2:36:00:: describe%2:32:00:: describe%2:32:00::
-fly%2:39:00:: fly%2:39:00::
-generate%2:36:00:: generate%2:36:00::
-go%2:30:08:: go%2:30:08::
+enhance enhance fly%2:39:00:: fly%2:39:00::
+enhance enhance generate%2:36:00:: generate%2:36:00::
+enhance enhance go%2:30:08:: go%2:30:08::
+enhance enhance implement implement
 enhance%2:30:00:: enhance%2:30:00:: increase%2:30:02:: increase%2:30:02::
-invent%2:36:01:: invent%2:36:01::
-jump%2:38:11:: jump%2:38:11::
-listen%2:39:00:: listen%2:39:00::
-look%2:39:00:: look%2:39:00::
-move%2:38:00:: move%2:38:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-read%2:31:00:: read%2:31:00::
-run%2:38:04:: run%2:38:04::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-swim%2:38:00:: swim%2:38:00::
-think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
-write%2:36:04:: write%2:36:04::
-code%2:32:00::
-dance%2:36:00:: dance%2:36:00::
-debug%2:30:00:: debug%2:30:00::
-decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-discover%2:36:00:: discover%2:36:00::
+enhance enhance invent%2:36:01:: invent%2:36:01::
+enhance enhance jump%2:38:11:: jump%2:38:11::
+enhance enhance listen%2:39:00:: listen%2:39:00::
+enhance enhance look%2:39:00:: look%2:39:00::
+enhance enhance move%2:38:00:: move%2:38:00::
+enhance enhance play%2:36:00:: play%2:36:00::
+enhance enhance predict%2:32:00:: predict%2:32:00::
+enhance enhance read%2:31:00:: read%2:31:00::
+enhance enhance run%2:38:04:: run%2:38:04::
+enhance enhance say%2:32:00:: say%2:32:00::
+enhance enhance scream%2:32:01:: scream%2:32:01::
+enhance enhance see%2:39:00:: see%2:39:00::
+enhance enhance shuffle%2:35:00:: shuffle%2:35:00::
+enhance enhance sing%2:36:00:: sing%2:36:00::
+enhance enhance sit%2:35:00:: sit%2:35:00::
+enhance enhance slow%2:30:01:: slow%2:30:01::
+enhance enhance swim%2:38:00:: swim%2:38:00::
+enhance enhance think%2:31:00:: think%2:31:00::
+enhance enhance vanish vanish
+enhance enhance walk%2:38:00:: walk%2:38:00::
+enhance enhance write%2:36:04:: write%2:36:04::
+enhance enhance code%2:32:00:: cod
+enhance enhance dance%2:36:00:: dance%2:36:00::
+enhance enhance debug%2:30:00:: debug%2:30:00::
+enhance enhance decrease%2:30:00:: decrease%2:30:00::
+enhance enhance describe%2:32:00:: describe%2:32:00::
+enhance enhance discover%2:36:00:: discover%2:36:00::
 fly%2:39:00:: fly%2:39:00:: generate%2:36:00:: generate%2:36:00::
 fly%2:38:06:: fly%2:38:06:: go%2:30:08:: go%2:30:08::
-fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: implement implement
 fly%2:39:00:: fly%2:39:00:: increase%2:30:02:: increase%2:30:02::
 fly%2:39:00:: fly%2:39:00:: invent%2:36:01:: invent%2:36:01::
 fly%2:39:00:: fly%2:39:00:: jump%2:38:11:: jump%2:38:11::
@@ -243,18 +245,18 @@ fly%2:39:00:: fly%2:39:00:: sit%2:35:00:: sit%2:35:00::
 fly%2:39:00:: fly%2:39:00:: slow%2:30:01:: slow%2:30:01::
 fly%2:39:00:: fly%2:39:00:: swim%2:38:00:: swim%2:38:00::
 fly%2:39:00:: fly%2:39:00:: think%2:31:00:: think%2:31:00::
-fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: vanish vanish
 fly%2:39:00:: fly%2:39:00:: walk%2:38:00:: walk%2:38:00::
 fly%2:39:00:: fly%2:39:00:: write%2:36:04:: write%2:36:04::
-fly%2:39:00:: fly%2:39:00:: code%2:32:00::
+fly%2:39:00:: fly%2:39:00:: code%2:32:00:: cod
 fly%2:39:00:: fly%2:39:00:: dance%2:36:00:: dance%2:36:00::
 fly%2:39:00:: fly%2:39:00:: debug%2:30:00:: debug%2:30:00::
 fly%2:30:00:: fly%2:30:00:: decrease%2:30:00:: decrease%2:30:00::
 fly%2:39:00:: fly%2:39:00:: describe%2:32:00:: describe%2:32:00::
 fly%2:39:00:: fly%2:39:00:: discover%2:36:00:: discover%2:36:00::
-fly%2:39:00:: fly%2:39:00::
+fly%2:39:00:: fly%2:39:00:: enhance enhance
 generate%2:36:00:: generate%2:36:00:: go%2:30:08:: go%2:30:08::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: implement implement
 generate%2:36:00:: generate%2:36:00:: increase%2:30:02:: increase%2:30:02::
 generate%2:36:00:: generate%2:36:00:: invent%2:36:01:: invent%2:36:01::
 generate%2:36:00:: generate%2:36:00:: jump%2:38:11:: jump%2:38:11::
@@ -274,16 +276,16 @@ generate%2:36:00:: generate%2:36:00:: sit%2:35:00:: sit%2:35:00::
 generate%2:36:00:: generate%2:36:00:: slow%2:30:01:: slow%2:30:01::
 generate%2:36:00:: generate%2:36:00:: swim%2:38:00:: swim%2:38:00::
 generate%2:36:00:: generate%2:36:00:: think%2:31:00:: think%2:31:00::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: vanish vanish
 generate%2:36:00:: generate%2:36:00:: walk%2:38:00:: walk%2:38:00::
 generate%2:36:00:: generate%2:36:00:: write%2:36:04:: write%2:36:04::
-generate%2:36:00:: generate%2:36:00:: code%2:32:00::
+generate%2:36:00:: generate%2:36:00:: code%2:32:00:: cod
 generate%2:36:00:: generate%2:36:00:: dance%2:36:00:: dance%2:36:00::
 generate%2:36:00:: generate%2:36:00:: debug%2:30:00:: debug%2:30:00::
 generate%2:36:00:: generate%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 generate%2:36:00:: generate%2:36:00:: describe%2:32:00:: describe%2:32:00::
 generate%2:36:00:: generate%2:36:00:: discover%2:36:00:: discover%2:36:00::
-generate%2:36:00:: generate%2:36:00::
+generate%2:36:00:: generate%2:36:00:: enhance enhance
 generate%2:36:00:: generate%2:36:00:: fly%2:39:00:: fly%2:39:00::
 go%2:30:08:: go%2:30:08:: implement%2:30:00:: implement%2:30:00::
 go%2:30:08:: go%2:30:08:: increase%2:30:00:: increase%2:30:00::
@@ -308,44 +310,46 @@ go%2:30:08:: go%2:30:08:: think%2:31:00:: think%2:31:00::
 go%2:30:08:: go%2:30:08:: vanish%2:38:05:: vanish%2:38:05::
 go%2:30:08:: go%2:30:08:: walk%2:38:00:: walk%2:38:00::
 go%2:30:08:: go%2:30:08:: write%2:36:04:: write%2:36:04::
-go%2:30:08:: go%2:30:08:: code%2:32:00::
+go%2:30:08:: go%2:30:08:: code%2:32:00:: cod
 go%2:30:08:: go%2:30:08:: dance%2:36:00:: dance%2:36:00::
 go%2:30:08:: go%2:30:08:: debug%2:30:00:: debug%2:30:00::
 go%2:30:08:: go%2:30:08:: decrease%2:30:00:: decrease%2:30:00::
 go%2:30:08:: go%2:30:08:: describe%2:32:00:: describe%2:32:00::
 go%2:30:08:: go%2:30:08:: discover%2:36:00:: discover%2:36:00::
-go%2:30:08:: go%2:30:08::
+go%2:30:08:: go%2:30:08:: enhance enhance
 go%2:30:08:: go%2:30:08:: fly%2:38:06:: fly%2:38:06::
 go%2:30:08:: go%2:30:08:: generate%2:36:00:: generate%2:36:00::
-increase%2:30:02:: increase%2:30:02::
-invent%2:36:01:: invent%2:36:01::
-jump%2:38:11:: jump%2:38:11::
-listen%2:39:00:: listen%2:39:00::
-look%2:39:00:: look%2:39:00::
-move%2:38:00:: move%2:38:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-read%2:31:00:: read%2:31:00::
-run%2:38:04:: run%2:38:04::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-swim%2:38:00:: swim%2:38:00::
-think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
-write%2:36:04:: write%2:36:04::
-code%2:32:00::
-dance%2:36:00:: dance%2:36:00::
-debug%2:30:00:: debug%2:30:00::
-decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-discover%2:36:00:: discover%2:36:00::
-fly%2:39:00:: fly%2:39:00::
-generate%2:36:00:: generate%2:36:00::
+implement implement increase%2:30:02:: increase%2:30:02::
+implement implement invent%2:36:01:: invent%2:36:01::
+implement implement jump%2:38:11:: jump%2:38:11::
+implement implement listen%2:39:00:: listen%2:39:00::
+implement implement look%2:39:00:: look%2:39:00::
+implement implement move%2:38:00:: move%2:38:00::
+implement implement play%2:36:00:: play%2:36:00::
+implement implement predict%2:32:00:: predict%2:32:00::
+implement implement read%2:31:00:: read%2:31:00::
+implement implement run%2:38:04:: run%2:38:04::
+implement implement say%2:32:00:: say%2:32:00::
+implement implement scream%2:32:01:: scream%2:32:01::
+implement implement see%2:39:00:: see%2:39:00::
+implement implement shuffle%2:35:00:: shuffle%2:35:00::
+implement implement sing%2:36:00:: sing%2:36:00::
+implement implement sit%2:35:00:: sit%2:35:00::
+implement implement slow%2:30:01:: slow%2:30:01::
+implement implement swim%2:38:00:: swim%2:38:00::
+implement implement think%2:31:00:: think%2:31:00::
+implement implement vanish vanish
+implement implement walk%2:38:00:: walk%2:38:00::
+implement implement write%2:36:04:: write%2:36:04::
+implement implement code%2:32:00:: cod
+implement implement dance%2:36:00:: dance%2:36:00::
+implement implement debug%2:30:00:: debug%2:30:00::
+implement implement decrease%2:30:00:: decrease%2:30:00::
+implement implement describe%2:32:00:: describe%2:32:00::
+implement implement discover%2:36:00:: discover%2:36:00::
+implement implement enhance enhance
+implement implement fly%2:39:00:: fly%2:39:00::
+implement implement generate%2:36:00:: generate%2:36:00::
 implement%2:30:00:: implement%2:30:00:: go%2:30:08:: go%2:30:08::
 increase%2:30:02:: increase%2:30:02:: invent%2:36:01:: invent%2:36:01::
 increase%2:30:02:: increase%2:30:02:: jump%2:38:11:: jump%2:38:11::
@@ -365,10 +369,10 @@ increase%2:30:02:: increase%2:30:02:: sit%2:35:00:: sit%2:35:00::
 increase%2:30:02:: increase%2:30:02:: slow%2:30:01:: slow%2:30:01::
 increase%2:30:02:: increase%2:30:02:: swim%2:38:00:: swim%2:38:00::
 increase%2:30:02:: increase%2:30:02:: think%2:31:00:: think%2:31:00::
-increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: vanish vanish
 increase%2:30:02:: increase%2:30:02:: walk%2:38:00:: walk%2:38:00::
 increase%2:30:02:: increase%2:30:02:: write%2:36:04:: write%2:36:04::
-increase%2:30:02:: increase%2:30:02:: code%2:32:00::
+increase%2:30:02:: increase%2:30:02:: code%2:32:00:: cod
 increase%2:30:02:: increase%2:30:02:: dance%2:36:00:: dance%2:36:00::
 increase%2:30:02:: increase%2:30:02:: debug%2:30:00:: debug%2:30:00::
 increase%2:30:00:: increase%2:30:00:: decrease%2:30:00:: decrease%2:30:00::
@@ -378,7 +382,7 @@ increase%2:30:02:: increase%2:30:02:: enhance%2:30:00:: enhance%2:30:00::
 increase%2:30:02:: increase%2:30:02:: fly%2:39:00:: fly%2:39:00::
 increase%2:30:02:: increase%2:30:02:: generate%2:36:00:: generate%2:36:00::
 increase%2:30:00:: increase%2:30:00:: go%2:30:08:: go%2:30:08::
-increase%2:30:02:: increase%2:30:02::
+increase%2:30:02:: increase%2:30:02:: implement implement
 invent%2:36:01:: invent%2:36:01:: jump%2:38:11:: jump%2:38:11::
 invent%2:36:01:: invent%2:36:01:: listen%2:39:00:: listen%2:39:00::
 invent%2:36:01:: invent%2:36:01:: look%2:39:00:: look%2:39:00::
@@ -396,20 +400,20 @@ invent%2:36:01:: invent%2:36:01:: sit%2:35:00:: sit%2:35:00::
 invent%2:36:01:: invent%2:36:01:: slow%2:30:01:: slow%2:30:01::
 invent%2:36:01:: invent%2:36:01:: swim%2:38:00:: swim%2:38:00::
 invent%2:36:01:: invent%2:36:01:: think%2:31:00:: think%2:31:00::
-invent%2:36:01:: invent%2:36:01::
+invent%2:36:01:: invent%2:36:01:: vanish vanish
 invent%2:36:01:: invent%2:36:01:: walk%2:38:00:: walk%2:38:00::
 invent%2:36:01:: invent%2:36:01:: write%2:36:04:: write%2:36:04::
-invent%2:36:01:: invent%2:36:01:: code%2:32:00::
+invent%2:36:01:: invent%2:36:01:: code%2:32:00:: cod
 invent%2:36:01:: invent%2:36:01:: dance%2:36:00:: dance%2:36:00::
 invent%2:36:01:: invent%2:36:01:: debug%2:30:00:: debug%2:30:00::
 invent%2:36:01:: invent%2:36:01:: decrease%2:30:00:: decrease%2:30:00::
 invent%2:36:01:: invent%2:36:01:: describe%2:32:00:: describe%2:32:00::
 invent%2:36:01:: invent%2:36:01:: discover%2:36:00:: discover%2:36:00::
-invent%2:36:01:: invent%2:36:01::
+invent%2:36:01:: invent%2:36:01:: enhance enhance
 invent%2:36:01:: invent%2:36:01:: fly%2:39:00:: fly%2:39:00::
 invent%2:36:01:: invent%2:36:01:: generate%2:36:00:: generate%2:36:00::
 invent%2:36:01:: invent%2:36:01:: go%2:30:08:: go%2:30:08::
-invent%2:36:01:: invent%2:36:01::
+invent%2:36:01:: invent%2:36:01:: implement implement
 invent%2:36:01:: invent%2:36:01:: increase%2:30:02:: increase%2:30:02::
 jump%2:38:11:: jump%2:38:11:: listen%2:39:00:: listen%2:39:00::
 jump%2:38:11:: jump%2:38:11:: look%2:39:00:: look%2:39:00::
@@ -427,20 +431,20 @@ jump%2:38:11:: jump%2:38:11:: sit%2:35:00:: sit%2:35:00::
 jump%2:38:11:: jump%2:38:11:: slow%2:30:01:: slow%2:30:01::
 jump%2:38:11:: jump%2:38:11:: swim%2:38:00:: swim%2:38:00::
 jump%2:38:11:: jump%2:38:11:: think%2:31:00:: think%2:31:00::
-jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: vanish vanish
 jump%2:38:11:: jump%2:38:11:: walk%2:38:00:: walk%2:38:00::
 jump%2:38:11:: jump%2:38:11:: write%2:36:04:: write%2:36:04::
-jump%2:38:11:: jump%2:38:11:: code%2:32:00::
+jump%2:38:11:: jump%2:38:11:: code%2:32:00:: cod
 jump%2:38:11:: jump%2:38:11:: dance%2:36:00:: dance%2:36:00::
 jump%2:38:11:: jump%2:38:11:: debug%2:30:00:: debug%2:30:00::
 jump%2:38:11:: jump%2:38:11:: decrease%2:30:00:: decrease%2:30:00::
 jump%2:38:11:: jump%2:38:11:: describe%2:32:00:: describe%2:32:00::
 jump%2:38:11:: jump%2:38:11:: discover%2:36:00:: discover%2:36:00::
-jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: enhance enhance
 jump%2:38:11:: jump%2:38:11:: fly%2:39:00:: fly%2:39:00::
 jump%2:38:11:: jump%2:38:11:: generate%2:36:00:: generate%2:36:00::
 jump%2:30:00:: jump%2:30:00:: go%2:30:08:: go%2:30:08::
-jump%2:38:11:: jump%2:38:11::
+jump%2:38:11:: jump%2:38:11:: implement implement
 jump%2:38:11:: jump%2:38:11:: increase%2:30:02:: increase%2:30:02::
 jump%2:38:11:: jump%2:38:11:: invent%2:36:01:: invent%2:36:01::
 listen%2:39:00:: listen%2:39:00:: look%2:39:00:: look%2:39:00::
@@ -458,20 +462,20 @@ listen%2:39:00:: listen%2:39:00:: sit%2:35:00:: sit%2:35:00::
 listen%2:39:00:: listen%2:39:00:: slow%2:30:01:: slow%2:30:01::
 listen%2:39:00:: listen%2:39:00:: swim%2:38:00:: swim%2:38:00::
 listen%2:39:00:: listen%2:39:00:: think%2:31:00:: think%2:31:00::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: vanish vanish
 listen%2:39:00:: listen%2:39:00:: walk%2:38:00:: walk%2:38:00::
 listen%2:39:00:: listen%2:39:00:: write%2:36:04:: write%2:36:04::
-listen%2:39:00:: listen%2:39:00:: code%2:32:00::
+listen%2:39:00:: listen%2:39:00:: code%2:32:00:: cod
 listen%2:39:00:: listen%2:39:00:: dance%2:36:00:: dance%2:36:00::
 listen%2:39:00:: listen%2:39:00:: debug%2:30:00:: debug%2:30:00::
 listen%2:39:00:: listen%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
 listen%2:39:00:: listen%2:39:00:: describe%2:32:00:: describe%2:32:00::
 listen%2:39:00:: listen%2:39:00:: discover%2:36:00:: discover%2:36:00::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: enhance enhance
 listen%2:39:00:: listen%2:39:00:: fly%2:39:00:: fly%2:39:00::
 listen%2:39:00:: listen%2:39:00:: generate%2:36:00:: generate%2:36:00::
 listen%2:39:00:: listen%2:39:00:: go%2:30:08:: go%2:30:08::
-listen%2:39:00:: listen%2:39:00::
+listen%2:39:00:: listen%2:39:00:: implement implement
 listen%2:39:00:: listen%2:39:00:: increase%2:30:02:: increase%2:30:02::
 listen%2:39:00:: listen%2:39:00:: invent%2:36:01:: invent%2:36:01::
 listen%2:39:00:: listen%2:39:00:: jump%2:38:11:: jump%2:38:11::
@@ -489,20 +493,20 @@ look%2:39:00:: look%2:39:00:: sit%2:35:00:: sit%2:35:00::
 look%2:39:00:: look%2:39:00:: slow%2:30:01:: slow%2:30:01::
 look%2:39:00:: look%2:39:00:: swim%2:38:00:: swim%2:38:00::
 look%2:39:00:: look%2:39:00:: think%2:31:01:: think%2:31:01::
-look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: vanish vanish
 look%2:39:00:: look%2:39:00:: walk%2:38:00:: walk%2:38:00::
 look%2:39:00:: look%2:39:00:: write%2:36:04:: write%2:36:04::
-look%2:39:00:: look%2:39:00:: code%2:32:00::
+look%2:39:00:: look%2:39:00:: code%2:32:00:: cod
 look%2:39:00:: look%2:39:00:: dance%2:36:00:: dance%2:36:00::
 look%2:39:00:: look%2:39:00:: debug%2:30:00:: debug%2:30:00::
 look%2:39:00:: look%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
 look%2:39:00:: look%2:39:00:: describe%2:32:00:: describe%2:32:00::
 look%2:39:00:: look%2:39:00:: discover%2:36:00:: discover%2:36:00::
-look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: enhance enhance
 look%2:39:00:: look%2:39:00:: fly%2:39:00:: fly%2:39:00::
 look%2:39:00:: look%2:39:00:: generate%2:36:00:: generate%2:36:00::
 look%2:39:00:: look%2:39:00:: go%2:30:08:: go%2:30:08::
-look%2:39:00:: look%2:39:00::
+look%2:39:00:: look%2:39:00:: implement implement
 look%2:39:00:: look%2:39:00:: increase%2:30:02:: increase%2:30:02::
 look%2:39:00:: look%2:39:00:: invent%2:36:01:: invent%2:36:01::
 look%2:39:00:: look%2:39:00:: jump%2:38:11:: jump%2:38:11::
@@ -520,20 +524,20 @@ move%2:38:00:: move%2:38:00:: sit%2:35:00:: sit%2:35:00::
 move%2:38:00:: move%2:38:00:: slow%2:30:05:: slow%2:30:05::
 move%2:38:00:: move%2:38:00:: swim%2:38:00:: swim%2:38:00::
 move%2:38:00:: move%2:38:00:: think%2:31:00:: think%2:31:00::
-move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: vanish vanish
 move%2:38:00:: move%2:38:00:: walk%2:38:00:: walk%2:38:00::
 move%2:38:00:: move%2:38:00:: write%2:36:04:: write%2:36:04::
-move%2:38:00:: move%2:38:00:: code%2:32:00::
+move%2:38:00:: move%2:38:00:: code%2:32:00:: cod
 move%2:38:00:: move%2:38:00:: dance%2:36:00:: dance%2:36:00::
 move%2:38:00:: move%2:38:00:: debug%2:30:00:: debug%2:30:00::
 move%2:38:00:: move%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
 move%2:38:00:: move%2:38:00:: describe%2:32:00:: describe%2:32:00::
 move%2:38:00:: move%2:38:00:: discover%2:36:00:: discover%2:36:00::
-move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: enhance enhance
 move%2:38:00:: move%2:38:00:: fly%2:38:02:: fly%2:38:02::
 move%2:38:00:: move%2:38:00:: generate%2:36:00:: generate%2:36:00::
 move%2:38:03:: move%2:38:03:: go%2:38:01:: go%2:38:01::
-move%2:38:00:: move%2:38:00::
+move%2:38:00:: move%2:38:00:: implement implement
 move%2:38:00:: move%2:38:00:: increase%2:30:02:: increase%2:30:02::
 move%2:38:00:: move%2:38:00:: invent%2:36:01:: invent%2:36:01::
 move%2:38:00:: move%2:38:00:: jump%2:38:01:: jump%2:38:01::
@@ -551,20 +555,20 @@ play%2:36:00:: play%2:36:00:: sit%2:35:00:: sit%2:35:00::
 play%2:36:00:: play%2:36:00:: slow%2:30:01:: slow%2:30:01::
 play%2:36:00:: play%2:36:00:: swim%2:38:00:: swim%2:38:00::
 play%2:36:00:: play%2:36:00:: think%2:31:00:: think%2:31:00::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: vanish vanish
 play%2:36:00:: play%2:36:00:: walk%2:38:00:: walk%2:38:00::
 play%2:36:00:: play%2:36:00:: write%2:36:04:: write%2:36:04::
-play%2:36:00:: play%2:36:00:: code%2:32:00::
+play%2:36:00:: play%2:36:00:: code%2:32:00:: cod
 play%2:36:00:: play%2:36:00:: dance%2:36:00:: dance%2:36:00::
 play%2:36:00:: play%2:36:00:: debug%2:30:00:: debug%2:30:00::
 play%2:36:00:: play%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 play%2:36:00:: play%2:36:00:: describe%2:32:00:: describe%2:32:00::
 play%2:36:00:: play%2:36:00:: discover%2:36:00:: discover%2:36:00::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: enhance enhance
 play%2:36:00:: play%2:36:00:: fly%2:39:00:: fly%2:39:00::
 play%2:36:00:: play%2:36:00:: generate%2:36:00:: generate%2:36:00::
 play%2:36:00:: play%2:36:00:: go%2:30:08:: go%2:30:08::
-play%2:36:00:: play%2:36:00::
+play%2:36:00:: play%2:36:00:: implement implement
 play%2:36:00:: play%2:36:00:: increase%2:30:02:: increase%2:30:02::
 play%2:36:00:: play%2:36:00:: invent%2:36:01:: invent%2:36:01::
 play%2:36:00:: play%2:36:00:: jump%2:38:11:: jump%2:38:11::
@@ -582,20 +586,20 @@ predict%2:32:00:: predict%2:32:00:: sit%2:35:00:: sit%2:35:00::
 predict%2:32:00:: predict%2:32:00:: slow%2:30:01:: slow%2:30:01::
 predict%2:32:00:: predict%2:32:00:: swim%2:38:00:: swim%2:38:00::
 predict%2:32:00:: predict%2:32:00:: think%2:31:00:: think%2:31:00::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: vanish vanish
 predict%2:32:00:: predict%2:32:00:: walk%2:38:00:: walk%2:38:00::
 predict%2:32:00:: predict%2:32:00:: write%2:36:04:: write%2:36:04::
-predict%2:32:00:: predict%2:32:00:: code%2:32:00::
+predict%2:32:00:: predict%2:32:00:: code%2:32:00:: cod
 predict%2:32:00:: predict%2:32:00:: dance%2:36:00:: dance%2:36:00::
 predict%2:32:00:: predict%2:32:00:: debug%2:30:00:: debug%2:30:00::
 predict%2:32:00:: predict%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
 predict%2:32:00:: predict%2:32:00:: describe%2:32:00:: describe%2:32:00::
 predict%2:32:00:: predict%2:32:00:: discover%2:36:00:: discover%2:36:00::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: enhance enhance
 predict%2:32:00:: predict%2:32:00:: fly%2:39:00:: fly%2:39:00::
 predict%2:32:00:: predict%2:32:00:: generate%2:36:00:: generate%2:36:00::
 predict%2:32:00:: predict%2:32:00:: go%2:30:08:: go%2:30:08::
-predict%2:32:00:: predict%2:32:00::
+predict%2:32:00:: predict%2:32:00:: implement implement
 predict%2:32:00:: predict%2:32:00:: increase%2:30:02:: increase%2:30:02::
 predict%2:32:00:: predict%2:32:00:: invent%2:36:01:: invent%2:36:01::
 predict%2:32:00:: predict%2:32:00:: jump%2:38:11:: jump%2:38:11::
@@ -613,20 +617,20 @@ read%2:31:00:: read%2:31:00:: sit%2:35:00:: sit%2:35:00::
 read%2:31:00:: read%2:31:00:: slow%2:30:01:: slow%2:30:01::
 read%2:31:00:: read%2:31:00:: swim%2:38:00:: swim%2:38:00::
 read%2:31:00:: read%2:31:00:: think%2:31:00:: think%2:31:00::
-read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: vanish vanish
 read%2:31:00:: read%2:31:00:: walk%2:38:00:: walk%2:38:00::
 read%2:31:00:: read%2:31:00:: write%2:36:04:: write%2:36:04::
-read%2:31:00:: read%2:31:00:: code%2:32:00::
+read%2:31:00:: read%2:31:00:: code%2:32:00:: cod
 read%2:31:00:: read%2:31:00:: dance%2:36:00:: dance%2:36:00::
 read%2:31:00:: read%2:31:00:: debug%2:30:00:: debug%2:30:00::
 read%2:31:00:: read%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
 read%2:31:00:: read%2:31:00:: describe%2:32:00:: describe%2:32:00::
 read%2:31:00:: read%2:31:00:: discover%2:36:00:: discover%2:36:00::
-read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: enhance enhance
 read%2:31:00:: read%2:31:00:: fly%2:39:00:: fly%2:39:00::
 read%2:31:00:: read%2:31:00:: generate%2:36:00:: generate%2:36:00::
 read%2:31:00:: read%2:31:00:: go%2:30:08:: go%2:30:08::
-read%2:31:00:: read%2:31:00::
+read%2:31:00:: read%2:31:00:: implement implement
 read%2:31:00:: read%2:31:00:: increase%2:30:02:: increase%2:30:02::
 read%2:31:00:: read%2:31:00:: invent%2:36:01:: invent%2:36:01::
 read%2:31:00:: read%2:31:00:: jump%2:38:11:: jump%2:38:11::
@@ -644,20 +648,20 @@ run%2:38:04:: run%2:38:04:: sit%2:35:00:: sit%2:35:00::
 run%2:38:04:: run%2:38:04:: slow%2:30:01:: slow%2:30:01::
 run%2:38:04:: run%2:38:04:: swim%2:38:00:: swim%2:38:00::
 run%2:38:04:: run%2:38:04:: think%2:31:00:: think%2:31:00::
-run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: vanish vanish
 run%2:38:04:: run%2:38:04:: walk%2:38:00:: walk%2:38:00::
 run%2:38:04:: run%2:38:04:: write%2:36:04:: write%2:36:04::
-run%2:38:04:: run%2:38:04:: code%2:32:00::
+run%2:38:04:: run%2:38:04:: code%2:32:00:: cod
 run%2:38:04:: run%2:38:04:: dance%2:36:00:: dance%2:36:00::
 run%2:38:04:: run%2:38:04:: debug%2:30:00:: debug%2:30:00::
 run%2:38:04:: run%2:38:04:: decrease%2:30:00:: decrease%2:30:00::
 run%2:38:04:: run%2:38:04:: describe%2:32:00:: describe%2:32:00::
 run%2:38:04:: run%2:38:04:: discover%2:36:00:: discover%2:36:00::
-run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: enhance enhance
 run%2:38:04:: run%2:38:04:: fly%2:38:03:: fly%2:38:03::
 run%2:38:04:: run%2:38:04:: generate%2:36:00:: generate%2:36:00::
 run%2:38:05:: run%2:38:05:: go%2:34:09:: go%2:34:09::
-run%2:38:04:: run%2:38:04::
+run%2:38:04:: run%2:38:04:: implement implement
 run%2:38:04:: run%2:38:04:: increase%2:30:02:: increase%2:30:02::
 run%2:38:04:: run%2:38:04:: invent%2:36:01:: invent%2:36:01::
 run%2:38:04:: run%2:38:04:: jump%2:38:11:: jump%2:38:11::
@@ -675,20 +679,20 @@ say%2:32:00:: say%2:32:00:: sit%2:35:00:: sit%2:35:00::
 say%2:32:00:: say%2:32:00:: slow%2:30:01:: slow%2:30:01::
 say%2:32:00:: say%2:32:00:: swim%2:38:00:: swim%2:38:00::
 say%2:32:00:: say%2:32:00:: think%2:31:00:: think%2:31:00::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: vanish vanish
 say%2:32:00:: say%2:32:00:: walk%2:38:00:: walk%2:38:00::
 say%2:32:00:: say%2:32:00:: write%2:36:04:: write%2:36:04::
-say%2:32:00:: say%2:32:00:: code%2:32:00::
+say%2:32:00:: say%2:32:00:: code%2:32:00:: cod
 say%2:32:00:: say%2:32:00:: dance%2:36:00:: dance%2:36:00::
 say%2:32:00:: say%2:32:00:: debug%2:30:00:: debug%2:30:00::
 say%2:32:00:: say%2:32:00:: decrease%2:30:00:: decrease%2:30:00::
 say%2:32:00:: say%2:32:00:: describe%2:32:00:: describe%2:32:00::
 say%2:32:00:: say%2:32:00:: discover%2:36:00:: discover%2:36:00::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: enhance enhance
 say%2:32:00:: say%2:32:00:: fly%2:39:00:: fly%2:39:00::
 say%2:32:00:: say%2:32:00:: generate%2:36:00:: generate%2:36:00::
 say%2:32:04:: say%2:32:04:: go%2:30:08:: go%2:30:08::
-say%2:32:00:: say%2:32:00::
+say%2:32:00:: say%2:32:00:: implement implement
 say%2:32:00:: say%2:32:00:: increase%2:30:02:: increase%2:30:02::
 say%2:32:00:: say%2:32:00:: invent%2:36:01:: invent%2:36:01::
 say%2:32:00:: say%2:32:00:: jump%2:38:11:: jump%2:38:11::
@@ -706,20 +710,20 @@ scream%2:32:01:: scream%2:32:01:: sit%2:35:00:: sit%2:35:00::
 scream%2:32:01:: scream%2:32:01:: slow%2:30:01:: slow%2:30:01::
 scream%2:32:01:: scream%2:32:01:: swim%2:38:00:: swim%2:38:00::
 scream%2:32:01:: scream%2:32:01:: think%2:31:00:: think%2:31:00::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: vanish vanish
 scream%2:32:01:: scream%2:32:01:: walk%2:38:00:: walk%2:38:00::
 scream%2:32:01:: scream%2:32:01:: write%2:36:04:: write%2:36:04::
-scream%2:32:01:: scream%2:32:01:: code%2:32:00::
+scream%2:32:01:: scream%2:32:01:: code%2:32:00:: cod
 scream%2:32:01:: scream%2:32:01:: dance%2:36:00:: dance%2:36:00::
 scream%2:32:01:: scream%2:32:01:: debug%2:30:00:: debug%2:30:00::
 scream%2:32:01:: scream%2:32:01:: decrease%2:30:00:: decrease%2:30:00::
 scream%2:32:01:: scream%2:32:01:: describe%2:32:00:: describe%2:32:00::
 scream%2:32:01:: scream%2:32:01:: discover%2:36:00:: discover%2:36:00::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: enhance enhance
 scream%2:32:01:: scream%2:32:01:: fly%2:39:00:: fly%2:39:00::
 scream%2:32:01:: scream%2:32:01:: generate%2:36:00:: generate%2:36:00::
 scream%2:32:01:: scream%2:32:01:: go%2:30:08:: go%2:30:08::
-scream%2:32:01:: scream%2:32:01::
+scream%2:32:01:: scream%2:32:01:: implement implement
 scream%2:32:01:: scream%2:32:01:: increase%2:30:02:: increase%2:30:02::
 scream%2:32:01:: scream%2:32:01:: invent%2:36:01:: invent%2:36:01::
 scream%2:32:01:: scream%2:32:01:: jump%2:38:11:: jump%2:38:11::
@@ -737,20 +741,20 @@ see%2:39:00:: see%2:39:00:: sit%2:35:00:: sit%2:35:00::
 see%2:39:00:: see%2:39:00:: slow%2:30:01:: slow%2:30:01::
 see%2:39:00:: see%2:39:00:: swim%2:38:00:: swim%2:38:00::
 see%2:31:08:: see%2:31:08:: think%2:31:00:: think%2:31:00::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: vanish vanish
 see%2:39:00:: see%2:39:00:: walk%2:38:00:: walk%2:38:00::
 see%2:39:00:: see%2:39:00:: write%2:36:04:: write%2:36:04::
-see%2:39:00:: see%2:39:00:: code%2:32:00::
+see%2:39:00:: see%2:39:00:: code%2:32:00:: cod
 see%2:39:00:: see%2:39:00:: dance%2:36:00:: dance%2:36:00::
 see%2:39:00:: see%2:39:00:: debug%2:30:00:: debug%2:30:00::
 see%2:39:00:: see%2:39:00:: decrease%2:30:00:: decrease%2:30:00::
 see%2:39:00:: see%2:39:00:: describe%2:32:00:: describe%2:32:00::
 see%2:39:00:: see%2:39:00:: discover%2:39:00:: discover%2:39:00::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: enhance enhance
 see%2:39:00:: see%2:39:00:: fly%2:39:00:: fly%2:39:00::
 see%2:39:00:: see%2:39:00:: generate%2:36:00:: generate%2:36:00::
 see%2:41:10:: see%2:41:10:: go%2:30:08:: go%2:30:08::
-see%2:39:00:: see%2:39:00::
+see%2:39:00:: see%2:39:00:: implement implement
 see%2:39:00:: see%2:39:00:: increase%2:30:02:: increase%2:30:02::
 see%2:39:00:: see%2:39:00:: invent%2:36:01:: invent%2:36:01::
 see%2:39:00:: see%2:39:00:: jump%2:38:11:: jump%2:38:11::
@@ -768,20 +772,20 @@ shuffle%2:35:00:: shuffle%2:35:00:: sit%2:35:00:: sit%2:35:00::
 shuffle%2:38:00:: shuffle%2:38:00:: slow%2:30:01:: slow%2:30:01::
 shuffle%2:35:00:: shuffle%2:35:00:: swim%2:38:00:: swim%2:38:00::
 shuffle%2:35:00:: shuffle%2:35:00:: think%2:31:00:: think%2:31:00::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: vanish vanish
 shuffle%2:38:00:: shuffle%2:38:00:: walk%2:38:00:: walk%2:38:00::
 shuffle%2:35:00:: shuffle%2:35:00:: write%2:36:04:: write%2:36:04::
-shuffle%2:35:00:: shuffle%2:35:00:: code%2:32:00::
+shuffle%2:35:00:: shuffle%2:35:00:: code%2:32:00:: cod
 shuffle%2:35:00:: shuffle%2:35:00:: dance%2:36:00:: dance%2:36:00::
 shuffle%2:35:00:: shuffle%2:35:00:: debug%2:30:00:: debug%2:30:00::
 shuffle%2:35:00:: shuffle%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
 shuffle%2:35:00:: shuffle%2:35:00:: describe%2:32:00:: describe%2:32:00::
 shuffle%2:35:00:: shuffle%2:35:00:: discover%2:36:00:: discover%2:36:00::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: enhance enhance
 shuffle%2:35:00:: shuffle%2:35:00:: fly%2:39:00:: fly%2:39:00::
 shuffle%2:35:00:: shuffle%2:35:00:: generate%2:36:00:: generate%2:36:00::
 shuffle%2:35:00:: shuffle%2:35:00:: go%2:30:08:: go%2:30:08::
-shuffle%2:35:00:: shuffle%2:35:00::
+shuffle%2:35:00:: shuffle%2:35:00:: implement implement
 shuffle%2:35:00:: shuffle%2:35:00:: increase%2:30:02:: increase%2:30:02::
 shuffle%2:35:00:: shuffle%2:35:00:: invent%2:36:01:: invent%2:36:01::
 shuffle%2:35:00:: shuffle%2:35:00:: jump%2:38:11:: jump%2:38:11::
@@ -799,20 +803,20 @@ sing%2:36:00:: sing%2:36:00:: sit%2:35:00:: sit%2:35:00::
 sing%2:36:00:: sing%2:36:00:: slow%2:30:01:: slow%2:30:01::
 sing%2:36:00:: sing%2:36:00:: swim%2:38:00:: swim%2:38:00::
 sing%2:36:00:: sing%2:36:00:: think%2:31:00:: think%2:31:00::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: vanish vanish
 sing%2:36:00:: sing%2:36:00:: walk%2:38:00:: walk%2:38:00::
 sing%2:36:00:: sing%2:36:00:: write%2:36:04:: write%2:36:04::
-sing%2:36:00:: sing%2:36:00:: code%2:32:00::
+sing%2:36:00:: sing%2:36:00:: code%2:32:00:: cod
 sing%2:36:00:: sing%2:36:00:: dance%2:36:00:: dance%2:36:00::
 sing%2:36:00:: sing%2:36:00:: debug%2:30:00:: debug%2:30:00::
 sing%2:36:00:: sing%2:36:00:: decrease%2:30:00:: decrease%2:30:00::
 sing%2:36:00:: sing%2:36:00:: describe%2:32:00:: describe%2:32:00::
 sing%2:36:00:: sing%2:36:00:: discover%2:36:00:: discover%2:36:00::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: enhance enhance
 sing%2:36:00:: sing%2:36:00:: fly%2:39:00:: fly%2:39:00::
 sing%2:36:00:: sing%2:36:00:: generate%2:36:00:: generate%2:36:00::
 sing%2:36:00:: sing%2:36:00:: go%2:30:08:: go%2:30:08::
-sing%2:36:00:: sing%2:36:00::
+sing%2:36:00:: sing%2:36:00:: implement implement
 sing%2:36:00:: sing%2:36:00:: increase%2:30:02:: increase%2:30:02::
 sing%2:36:00:: sing%2:36:00:: invent%2:36:01:: invent%2:36:01::
 sing%2:36:00:: sing%2:36:00:: jump%2:38:11:: jump%2:38:11::
@@ -830,20 +834,20 @@ sing%2:36:00:: sing%2:36:00:: shuffle%2:35:00:: shuffle%2:35:00::
 sit%2:35:00:: sit%2:35:00:: slow%2:30:01:: slow%2:30:01::
 sit%2:35:00:: sit%2:35:00:: swim%2:38:00:: swim%2:38:00::
 sit%2:35:00:: sit%2:35:00:: think%2:31:00:: think%2:31:00::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: vanish vanish
 sit%2:35:00:: sit%2:35:00:: walk%2:38:00:: walk%2:38:00::
 sit%2:35:00:: sit%2:35:00:: write%2:36:04:: write%2:36:04::
-sit%2:35:00:: sit%2:35:00:: code%2:32:00::
+sit%2:35:00:: sit%2:35:00:: code%2:32:00:: cod
 sit%2:35:00:: sit%2:35:00:: dance%2:36:00:: dance%2:36:00::
 sit%2:35:00:: sit%2:35:00:: debug%2:30:00:: debug%2:30:00::
 sit%2:35:00:: sit%2:35:00:: decrease%2:30:00:: decrease%2:30:00::
 sit%2:35:00:: sit%2:35:00:: describe%2:32:00:: describe%2:32:00::
 sit%2:35:00:: sit%2:35:00:: discover%2:36:00:: discover%2:36:00::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: enhance enhance
 sit%2:35:00:: sit%2:35:00:: fly%2:39:00:: fly%2:39:00::
 sit%2:35:00:: sit%2:35:00:: generate%2:36:00:: generate%2:36:00::
 sit%2:35:00:: sit%2:35:00:: go%2:30:08:: go%2:30:08::
-sit%2:35:00:: sit%2:35:00::
+sit%2:35:00:: sit%2:35:00:: implement implement
 sit%2:35:00:: sit%2:35:00:: increase%2:30:02:: increase%2:30:02::
 sit%2:35:00:: sit%2:35:00:: invent%2:36:01:: invent%2:36:01::
 sit%2:35:00:: sit%2:35:00:: jump%2:38:11:: jump%2:38:11::
@@ -861,20 +865,20 @@ sit%2:35:00:: sit%2:35:00:: shuffle%2:35:00:: shuffle%2:35:00::
 sit%2:35:00:: sit%2:35:00:: sing%2:36:00:: sing%2:36:00::
 slow%2:30:01:: slow%2:30:01:: swim%2:38:00:: swim%2:38:00::
 slow%2:30:01:: slow%2:30:01:: think%2:31:00:: think%2:31:00::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: vanish vanish
 slow%2:30:01:: slow%2:30:01:: walk%2:38:00:: walk%2:38:00::
 slow%2:30:01:: slow%2:30:01:: write%2:36:04:: write%2:36:04::
-slow%2:30:01:: slow%2:30:01:: code%2:32:00::
+slow%2:30:01:: slow%2:30:01:: code%2:32:00:: cod
 slow%2:30:01:: slow%2:30:01:: dance%2:36:00:: dance%2:36:00::
 slow%2:30:01:: slow%2:30:01:: debug%2:30:00:: debug%2:30:00::
 slow%2:30:01:: slow%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
 slow%2:30:01:: slow%2:30:01:: describe%2:32:00:: describe%2:32:00::
 slow%2:30:01:: slow%2:30:01:: discover%2:36:00:: discover%2:36:00::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: enhance enhance
 slow%2:30:01:: slow%2:30:01:: fly%2:39:00:: fly%2:39:00::
 slow%2:30:01:: slow%2:30:01:: generate%2:36:00:: generate%2:36:00::
 slow%2:30:01:: slow%2:30:01:: go%2:30:08:: go%2:30:08::
-slow%2:30:01:: slow%2:30:01::
+slow%2:30:01:: slow%2:30:01:: implement implement
 slow%2:30:01:: slow%2:30:01:: increase%2:30:02:: increase%2:30:02::
 slow%2:30:01:: slow%2:30:01:: invent%2:36:01:: invent%2:36:01::
 slow%2:30:01:: slow%2:30:01:: jump%2:38:11:: jump%2:38:11::
@@ -892,20 +896,20 @@ slow%2:30:01:: slow%2:30:01:: shuffle%2:38:00:: shuffle%2:38:00::
 slow%2:30:01:: slow%2:30:01:: sing%2:36:00:: sing%2:36:00::
 slow%2:30:01:: slow%2:30:01:: sit%2:35:00:: sit%2:35:00::
 swim%2:38:00:: swim%2:38:00:: think%2:31:00:: think%2:31:00::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: vanish vanish
 swim%2:38:00:: swim%2:38:00:: walk%2:38:00:: walk%2:38:00::
 swim%2:38:00:: swim%2:38:00:: write%2:36:04:: write%2:36:04::
-swim%2:38:00:: swim%2:38:00:: code%2:32:00::
+swim%2:38:00:: swim%2:38:00:: code%2:32:00:: cod
 swim%2:38:00:: swim%2:38:00:: dance%2:36:00:: dance%2:36:00::
 swim%2:38:00:: swim%2:38:00:: debug%2:30:00:: debug%2:30:00::
 swim%2:38:00:: swim%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
 swim%2:38:00:: swim%2:38:00:: describe%2:32:00:: describe%2:32:00::
 swim%2:38:00:: swim%2:38:00:: discover%2:36:00:: discover%2:36:00::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: enhance enhance
 swim%2:38:00:: swim%2:38:00:: fly%2:39:00:: fly%2:39:00::
 swim%2:38:00:: swim%2:38:00:: generate%2:36:00:: generate%2:36:00::
 swim%2:38:00:: swim%2:38:00:: go%2:30:08:: go%2:30:08::
-swim%2:38:00:: swim%2:38:00::
+swim%2:38:00:: swim%2:38:00:: implement implement
 swim%2:38:00:: swim%2:38:00:: increase%2:30:02:: increase%2:30:02::
 swim%2:38:00:: swim%2:38:00:: invent%2:36:01:: invent%2:36:01::
 swim%2:38:00:: swim%2:38:00:: jump%2:38:11:: jump%2:38:11::
@@ -923,20 +927,20 @@ swim%2:38:00:: swim%2:38:00:: shuffle%2:35:00:: shuffle%2:35:00::
 swim%2:38:00:: swim%2:38:00:: sing%2:36:00:: sing%2:36:00::
 swim%2:38:00:: swim%2:38:00:: sit%2:35:00:: sit%2:35:00::
 swim%2:38:00:: swim%2:38:00:: slow%2:30:01:: slow%2:30:01::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: vanish vanish
 think%2:31:00:: think%2:31:00:: walk%2:38:00:: walk%2:38:00::
 think%2:31:00:: think%2:31:00:: write%2:36:04:: write%2:36:04::
-think%2:31:00:: think%2:31:00:: code%2:32:00::
+think%2:31:00:: think%2:31:00:: code%2:32:00:: cod
 think%2:31:00:: think%2:31:00:: dance%2:36:00:: dance%2:36:00::
 think%2:31:00:: think%2:31:00:: debug%2:30:00:: debug%2:30:00::
 think%2:31:00:: think%2:31:00:: decrease%2:30:00:: decrease%2:30:00::
 think%2:31:00:: think%2:31:00:: describe%2:32:00:: describe%2:32:00::
 think%2:31:00:: think%2:31:00:: discover%2:36:00:: discover%2:36:00::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: enhance enhance
 think%2:31:00:: think%2:31:00:: fly%2:39:00:: fly%2:39:00::
 think%2:31:00:: think%2:31:00:: generate%2:36:00:: generate%2:36:00::
 think%2:31:00:: think%2:31:00:: go%2:30:08:: go%2:30:08::
-think%2:31:00:: think%2:31:00::
+think%2:31:00:: think%2:31:00:: implement implement
 think%2:31:00:: think%2:31:00:: increase%2:30:02:: increase%2:30:02::
 think%2:31:00:: think%2:31:00:: invent%2:36:01:: invent%2:36:01::
 think%2:31:00:: think%2:31:00:: jump%2:38:11:: jump%2:38:11::
@@ -955,48 +959,50 @@ think%2:31:00:: think%2:31:00:: sing%2:36:00:: sing%2:36:00::
 think%2:31:00:: think%2:31:00:: sit%2:35:00:: sit%2:35:00::
 think%2:31:00:: think%2:31:00:: slow%2:30:01:: slow%2:30:01::
 think%2:31:00:: think%2:31:00:: swim%2:38:00:: swim%2:38:00::
-walk%2:38:00:: walk%2:38:00::
-write%2:36:04:: write%2:36:04::
-code%2:32:00::
-dance%2:36:00:: dance%2:36:00::
-debug%2:30:00:: debug%2:30:00::
+vanish vanish walk%2:38:00:: walk%2:38:00::
+vanish vanish write%2:36:04:: write%2:36:04::
+vanish vanish code%2:32:00:: cod
+vanish vanish dance%2:36:00:: dance%2:36:00::
+vanish vanish debug%2:30:00:: debug%2:30:00::
 vanish%2:30:01:: vanish%2:30:01:: decrease%2:30:00:: decrease%2:30:00::
-describe%2:32:00:: describe%2:32:00::
-discover%2:36:00:: discover%2:36:00::
-fly%2:39:00:: fly%2:39:00::
-generate%2:36:00:: generate%2:36:00::
+vanish vanish describe%2:32:00:: describe%2:32:00::
+vanish vanish discover%2:36:00:: discover%2:36:00::
+vanish vanish enhance enhance
+vanish vanish fly%2:39:00:: fly%2:39:00::
+vanish vanish generate%2:36:00:: generate%2:36:00::
 vanish%2:38:05:: vanish%2:38:05:: go%2:30:08:: go%2:30:08::
-increase%2:30:02:: increase%2:30:02::
-invent%2:36:01:: invent%2:36:01::
-jump%2:38:11:: jump%2:38:11::
-listen%2:39:00:: listen%2:39:00::
-look%2:39:00:: look%2:39:00::
-move%2:38:00:: move%2:38:00::
-play%2:36:00:: play%2:36:00::
-predict%2:32:00:: predict%2:32:00::
-read%2:31:00:: read%2:31:00::
-run%2:38:04:: run%2:38:04::
-say%2:32:00:: say%2:32:00::
-scream%2:32:01:: scream%2:32:01::
-see%2:39:00:: see%2:39:00::
-shuffle%2:35:00:: shuffle%2:35:00::
-sing%2:36:00:: sing%2:36:00::
-sit%2:35:00:: sit%2:35:00::
-slow%2:30:01:: slow%2:30:01::
-swim%2:38:00:: swim%2:38:00::
-think%2:31:00:: think%2:31:00::
+vanish vanish implement implement
+vanish vanish increase%2:30:02:: increase%2:30:02::
+vanish vanish invent%2:36:01:: invent%2:36:01::
+vanish vanish jump%2:38:11:: jump%2:38:11::
+vanish vanish listen%2:39:00:: listen%2:39:00::
+vanish vanish look%2:39:00:: look%2:39:00::
+vanish vanish move%2:38:00:: move%2:38:00::
+vanish vanish play%2:36:00:: play%2:36:00::
+vanish vanish predict%2:32:00:: predict%2:32:00::
+vanish vanish read%2:31:00:: read%2:31:00::
+vanish vanish run%2:38:04:: run%2:38:04::
+vanish vanish say%2:32:00:: say%2:32:00::
+vanish vanish scream%2:32:01:: scream%2:32:01::
+vanish vanish see%2:39:00:: see%2:39:00::
+vanish vanish shuffle%2:35:00:: shuffle%2:35:00::
+vanish vanish sing%2:36:00:: sing%2:36:00::
+vanish vanish sit%2:35:00:: sit%2:35:00::
+vanish vanish slow%2:30:01:: slow%2:30:01::
+vanish vanish swim%2:38:00:: swim%2:38:00::
+vanish vanish think%2:31:00:: think%2:31:00::
 walk%2:38:00:: walk%2:38:00:: write%2:36:04:: write%2:36:04::
-walk%2:38:00:: walk%2:38:00:: code%2:32:00::
+walk%2:38:00:: walk%2:38:00:: code%2:32:00:: cod
 walk%2:38:00:: walk%2:38:00:: dance%2:36:00:: dance%2:36:00::
 walk%2:38:00:: walk%2:38:00:: debug%2:30:00:: debug%2:30:00::
 walk%2:38:00:: walk%2:38:00:: decrease%2:30:00:: decrease%2:30:00::
 walk%2:38:00:: walk%2:38:00:: describe%2:32:00:: describe%2:32:00::
 walk%2:38:00:: walk%2:38:00:: discover%2:36:00:: discover%2:36:00::
-walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: enhance enhance
 walk%2:38:00:: walk%2:38:00:: fly%2:39:00:: fly%2:39:00::
 walk%2:38:00:: walk%2:38:00:: generate%2:36:00:: generate%2:36:00::
 walk%2:38:00:: walk%2:38:00:: go%2:30:08:: go%2:30:08::
-walk%2:38:00:: walk%2:38:00::
+walk%2:38:00:: walk%2:38:00:: implement implement
 walk%2:38:00:: walk%2:38:00:: increase%2:30:02:: increase%2:30:02::
 walk%2:38:00:: walk%2:38:00:: invent%2:36:01:: invent%2:36:01::
 walk%2:38:00:: walk%2:38:00:: jump%2:38:11:: jump%2:38:11::
@@ -1016,18 +1022,18 @@ walk%2:38:00:: walk%2:38:00:: sit%2:35:00:: sit%2:35:00::
 walk%2:38:00:: walk%2:38:00:: slow%2:30:01:: slow%2:30:01::
 walk%2:38:00:: walk%2:38:00:: swim%2:38:00:: swim%2:38:00::
 walk%2:38:00:: walk%2:38:00:: think%2:31:00:: think%2:31:00::
-walk%2:38:00:: walk%2:38:00::
-write%2:36:04:: write%2:36:04:: code%2:32:00::
+walk%2:38:00:: walk%2:38:00:: vanish vanish
+write%2:36:04:: write%2:36:04:: code%2:32:00:: cod
 write%2:36:04:: write%2:36:04:: dance%2:36:00:: dance%2:36:00::
 write%2:36:04:: write%2:36:04:: debug%2:30:00:: debug%2:30:00::
 write%2:36:04:: write%2:36:04:: decrease%2:30:00:: decrease%2:30:00::
 write%2:36:04:: write%2:36:04:: describe%2:32:00:: describe%2:32:00::
 write%2:36:04:: write%2:36:04:: discover%2:36:00:: discover%2:36:00::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: enhance enhance
 write%2:36:04:: write%2:36:04:: fly%2:39:00:: fly%2:39:00::
 write%2:36:04:: write%2:36:04:: generate%2:36:00:: generate%2:36:00::
 write%2:36:04:: write%2:36:04:: go%2:30:08:: go%2:30:08::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: implement implement
 write%2:36:04:: write%2:36:04:: increase%2:30:02:: increase%2:30:02::
 write%2:36:04:: write%2:36:04:: invent%2:36:01:: invent%2:36:01::
 write%2:36:04:: write%2:36:04:: jump%2:38:11:: jump%2:38:11::
@@ -1047,5 +1053,5 @@ write%2:36:04:: write%2:36:04:: sit%2:35:00:: sit%2:35:00::
 write%2:36:04:: write%2:36:04:: slow%2:30:01:: slow%2:30:01::
 write%2:36:04:: write%2:36:04:: swim%2:38:00:: swim%2:38:00::
 write%2:36:04:: write%2:36:04:: think%2:31:00:: think%2:31:00::
-write%2:36:04:: write%2:36:04::
+write%2:36:04:: write%2:36:04:: vanish vanish
 write%2:36:04:: write%2:36:04:: walk%2:38:00:: walk%2:38:00::

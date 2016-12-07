@@ -3,18 +3,18 @@ banana%1:20:00:: banana%1:20:00:: bird%1:05:00:: bird%1:05:00::
 banana%1:20:00:: banana%1:20:00:: bottle%2:35:00:: bottle%1:06:00::
 banana%1:20:00:: banana%1:20:00:: building%1:06:00:: building%1:06:00::
 banana%1:20:00:: banana%1:20:00:: car%1:06:01:: car%1:06:01::
-banana%1:20:00:: banana%1:20:00:: cat%1:05:00::
-banana%1:20:00:: banana%1:20:00:: child%1:18:00::
+banana%1:20:00:: banana%1:20:00:: cat cat%1:05:00::
+banana%1:20:00:: banana%1:20:00:: child child%1:18:00::
 banana%1:20:00:: banana%1:20:00:: cloud%2:43:00:: cloud%1:17:00::
 banana%1:20:00:: banana%1:20:00:: color%1:07:00:: color%1:07:00::
 banana%1:20:00:: banana%1:20:00:: computer%1:06:00:: computer%1:06:00::
 banana%1:20:00:: banana%1:20:00:: cow%2:37:00:: cow%1:05:01::
 banana%1:20:00:: banana%1:20:00:: dog%2:38:00:: dog%1:05:00::
 banana%1:20:00:: banana%1:20:00:: dollar%1:21:01:: dollar%1:21:01::
-banana%1:20:00:: banana%1:20:00:: donkey%1:05:00::
+banana%1:20:00:: banana%1:20:00:: donkey donkey%1:05:00::
 banana%1:20:00:: banana%1:20:00:: dream%1:09:01:: dream%1:09:01::
-banana%1:20:00:: banana%1:20:00:: eagle%1:05:00::
-banana%1:20:00:: banana%1:20:00:: elephant%1:05:00::
+banana%1:20:00:: banana%1:20:00:: eagle eagle%1:05:00::
+banana%1:20:00:: banana%1:20:00:: elephant elephant%1:05:00::
 banana%1:20:00:: banana%1:20:00:: eye%1:08:00:: eye%1:08:00::
 banana%1:20:00:: banana%1:20:00:: finger%1:08:00:: finger%1:08:00::
 banana%1:20:00:: banana%1:20:00:: goat%1:05:00:: goat%1:05:00::
@@ -22,14 +22,14 @@ banana%1:20:00:: banana%1:20:00:: hand%1:23:00:: hand%1:23:00::
 banana%1:20:00:: banana%1:20:00:: horse%1:05:00:: horse%1:05:00::
 banana%1:20:00:: banana%1:20:00:: lion%1:05:00:: lion%1:05:00::
 banana%1:20:00:: banana%1:20:00:: machine%1:06:00:: machine%1:06:00::
-banana%1:20:00:: banana%1:20:00::
+banana%1:20:00:: banana%1:20:00:: mango mango
 banana%1:20:00:: banana%1:20:00:: man%1:18:00:: men%1:14:00::
-banana%1:20:00:: banana%1:20:00:: melon%1:20:00::
-banana%1:20:00:: banana%1:20:00:: monkey%2:35:00::
+banana%1:20:00:: banana%1:20:00:: melon melon%1:20:00::
+banana%1:20:00:: banana%1:20:00:: monkey%2:35:00:: monkey
 banana%1:20:00:: banana%1:20:00:: mouse%2:35:00:: mouse%1:05:00::
 banana%1:20:00:: banana%1:20:00:: onion%1:20:00:: onion%1:20:00::
-banana%1:20:00:: banana%1:20:00:: pear%1:13:00::
-banana%1:20:00:: banana%1:20:00:: pig%1:05:00::
+banana%1:20:00:: banana%1:20:00:: pear pear%1:13:00::
+banana%1:20:00:: banana%1:20:00:: pig pig%1:05:00::
 banana%1:20:00:: banana%1:20:00:: pineapple%1:13:00:: pineapple%1:13:00::
 banana%1:20:00:: banana%1:20:00:: rat%2:35:01:: rat%1:05:00::
 banana%1:20:00:: banana%1:20:00:: road%1:06:00:: road%1:06:00::
@@ -39,17 +39,17 @@ bird%1:05:00:: bird%1:05:00:: bottle%1:06:00:: bottle%1:06:00::
 bird%1:05:00:: bird%1:05:00:: building%1:06:00:: building%1:06:00::
 bird%1:05:00:: bird%1:05:00:: car%1:06:01:: car%1:06:01::
 bird%1:05:00:: bird%1:05:00:: cat%1:05:00:: cat%1:05:00::
-bird%1:05:00:: bird%1:05:00:: child%1:18:00::
+bird%1:05:00:: bird%1:05:00:: child child%1:18:00::
 bird%1:05:00:: bird%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 bird%1:05:00:: bird%1:05:00:: color%1:07:00:: color%1:07:00::
 bird%1:05:00:: bird%1:05:00:: computer%1:06:00:: computer%1:06:00::
 bird%1:05:00:: bird%1:05:00:: cow%1:05:01:: cow%1:05:01::
 bird%1:05:00:: bird%1:05:00:: dog%2:38:00:: dog%1:05:00::
 bird%1:05:00:: bird%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-bird%1:05:00:: bird%1:05:00:: donkey%1:05:00::
+bird%1:05:00:: bird%1:05:00:: donkey donkey%1:05:00::
 bird%1:05:00:: bird%1:05:00:: dream%1:09:01:: dream%1:09:01::
-bird%1:05:00:: bird%1:05:00:: eagle%1:05:00::
-bird%1:05:00:: bird%1:05:00:: elephant%1:05:00::
+bird%1:05:00:: bird%1:05:00:: eagle eagle%1:05:00::
+bird%1:05:00:: bird%1:05:00:: elephant elephant%1:05:00::
 bird%1:05:00:: bird%1:05:00:: eye%1:08:00:: eye%1:08:00::
 bird%1:05:00:: bird%1:05:00:: finger%1:08:00:: finger%1:08:00::
 bird%1:05:00:: bird%1:05:00:: goat%1:05:00:: goat%1:05:00::
@@ -57,59 +57,59 @@ bird%1:05:00:: bird%1:05:00:: hand%1:23:00:: hand%1:23:00::
 bird%1:05:00:: bird%1:05:00:: horse%1:05:00:: horse%1:05:00::
 bird%1:05:00:: bird%1:05:00:: lion%1:05:00:: lion%1:05:00::
 bird%1:05:00:: bird%1:05:00:: machine%1:06:00:: machine%1:06:00::
-bird%1:05:00:: bird%1:05:00::
+bird%1:05:00:: bird%1:05:00:: mango mango
 bird%1:05:00:: bird%1:05:00:: man%1:18:00:: men%1:14:00::
 bird%1:05:00:: bird%1:05:00:: melon%1:20:00:: melon%1:20:00::
-bird%1:05:00:: bird%1:05:00::
+bird%1:05:00:: bird%1:05:00:: monkey monkey
 bird%1:05:00:: bird%1:05:00:: mouse%1:05:00:: mouse%1:05:00::
 bird%1:05:00:: bird%1:05:00:: onion%1:20:00:: onion%1:20:00::
-bird%1:05:00:: bird%1:05:00:: pear%1:13:00::
+bird%1:05:00:: bird%1:05:00:: pear pear%1:13:00::
 bird%1:05:00:: bird%1:05:00:: pig%1:05:00:: pig%1:05:00::
 bird%1:05:00:: bird%1:05:00:: pineapple%1:13:00:: pineapple%1:13:00::
 bird%1:05:00:: bird%1:05:00:: rat%2:35:01:: rat%1:05:00::
 bird%1:05:00:: bird%1:05:00:: road%1:06:00:: road%1:06:00::
 bird%1:05:00:: bird%1:05:00:: snake%2:38:01:: snake%1:18:00::
 bird%1:18:00:: bird%1:18:00:: woman%1:18:00:: woman%1:18:00::
-bird%1:05:00:: bird%1:05:00:: banana%1:20:00::
+bird%1:05:00:: bird%1:05:00:: banana banana%1:20:00::
 bottle%1:06:00:: bottle%1:06:00:: building%1:06:00:: building%1:06:00::
 bottle%1:06:00:: bottle%1:06:00:: car%1:06:01:: car%1:06:01::
-bottle%1:06:00:: bottle%1:06:00:: cat%1:05:00::
-bottle%1:06:00:: bottle%1:06:00:: child%1:18:00::
+bottle%1:06:00:: bottle%1:06:00:: cat cat%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: child child%1:18:00::
 bottle%1:06:00:: bottle%1:06:00:: cloud%2:43:00:: cloud%1:17:00::
 bottle%1:06:00:: bottle%1:06:00:: color%1:07:00:: color%1:07:00::
 bottle%1:06:00:: bottle%1:06:00:: computer%1:06:00:: computer%1:06:00::
 bottle%1:06:00:: bottle%1:06:00:: cow%2:37:00:: cow%1:05:01::
 bottle%1:06:00:: bottle%1:06:00:: dog%2:38:00:: dog%1:05:00::
-bottle%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
-bottle%1:06:00:: bottle%1:06:00:: donkey%1:05:00::
+bottle bottle%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
+bottle%1:06:00:: bottle%1:06:00:: donkey donkey%1:05:00::
 bottle%1:06:00:: bottle%1:06:00:: dream%2:36:00:: dream%1:09:01::
-bottle%1:06:00:: bottle%1:06:00:: eagle%1:05:00::
-bottle%1:06:00:: bottle%1:06:00:: elephant%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: eagle eagle%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: elephant elephant%1:05:00::
 bottle%1:06:00:: bottle%1:06:00:: eye%1:08:00:: eye%1:08:00::
-bottle%1:06:00:: bottle%1:06:00:: finger%1:08:00::
-bottle%1:06:00:: bottle%1:06:00:: goat%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: finger finger%1:08:00::
+bottle%1:06:00:: bottle%1:06:00:: goat goat%1:05:00::
 bottle%1:06:00:: bottle%1:06:00:: hand%1:23:00:: hand%1:23:00::
 bottle%1:06:00:: bottle%1:06:00:: horse%1:05:00:: horse%1:05:00::
-bottle%1:06:00:: bottle%1:06:00:: lion%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: lion lion%1:05:00::
 bottle%1:06:00:: bottle%1:06:00:: machine%1:06:00:: machine%1:06:00::
-bottle%1:06:00:: bottle%1:06:00::
+bottle%1:06:00:: bottle%1:06:00:: mango mango
 bottle%1:06:00:: bottle%1:06:00:: man%1:18:00:: men%1:14:00::
-bottle%1:06:00:: bottle%1:06:00:: melon%1:20:00::
-bottle%1:06:00:: bottle%1:06:00:: monkey%2:35:00::
+bottle%1:06:00:: bottle%1:06:00:: melon melon%1:20:00::
+bottle%1:06:00:: bottle%1:06:00:: monkey%2:35:00:: monkey
 bottle%1:06:00:: bottle%1:06:00:: mouse%2:35:00:: mouse%1:05:00::
-bottle%1:06:00:: bottle%1:06:00:: onion%1:20:00::
-bottle%1:06:00:: bottle%1:06:00:: pear%1:13:00::
-bottle%1:06:00:: bottle%1:06:00:: pig%1:05:00::
-bottle%1:06:00:: bottle%1:06:00:: pineapple%1:13:00::
+bottle%1:06:00:: bottle%1:06:00:: onion onion%1:20:00::
+bottle%1:06:00:: bottle%1:06:00:: pear pear%1:13:00::
+bottle%1:06:00:: bottle%1:06:00:: pig pig%1:05:00::
+bottle%1:06:00:: bottle%1:06:00:: pineapple pineapple%1:13:00::
 bottle%1:06:00:: bottle%1:06:00:: rat%2:35:01:: rat%1:05:00::
 bottle%1:06:00:: bottle%1:06:00:: road%1:06:00:: road%1:06:00::
 bottle%1:06:00:: bottle%1:06:00:: snake%2:38:01:: snake%1:18:00::
 bottle%1:06:00:: bottle%1:06:00:: woman%1:18:00:: woman%1:18:00::
-bottle%1:06:00:: bottle%1:06:00:: banana%1:20:00::
+bottle%1:06:00:: bottle%1:06:00:: banana banana%1:20:00::
 bottle%1:06:00:: bottle%1:06:00:: bird%2:33:00:: bird%1:05:00::
 building%1:06:00:: building%1:06:00:: car%1:06:01:: car%1:06:01::
 building%1:06:00:: building%1:06:00:: cat%1:05:00:: cat%1:05:00::
-building%1:06:00:: building%1:06:00:: child%1:18:00::
+building%1:06:00:: building%1:06:00:: child child%1:18:00::
 building%1:06:00:: building%1:06:00:: cloud%2:43:00:: cloud%1:17:00::
 building%1:06:00:: building%1:06:00:: color%1:07:00:: color%1:07:00::
 building%1:06:00:: building%1:06:00:: computer%1:06:00:: computer%1:06:00::
@@ -118,8 +118,8 @@ building%1:06:00:: building%1:06:00:: dog%2:38:00:: dog%1:05:00::
 building%1:06:00:: building%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
 building%1:06:00:: building%1:06:00:: donkey%1:05:00:: donkey%1:05:00::
 building%1:06:00:: building%1:06:00:: dream%1:09:01:: dream%1:09:01::
-building%1:06:00:: building%1:06:00:: eagle%1:05:00::
-building%1:06:00:: building%1:06:00:: elephant%1:05:00::
+building%1:06:00:: building%1:06:00:: eagle eagle%1:05:00::
+building%1:06:00:: building%1:06:00:: elephant elephant%1:05:00::
 building%1:06:00:: building%1:06:00:: eye%1:08:00:: eye%1:08:00::
 building%1:06:00:: building%1:06:00:: finger%1:08:00:: finger%1:08:00::
 building%1:06:00:: building%1:06:00:: goat%1:05:00:: goat%1:05:00::
@@ -127,90 +127,90 @@ building%1:06:00:: building%1:06:00:: hand%1:23:00:: hand%1:23:00::
 building%1:06:00:: building%1:06:00:: horse%1:05:00:: horse%1:05:00::
 building%1:06:00:: building%1:06:00:: lion%1:05:00:: lion%1:05:00::
 building%1:06:00:: building%1:06:00:: machine%1:06:00:: machine%1:06:00::
-building%1:06:00:: building%1:06:00::
+building%1:06:00:: building%1:06:00:: mango mango
 building%1:06:00:: building%1:06:00:: man%1:18:00:: men%1:14:00::
 building%1:06:00:: building%1:06:00:: melon%1:20:00:: melon%1:20:00::
-building%1:06:00:: building%1:06:00::
+building%1:06:00:: building%1:06:00:: monkey monkey
 building%1:06:00:: building%1:06:00:: mouse%1:05:00:: mouse%1:05:00::
 building%1:06:00:: building%1:06:00:: onion%1:20:00:: onion%1:20:00::
-building%1:06:00:: building%1:06:00:: pear%1:13:00::
+building%1:06:00:: building%1:06:00:: pear pear%1:13:00::
 building%1:06:00:: building%1:06:00:: pig%1:05:00:: pig%1:05:00::
 building%1:06:00:: building%1:06:00:: pineapple%1:13:00:: pineapple%1:13:00::
 building%1:06:00:: building%1:06:00:: rat%1:05:00:: rat%1:05:00::
 building%1:06:00:: building%1:06:00:: road%1:06:00:: road%1:06:00::
 building%1:06:00:: building%1:06:00:: snake%2:38:01:: snake%1:18:00::
 building%1:06:00:: building%1:06:00:: woman%1:18:00:: woman%1:18:00::
-building%1:06:00:: building%1:06:00:: banana%1:20:00::
+building%1:06:00:: building%1:06:00:: banana banana%1:20:00::
 building%1:06:00:: building%1:06:00:: bird%1:05:00:: bird%1:05:00::
 building%1:06:00:: building%1:06:00:: bottle%1:06:00:: bottle%1:06:00::
-car%1:06:01:: car%1:06:01:: cat%1:05:00::
-car%1:06:01:: car%1:06:01:: child%1:18:00::
+car%1:06:01:: car%1:06:01:: cat cat%1:05:00::
+car%1:06:01:: car%1:06:01:: child child%1:18:00::
 car%1:06:01:: car%1:06:01:: cloud%2:43:00:: cloud%1:17:00::
 car%1:06:01:: car%1:06:01:: color%1:07:00:: color%1:07:00::
 car%1:06:01:: car%1:06:01:: computer%1:06:00:: computer%1:06:00::
 car%1:06:01:: car%1:06:01:: cow%2:37:00:: cow%1:05:01::
 car%1:06:01:: car%1:06:01:: dog%2:38:00:: dog%1:05:00::
 car%1:06:01:: car%1:06:01:: dollar%1:21:01:: dollar%1:21:01::
-car%1:06:01:: car%1:06:01:: donkey%1:05:00::
+car%1:06:01:: car%1:06:01:: donkey donkey%1:05:00::
 car%1:06:01:: car%1:06:01:: dream%2:36:00:: dream%1:09:01::
-car%1:06:01:: car%1:06:01:: eagle%1:05:00::
-car%1:06:01:: car%1:06:01:: elephant%1:05:00::
+car%1:06:01:: car%1:06:01:: eagle eagle%1:05:00::
+car%1:06:01:: car%1:06:01:: elephant elephant%1:05:00::
 car%1:06:01:: car%1:06:01:: eye%1:08:00:: eye%1:08:00::
-car%1:06:01:: car%1:06:01:: finger%1:08:00::
-car%1:06:01:: car%1:06:01:: goat%1:05:00::
+car%1:06:01:: car%1:06:01:: finger finger%1:08:00::
+car%1:06:01:: car%1:06:01:: goat goat%1:05:00::
 car%1:06:01:: car%1:06:01:: hand%1:23:00:: hand%1:23:00::
 car%1:06:01:: car%1:06:01:: horse%1:05:00:: horse%1:05:00::
-car%1:06:01:: car%1:06:01:: lion%1:05:00::
+car%1:06:01:: car%1:06:01:: lion lion%1:05:00::
 car%1:06:01:: car%1:06:01:: machine%1:06:00:: machine%1:06:00::
-car%1:06:01:: car%1:06:01::
+car%1:06:01:: car%1:06:01:: mango mango
 car%1:06:01:: car%1:06:01:: man%1:18:00:: men%1:14:00::
-car%1:06:01:: car%1:06:01:: melon%1:20:00::
-car%1:06:01:: car%1:06:01:: monkey%2:35:00::
+car%1:06:01:: car%1:06:01:: melon melon%1:20:00::
+car%1:06:01:: car%1:06:01:: monkey%2:35:00:: monkey
 car%1:06:01:: car%1:06:01:: mouse%2:35:00:: mouse%1:05:00::
-car%1:06:01:: car%1:06:01:: onion%1:20:00::
-car%1:06:01:: car%1:06:01:: pear%1:13:00::
-car%1:06:01:: car%1:06:01:: pig%1:05:00::
-car%1:06:01:: car%1:06:01:: pineapple%1:13:00::
+car%1:06:01:: car%1:06:01:: onion onion%1:20:00::
+car%1:06:01:: car%1:06:01:: pear pear%1:13:00::
+car%1:06:01:: car%1:06:01:: pig pig%1:05:00::
+car%1:06:01:: car%1:06:01:: pineapple pineapple%1:13:00::
 car%1:06:01:: car%1:06:01:: rat%2:35:01:: rat%1:05:00::
 car%1:06:01:: car%1:06:01:: road%1:06:00:: road%1:06:00::
 car%1:06:01:: car%1:06:01:: snake%2:38:01:: snake%1:18:00::
 car%1:06:01:: car%1:06:01:: woman%1:18:00:: woman%1:18:00::
-car%1:06:01:: car%1:06:01:: banana%1:20:00::
+car%1:06:01:: car%1:06:01:: banana banana%1:20:00::
 car%1:06:01:: car%1:06:01:: bird%2:33:00:: bird%1:05:00::
 car%1:06:01:: car%1:06:01:: bottle%2:35:00:: bottle%1:06:00::
 car%1:06:01:: car%1:06:01:: building%1:06:00:: building%1:06:00::
-cat%1:05:00:: cat%1:05:00:: child%1:18:00::
+cat%1:05:00:: cat%1:05:00:: child child%1:18:00::
 cat%1:05:00:: cat%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 cat%1:05:00:: cat%1:05:00:: color%2:30:00:: color%1:07:00::
 cat%1:04:00:: cat%1:04:00:: computer%1:06:00:: computer%1:06:00::
 cat%1:05:00:: cat%1:05:00:: cow%2:37:00:: cow%1:05:01::
 cat%1:05:00:: cat%1:05:00:: dog%2:38:00:: dog%1:05:00::
 cat%1:05:00:: cat%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-cat%1:05:00:: cat%1:05:00:: donkey%1:05:00::
+cat%1:05:00:: cat%1:05:00:: donkey donkey%1:05:00::
 cat%1:05:00:: cat%1:05:00:: dream%2:36:00:: dream%1:09:01::
-cat%1:05:00:: cat%1:05:00:: eagle%1:05:00::
-cat%1:05:00:: cat%1:05:00:: elephant%1:05:00::
+cat%1:05:00:: cat%1:05:00:: eagle eagle%1:05:00::
+cat%1:05:00:: cat%1:05:00:: elephant elephant%1:05:00::
 cat%1:05:00:: cat%1:05:00:: eye%1:08:00:: eye%1:08:00::
-cat%1:05:00:: cat%1:05:00:: finger%1:08:00::
-cat%1:05:00:: cat%1:05:00:: goat%1:05:00::
+cat%1:05:00:: cat%1:05:00:: finger finger%1:08:00::
+cat%1:05:00:: cat%1:05:00:: goat goat%1:05:00::
 cat%1:05:00:: cat%1:05:00:: hand%1:23:00:: hand%1:23:00::
 cat%1:05:00:: cat%1:05:00:: horse%2:34:00:: horse%1:05:00::
-cat%1:05:00:: cat%1:05:00:: lion%1:05:00::
+cat%1:05:00:: cat%1:05:00:: lion lion%1:05:00::
 cat%1:05:00:: cat%1:05:00:: machine%1:06:00:: machine%1:06:00::
-cat%1:05:00:: cat%1:05:00::
+cat%1:05:00:: cat%1:05:00:: mango mango
 cat%1:18:01:: cat%1:18:01:: man%1:18:00:: men%1:14:00::
-cat%1:05:00:: cat%1:05:00:: melon%1:20:00::
-cat%1:05:00:: cat%1:05:00:: monkey%2:35:00::
+cat%1:05:00:: cat%1:05:00:: melon melon%1:20:00::
+cat%1:05:00:: cat%1:05:00:: monkey%2:35:00:: monkey
 cat%1:05:00:: cat%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-cat%1:05:00:: cat%1:05:00:: onion%1:20:00::
-cat%1:05:00:: cat%1:05:00:: pear%1:13:00::
-cat%1:05:00:: cat%1:05:00:: pig%1:05:00::
-cat%1:05:00:: cat%1:05:00:: pineapple%1:13:00::
+cat%1:05:00:: cat%1:05:00:: onion onion%1:20:00::
+cat%1:05:00:: cat%1:05:00:: pear pear%1:13:00::
+cat%1:05:00:: cat%1:05:00:: pig pig%1:05:00::
+cat%1:05:00:: cat%1:05:00:: pineapple pineapple%1:13:00::
 cat%1:05:00:: cat%1:05:00:: rat%2:35:01:: rat%1:05:00::
 cat%1:05:00:: cat%1:05:00:: road%1:06:00:: road%1:06:00::
 cat%1:05:00:: cat%1:05:00:: snake%2:38:01:: snake%1:18:00::
 cat%1:05:00:: cat%1:05:00:: woman%1:18:00:: woman%1:18:00::
-cat%1:05:00:: cat%1:05:00:: banana%1:20:00::
+cat%1:05:00:: cat%1:05:00:: banana banana%1:20:00::
 cat%1:05:00:: cat%1:05:00:: bird%2:33:00:: bird%1:05:00::
 cat%1:05:00:: cat%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 cat%1:05:00:: cat%1:05:00:: building%1:06:00:: building%1:06:00::
@@ -218,795 +218,797 @@ cat%1:05:00:: cat%1:05:00:: car%1:06:01:: car%1:06:01::
 child%1:18:00:: child%1:18:00:: cloud%2:43:00:: cloud%1:17:00::
 child%1:18:00:: child%1:18:00:: color%1:07:00:: color%1:07:00::
 child%1:18:00:: child%1:18:00:: computer%1:06:00:: computer%1:06:00::
-child%1:18:00:: child%1:18:00:: cow%1:05:01::
-child%1:18:00:: child%1:18:00:: dog%1:05:00::
-child%1:18:00:: dollar%1:21:01:: dollar%1:21:01::
-child%1:18:00:: child%1:18:00:: donkey%1:05:00::
+child%1:18:00:: child%1:18:00:: cow cow%1:05:01::
+child%1:18:00:: child%1:18:00:: dog dog%1:05:00::
+child child%1:18:00:: dollar%1:21:01:: dollar%1:21:01::
+child%1:18:00:: child%1:18:00:: donkey donkey%1:05:00::
 child%1:18:00:: child%1:18:00:: dream%2:36:00:: dream%1:09:01::
-child%1:18:00:: child%1:18:00:: eagle%1:05:00::
-child%1:18:00:: child%1:18:00:: elephant%1:05:00::
+child%1:18:00:: child%1:18:00:: eagle eagle%1:05:00::
+child%1:18:00:: child%1:18:00:: elephant elephant%1:05:00::
 child%1:18:00:: child%1:18:00:: eye%1:08:00:: eye%1:08:00::
 child%1:18:00:: child%1:18:00:: finger%1:08:00:: finger%1:08:00::
-child%1:18:00:: child%1:18:00:: goat%1:05:00::
+child%1:18:00:: child%1:18:00:: goat goat%1:05:00::
 child%1:18:00:: child%1:18:00:: hand%1:23:00:: hand%1:23:00::
 child%1:18:00:: child%1:18:00:: horse%1:05:00:: horse%1:05:00::
 child%1:18:00:: child%1:18:00:: lion%1:05:00:: lion%1:05:00::
-child%1:18:00:: machine%1:06:00:: machine%1:06:00::
-child%1:18:00:: child%1:18:00::
+child child%1:18:00:: machine%1:06:00:: machine%1:06:00::
+child%1:18:00:: child%1:18:00:: mango mango
 child%1:18:00:: child%1:18:00:: man%1:18:00:: men%1:14:00::
-child%1:18:00:: child%1:18:00:: melon%1:20:00::
-child%1:18:00:: child%1:18:00:: monkey%1:18:00::
+child%1:18:00:: child%1:18:00:: melon melon%1:20:00::
+child%1:18:00:: child%1:18:00:: monkey monkey%1:18:00::
 child%1:18:00:: child%1:18:00:: mouse%2:35:00:: mouse%1:05:00::
 child%1:18:00:: child%1:18:00:: onion%1:20:00:: onion%1:20:00::
-child%1:18:00:: child%1:18:00:: pear%1:13:00::
-child%1:18:00:: pig%1:05:00:: pig%1:05:00::
-child%1:18:00:: child%1:18:00:: pineapple%1:13:00::
+child%1:18:00:: child%1:18:00:: pear pear%1:13:00::
+child child%1:18:00:: pig%1:05:00:: pig%1:05:00::
+child%1:18:00:: child%1:18:00:: pineapple pineapple%1:13:00::
 child%1:18:00:: child%1:18:00:: rat%2:35:01:: rat%1:05:00::
-child%1:18:00:: road%1:06:00:: road%1:06:00::
+child child%1:18:00:: road%1:06:00:: road%1:06:00::
 child%1:18:00:: child%1:18:00:: snake%2:38:01:: snake%1:18:00::
 child%1:18:00:: child%1:18:00:: woman%1:18:00:: woman%1:18:00::
-child%1:18:00:: child%1:18:00:: banana%1:20:00::
+child%1:18:00:: child%1:18:00:: banana banana%1:20:00::
 child%1:18:00:: child%1:18:00:: bird%2:33:00:: bird%1:05:00::
 child%1:18:00:: child%1:18:00:: bottle%2:35:00:: bottle%1:06:00::
 child%1:18:00:: child%1:18:00:: building%1:06:00:: building%1:06:00::
 child%1:18:00:: child%1:18:00:: car%1:06:01:: car%1:06:01::
-child%1:18:00:: child%1:18:00:: cat%1:05:00::
+child%1:18:00:: child%1:18:00:: cat cat%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: color%1:07:00:: color%1:07:00::
 cloud%1:17:00:: cloud%1:17:00:: computer%1:06:00:: computer%1:06:00::
 cloud%1:17:00:: cloud%1:17:00:: cow%2:37:00:: cow%1:05:01::
 cloud%1:17:00:: cloud%1:17:00:: dog%2:38:00:: dog%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: dollar%1:21:01:: dollar%1:21:01::
-cloud%1:17:00:: cloud%1:17:00:: donkey%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: donkey donkey%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: dream%2:36:00:: dream%1:09:01::
-cloud%1:17:00:: cloud%1:17:00:: eagle%1:05:00::
-cloud%1:17:00:: cloud%1:17:00:: elephant%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: eagle eagle%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: elephant elephant%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: eye%1:08:00:: eye%1:08:00::
 cloud%1:17:00:: cloud%1:17:00:: finger%1:08:00:: finger%1:08:00::
-cloud%1:17:00:: cloud%1:17:00:: goat%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: goat goat%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: hand%1:23:00:: hand%1:23:00::
 cloud%1:17:00:: cloud%1:17:00:: horse%1:05:00:: horse%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: lion%1:05:00:: lion%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: machine%1:06:00:: machine%1:06:00::
-cloud%1:17:00:: cloud%1:17:00::
+cloud%1:17:00:: cloud%1:17:00:: mango mango
 cloud%1:17:00:: cloud%1:17:00:: man%1:18:00:: men%1:14:00::
-cloud%1:17:00:: cloud%1:17:00:: melon%1:20:00::
-cloud%1:17:00:: cloud%1:17:00:: monkey%2:35:00::
+cloud%1:17:00:: cloud%1:17:00:: melon melon%1:20:00::
+cloud%1:17:00:: cloud%1:17:00:: monkey%2:35:00:: monkey
 cloud%1:17:00:: cloud%1:17:00:: mouse%2:35:00:: mouse%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: onion%1:20:00:: onion%1:20:00::
-cloud%1:17:00:: cloud%1:17:00:: pear%1:13:00::
-cloud%1:17:00:: cloud%1:17:00:: pig%1:05:00::
-cloud%1:17:00:: cloud%1:17:00:: pineapple%1:13:00::
+cloud%1:17:00:: cloud%1:17:00:: pear pear%1:13:00::
+cloud%1:17:00:: cloud%1:17:00:: pig pig%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: pineapple pineapple%1:13:00::
 cloud%1:17:00:: cloud%1:17:00:: rat%2:35:01:: rat%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: road%1:06:00:: road%1:06:00::
 cloud%1:17:00:: cloud%1:17:00:: snake%2:38:01:: snake%1:18:00::
 cloud%1:17:00:: cloud%1:17:00:: woman%1:18:00:: woman%1:18:00::
-cloud%1:17:00:: cloud%1:17:00:: banana%1:20:00::
+cloud%1:17:00:: cloud%1:17:00:: banana banana%1:20:00::
 cloud%1:17:00:: cloud%1:17:00:: bird%2:33:00:: bird%1:05:00::
 cloud%1:17:00:: cloud%1:17:00:: bottle%2:35:00:: bottle%1:06:00::
 cloud%1:17:00:: cloud%1:17:00:: building%1:06:00:: building%1:06:00::
 cloud%1:17:00:: cloud%1:17:00:: car%1:06:01:: car%1:06:01::
-cloud%1:17:00:: cloud%1:17:00:: cat%1:05:00::
-cloud%1:17:00:: cloud%1:17:00:: child%1:18:00::
+cloud%1:17:00:: cloud%1:17:00:: cat cat%1:05:00::
+cloud%1:17:00:: cloud%1:17:00:: child child%1:18:00::
 color%1:07:00:: color%1:07:00:: computer%1:06:00:: computer%1:06:00::
 color%1:07:00:: color%1:07:00:: cow%2:37:00:: cow%1:05:01::
 color%1:07:00:: color%1:07:00:: dog%2:38:00:: dog%1:05:00::
 color%1:07:00:: color%1:07:00:: dollar%1:21:01:: dollar%1:21:01::
-color%1:07:00:: color%1:07:00:: donkey%1:05:00::
+color%1:07:00:: color%1:07:00:: donkey donkey%1:05:00::
 color%1:07:00:: color%1:07:00:: dream%2:36:00:: dream%1:09:01::
-color%1:07:00:: color%1:07:00:: eagle%1:05:00::
-color%1:07:00:: color%1:07:00:: elephant%1:05:00::
+color%1:07:00:: color%1:07:00:: eagle eagle%1:05:00::
+color%1:07:00:: color%1:07:00:: elephant elephant%1:05:00::
 color%1:07:00:: color%1:07:00:: eye%1:08:00:: eye%1:08:00::
-color%1:07:00:: color%1:07:00:: finger%1:08:00::
-color%1:07:00:: color%1:07:00:: goat%1:05:00::
+color%1:07:00:: color%1:07:00:: finger finger%1:08:00::
+color%1:07:00:: color%1:07:00:: goat goat%1:05:00::
 color%1:07:00:: color%1:07:00:: hand%1:23:00:: hand%1:23:00::
 color%1:07:00:: color%1:07:00:: horse%2:34:00:: horse%1:05:00::
-color%1:07:00:: color%1:07:00:: lion%1:05:00::
+color%1:07:00:: color%1:07:00:: lion lion%1:05:00::
 color%1:07:00:: color%1:07:00:: machine%1:06:00:: machine%1:06:00::
-color%1:07:00:: color%1:07:00::
+color%1:07:00:: color%1:07:00:: mango mango
 color%1:07:00:: color%1:07:00:: man%1:18:00:: men%1:14:00::
-color%1:07:00:: color%1:07:00:: melon%1:20:00::
-color%1:07:00:: color%1:07:00:: monkey%2:35:00::
+color%1:07:00:: color%1:07:00:: melon melon%1:20:00::
+color%1:07:00:: color%1:07:00:: monkey%2:35:00:: monkey
 color%1:07:00:: color%1:07:00:: mouse%2:35:00:: mouse%1:05:00::
-color%1:07:00:: color%1:07:00:: onion%1:20:00::
-color%1:07:00:: color%1:07:00:: pear%1:13:00::
-color%1:07:00:: color%1:07:00:: pig%1:05:00::
-color%1:07:00:: color%1:07:00:: pineapple%1:13:00::
+color%1:07:00:: color%1:07:00:: onion onion%1:20:00::
+color%1:07:00:: color%1:07:00:: pear pear%1:13:00::
+color%1:07:00:: color%1:07:00:: pig pig%1:05:00::
+color%1:07:00:: color%1:07:00:: pineapple pineapple%1:13:00::
 color%1:07:00:: color%1:07:00:: rat%2:35:01:: rat%1:05:00::
 color%1:07:00:: color%1:07:00:: road%1:06:00:: road%1:06:00::
 color%1:07:00:: color%1:07:00:: snake%2:38:01:: snake%1:18:00::
 color%1:07:00:: color%1:07:00:: woman%1:18:00:: woman%1:18:00::
-color%1:07:00:: color%1:07:00:: banana%1:20:00::
+color%1:07:00:: color%1:07:00:: banana banana%1:20:00::
 color%1:07:00:: color%1:07:00:: bird%2:33:00:: bird%1:05:00::
 color%1:07:00:: color%1:07:00:: bottle%2:35:00:: bottle%1:06:00::
 color%1:07:00:: color%1:07:00:: building%1:06:00:: building%1:06:00::
 color%1:07:00:: color%1:07:00:: car%1:06:01:: car%1:06:01::
-color%1:07:00:: color%1:07:00:: cat%1:05:00::
-color%1:07:00:: color%1:07:00:: child%1:18:00::
+color%1:07:00:: color%1:07:00:: cat cat%1:05:00::
+color%1:07:00:: color%1:07:00:: child child%1:18:00::
 color%1:07:00:: color%1:07:00:: cloud%2:43:00:: cloud%1:17:00::
 computer%1:06:00:: computer%1:06:00:: cow%2:37:00:: cow%1:05:01::
 computer%1:06:00:: computer%1:06:00:: dog%2:38:00:: dog%1:05:00::
 computer%1:06:00:: computer%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
-computer%1:06:00:: computer%1:06:00:: donkey%1:05:00::
+computer%1:06:00:: computer%1:06:00:: donkey donkey%1:05:00::
 computer%1:06:00:: computer%1:06:00:: dream%2:36:00:: dream%1:09:01::
-computer%1:06:00:: computer%1:06:00:: eagle%1:05:00::
-computer%1:06:00:: computer%1:06:00:: elephant%1:05:00::
+computer%1:06:00:: computer%1:06:00:: eagle eagle%1:05:00::
+computer%1:06:00:: computer%1:06:00:: elephant elephant%1:05:00::
 computer%1:06:00:: computer%1:06:00:: eye%1:08:00:: eye%1:08:00::
 computer%1:06:00:: computer%1:06:00:: finger%2:35:01:: finger%1:08:00::
-computer%1:06:00:: computer%1:06:00:: goat%1:05:00::
+computer%1:06:00:: computer%1:06:00:: goat goat%1:05:00::
 computer%1:06:00:: computer%1:06:00:: hand%1:23:00:: hand%1:23:00::
 computer%1:06:00:: computer%1:06:00:: horse%2:34:00:: horse%1:05:00::
-computer%1:06:00:: computer%1:06:00:: lion%1:05:00::
+computer%1:06:00:: computer%1:06:00:: lion lion%1:05:00::
 computer%1:06:00:: computer%1:06:00:: machine%1:06:00:: machine%1:06:00::
-computer%1:06:00:: computer%1:06:00::
+computer%1:06:00:: computer%1:06:00:: mango mango
 computer%1:06:00:: computer%1:06:00:: man%1:18:00:: men%1:14:00::
-computer%1:06:00:: computer%1:06:00:: melon%1:20:00::
-computer%1:06:00:: computer%1:06:00:: monkey%2:35:00::
+computer%1:06:00:: computer%1:06:00:: melon melon%1:20:00::
+computer%1:06:00:: computer%1:06:00:: monkey%2:35:00:: monkey
 computer%1:06:00:: computer%1:06:00:: mouse%2:35:00:: mouse%1:06:00::
-computer%1:06:00:: computer%1:06:00:: onion%1:20:00::
-computer%1:06:00:: computer%1:06:00:: pear%1:13:00::
-computer%1:06:00:: computer%1:06:00:: pig%1:05:00::
-computer%1:06:00:: computer%1:06:00:: pineapple%1:13:00::
+computer%1:06:00:: computer%1:06:00:: onion onion%1:20:00::
+computer%1:06:00:: computer%1:06:00:: pear pear%1:13:00::
+computer%1:06:00:: computer%1:06:00:: pig pig%1:05:00::
+computer%1:06:00:: computer%1:06:00:: pineapple pineapple%1:13:00::
 computer%1:06:00:: computer%1:06:00:: rat%2:35:01:: rat%1:05:00::
 computer%1:06:00:: computer%1:06:00:: road%1:06:00:: road%1:06:00::
 computer%1:06:00:: computer%1:06:00:: snake%2:38:01:: snake%1:18:00::
 computer%1:06:00:: computer%1:06:00:: woman%1:18:00:: woman%1:18:00::
-computer%1:06:00:: computer%1:06:00:: banana%1:20:00::
+computer%1:06:00:: computer%1:06:00:: banana banana%1:20:00::
 computer%1:06:00:: computer%1:06:00:: bird%2:33:00:: bird%1:05:00::
 computer%1:06:00:: computer%1:06:00:: bottle%2:35:00:: bottle%1:06:00::
 computer%1:06:00:: computer%1:06:00:: building%1:06:00:: building%1:06:00::
 computer%1:06:00:: computer%1:06:00:: car%1:06:01:: car%1:06:01::
-computer%1:06:00:: computer%1:06:00:: cat%1:04:00::
-computer%1:06:00:: computer%1:06:00:: child%1:18:00::
+computer%1:06:00:: computer%1:06:00:: cat cat%1:04:00::
+computer%1:06:00:: computer%1:06:00:: child child%1:18:00::
 computer%1:06:00:: computer%1:06:00:: cloud%2:43:00:: cloud%1:17:00::
 computer%1:06:00:: computer%1:06:00:: color%1:07:00:: color%1:07:00::
 cow%1:05:01:: cow%1:05:01:: dog%2:38:00:: dog%1:05:00::
 cow%1:05:01:: cow%1:05:01:: dollar%1:21:01:: dollar%1:21:01::
-cow%1:05:01:: cow%1:05:01:: donkey%1:05:00::
+cow%1:05:01:: cow%1:05:01:: donkey donkey%1:05:00::
 cow%1:05:01:: cow%1:05:01:: dream%2:36:00:: dream%1:09:01::
-cow%1:05:01:: cow%1:05:01:: eagle%1:05:00::
-cow%1:05:01:: cow%1:05:01:: elephant%1:05:00::
+cow%1:05:01:: cow%1:05:01:: eagle eagle%1:05:00::
+cow%1:05:01:: cow%1:05:01:: elephant elephant%1:05:00::
 cow%1:05:01:: cow%1:05:01:: eye%1:08:00:: eye%1:08:00::
 cow%1:05:01:: cow%1:05:01:: finger%1:08:00:: finger%1:08:00::
-cow%1:05:01:: cow%1:05:01:: goat%1:05:00::
+cow%1:05:01:: cow%1:05:01:: goat goat%1:05:00::
 cow%1:05:01:: cow%1:05:01:: hand%1:23:00:: hand%1:23:00::
 cow%1:05:01:: cow%1:05:01:: horse%1:05:00:: horse%1:05:00::
 cow%1:05:01:: cow%1:05:01:: lion%1:05:00:: lion%1:05:00::
 cow%1:05:01:: cow%1:05:01:: machine%1:06:00:: machine%1:06:00::
-cow%1:05:01:: cow%1:05:01::
+cow%1:05:01:: cow%1:05:01:: mango mango
 cow%1:05:01:: cow%1:05:01:: man%1:18:00:: men%1:14:00::
-cow%1:05:01:: cow%1:05:01:: melon%1:20:00::
-cow%1:05:01:: cow%1:05:01:: monkey%2:35:00::
+cow%1:05:01:: cow%1:05:01:: melon melon%1:20:00::
+cow%1:05:01:: cow%1:05:01:: monkey%2:35:00:: monkey
 cow%1:05:01:: cow%1:05:01:: mouse%2:35:00:: mouse%1:05:00::
 cow%1:05:01:: cow%1:05:01:: onion%1:20:00:: onion%1:20:00::
-cow%1:05:01:: cow%1:05:01:: pear%1:13:00::
-cow%1:05:01:: cow%1:05:01:: pig%1:05:00::
-cow%1:05:01:: cow%1:05:01:: pineapple%1:13:00::
+cow%1:05:01:: cow%1:05:01:: pear pear%1:13:00::
+cow%1:05:01:: cow%1:05:01:: pig pig%1:05:00::
+cow%1:05:01:: cow%1:05:01:: pineapple pineapple%1:13:00::
 cow%1:05:01:: cow%1:05:01:: rat%2:35:01:: rat%1:05:00::
 cow%1:05:01:: cow%1:05:01:: road%1:06:00:: road%1:06:00::
 cow%1:05:01:: cow%1:05:01:: snake%2:38:01:: snake%1:18:00::
 cow%1:18:00:: cow%1:18:00:: woman%1:18:00:: woman%1:18:00::
-cow%1:05:01:: cow%1:05:01:: banana%1:20:00::
+cow%1:05:01:: cow%1:05:01:: banana banana%1:20:00::
 cow%1:05:01:: cow%1:05:01:: bird%2:33:00:: bird%1:05:00::
 cow%1:05:01:: cow%1:05:01:: bottle%2:35:00:: bottle%1:06:00::
 cow%1:05:01:: cow%1:05:01:: building%1:06:00:: building%1:06:00::
 cow%1:05:01:: cow%1:05:01:: car%1:06:01:: car%1:06:01::
-cow%1:05:01:: cow%1:05:01:: cat%1:05:00::
-cow%1:05:01:: cow%1:05:01:: child%1:18:00::
+cow%1:05:01:: cow%1:05:01:: cat cat%1:05:00::
+cow%1:05:01:: cow%1:05:01:: child child%1:18:00::
 cow%1:05:01:: cow%1:05:01:: cloud%2:43:00:: cloud%1:17:00::
 cow%1:05:01:: cow%1:05:01:: color%1:07:00:: color%1:07:00::
 cow%1:05:01:: cow%1:05:01:: computer%1:06:00:: computer%1:06:00::
-dog%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-dog%1:05:00:: donkey%1:05:00::
-dog%1:05:00:: dream%1:09:01:: dream%1:09:01::
-dog%1:05:00:: eagle%1:05:00::
-dog%1:05:00:: elephant%1:05:00::
-dog%1:05:00:: eye%1:08:00:: eye%1:08:00::
-dog%1:05:00:: finger%1:08:00:: finger%1:08:00::
-dog%1:05:00:: goat%1:05:00:: goat%1:05:00::
-dog%1:05:00:: hand%1:23:00:: hand%1:23:00::
-dog%1:05:00:: horse%1:05:00:: horse%1:05:00::
-dog%1:05:00:: lion%1:05:00:: lion%1:05:00::
-dog%1:05:00:: machine%1:06:00:: machine%1:06:00::
-dog%1:05:00::
-dog%1:18:00:: man%1:18:00:: men%1:14:00::
-dog%1:05:00:: melon%1:20:00:: melon%1:20:00::
-dog%1:05:00::
-dog%1:05:00:: mouse%1:05:00:: mouse%1:05:00::
-dog%1:05:00:: onion%1:20:00:: onion%1:20:00::
-dog%1:05:00:: pear%1:13:00::
-dog%1:05:00:: pig%1:05:00:: pig%1:05:00::
-dog%1:05:00:: pineapple%1:13:00::
-dog%1:05:00:: rat%2:35:01:: rat%1:05:00::
-dog%1:05:00:: road%1:06:00:: road%1:06:00::
-dog%1:05:00:: snake%2:38:01:: snake%1:18:00::
-dog%1:18:01:: woman%1:18:00:: woman%1:18:00::
-dog%1:05:00:: banana%1:20:00::
-dog%1:05:00:: bird%1:05:00:: bird%1:05:00::
-dog%1:05:00:: bottle%1:06:00:: bottle%1:06:00::
-dog%1:05:00:: building%1:06:00:: building%1:06:00::
+dog dog%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
+dog dog%1:05:00:: donkey donkey%1:05:00::
+dog dog%1:05:00:: dream%1:09:01:: dream%1:09:01::
+dog dog%1:05:00:: eagle eagle%1:05:00::
+dog dog%1:05:00:: elephant elephant%1:05:00::
+dog dog%1:05:00:: eye%1:08:00:: eye%1:08:00::
+dog dog%1:05:00:: finger%1:08:00:: finger%1:08:00::
+dog dog%1:05:00:: goat%1:05:00:: goat%1:05:00::
+dog dog%1:05:00:: hand%1:23:00:: hand%1:23:00::
+dog dog%1:05:00:: horse%1:05:00:: horse%1:05:00::
+dog dog%1:05:00:: lion%1:05:00:: lion%1:05:00::
+dog dog%1:05:00:: machine%1:06:00:: machine%1:06:00::
+dog dog%1:05:00:: mango mango
+dog dog%1:18:00:: man%1:18:00:: men%1:14:00::
+dog dog%1:05:00:: melon%1:20:00:: melon%1:20:00::
+dog dog%1:05:00:: monkey monkey
+dog dog%1:05:00:: mouse%1:05:00:: mouse%1:05:00::
+dog dog%1:05:00:: onion%1:20:00:: onion%1:20:00::
+dog dog%1:05:00:: pear pear%1:13:00::
+dog dog%1:05:00:: pig%1:05:00:: pig%1:05:00::
+dog dog%1:05:00:: pineapple pineapple%1:13:00::
+dog dog%1:05:00:: rat%2:35:01:: rat%1:05:00::
+dog dog%1:05:00:: road%1:06:00:: road%1:06:00::
+dog dog%1:05:00:: snake%2:38:01:: snake%1:18:00::
+dog dog%1:18:01:: woman%1:18:00:: woman%1:18:00::
+dog dog%1:05:00:: banana banana%1:20:00::
+dog dog%1:05:00:: bird%1:05:00:: bird%1:05:00::
+dog dog%1:05:00:: bottle%1:06:00:: bottle%1:06:00::
+dog dog%1:05:00:: building%1:06:00:: building%1:06:00::
 dog%1:05:00:: dog%1:05:00:: car%1:06:01:: car%1:06:01::
-dog%1:05:00:: cat%1:05:00:: cat%1:05:00::
-dog%1:05:00:: child%1:18:00::
-dog%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
-dog%1:05:00:: color%1:07:00:: color%1:07:00::
+dog dog%1:05:00:: cat%1:05:00:: cat%1:05:00::
+dog dog%1:05:00:: child child%1:18:00::
+dog dog%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
+dog dog%1:05:00:: color%1:07:00:: color%1:07:00::
 dog%1:05:00:: dog%1:05:00:: computer%1:06:00:: computer%1:06:00::
-dog%1:05:00:: cow%1:05:01:: cow%1:05:01::
-dollar%1:21:01:: dollar%1:21:01:: donkey%1:05:00::
+dog dog%1:05:00:: cow%1:05:01:: cow%1:05:01::
+dollar%1:21:01:: dollar%1:21:01:: donkey donkey%1:05:00::
 dollar%1:21:01:: dollar%1:21:01:: dream%2:36:00:: dream%1:09:01::
-dollar%1:21:01:: dollar%1:21:01:: eagle%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: elephant%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: eagle eagle%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: elephant elephant%1:05:00::
 dollar%1:21:01:: dollar%1:21:01:: eye%1:08:00:: eye%1:08:00::
-dollar%1:21:01:: dollar%1:21:01:: finger%1:08:00::
-dollar%1:21:01:: dollar%1:21:01:: goat%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: finger finger%1:08:00::
+dollar%1:21:01:: dollar%1:21:01:: goat goat%1:05:00::
 dollar%1:21:01:: dollar%1:21:01:: hand%1:23:00:: hand%1:23:00::
 dollar%1:21:01:: dollar%1:21:01:: horse%2:34:00:: horse%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: lion%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: lion lion%1:05:00::
 dollar%1:21:01:: dollar%1:21:01:: machine%1:06:00:: machine%1:06:00::
-dollar%1:21:01:: dollar%1:21:01::
+dollar%1:21:01:: dollar%1:21:01:: mango mango
 dollar%1:21:01:: dollar%1:21:01:: man%1:18:00:: men%1:14:00::
-dollar%1:21:01:: dollar%1:21:01:: melon%1:20:00::
-dollar%1:21:01:: dollar%1:21:01::
+dollar%1:21:01:: dollar%1:21:01:: melon melon%1:20:00::
+dollar%1:21:01:: dollar%1:21:01:: monkey monkey
 dollar%1:21:01:: dollar%1:21:01:: mouse mouse%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: onion%1:20:00::
-dollar%1:21:01:: dollar%1:21:01:: pear%1:13:00::
-dollar%1:21:01:: dollar%1:21:01:: pig%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: pineapple%1:13:00::
+dollar%1:21:01:: dollar%1:21:01:: onion onion%1:20:00::
+dollar%1:21:01:: dollar%1:21:01:: pear pear%1:13:00::
+dollar%1:21:01:: dollar%1:21:01:: pig pig%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: pineapple pineapple%1:13:00::
 dollar%1:21:01:: dollar%1:21:01:: rat%2:35:01:: rat%1:05:00::
 dollar%1:21:01:: dollar%1:21:01:: road%1:06:00:: road%1:06:00::
 dollar%1:21:01:: dollar%1:21:01:: snake%2:38:01:: snake%1:18:00::
 dollar%1:21:01:: dollar%1:21:01:: woman%1:18:00:: woman%1:18:00::
-dollar%1:21:01:: dollar%1:21:01:: banana%1:20:00::
+dollar%1:21:01:: dollar%1:21:01:: banana banana%1:20:00::
 dollar%1:21:01:: dollar%1:21:01:: bird%2:33:00:: bird%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: bottle%1:06:00::
+dollar%1:21:01:: dollar%1:21:01:: bottle bottle%1:06:00::
 dollar%1:21:01:: dollar%1:21:01:: building%1:06:00:: building%1:06:00::
 dollar%1:21:01:: dollar%1:21:01:: car%1:06:01:: car%1:06:01::
-dollar%1:21:01:: dollar%1:21:01:: cat%1:05:00::
-dollar%1:21:01:: dollar%1:21:01:: child%1:18:00::
+dollar%1:21:01:: dollar%1:21:01:: cat cat%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: child child%1:18:00::
 dollar%1:21:01:: dollar%1:21:01:: cloud%2:43:00:: cloud%1:17:00::
 dollar%1:21:01:: dollar%1:21:01:: color%1:07:00:: color%1:07:00::
 dollar%1:21:01:: dollar%1:21:01:: computer%1:06:00:: computer%1:06:00::
-dollar%1:21:01:: dollar%1:21:01:: cow%1:05:01::
-dollar%1:21:01:: dollar%1:21:01:: dog%1:05:00::
-donkey%1:05:00:: dream%2:36:00:: dream%1:09:01::
-donkey%1:05:00:: eagle%1:05:00::
-donkey%1:05:00:: elephant%1:05:00::
+dollar%1:21:01:: dollar%1:21:01:: cow cow%1:05:01::
+dollar%1:21:01:: dollar%1:21:01:: dog dog%1:05:00::
+donkey donkey%1:05:00:: dream%2:36:00:: dream%1:09:01::
+donkey donkey%1:05:00:: eagle eagle%1:05:00::
+donkey donkey%1:05:00:: elephant elephant%1:05:00::
 donkey%1:05:00:: donkey%1:05:00:: eye%1:08:00:: eye%1:08:00::
-donkey%1:05:00:: finger%1:08:00::
-donkey%1:05:00:: goat%1:05:00::
+donkey donkey%1:05:00:: finger finger%1:08:00::
+donkey donkey%1:05:00:: goat goat%1:05:00::
 donkey%1:05:00:: donkey%1:05:00:: hand%1:23:00:: hand%1:23:00::
-donkey%1:05:00:: horse%1:05:00:: horse%1:05:00::
-donkey%1:05:00:: lion%1:05:00:: lion%1:05:00::
-donkey%1:05:00:: machine%1:06:00:: machine%1:06:00::
-donkey%1:05:00::
-donkey%1:05:00:: man%1:18:00:: men%1:14:00::
-donkey%1:05:00:: melon%1:20:00::
-donkey%1:05:00:: monkey%2:35:00::
-donkey%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-donkey%1:05:00:: onion%1:20:00::
-donkey%1:05:00:: pear%1:13:00::
-donkey%1:05:00:: pig%1:05:00::
-donkey%1:05:00:: pineapple%1:13:00::
-donkey%1:05:00:: rat%2:35:01:: rat%1:05:00::
-donkey%1:05:00:: road%1:06:00:: road%1:06:00::
-donkey%1:05:00:: snake%2:38:01:: snake%1:18:00::
-donkey%1:05:00:: woman%1:18:00:: woman%1:18:00::
-donkey%1:05:00:: banana%1:20:00::
-donkey%1:05:00:: bird%2:33:00:: bird%1:05:00::
+donkey donkey%1:05:00:: horse%1:05:00:: horse%1:05:00::
+donkey donkey%1:05:00:: lion%1:05:00:: lion%1:05:00::
+donkey donkey%1:05:00:: machine%1:06:00:: machine%1:06:00::
+donkey donkey%1:05:00:: mango mango
+donkey donkey%1:05:00:: man%1:18:00:: men%1:14:00::
+donkey donkey%1:05:00:: melon melon%1:20:00::
+donkey donkey%1:05:00:: monkey%2:35:00:: monkey
+donkey donkey%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
+donkey donkey%1:05:00:: onion onion%1:20:00::
+donkey donkey%1:05:00:: pear pear%1:13:00::
+donkey donkey%1:05:00:: pig pig%1:05:00::
+donkey donkey%1:05:00:: pineapple pineapple%1:13:00::
+donkey donkey%1:05:00:: rat%2:35:01:: rat%1:05:00::
+donkey donkey%1:05:00:: road%1:06:00:: road%1:06:00::
+donkey donkey%1:05:00:: snake%2:38:01:: snake%1:18:00::
+donkey donkey%1:05:00:: woman%1:18:00:: woman%1:18:00::
+donkey donkey%1:05:00:: banana banana%1:20:00::
+donkey donkey%1:05:00:: bird%2:33:00:: bird%1:05:00::
 donkey%1:05:00:: donkey%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
-donkey%1:05:00:: building%1:06:00:: building%1:06:00::
+donkey donkey%1:05:00:: building%1:06:00:: building%1:06:00::
 donkey%1:05:00:: donkey%1:05:00:: car%1:06:01:: car%1:06:01::
-donkey%1:05:00:: cat%1:05:00::
-donkey%1:05:00:: child%1:18:00::
-donkey%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
+donkey donkey%1:05:00:: cat cat%1:05:00::
+donkey donkey%1:05:00:: child child%1:18:00::
+donkey donkey%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 donkey%1:05:00:: donkey%1:05:00:: color%1:07:00:: color%1:07:00::
 donkey%1:05:00:: donkey%1:05:00:: computer%1:06:00:: computer%1:06:00::
-donkey%1:05:00:: cow%2:37:00:: cow%1:05:01::
-donkey%1:05:00:: dog%2:38:00:: dog%1:05:00::
-donkey%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-dream%1:09:01:: dream%1:09:01:: eagle%1:05:00::
-dream%1:09:01:: dream%1:09:01:: elephant%1:05:00::
+donkey donkey%1:05:00:: cow%2:37:00:: cow%1:05:01::
+donkey donkey%1:05:00:: dog%2:38:00:: dog%1:05:00::
+donkey donkey%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
+dream%1:09:01:: dream%1:09:01:: eagle eagle%1:05:00::
+dream%1:09:01:: dream%1:09:01:: elephant elephant%1:05:00::
 dream%1:09:01:: dream%1:09:01:: eye%1:08:00:: eye%1:08:00::
-dream%1:09:01:: dream%1:09:01:: finger%1:08:00::
-dream%1:09:01:: dream%1:09:01:: goat%1:05:00::
+dream%1:09:01:: dream%1:09:01:: finger finger%1:08:00::
+dream%1:09:01:: dream%1:09:01:: goat goat%1:05:00::
 dream%1:09:01:: dream%1:09:01:: hand%1:23:00:: hand%1:23:00::
 dream%1:09:01:: dream%1:09:01:: horse%2:34:00:: horse%1:05:00::
-dream%1:09:01:: dream%1:09:01:: lion%1:05:00::
+dream%1:09:01:: dream%1:09:01:: lion lion%1:05:00::
 dream%1:09:01:: dream%1:09:01:: machine%1:06:00:: machine%1:06:00::
-dream%1:09:01:: dream%1:09:01::
+dream%1:09:01:: dream%1:09:01:: mango mango
 dream%1:09:01:: dream%2:36:00:: man%1:18:00:: men%1:14:00::
-dream%1:09:01:: dream%1:09:01:: melon%1:20:00::
-dream%1:09:01:: dream%1:09:01:: monkey%2:35:00::
+dream%1:09:01:: dream%1:09:01:: melon melon%1:20:00::
+dream%1:09:01:: dream%1:09:01:: monkey%2:35:00:: monkey
 dream%1:09:01:: dream%1:09:01:: mouse%2:35:00:: mouse%1:05:00::
-dream%1:09:01:: dream%1:09:01:: onion%1:20:00::
-dream%1:09:01:: dream%1:09:01:: pear%1:13:00::
-dream%1:09:01:: dream%1:09:01:: pig%1:05:00::
-dream%1:09:01:: dream%1:09:01:: pineapple%1:13:00::
+dream%1:09:01:: dream%1:09:01:: onion onion%1:20:00::
+dream%1:09:01:: dream%1:09:01:: pear pear%1:13:00::
+dream%1:09:01:: dream%1:09:01:: pig pig%1:05:00::
+dream%1:09:01:: dream%1:09:01:: pineapple pineapple%1:13:00::
 dream%1:09:01:: dream%1:09:01:: rat%2:35:01:: rat%1:05:00::
 dream%1:09:01:: dream%1:09:01:: road%1:06:00:: road%1:06:00::
 dream%1:09:01:: dream%1:09:01:: snake%2:38:01:: snake%1:18:00::
 dream%1:09:01:: dream%1:09:01:: woman%1:18:00:: woman%1:18:00::
-dream%1:09:01:: dream%1:09:01:: banana%1:20:00::
+dream%1:09:01:: dream%1:09:01:: banana banana%1:20:00::
 dream%1:09:01:: dream%1:09:01:: bird%2:33:00:: bird%1:05:00::
-dream%1:09:01:: dream%2:36:00:: bottle%1:06:00::
+dream%1:09:01:: dream%2:36:00:: bottle bottle%1:06:00::
 dream%1:09:01:: dream%1:09:01:: building%1:06:00:: building%1:06:00::
 dream%1:09:01:: dream%1:09:01:: car%1:06:01:: car%1:06:01::
-dream%1:09:01:: dream%1:09:01:: cat%1:05:00::
-dream%1:09:01:: dream%2:36:00:: child%1:18:00::
+dream%1:09:01:: dream%1:09:01:: cat cat%1:05:00::
+dream%1:09:01:: dream%2:36:00:: child child%1:18:00::
 dream%1:09:01:: dream%1:09:01:: cloud%2:43:00:: cloud%1:17:00::
 dream%1:09:01:: dream%1:09:01:: color%1:07:00:: color%1:07:00::
 dream%1:09:01:: dream%1:09:01:: computer%1:06:00:: computer%1:06:00::
 dream%1:09:01:: dream%1:09:01:: cow%2:37:00:: cow%1:05:01::
 dream%1:09:01:: dream%1:09:01:: dog%2:38:00:: dog%1:05:00::
 dream%1:09:01:: dream%1:09:01:: dollar%1:21:01:: dollar%1:21:01::
-dream%1:09:01:: dream%1:09:01:: donkey%1:05:00::
-eagle%1:05:00:: eagle%1:05:00:: elephant%1:05:00::
-eagle%1:05:00:: eye%1:08:00:: eye%1:08:00::
-eagle%1:05:00:: eagle%1:05:00:: finger%1:08:00::
-eagle%1:05:00:: eagle%1:05:00:: goat%1:05:00::
+dream%1:09:01:: dream%1:09:01:: donkey donkey%1:05:00::
+eagle%1:05:00:: eagle%1:05:00:: elephant elephant%1:05:00::
+eagle%1:05:00:: eagle eye%1:08:00:: eye%1:08:00::
+eagle%1:05:00:: eagle%1:05:00:: finger finger%1:08:00::
+eagle%1:05:00:: eagle%1:05:00:: goat goat%1:05:00::
 eagle%1:05:00:: eagle%1:05:00:: hand%1:23:00:: hand%1:23:00::
 eagle%1:05:00:: eagle%1:05:00:: horse%1:05:00:: horse%1:05:00::
-eagle%1:05:00:: lion%1:05:00:: lion%1:05:00::
+eagle%1:05:00:: eagle lion%1:05:00:: lion%1:05:00::
 eagle%1:05:00:: eagle%1:05:00:: machine%1:06:00:: machine%1:06:00::
-eagle%1:05:00:: eagle%1:05:00::
-eagle%1:05:00:: man%1:18:00:: men%1:14:00::
-eagle%1:05:00:: eagle%1:05:00:: melon%1:20:00::
-eagle%1:05:00:: eagle%1:05:00:: monkey%2:35:00::
+eagle%1:05:00:: eagle%1:05:00:: mango mango
+eagle%1:05:00:: eagle man%1:18:00:: men%1:14:00::
+eagle%1:05:00:: eagle%1:05:00:: melon melon%1:20:00::
+eagle%1:05:00:: eagle%1:05:00:: monkey%2:35:00:: monkey
 eagle%1:05:00:: eagle%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-eagle%1:05:00:: onion%1:20:00:: onion%1:20:00::
-eagle%1:05:00:: eagle%1:05:00:: pear%1:13:00::
-eagle%1:05:00:: eagle%1:05:00:: pig%1:05:00::
-eagle%1:05:00:: pineapple%1:13:00::
+eagle%1:05:00:: eagle onion%1:20:00:: onion%1:20:00::
+eagle%1:05:00:: eagle%1:05:00:: pear pear%1:13:00::
+eagle%1:05:00:: eagle%1:05:00:: pig pig%1:05:00::
+eagle%1:05:00:: eagle pineapple pineapple%1:13:00::
 eagle%1:05:00:: eagle%1:05:00:: rat%2:35:01:: rat%1:05:00::
 eagle%1:05:00:: eagle%1:05:00:: road%1:06:00:: road%1:06:00::
 eagle%1:05:00:: eagle%1:05:00:: snake%2:38:01:: snake%1:18:00::
 eagle%1:05:00:: eagle%1:05:00:: woman%1:18:00:: woman%1:18:00::
-eagle%1:05:00:: eagle%1:05:00:: banana%1:20:00::
+eagle%1:05:00:: eagle%1:05:00:: banana banana%1:20:00::
 eagle%1:05:00:: eagle%1:05:00:: bird%2:33:00:: bird%1:05:00::
-eagle%1:05:00:: bottle%1:06:00::
+eagle%1:05:00:: eagle bottle bottle%1:06:00::
 eagle%1:05:00:: eagle%1:05:00:: building%1:06:00:: building%1:06:00::
 eagle%1:05:00:: eagle%1:05:00:: car%1:06:01:: car%1:06:01::
-eagle%1:05:00:: eagle%1:05:00:: cat%1:05:00::
-eagle%1:05:00:: child%1:18:00::
+eagle%1:05:00:: eagle%1:05:00:: cat cat%1:05:00::
+eagle%1:05:00:: eagle child child%1:18:00::
 eagle%1:05:00:: eagle%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 eagle%1:05:00:: eagle%1:05:00:: color%1:07:00:: color%1:07:00::
 eagle%1:05:00:: eagle%1:05:00:: computer%1:06:00:: computer%1:06:00::
 eagle%1:05:00:: eagle%1:05:00:: cow%2:37:00:: cow%1:05:01::
 eagle%1:05:00:: eagle%1:05:00:: dog%2:38:00:: dog%1:05:00::
 eagle%1:05:00:: eagle%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-eagle%1:05:00:: eagle%1:05:00:: donkey%1:05:00::
+eagle%1:05:00:: eagle%1:05:00:: donkey donkey%1:05:00::
 eagle%1:05:00:: eagle%1:05:00:: dream%2:36:00:: dream%1:09:01::
-elephant%1:05:00:: eye%1:08:00:: eye%1:08:00::
-elephant%1:05:00:: finger%1:08:00:: finger%1:08:00::
-elephant%1:05:00:: goat%1:05:00:: goat%1:05:00::
-elephant%1:05:00:: hand%1:23:00:: hand%1:23:00::
-elephant%1:05:00:: horse%1:05:00:: horse%1:05:00::
-elephant%1:05:00:: lion%1:05:00:: lion%1:05:00::
-elephant%1:05:00:: machine%1:06:00:: machine%1:06:00::
-elephant%1:05:00::
-elephant%1:05:00:: man%1:18:00:: men%1:14:00::
-elephant%1:05:00:: melon%1:20:00::
-elephant%1:05:00::
-elephant%1:05:00:: mouse mouse%1:05:00::
-elephant%1:05:00:: onion%1:20:00:: onion%1:20:00::
-elephant%1:05:00:: pear%1:13:00::
-elephant%1:05:00:: pig%1:05:00:: pig%1:05:00::
-elephant%1:05:00:: pineapple%1:13:00::
-elephant%1:05:00:: rat%2:35:01:: rat%1:05:00::
-elephant%1:05:00:: road%1:06:00:: road%1:06:00::
-elephant%1:05:00:: snake%2:38:01:: snake%1:18:00::
-elephant%1:05:00:: woman%1:18:00:: woman%1:18:00::
-elephant%1:05:00:: banana%1:20:00::
-elephant%1:05:00:: bird%1:05:00:: bird%1:05:00::
-elephant%1:05:00:: bottle%1:06:00::
-elephant%1:05:00:: building%1:06:00:: building%1:06:00::
-elephant%1:05:00:: car%1:06:01:: car%1:06:01::
-elephant%1:05:00:: cat%1:05:00:: cat%1:05:00::
-elephant%1:05:00:: child%1:18:00::
-elephant%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
-elephant%1:05:00:: color%1:07:00:: color%1:07:00::
-elephant%1:05:00:: computer%1:06:00:: computer%1:06:00::
-elephant%1:05:00:: cow%1:05:01::
-elephant%1:05:00:: dog%1:05:00::
-elephant%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-elephant%1:05:00:: donkey%1:05:00::
-elephant%1:05:00:: dream%1:09:01:: dream%1:09:01::
-elephant%1:05:00:: eagle%1:05:00::
+elephant elephant%1:05:00:: eye%1:08:00:: eye%1:08:00::
+elephant elephant%1:05:00:: finger%1:08:00:: finger%1:08:00::
+elephant elephant%1:05:00:: goat%1:05:00:: goat%1:05:00::
+elephant elephant%1:05:00:: hand%1:23:00:: hand%1:23:00::
+elephant elephant%1:05:00:: horse%1:05:00:: horse%1:05:00::
+elephant elephant%1:05:00:: lion%1:05:00:: lion%1:05:00::
+elephant elephant%1:05:00:: machine%1:06:00:: machine%1:06:00::
+elephant elephant%1:05:00:: mango mango
+elephant elephant%1:05:00:: man%1:18:00:: men%1:14:00::
+elephant elephant%1:05:00:: melon melon%1:20:00::
+elephant elephant%1:05:00:: monkey monkey
+elephant elephant%1:05:00:: mouse mouse%1:05:00::
+elephant elephant%1:05:00:: onion%1:20:00:: onion%1:20:00::
+elephant elephant%1:05:00:: pear pear%1:13:00::
+elephant elephant%1:05:00:: pig%1:05:00:: pig%1:05:00::
+elephant elephant%1:05:00:: pineapple pineapple%1:13:00::
+elephant elephant%1:05:00:: rat%2:35:01:: rat%1:05:00::
+elephant elephant%1:05:00:: road%1:06:00:: road%1:06:00::
+elephant elephant%1:05:00:: snake%2:38:01:: snake%1:18:00::
+elephant elephant%1:05:00:: woman%1:18:00:: woman%1:18:00::
+elephant elephant%1:05:00:: banana banana%1:20:00::
+elephant elephant%1:05:00:: bird%1:05:00:: bird%1:05:00::
+elephant elephant%1:05:00:: bottle bottle%1:06:00::
+elephant elephant%1:05:00:: building%1:06:00:: building%1:06:00::
+elephant elephant%1:05:00:: car%1:06:01:: car%1:06:01::
+elephant elephant%1:05:00:: cat%1:05:00:: cat%1:05:00::
+elephant elephant%1:05:00:: child child%1:18:00::
+elephant elephant%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
+elephant elephant%1:05:00:: color%1:07:00:: color%1:07:00::
+elephant elephant%1:05:00:: computer%1:06:00:: computer%1:06:00::
+elephant elephant%1:05:00:: cow cow%1:05:01::
+elephant elephant%1:05:00:: dog dog%1:05:00::
+elephant elephant%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
+elephant elephant%1:05:00:: donkey donkey%1:05:00::
+elephant elephant%1:05:00:: dream%1:09:01:: dream%1:09:01::
+elephant elephant%1:05:00:: eagle eagle%1:05:00::
 eye%1:08:00:: eye%1:08:00:: finger%1:08:00:: finger%1:08:00::
-eye%1:08:00:: eye%1:08:00:: goat%1:05:00::
+eye%1:08:00:: eye%1:08:00:: goat goat%1:05:00::
 eye%1:08:00:: eye%1:08:00:: hand%1:23:00:: hand%1:23:00::
 eye%1:08:00:: eye%1:08:00:: horse%1:05:00:: horse%1:05:00::
 eye%1:08:00:: eye%1:08:00:: lion%1:05:00:: lion%1:05:00::
 eye%1:08:00:: eye%1:08:00:: machine%1:06:00:: machine%1:06:00::
-eye%1:08:00:: eye%1:08:00::
+eye%1:08:00:: eye%1:08:00:: mango mango
 eye%1:08:00:: eye%1:08:00:: man%1:18:00:: men%1:14:00::
-eye%1:08:00:: eye%1:08:00:: melon%1:20:00::
-eye%1:08:00:: eye%1:08:00::
+eye%1:08:00:: eye%1:08:00:: melon melon%1:20:00::
+eye%1:08:00:: eye%1:08:00:: monkey monkey
 eye%1:08:00:: eye%1:08:00:: mouse%2:35:00:: mouse%1:05:00::
 eye%1:08:00:: eye%1:08:00:: onion%1:20:00:: onion%1:20:00::
-eye%1:08:00:: eye%1:08:00:: pear%1:13:00::
-eye%1:08:00:: eye%1:08:00:: pig%1:05:00::
-eye%1:08:00:: eye%1:08:00:: pineapple%1:13:00::
+eye%1:08:00:: eye%1:08:00:: pear pear%1:13:00::
+eye%1:08:00:: eye%1:08:00:: pig pig%1:05:00::
+eye%1:08:00:: eye%1:08:00:: pineapple pineapple%1:13:00::
 eye%1:08:00:: eye%1:08:00:: rat%2:35:01:: rat%1:05:00::
 eye%1:08:00:: eye%1:08:00:: road%1:06:00:: road%1:06:00::
 eye%1:08:00:: eye%1:08:00:: snake%2:38:01:: snake%1:18:00::
 eye%1:08:00:: eye%1:08:00:: woman%1:18:00:: woman%1:18:00::
-eye%1:08:00:: eye%1:08:00:: banana%1:20:00::
+eye%1:08:00:: eye%1:08:00:: banana banana%1:20:00::
 eye%1:08:00:: eye%1:08:00:: bird%2:33:00:: bird%1:05:00::
 eye%1:08:00:: eye%1:08:00:: bottle%2:35:00:: bottle%1:06:00::
 eye%1:08:00:: eye%1:08:00:: building%1:06:00:: building%1:06:00::
 eye%1:08:00:: eye%1:08:00:: car%1:06:01:: car%1:06:01::
-eye%1:08:00:: eye%1:08:00:: cat%1:05:00::
-eye%1:08:00:: eye%1:08:00:: child%1:18:00::
+eye%1:08:00:: eye%1:08:00:: cat cat%1:05:00::
+eye%1:08:00:: eye%1:08:00:: child child%1:18:00::
 eye%1:08:00:: eye%1:08:00:: cloud%2:43:00:: cloud%1:17:00::
 eye%1:08:00:: eye%1:08:00:: color%1:07:00:: color%1:07:00::
 eye%1:08:00:: eye%1:08:00:: computer%1:06:00:: computer%1:06:00::
-eye%1:08:00:: eye%1:08:00:: cow%1:05:01::
-eye%1:08:00:: eye%1:08:00:: dog%1:05:00::
+eye%1:08:00:: eye%1:08:00:: cow cow%1:05:01::
+eye%1:08:00:: eye%1:08:00:: dog dog%1:05:00::
 eye%1:08:00:: eye%1:08:00:: dollar%1:21:01:: dollar%1:21:01::
-eye%1:08:00:: eye%1:08:00:: donkey%1:05:00::
+eye%1:08:00:: eye%1:08:00:: donkey donkey%1:05:00::
 eye%1:08:00:: eye%1:08:00:: dream%2:36:00:: dream%1:09:01::
-eye%1:08:00:: eye%1:08:00:: eagle%1:05:00::
-eye%1:08:00:: eye%1:08:00:: elephant%1:05:00::
-finger%1:08:00:: finger%1:08:00:: goat%1:05:00::
+eye%1:08:00:: eye%1:08:00:: eagle eagle%1:05:00::
+eye%1:08:00:: eye%1:08:00:: elephant elephant%1:05:00::
+finger%1:08:00:: finger%1:08:00:: goat goat%1:05:00::
 finger%1:08:00:: finger%1:08:00:: hand%1:23:00:: hand%1:23:00::
 finger%1:08:00:: finger%1:08:00:: horse%2:34:00:: horse%1:05:00::
-finger%1:08:00:: finger%1:08:00:: lion%1:05:00::
+finger%1:08:00:: finger%1:08:00:: lion lion%1:05:00::
 finger%1:08:00:: finger%1:08:00:: machine%1:06:00:: machine%1:06:00::
-finger%1:08:00:: finger%1:08:00::
+finger%1:08:00:: finger%1:08:00:: mango mango
 finger%1:08:00:: finger%1:08:00:: man%1:18:00:: men%1:14:00::
-finger%1:08:00:: finger%1:08:00:: melon%1:20:00::
-finger%1:08:00:: finger%1:08:00:: monkey%2:35:00::
+finger%1:08:00:: finger%1:08:00:: melon melon%1:20:00::
+finger%1:08:00:: finger%1:08:00:: monkey%2:35:00:: monkey
 finger%1:08:00:: finger%1:08:00:: mouse%2:35:00:: mouse%1:05:00::
-finger%1:08:00:: finger%1:08:00:: onion%1:20:00::
-finger%1:08:00:: finger%1:08:00:: pear%1:13:00::
-finger%1:08:00:: finger%1:08:00:: pig%1:05:00::
-finger%1:08:00:: finger%1:08:00:: pineapple%1:13:00::
+finger%1:08:00:: finger%1:08:00:: onion onion%1:20:00::
+finger%1:08:00:: finger%1:08:00:: pear pear%1:13:00::
+finger%1:08:00:: finger%1:08:00:: pig pig%1:05:00::
+finger%1:08:00:: finger%1:08:00:: pineapple pineapple%1:13:00::
 finger%1:08:00:: finger%1:08:00:: rat%2:35:01:: rat%1:05:00::
 finger%1:08:00:: finger%1:08:00:: road%1:06:00:: road%1:06:00::
 finger%1:08:00:: finger%1:08:00:: snake%2:38:01:: snake%1:18:00::
 finger%1:08:00:: finger%1:08:00:: woman%1:18:00:: woman%1:18:00::
-finger%1:08:00:: finger%1:08:00:: banana%1:20:00::
+finger%1:08:00:: finger%1:08:00:: banana banana%1:20:00::
 finger%1:08:00:: finger%1:08:00:: bird%2:33:00:: bird%1:05:00::
 finger%1:08:00:: finger%1:08:00:: bottle%2:35:00:: bottle%1:06:00::
 finger%1:08:00:: finger%1:08:00:: building%1:06:00:: building%1:06:00::
 finger%1:08:00:: finger%1:08:00:: car%1:06:01:: car%1:06:01::
-finger%1:08:00:: finger%1:08:00:: cat%1:05:00::
-finger%1:08:00:: finger%1:08:00:: child%1:18:00::
+finger%1:08:00:: finger%1:08:00:: cat cat%1:05:00::
+finger%1:08:00:: finger%1:08:00:: child child%1:18:00::
 finger%1:08:00:: finger%1:08:00:: cloud%2:43:00:: cloud%1:17:00::
 finger%1:08:00:: finger%1:08:00:: color%2:30:00:: color%1:07:00::
 finger%1:08:00:: finger%1:08:00:: computer%1:06:00:: computer%1:06:00::
 finger%1:08:00:: finger%1:08:00:: cow%2:37:00:: cow%1:05:01::
 finger%1:08:00:: finger%1:08:00:: dog%2:38:00:: dog%1:05:00::
 finger%1:08:00:: finger%1:08:00:: dollar%1:21:01:: dollar%1:21:01::
-finger%1:08:00:: finger%1:08:00:: donkey%1:05:00::
+finger%1:08:00:: finger%1:08:00:: donkey donkey%1:05:00::
 finger%1:08:00:: finger%1:08:00:: dream%2:36:00:: dream%1:09:01::
-finger%1:08:00:: finger%1:08:00:: eagle%1:05:00::
-finger%1:08:00:: finger%1:08:00:: elephant%1:05:00::
+finger%1:08:00:: finger%1:08:00:: eagle eagle%1:05:00::
+finger%1:08:00:: finger%1:08:00:: elephant elephant%1:05:00::
 finger%1:08:00:: finger%1:08:00:: eye%1:08:00:: eye%1:08:00::
 goat%1:05:00:: goat%1:05:00:: hand%1:23:00:: hand%1:23:00::
 goat%1:05:00:: goat%1:05:00:: horse%2:34:00:: horse%1:05:00::
-goat%1:05:00:: goat%1:05:00:: lion%1:05:00::
+goat%1:05:00:: goat%1:05:00:: lion lion%1:05:00::
 goat%1:05:00:: goat%1:05:00:: machine%1:06:00:: machine%1:06:00::
-goat%1:05:00:: goat%1:05:00::
+goat%1:05:00:: goat%1:05:00:: mango mango
 goat%1:05:00:: goat%1:05:00:: man%1:18:00:: men%1:14:00::
-goat%1:05:00:: goat%1:05:00:: melon%1:20:00::
-goat%1:05:00:: goat%1:05:00:: monkey%2:35:00::
+goat%1:05:00:: goat%1:05:00:: melon melon%1:20:00::
+goat%1:05:00:: goat%1:05:00:: monkey%2:35:00:: monkey
 goat%1:05:00:: goat%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-goat%1:05:00:: goat%1:05:00:: onion%1:20:00::
-goat%1:05:00:: goat%1:05:00:: pear%1:13:00::
-goat%1:05:00:: goat%1:05:00:: pig%1:05:00::
-goat%1:05:00:: goat%1:05:00:: pineapple%1:13:00::
+goat%1:05:00:: goat%1:05:00:: onion onion%1:20:00::
+goat%1:05:00:: goat%1:05:00:: pear pear%1:13:00::
+goat%1:05:00:: goat%1:05:00:: pig pig%1:05:00::
+goat%1:05:00:: goat%1:05:00:: pineapple pineapple%1:13:00::
 goat%1:05:00:: goat%1:05:00:: rat%2:35:01:: rat%1:05:00::
 goat%1:05:00:: goat%1:05:00:: road%1:06:00:: road%1:06:00::
 goat%1:05:00:: goat%1:05:00:: snake%2:38:01:: snake%1:18:00::
 goat%1:05:00:: goat%1:05:00:: woman%1:18:00:: woman%1:18:00::
-goat%1:05:00:: goat%1:05:00:: banana%1:20:00::
+goat%1:05:00:: goat%1:05:00:: banana banana%1:20:00::
 goat%1:05:00:: goat%1:05:00:: bird%2:33:00:: bird%1:05:00::
 goat%1:05:00:: goat%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 goat%1:05:00:: goat%1:05:00:: building%1:06:00:: building%1:06:00::
 goat%1:05:00:: goat%1:05:00:: car%1:06:01:: car%1:06:01::
-goat%1:05:00:: goat%1:05:00:: cat%1:05:00::
-goat%1:05:00:: goat%1:05:00:: child%1:18:00::
+goat%1:05:00:: goat%1:05:00:: cat cat%1:05:00::
+goat%1:05:00:: goat%1:05:00:: child child%1:18:00::
 goat%1:05:00:: goat%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 goat%1:05:00:: goat%1:05:00:: color%2:30:00:: color%1:07:00::
 goat%1:05:00:: goat%1:05:00:: computer%1:06:00:: computer%1:06:00::
 goat%1:05:00:: goat%1:05:00:: cow%2:37:00:: cow%1:05:01::
 goat%1:05:00:: goat%1:05:00:: dog%2:38:00:: dog%1:05:00::
 goat%1:05:00:: goat%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-goat%1:05:00:: goat%1:05:00:: donkey%1:05:00::
+goat%1:05:00:: goat%1:05:00:: donkey donkey%1:05:00::
 goat%1:05:00:: goat%1:05:00:: dream%2:36:00:: dream%1:09:01::
-goat%1:05:00:: goat%1:05:00:: eagle%1:05:00::
-goat%1:05:00:: goat%1:05:00:: elephant%1:05:00::
+goat%1:05:00:: goat%1:05:00:: eagle eagle%1:05:00::
+goat%1:05:00:: goat%1:05:00:: elephant elephant%1:05:00::
 goat%1:05:00:: goat%1:05:00:: eye%1:08:00:: eye%1:08:00::
-goat%1:05:00:: goat%1:05:00:: finger%1:08:00::
+goat%1:05:00:: goat%1:05:00:: finger finger%1:08:00::
 hand%1:23:00:: hand%1:23:00:: horse%1:05:00:: horse%1:05:00::
 hand%1:23:00:: hand%1:23:00:: lion%1:05:00:: lion%1:05:00::
 hand%1:23:00:: hand%1:23:00:: machine%1:06:00:: machine%1:06:00::
-hand%1:23:00:: hand%1:23:00::
+hand%1:23:00:: hand%1:23:00:: mango mango
 hand%1:23:00:: hand%1:23:00:: man%1:18:00:: men%1:14:00::
-hand%1:23:00:: hand%1:23:00:: melon%1:20:00::
-hand%1:23:00:: hand%1:23:00::
+hand%1:23:00:: hand%1:23:00:: melon melon%1:20:00::
+hand%1:23:00:: hand%1:23:00:: monkey monkey
 hand%1:23:00:: hand%1:23:00:: mouse%2:35:00:: mouse%1:05:00::
 hand%1:23:00:: hand%1:23:00:: onion%1:20:00:: onion%1:20:00::
-hand%1:23:00:: hand%1:23:00:: pear%1:13:00::
-hand%1:23:00:: hand%1:23:00:: pig%1:05:00::
-hand%1:23:00:: hand%1:23:00:: pineapple%1:13:00::
+hand%1:23:00:: hand%1:23:00:: pear pear%1:13:00::
+hand%1:23:00:: hand%1:23:00:: pig pig%1:05:00::
+hand%1:23:00:: hand%1:23:00:: pineapple pineapple%1:13:00::
 hand%1:23:00:: hand%1:23:00:: rat%2:35:01:: rat%1:05:00::
 hand%1:23:00:: hand%1:23:00:: road%1:06:00:: road%1:06:00::
 hand%1:23:00:: hand%1:23:00:: snake%2:38:01:: snake%1:18:00::
 hand%1:23:00:: hand%1:23:00:: woman%1:18:00:: woman%1:18:00::
-hand%1:23:00:: hand%1:23:00:: banana%1:20:00::
+hand%1:23:00:: hand%1:23:00:: banana banana%1:20:00::
 hand%1:23:00:: hand%1:23:00:: bird%1:05:00:: bird%1:05:00::
 hand%1:23:00:: hand%1:23:00:: bottle%2:35:00:: bottle%1:06:00::
 hand%1:23:00:: hand%1:23:00:: building%1:06:00:: building%1:06:00::
 hand%1:23:00:: hand%1:23:00:: car%1:06:01:: car%1:06:01::
-hand%1:23:00:: hand%1:23:00:: cat%1:05:00::
-hand%1:23:00:: hand%1:23:00:: child%1:18:00::
+hand%1:23:00:: hand%1:23:00:: cat cat%1:05:00::
+hand%1:23:00:: hand%1:23:00:: child child%1:18:00::
 hand%1:23:00:: hand%1:23:00:: cloud%2:43:00:: cloud%1:17:00::
 hand%1:23:00:: hand%1:23:00:: color%1:07:00:: color%1:07:00::
 hand%1:23:00:: hand%1:23:00:: computer%1:06:00:: computer%1:06:00::
 hand%1:23:00:: hand%1:23:00:: cow%2:37:00:: cow%1:05:01::
 hand%1:23:00:: hand%1:23:00:: dog%2:38:00:: dog%1:05:00::
 hand%1:23:00:: hand%1:23:00:: dollar%1:21:01:: dollar%1:21:01::
-hand%1:23:00:: hand%1:23:00:: donkey%1:05:00::
+hand%1:23:00:: hand%1:23:00:: donkey donkey%1:05:00::
 hand%1:23:00:: hand%1:23:00:: dream%1:09:01:: dream%1:09:01::
-hand%1:23:00:: hand%1:23:00:: eagle%1:05:00::
-hand%1:23:00:: hand%1:23:00:: elephant%1:05:00::
+hand%1:23:00:: hand%1:23:00:: eagle eagle%1:05:00::
+hand%1:23:00:: hand%1:23:00:: elephant elephant%1:05:00::
 hand%1:23:00:: hand%1:23:00:: eye%1:08:00:: eye%1:08:00::
 hand%1:23:00:: hand%1:23:00:: finger%1:08:00:: finger%1:08:00::
 hand%1:23:00:: hand%1:23:00:: goat%1:05:00:: goat%1:05:00::
-horse%1:05:00:: horse%1:05:00:: lion%1:05:00::
+horse%1:05:00:: horse%1:05:00:: lion lion%1:05:00::
 horse%1:05:00:: horse%1:05:00:: machine%1:06:00:: machine%1:06:00::
-horse%1:05:00:: horse%1:05:00::
+horse%1:05:00:: horse%1:05:00:: mango mango
 horse%1:05:00:: horse%1:05:00:: man%1:18:00:: men%1:14:00::
-horse%1:05:00:: horse%1:05:00:: melon%1:20:00::
-horse%1:05:00:: horse%1:05:00:: monkey%2:35:00::
+horse%1:05:00:: horse%1:05:00:: melon melon%1:20:00::
+horse%1:05:00:: horse%1:05:00:: monkey%2:35:00:: monkey
 horse%1:05:00:: horse%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-horse%1:05:00:: horse%1:05:00:: onion%1:20:00::
-horse%1:05:00:: horse%1:05:00:: pear%1:13:00::
-horse%1:05:00:: horse%1:05:00:: pig%1:05:00::
-horse%1:05:00:: horse%1:05:00:: pineapple%1:13:00::
+horse%1:05:00:: horse%1:05:00:: onion onion%1:20:00::
+horse%1:05:00:: horse%1:05:00:: pear pear%1:13:00::
+horse%1:05:00:: horse%1:05:00:: pig pig%1:05:00::
+horse%1:05:00:: horse%1:05:00:: pineapple pineapple%1:13:00::
 horse%1:05:00:: horse%1:05:00:: rat%2:35:01:: rat%1:05:00::
 horse%1:05:00:: horse%1:05:00:: road%1:06:00:: road%1:06:00::
 horse%1:05:00:: horse%1:05:00:: snake%2:38:01:: snake%1:18:00::
 horse%1:05:00:: horse%1:05:00:: woman%1:18:00:: woman%1:18:00::
-horse%1:05:00:: horse%1:05:00:: banana%1:20:00::
+horse%1:05:00:: horse%1:05:00:: banana banana%1:20:00::
 horse%1:05:00:: horse%1:05:00:: bird%2:33:00:: bird%1:05:00::
 horse%1:05:00:: horse%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 horse%1:05:00:: horse%1:05:00:: building%1:06:00:: building%1:06:00::
 horse%1:05:00:: horse%1:05:00:: car%1:06:01:: car%1:06:01::
-horse%1:05:00:: horse%1:05:00:: cat%1:05:00::
-horse%1:05:00:: horse%1:05:00:: child%1:18:00::
+horse%1:05:00:: horse%1:05:00:: cat cat%1:05:00::
+horse%1:05:00:: horse%1:05:00:: child child%1:18:00::
 horse%1:05:00:: horse%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 horse%1:05:00:: horse%1:05:00:: color%1:07:00:: color%1:07:00::
 horse%1:05:00:: horse%1:05:00:: computer%1:06:00:: computer%1:06:00::
 horse%1:05:00:: horse%1:05:00:: cow%2:37:00:: cow%1:05:01::
 horse%1:05:00:: horse%1:05:00:: dog%2:38:00:: dog%1:05:00::
 horse%1:05:00:: horse%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-horse%1:05:00:: horse%1:05:00:: donkey%1:05:00::
+horse%1:05:00:: horse%1:05:00:: donkey donkey%1:05:00::
 horse%1:05:00:: horse%1:05:00:: dream%2:36:00:: dream%1:09:01::
-horse%1:05:00:: horse%1:05:00:: eagle%1:05:00::
-horse%1:05:00:: horse%1:05:00:: elephant%1:05:00::
+horse%1:05:00:: horse%1:05:00:: eagle eagle%1:05:00::
+horse%1:05:00:: horse%1:05:00:: elephant elephant%1:05:00::
 horse%1:05:00:: horse%1:05:00:: eye%1:08:00:: eye%1:08:00::
-horse%1:05:00:: horse%1:05:00:: finger%1:08:00::
-horse%1:05:00:: horse%1:05:00:: goat%1:05:00::
+horse%1:05:00:: horse%1:05:00:: finger finger%1:08:00::
+horse%1:05:00:: horse%1:05:00:: goat goat%1:05:00::
 horse%1:05:00:: horse%1:05:00:: hand%1:23:00:: hand%1:23:00::
 lion%1:05:00:: lion%1:05:00:: machine%1:06:00:: machine%1:06:00::
-lion%1:05:00:: lion%1:05:00::
+lion%1:05:00:: lion%1:05:00:: mango mango
 lion%1:05:00:: lion%1:05:00:: man%1:18:00:: men%1:14:00::
-lion%1:05:00:: lion%1:05:00:: melon%1:20:00::
-lion%1:05:00:: lion%1:05:00:: monkey%2:35:00::
+lion%1:05:00:: lion%1:05:00:: melon melon%1:20:00::
+lion%1:05:00:: lion%1:05:00:: monkey%2:35:00:: monkey
 lion%1:05:00:: lion%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-lion%1:05:00:: lion%1:05:00:: onion%1:20:00::
-lion%1:05:00:: lion%1:05:00:: pear%1:13:00::
-lion%1:05:00:: lion%1:05:00:: pig%1:05:00::
-lion%1:05:00:: lion%1:05:00:: pineapple%1:13:00::
+lion%1:05:00:: lion%1:05:00:: onion onion%1:20:00::
+lion%1:05:00:: lion%1:05:00:: pear pear%1:13:00::
+lion%1:05:00:: lion%1:05:00:: pig pig%1:05:00::
+lion%1:05:00:: lion%1:05:00:: pineapple pineapple%1:13:00::
 lion%1:05:00:: lion%1:05:00:: rat%2:35:01:: rat%1:05:00::
 lion%1:05:00:: lion%1:05:00:: road%1:06:00:: road%1:06:00::
 lion%1:05:00:: lion%1:05:00:: snake%2:38:01:: snake%1:18:00::
 lion%1:05:00:: lion%1:05:00:: woman%1:18:00:: woman%1:18:00::
-lion%1:05:00:: lion%1:05:00:: banana%1:20:00::
+lion%1:05:00:: lion%1:05:00:: banana banana%1:20:00::
 lion%1:05:00:: lion%1:05:00:: bird%2:33:00:: bird%1:05:00::
 lion%1:05:00:: lion%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 lion%1:05:00:: lion%1:05:00:: building%1:06:00:: building%1:06:00::
 lion%1:05:00:: lion%1:05:00:: car%1:06:01:: car%1:06:01::
-lion%1:05:00:: lion%1:05:00:: cat%1:05:00::
-lion%1:05:00:: lion%1:05:00:: child%1:18:00::
+lion%1:05:00:: lion%1:05:00:: cat cat%1:05:00::
+lion%1:05:00:: lion%1:05:00:: child child%1:18:00::
 lion%1:05:00:: lion%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 lion%1:05:00:: lion%1:05:00:: color%1:07:00:: color%1:07:00::
 lion%1:05:00:: lion%1:05:00:: computer%1:06:00:: computer%1:06:00::
 lion%1:05:00:: lion%1:05:00:: cow%2:37:00:: cow%1:05:01::
 lion%1:05:00:: lion%1:05:00:: dog%2:38:00:: dog%1:05:00::
 lion%1:05:00:: lion%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-lion%1:05:00:: lion%1:05:00:: donkey%1:05:00::
+lion%1:05:00:: lion%1:05:00:: donkey donkey%1:05:00::
 lion%1:05:00:: lion%1:05:00:: dream%2:36:00:: dream%1:09:01::
-lion%1:05:00:: lion%1:05:00:: eagle%1:05:00::
-lion%1:05:00:: lion%1:05:00:: elephant%1:05:00::
+lion%1:05:00:: lion%1:05:00:: eagle eagle%1:05:00::
+lion%1:05:00:: lion%1:05:00:: elephant elephant%1:05:00::
 lion%1:05:00:: lion%1:05:00:: eye%1:08:00:: eye%1:08:00::
-lion%1:05:00:: lion%1:05:00:: finger%1:08:00::
-lion%1:05:00:: lion%1:05:00:: goat%1:05:00::
+lion%1:05:00:: lion%1:05:00:: finger finger%1:08:00::
+lion%1:05:00:: lion%1:05:00:: goat goat%1:05:00::
 lion%1:05:00:: lion%1:05:00:: hand%1:23:00:: hand%1:23:00::
 lion%1:05:00:: lion%1:05:00:: horse%1:05:00:: horse%1:05:00::
-machine%1:06:00:: machine%1:06:00::
+machine%1:06:00:: machine%1:06:00:: mango mango
 machine%1:06:00:: machine%1:06:00:: man%1:18:00:: men%1:14:00::
 machine%1:06:00:: machine%1:06:00:: melon%1:20:00:: melon%1:20:00::
-machine%1:06:00:: machine%1:06:00::
+machine%1:06:00:: machine%1:06:00:: monkey monkey
 machine%1:06:00:: machine%1:06:00:: mouse mouse%1:05:00::
 machine%1:06:00:: machine%1:06:00:: onion%1:20:00:: onion%1:20:00::
-machine%1:06:00:: machine%1:06:00:: pear%1:13:00::
+machine%1:06:00:: machine%1:06:00:: pear pear%1:13:00::
 machine%1:06:00:: machine%1:06:00:: pig%1:05:00:: pig%1:05:00::
 machine%1:06:00:: machine%1:06:00:: pineapple%1:13:00:: pineapple%1:13:00::
 machine%1:06:00:: machine%1:06:00:: rat%1:05:00:: rat%1:05:00::
 machine%1:06:00:: machine%1:06:00:: road%1:06:00:: road%1:06:00::
 machine%1:06:00:: machine%1:06:00:: snake%2:38:01:: snake%1:18:00::
 machine%1:06:00:: machine%1:06:00:: woman%1:18:00:: woman%1:18:00::
-machine%1:06:00:: machine%1:06:00:: banana%1:20:00::
+machine%1:06:00:: machine%1:06:00:: banana banana%1:20:00::
 machine%1:06:00:: machine%1:06:00:: bird%1:05:00:: bird%1:05:00::
 machine%1:06:00:: machine%1:06:00:: bottle%1:06:00:: bottle%1:06:00::
 machine%1:06:00:: machine%1:06:00:: building%1:06:00:: building%1:06:00::
 machine%1:06:00:: machine%1:06:00:: car%1:06:01:: car%1:06:01::
 machine%1:06:00:: machine%1:06:00:: cat%1:05:00:: cat%1:05:00::
-machine%1:06:00:: machine%1:06:00:: child%1:18:00::
+machine%1:06:00:: machine%1:06:00:: child child%1:18:00::
 machine%1:06:00:: machine%1:06:00:: cloud%2:43:00:: cloud%1:17:00::
 machine%1:06:00:: machine%1:06:00:: color%1:07:00:: color%1:07:00::
 machine%1:06:00:: machine%1:06:00:: computer%1:06:00:: computer%1:06:00::
 machine%1:06:00:: machine%1:06:00:: cow%1:05:01:: cow%1:05:01::
-machine%1:06:00:: machine%1:06:00:: dog%1:05:00::
+machine%1:06:00:: machine%1:06:00:: dog dog%1:05:00::
 machine%1:06:00:: machine%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
-machine%1:06:00:: machine%1:06:00:: donkey%1:05:00::
+machine%1:06:00:: machine%1:06:00:: donkey donkey%1:05:00::
 machine%1:06:00:: machine%1:06:00:: dream%1:09:01:: dream%1:09:01::
-machine%1:06:00:: machine%1:06:00:: eagle%1:05:00::
-machine%1:06:00:: machine%1:06:00:: elephant%1:05:00::
+machine%1:06:00:: machine%1:06:00:: eagle eagle%1:05:00::
+machine%1:06:00:: machine%1:06:00:: elephant elephant%1:05:00::
 machine%1:06:00:: machine%1:06:00:: eye%1:08:00:: eye%1:08:00::
 machine%1:06:00:: machine%1:06:00:: finger%1:08:00:: finger%1:08:00::
 machine%1:06:00:: machine%1:06:00:: goat%1:05:00:: goat%1:05:00::
 machine%1:06:00:: machine%1:06:00:: hand%1:23:00:: hand%1:23:00::
 machine%1:06:00:: machine%1:06:00:: horse%1:05:00:: horse%1:05:00::
 machine%1:06:00:: machine%1:06:00:: lion%1:05:00:: lion%1:05:00::
-man%1:18:00:: men%1:14:00::
-melon%1:20:00::
-mouse%2:35:00:: mouse%1:05:00::
-onion%1:20:00:: onion%1:20:00::
-pear%1:13:00::
-pig%1:05:00::
-pineapple%1:13:00::
-rat%2:35:01:: rat%1:05:00::
-road%1:06:00:: road%1:06:00::
-snake%2:38:01:: snake%1:18:00::
-woman%1:18:00:: woman%1:18:00::
-banana%1:20:00::
-bird%2:33:00:: bird%1:05:00::
-bottle%2:35:00:: bottle%1:06:00::
-building%1:06:00:: building%1:06:00::
-car%1:06:01:: car%1:06:01::
-cat%1:05:00::
-child%1:18:00::
-cloud%2:43:00:: cloud%1:17:00::
-color%1:07:00:: color%1:07:00::
-computer%1:06:00:: computer%1:06:00::
-cow%2:37:00:: cow%1:05:01::
-dog%2:38:00:: dog%1:05:00::
-dollar%1:21:01:: dollar%1:21:01::
-donkey%1:05:00::
-dream%2:36:00:: dream%1:09:01::
-eagle%1:05:00::
-elephant%1:05:00::
-eye%1:08:00:: eye%1:08:00::
-finger%1:08:00::
-goat%1:05:00::
-hand%1:23:00:: hand%1:23:00::
-horse%1:05:00:: horse%1:05:00::
-lion%1:05:00:: lion%1:05:00::
-machine%1:06:00:: machine%1:06:00::
-man%1:18:00:: men%1:14:00:: melon%1:20:00::
-man%1:18:00:: men%1:14:00:: monkey%2:35:00::
+mango mango man%1:18:00:: men%1:14:00::
+mango mango melon melon%1:20:00::
+mango mango monkey monkey
+mango mango mouse%2:35:00:: mouse%1:05:00::
+mango mango onion%1:20:00:: onion%1:20:00::
+mango mango pear pear%1:13:00::
+mango mango pig pig%1:05:00::
+mango mango pineapple pineapple%1:13:00::
+mango mango rat%2:35:01:: rat%1:05:00::
+mango mango road%1:06:00:: road%1:06:00::
+mango mango snake%2:38:01:: snake%1:18:00::
+mango mango woman%1:18:00:: woman%1:18:00::
+mango mango banana banana%1:20:00::
+mango mango bird%2:33:00:: bird%1:05:00::
+mango mango bottle%2:35:00:: bottle%1:06:00::
+mango mango building%1:06:00:: building%1:06:00::
+mango mango car%1:06:01:: car%1:06:01::
+mango mango cat cat%1:05:00::
+mango mango child child%1:18:00::
+mango mango cloud%2:43:00:: cloud%1:17:00::
+mango mango color%1:07:00:: color%1:07:00::
+mango mango computer%1:06:00:: computer%1:06:00::
+mango mango cow%2:37:00:: cow%1:05:01::
+mango mango dog%2:38:00:: dog%1:05:00::
+mango mango dollar%1:21:01:: dollar%1:21:01::
+mango mango donkey donkey%1:05:00::
+mango mango dream%2:36:00:: dream%1:09:01::
+mango mango eagle eagle%1:05:00::
+mango mango elephant elephant%1:05:00::
+mango mango eye%1:08:00:: eye%1:08:00::
+mango mango finger finger%1:08:00::
+mango mango goat goat%1:05:00::
+mango mango hand%1:23:00:: hand%1:23:00::
+mango mango horse%1:05:00:: horse%1:05:00::
+mango mango lion%1:05:00:: lion%1:05:00::
+mango mango machine%1:06:00:: machine%1:06:00::
+man%1:18:00:: men%1:14:00:: melon melon%1:20:00::
+man%1:18:00:: men%1:14:00:: monkey%2:35:00:: monkey
 man%1:18:00:: men%1:14:00:: mouse%2:35:00:: mouse%1:05:00::
-man%1:18:00:: men%1:14:00:: onion%1:20:00::
-man%1:18:00:: men%1:14:00:: pear%1:13:00::
-man%1:18:00:: men%1:14:00:: pig%1:05:00::
-man%1:18:00:: men%1:14:00:: pineapple%1:13:00::
+man%1:18:00:: men%1:14:00:: onion onion%1:20:00::
+man%1:18:00:: men%1:14:00:: pear pear%1:13:00::
+man%1:18:00:: men%1:14:00:: pig pig%1:05:00::
+man%1:18:00:: men%1:14:00:: pineapple pineapple%1:13:00::
 man%1:18:00:: men%1:14:00:: rat%2:35:01:: rat%1:05:00::
 man%1:18:00:: men%1:14:00:: road%1:06:00:: road%1:06:00::
 man%1:18:00:: men%1:14:00:: snake%2:38:01:: snake%1:18:00::
 man%1:18:00:: men%1:14:00:: woman%1:18:00:: woman%1:18:00::
-man%1:18:00:: men%1:14:00:: banana%1:20:00::
+man%1:18:00:: men%1:14:00:: banana banana%1:20:00::
 man%1:18:00:: men%1:14:00:: bird%2:33:00:: bird%1:05:00::
 man%1:18:00:: men%1:14:00:: bottle%2:35:00:: bottle%1:06:00::
 man%1:18:00:: men%1:14:00:: build%2:30:10:: building%1:06:00::
 man%1:18:00:: men%1:14:00:: car%1:06:01:: car%1:06:01::
-man%1:18:00:: men%1:14:00:: cat%1:18:01::
-man%1:18:00:: men%1:14:00:: child%1:18:00::
+man%1:18:00:: men%1:14:00:: cat cat%1:18:01::
+man%1:18:00:: men%1:14:00:: child child%1:18:00::
 man%1:18:00:: men%1:14:00:: cloud%2:43:00:: cloud%1:17:00::
 man%1:18:00:: men%1:14:00:: color%1:07:00:: color%1:07:00::
 man%1:18:00:: men%1:14:00:: computer%1:06:00:: computer%1:06:00::
 man%1:18:00:: men%1:14:00:: cow%2:37:00:: cow%1:05:01::
 man%1:18:00:: men%1:14:00:: dog%2:38:00:: dog%1:18:00::
 man%1:18:00:: men%1:14:00:: dollar%1:21:01:: dollar%1:21:01::
-man%1:18:00:: men%1:14:00:: donkey%1:05:00::
+man%1:18:00:: men%1:14:00:: donkey donkey%1:05:00::
 man%1:18:00:: men%1:14:00:: dream%2:36:00:: dream%1:09:01::
-man%1:18:00:: men%1:14:00:: eagle%1:05:00::
-man%1:18:00:: men%1:14:00:: elephant%1:05:00::
+man%1:18:00:: men%1:14:00:: eagle eagle%1:05:00::
+man%1:18:00:: men%1:14:00:: elephant elephant%1:05:00::
 man%1:18:00:: men%1:14:00:: eye%1:08:00:: eye%1:08:00::
-man%1:18:00:: men%1:14:00:: finger%1:08:00::
-man%1:18:00:: men%1:14:00:: goat%1:05:00::
+man%1:18:00:: men%1:14:00:: finger finger%1:08:00::
+man%1:18:00:: men%1:14:00:: goat goat%1:05:00::
 man%1:18:00:: men%1:14:00:: hand%1:23:00:: hand%1:23:00::
 man%1:18:00:: men%1:14:00:: horse%2:34:00:: horse%1:05:00::
-man%1:18:00:: men%1:14:00:: lion%1:05:00::
+man%1:18:00:: men%1:14:00:: lion lion%1:05:00::
 man%1:18:00:: men%1:14:00:: machine%1:06:00:: machine%1:06:00::
-man%1:18:00:: men%1:14:00::
-melon%1:20:00:: melon%1:20:00:: monkey%2:35:00::
+man%1:18:00:: men%1:14:00:: mango mango
+melon%1:20:00:: melon%1:20:00:: monkey%2:35:00:: monkey
 melon%1:20:00:: melon%1:20:00:: mouse%2:35:00:: mouse%1:05:00::
-melon%1:20:00:: melon%1:20:00:: onion%1:20:00::
-melon%1:20:00:: melon%1:20:00:: pear%1:13:00::
-melon%1:20:00:: melon%1:20:00:: pig%1:05:00::
-melon%1:20:00:: melon%1:20:00:: pineapple%1:13:00::
+melon%1:20:00:: melon%1:20:00:: onion onion%1:20:00::
+melon%1:20:00:: melon%1:20:00:: pear pear%1:13:00::
+melon%1:20:00:: melon%1:20:00:: pig pig%1:05:00::
+melon%1:20:00:: melon%1:20:00:: pineapple pineapple%1:13:00::
 melon%1:20:00:: melon%1:20:00:: rat%2:35:01:: rat%1:05:00::
 melon%1:20:00:: melon%1:20:00:: road%1:06:00:: road%1:06:00::
 melon%1:20:00:: melon%1:20:00:: snake%2:38:01:: snake%1:18:00::
 melon%1:20:00:: melon%1:20:00:: woman%1:18:00:: woman%1:18:00::
-melon%1:20:00:: melon%1:20:00:: banana%1:20:00::
+melon%1:20:00:: melon%1:20:00:: banana banana%1:20:00::
 melon%1:20:00:: melon%1:20:00:: bird%2:33:00:: bird%1:05:00::
 melon%1:20:00:: melon%1:20:00:: bottle%2:35:00:: bottle%1:06:00::
 melon%1:20:00:: melon%1:20:00:: building%1:06:00:: building%1:06:00::
 melon%1:20:00:: melon%1:20:00:: car%1:06:01:: car%1:06:01::
-melon%1:20:00:: melon%1:20:00:: cat%1:05:00::
-melon%1:20:00:: melon%1:20:00:: child%1:18:00::
+melon%1:20:00:: melon%1:20:00:: cat cat%1:05:00::
+melon%1:20:00:: melon%1:20:00:: child child%1:18:00::
 melon%1:20:00:: melon%1:20:00:: cloud%2:43:00:: cloud%1:17:00::
 melon%1:20:00:: melon%1:20:00:: color%1:07:00:: color%1:07:00::
 melon%1:20:00:: melon%1:20:00:: computer%1:06:00:: computer%1:06:00::
 melon%1:20:00:: melon%1:20:00:: cow%2:37:00:: cow%1:05:01::
 melon%1:20:00:: melon%1:20:00:: dog%2:38:00:: dog%1:05:00::
 melon%1:20:00:: melon%1:20:00:: dollar%1:21:01:: dollar%1:21:01::
-melon%1:20:00:: melon%1:20:00:: donkey%1:05:00::
+melon%1:20:00:: melon%1:20:00:: donkey donkey%1:05:00::
 melon%1:20:00:: melon%1:20:00:: dream%2:36:00:: dream%1:09:01::
-melon%1:20:00:: melon%1:20:00:: eagle%1:05:00::
-melon%1:20:00:: melon%1:20:00:: elephant%1:05:00::
+melon%1:20:00:: melon%1:20:00:: eagle eagle%1:05:00::
+melon%1:20:00:: melon%1:20:00:: elephant elephant%1:05:00::
 melon%1:20:00:: melon%1:20:00:: eye%1:08:00:: eye%1:08:00::
-melon%1:20:00:: melon%1:20:00:: finger%1:08:00::
-melon%1:20:00:: melon%1:20:00:: goat%1:05:00::
+melon%1:20:00:: melon%1:20:00:: finger finger%1:08:00::
+melon%1:20:00:: melon%1:20:00:: goat goat%1:05:00::
 melon%1:20:00:: melon%1:20:00:: hand%1:23:00:: hand%1:23:00::
 melon%1:20:00:: melon%1:20:00:: horse%1:05:00:: horse%1:05:00::
-melon%1:20:00:: melon%1:20:00:: lion%1:05:00::
+melon%1:20:00:: melon%1:20:00:: lion lion%1:05:00::
 melon%1:20:00:: melon%1:20:00:: machine%1:06:00:: machine%1:06:00::
-melon%1:20:00:: melon%1:20:00::
+melon%1:20:00:: melon%1:20:00:: mango mango
 melon%1:20:00:: melon%1:20:00:: man%1:18:00:: men%1:14:00::
-mouse%2:35:00:: mouse%1:05:00::
-onion%1:20:00::
-pear%1:13:00::
-pig%1:05:00::
-pineapple%1:13:00::
-rat%2:35:01:: rat%1:05:00::
-road%1:06:00:: road%1:06:00::
-snake%2:38:01:: snake%1:18:00::
-woman%1:18:00:: woman%1:18:00::
-banana%1:20:00::
-bird%2:33:00:: bird%1:05:00::
-bottle%2:35:00:: bottle%1:06:00::
-building%1:06:00:: building%1:06:00::
-car%1:06:01:: car%1:06:01::
-cat%1:05:00::
-monkey%1:18:00:: child%1:18:00::
-cloud%2:43:00:: cloud%1:17:00::
-color%1:07:00:: color%1:07:00::
-computer%1:06:00:: computer%1:06:00::
-cow%2:37:00:: cow%1:05:01::
-dog%2:38:00:: dog%1:05:00::
-dollar%1:21:01:: dollar%1:21:01::
-donkey%1:05:00::
-dream%2:36:00:: dream%1:09:01::
-eagle%1:05:00::
-elephant%1:05:00::
-eye%1:08:00:: eye%1:08:00::
-finger%1:08:00::
-goat%1:05:00::
-hand%1:23:00:: hand%1:23:00::
-horse%1:05:00:: horse%1:05:00::
-lion%1:05:00:: lion%1:05:00::
-machine%1:06:00:: machine%1:06:00::
-man%1:18:00:: men%1:14:00::
-melon%1:20:00::
+monkey monkey mouse%2:35:00:: mouse%1:05:00::
+monkey monkey onion onion%1:20:00::
+monkey monkey pear pear%1:13:00::
+monkey monkey pig pig%1:05:00::
+monkey monkey pineapple pineapple%1:13:00::
+monkey monkey rat%2:35:01:: rat%1:05:00::
+monkey monkey road%1:06:00:: road%1:06:00::
+monkey monkey snake%2:38:01:: snake%1:18:00::
+monkey monkey woman%1:18:00:: woman%1:18:00::
+monkey monkey banana banana%1:20:00::
+monkey monkey bird%2:33:00:: bird%1:05:00::
+monkey monkey bottle%2:35:00:: bottle%1:06:00::
+monkey monkey building%1:06:00:: building%1:06:00::
+monkey monkey car%1:06:01:: car%1:06:01::
+monkey monkey cat cat%1:05:00::
+monkey monkey%1:18:00:: child child%1:18:00::
+monkey monkey cloud%2:43:00:: cloud%1:17:00::
+monkey monkey color%1:07:00:: color%1:07:00::
+monkey monkey computer%1:06:00:: computer%1:06:00::
+monkey monkey cow%2:37:00:: cow%1:05:01::
+monkey monkey dog%2:38:00:: dog%1:05:00::
+monkey monkey dollar%1:21:01:: dollar%1:21:01::
+monkey monkey donkey donkey%1:05:00::
+monkey monkey dream%2:36:00:: dream%1:09:01::
+monkey monkey eagle eagle%1:05:00::
+monkey monkey elephant elephant%1:05:00::
+monkey monkey eye%1:08:00:: eye%1:08:00::
+monkey monkey finger finger%1:08:00::
+monkey monkey goat goat%1:05:00::
+monkey monkey hand%1:23:00:: hand%1:23:00::
+monkey monkey horse%1:05:00:: horse%1:05:00::
+monkey monkey lion%1:05:00:: lion%1:05:00::
+monkey monkey machine%1:06:00:: machine%1:06:00::
+monkey monkey mango mango
+monkey monkey man%1:18:00:: men%1:14:00::
+monkey monkey melon melon%1:20:00::
 mouse%1:05:00:: mouse%1:05:00:: onion%1:20:00:: onion%1:20:00::
-mouse%1:05:00:: mouse%1:05:00:: pear%1:13:00::
+mouse%1:05:00:: mouse%1:05:00:: pear pear%1:13:00::
 mouse%1:05:00:: mouse%1:05:00:: pig%1:05:00:: pig%1:05:00::
 mouse%1:05:00:: mouse%1:05:00:: pineapple%1:13:00:: pineapple%1:13:00::
 mouse%1:05:00:: mouse%1:05:00:: rat%1:05:00:: rat%1:05:00::
@@ -1037,104 +1039,104 @@ mouse%1:05:00:: mouse%1:05:00:: hand%1:23:00:: hand%1:23:00::
 mouse%1:05:00:: mouse%1:05:00:: horse%1:05:00:: horse%1:05:00::
 mouse%1:05:00:: mouse%1:05:00:: lion%1:05:00:: lion%1:05:00::
 mouse%1:05:00:: mouse%1:05:00:: machine%1:06:00:: machine%1:06:00::
-mouse%1:05:00:: mouse%1:05:00::
+mouse%1:05:00:: mouse%1:05:00:: mango mango
 mouse%1:05:00:: mouse%1:05:00:: man%1:18:00:: men%1:14:00::
 mouse%1:05:00:: mouse%1:05:00:: melon%1:20:00:: melon%1:20:00::
-mouse%1:05:00:: mouse%1:05:00::
-onion%1:20:00:: onion%1:20:00:: pear%1:13:00::
-onion%1:20:00:: onion%1:20:00:: pig%1:05:00::
-onion%1:20:00:: onion%1:20:00:: pineapple%1:13:00::
+mouse%1:05:00:: mouse%1:05:00:: monkey monkey
+onion%1:20:00:: onion%1:20:00:: pear pear%1:13:00::
+onion%1:20:00:: onion%1:20:00:: pig pig%1:05:00::
+onion%1:20:00:: onion%1:20:00:: pineapple pineapple%1:13:00::
 onion%1:20:00:: onion%1:20:00:: rat%2:35:01:: rat%1:05:00::
 onion%1:20:00:: onion%1:20:00:: road%1:06:00:: road%1:06:00::
 onion%1:20:00:: onion%1:20:00:: snake%2:38:01:: snake%1:18:00::
 onion%1:20:00:: onion%1:20:00:: woman%1:18:00:: woman%1:18:00::
-onion%1:20:00:: onion%1:20:00:: banana%1:20:00::
+onion%1:20:00:: onion%1:20:00:: banana banana%1:20:00::
 onion%1:20:00:: onion%1:20:00:: bird%2:33:00:: bird%1:05:00::
 onion%1:20:00:: onion%1:20:00:: bottle%2:35:00:: bottle%1:06:00::
 onion%1:20:00:: onion%1:20:00:: building%1:06:00:: building%1:06:00::
 onion%1:20:00:: onion%1:20:00:: car%1:06:01:: car%1:06:01::
-onion%1:20:00:: onion%1:20:00:: cat%1:05:00::
-onion%1:20:00:: onion%1:20:00:: child%1:18:00::
+onion%1:20:00:: onion%1:20:00:: cat cat%1:05:00::
+onion%1:20:00:: onion%1:20:00:: child child%1:18:00::
 onion%1:20:00:: onion%1:20:00:: cloud%2:43:00:: cloud%1:17:00::
 onion%1:20:00:: onion%1:20:00:: color%1:07:00:: color%1:07:00::
 onion%1:20:00:: onion%1:20:00:: computer%1:06:00:: computer%1:06:00::
 onion%1:20:00:: onion%1:20:00:: cow%2:37:00:: cow%1:05:01::
 onion%1:20:00:: onion%1:20:00:: dog%2:38:00:: dog%1:05:00::
 onion%1:20:00:: onion%1:20:00:: dollar%1:21:01:: dollar%1:21:01::
-onion%1:20:00:: onion%1:20:00:: donkey%1:05:00::
+onion%1:20:00:: onion%1:20:00:: donkey donkey%1:05:00::
 onion%1:20:00:: onion%1:20:00:: dream%2:36:00:: dream%1:09:01::
-onion%1:20:00:: onion%1:20:00:: eagle%1:05:00::
-onion%1:20:00:: onion%1:20:00:: elephant%1:05:00::
+onion%1:20:00:: onion%1:20:00:: eagle eagle%1:05:00::
+onion%1:20:00:: onion%1:20:00:: elephant elephant%1:05:00::
 onion%1:20:00:: onion%1:20:00:: eye%1:08:00:: eye%1:08:00::
-onion%1:20:00:: onion%1:20:00:: finger%1:08:00::
-onion%1:20:00:: onion%1:20:00:: goat%1:05:00::
+onion%1:20:00:: onion%1:20:00:: finger finger%1:08:00::
+onion%1:20:00:: onion%1:20:00:: goat goat%1:05:00::
 onion%1:20:00:: onion%1:20:00:: hand%1:23:00:: hand%1:23:00::
 onion%1:20:00:: onion%1:20:00:: horse%1:05:00:: horse%1:05:00::
-onion%1:20:00:: onion%1:20:00:: lion%1:05:00::
+onion%1:20:00:: onion%1:20:00:: lion lion%1:05:00::
 onion%1:20:00:: onion%1:20:00:: machine%1:06:00:: machine%1:06:00::
-onion%1:20:00:: onion%1:20:00::
+onion%1:20:00:: onion%1:20:00:: mango mango
 onion%1:20:00:: onion%1:20:00:: man%1:18:00:: men%1:14:00::
-onion%1:20:00:: onion%1:20:00:: melon%1:20:00::
-onion%1:20:00:: onion%1:20:00:: monkey%2:35:00::
+onion%1:20:00:: onion%1:20:00:: melon melon%1:20:00::
+onion%1:20:00:: onion%1:20:00:: monkey%2:35:00:: monkey
 onion%1:20:00:: onion%1:20:00:: mouse%2:35:00:: mouse%1:05:00::
-pear%1:13:00:: pig%1:05:00::
-pear%1:13:00:: pineapple%1:13:00::
-pear%1:13:00:: rat%2:35:01:: rat%1:05:00::
-pear%1:13:00:: road%1:06:00:: road%1:06:00::
-pear%1:13:00:: snake%2:38:01:: snake%1:18:00::
-pear%1:13:00:: woman%1:18:00:: woman%1:18:00::
-pear%1:13:00:: banana%1:20:00::
-pear%1:13:00:: bird%2:33:00:: bird%1:05:00::
-pear%1:13:00:: bottle%2:35:00:: bottle%1:06:00::
-pear%1:13:00:: building%1:06:00:: building%1:06:00::
-pear%1:13:00:: car%1:06:01:: car%1:06:01::
-pear%1:13:00:: cat%1:05:00::
-pear%1:13:00:: child%1:18:00::
-pear%1:13:00:: cloud%2:43:00:: cloud%1:17:00::
-pear%1:13:00:: color%1:07:00:: color%1:07:00::
-pear%1:13:00:: computer%1:06:00:: computer%1:06:00::
-pear%1:13:00:: cow%2:37:00:: cow%1:05:01::
-pear%1:13:00:: dog%1:05:00::
-pear%1:13:00:: dollar%1:21:01:: dollar%1:21:01::
-pear%1:13:00:: donkey%1:05:00::
-pear%1:13:00:: dream%2:36:00:: dream%1:09:01::
-pear%1:13:00:: eagle%1:05:00::
-pear%1:13:00:: elephant%1:05:00::
-pear%1:13:00:: eye%1:08:00:: eye%1:08:00::
-pear%1:13:00:: finger%1:08:00:: finger%1:08:00::
-pear%1:13:00:: goat%1:05:00::
-pear%1:13:00:: hand%1:23:00:: hand%1:23:00::
-pear%1:13:00:: horse%1:05:00:: horse%1:05:00::
-pear%1:13:00:: lion%1:05:00:: lion%1:05:00::
-pear%1:13:00:: machine%1:06:00:: machine%1:06:00::
-pear%1:13:00::
-pear%1:13:00:: man%1:18:00:: men%1:14:00::
-pear%1:13:00:: melon%1:20:00::
-pear%1:13:00::
-pear%1:13:00:: mouse mouse%1:05:00::
-pear%1:13:00:: onion%1:20:00:: onion%1:20:00::
-pig%1:05:00:: pig%1:05:00:: pineapple%1:13:00::
+pear pear%1:13:00:: pig pig%1:05:00::
+pear pear%1:13:00:: pineapple pineapple%1:13:00::
+pear pear%1:13:00:: rat%2:35:01:: rat%1:05:00::
+pear pear%1:13:00:: road%1:06:00:: road%1:06:00::
+pear pear%1:13:00:: snake%2:38:01:: snake%1:18:00::
+pear pear%1:13:00:: woman%1:18:00:: woman%1:18:00::
+pear pear%1:13:00:: banana banana%1:20:00::
+pear pear%1:13:00:: bird%2:33:00:: bird%1:05:00::
+pear pear%1:13:00:: bottle%2:35:00:: bottle%1:06:00::
+pear pear%1:13:00:: building%1:06:00:: building%1:06:00::
+pear pear%1:13:00:: car%1:06:01:: car%1:06:01::
+pear pear%1:13:00:: cat cat%1:05:00::
+pear pear%1:13:00:: child child%1:18:00::
+pear pear%1:13:00:: cloud%2:43:00:: cloud%1:17:00::
+pear pear%1:13:00:: color%1:07:00:: color%1:07:00::
+pear pear%1:13:00:: computer%1:06:00:: computer%1:06:00::
+pear pear%1:13:00:: cow%2:37:00:: cow%1:05:01::
+pear pear%1:13:00:: dog dog%1:05:00::
+pear pear%1:13:00:: dollar%1:21:01:: dollar%1:21:01::
+pear pear%1:13:00:: donkey donkey%1:05:00::
+pear pear%1:13:00:: dream%2:36:00:: dream%1:09:01::
+pear pear%1:13:00:: eagle eagle%1:05:00::
+pear pear%1:13:00:: elephant elephant%1:05:00::
+pear pear%1:13:00:: eye%1:08:00:: eye%1:08:00::
+pear pear%1:13:00:: finger%1:08:00:: finger%1:08:00::
+pear pear%1:13:00:: goat goat%1:05:00::
+pear pear%1:13:00:: hand%1:23:00:: hand%1:23:00::
+pear pear%1:13:00:: horse%1:05:00:: horse%1:05:00::
+pear pear%1:13:00:: lion%1:05:00:: lion%1:05:00::
+pear pear%1:13:00:: machine%1:06:00:: machine%1:06:00::
+pear pear%1:13:00:: mango mango
+pear pear%1:13:00:: man%1:18:00:: men%1:14:00::
+pear pear%1:13:00:: melon melon%1:20:00::
+pear pear%1:13:00:: monkey monkey
+pear pear%1:13:00:: mouse mouse%1:05:00::
+pear pear%1:13:00:: onion%1:20:00:: onion%1:20:00::
+pig%1:05:00:: pig%1:05:00:: pineapple pineapple%1:13:00::
 pig%1:05:00:: pig%1:05:00:: rat%2:35:01:: rat%1:05:00::
 pig%1:05:00:: pig%1:05:00:: road%1:06:00:: road%1:06:00::
 pig%1:05:00:: pig%1:05:00:: snake%2:38:01:: snake%1:18:00::
 pig%1:05:00:: pig%1:05:00:: woman%1:18:00:: woman%1:18:00::
-pig%1:05:00:: pig%1:05:00:: banana%1:20:00::
+pig%1:05:00:: pig%1:05:00:: banana banana%1:20:00::
 pig%1:05:00:: pig%1:05:00:: bird%1:05:00:: bird%1:05:00::
 pig%1:05:00:: pig%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 pig%1:05:00:: pig%1:05:00:: building%1:06:00:: building%1:06:00::
 pig%1:05:00:: pig%1:05:00:: car%1:06:01:: car%1:06:01::
-pig%1:05:00:: pig%1:05:00:: cat%1:05:00::
-pig%1:05:00:: pig%1:05:00:: child%1:18:00::
+pig%1:05:00:: pig%1:05:00:: cat cat%1:05:00::
+pig%1:05:00:: pig%1:05:00:: child child%1:18:00::
 pig%1:05:00:: pig%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 pig%1:05:00:: pig%1:05:00:: color%1:07:00:: color%1:07:00::
 pig%1:05:00:: pig%1:05:00:: computer%1:06:00:: computer%1:06:00::
 pig%1:05:00:: pig%1:05:00:: cow%2:37:00:: cow%1:05:01::
 pig%1:05:00:: pig%1:05:00:: dog%2:38:00:: dog%1:05:00::
 pig%1:05:00:: pig%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-pig%1:05:00:: pig%1:05:00:: donkey%1:05:00::
+pig%1:05:00:: pig%1:05:00:: donkey donkey%1:05:00::
 pig%1:05:00:: pig%1:05:00:: dream%1:09:01:: dream%1:09:01::
-pig%1:05:00:: pig%1:05:00:: eagle%1:05:00::
-pig%1:05:00:: pig%1:05:00:: elephant%1:05:00::
+pig%1:05:00:: pig%1:05:00:: eagle eagle%1:05:00::
+pig%1:05:00:: pig%1:05:00:: elephant elephant%1:05:00::
 pig%1:05:00:: pig%1:05:00:: eye%1:08:00:: eye%1:08:00::
 pig%1:05:00:: pig%1:05:00:: finger%1:08:00:: finger%1:08:00::
 pig%1:05:00:: pig%1:05:00:: goat%1:05:00:: goat%1:05:00::
@@ -1142,190 +1144,190 @@ pig%1:05:00:: pig%1:05:00:: hand%1:23:00:: hand%1:23:00::
 pig%1:05:00:: pig%1:05:00:: horse%1:05:00:: horse%1:05:00::
 pig%1:05:00:: pig%1:05:00:: lion%1:05:00:: lion%1:05:00::
 pig%1:05:00:: pig%1:05:00:: machine%1:06:00:: machine%1:06:00::
-pig%1:05:00:: pig%1:05:00::
+pig%1:05:00:: pig%1:05:00:: mango mango
 pig%1:05:00:: pig%1:05:00:: man%1:18:00:: men%1:14:00::
-pig%1:05:00:: pig%1:05:00:: melon%1:20:00::
-pig%1:05:00:: pig%1:05:00:: monkey%2:35:00::
+pig%1:05:00:: pig%1:05:00:: melon melon%1:20:00::
+pig%1:05:00:: pig%1:05:00:: monkey%2:35:00:: monkey
 pig%1:05:00:: pig%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
 pig%1:05:00:: pig%1:05:00:: onion%1:20:00:: onion%1:20:00::
-pig%1:05:00:: pig%1:05:00:: pear%1:13:00::
+pig%1:05:00:: pig%1:05:00:: pear pear%1:13:00::
 pineapple%1:13:00:: pineapple%1:13:00:: rat%2:35:01:: rat%1:05:00::
-pineapple%1:13:00:: road%1:06:00:: road%1:06:00::
+pineapple pineapple%1:13:00:: road%1:06:00:: road%1:06:00::
 pineapple%1:13:00:: pineapple%1:13:00:: snake%2:38:01:: snake%1:18:00::
 pineapple%1:13:00:: pineapple%1:13:00:: woman%1:18:00:: woman%1:18:00::
-pineapple%1:13:00:: pineapple%1:13:00:: banana%1:20:00::
+pineapple%1:13:00:: pineapple%1:13:00:: banana banana%1:20:00::
 pineapple%1:13:00:: pineapple%1:13:00:: bird%2:33:00:: bird%1:05:00::
 pineapple%1:13:00:: pineapple%1:13:00:: bottle%2:35:00:: bottle%1:06:00::
 pineapple%1:13:00:: pineapple%1:13:00:: building%1:06:00:: building%1:06:00::
 pineapple%1:13:00:: pineapple%1:13:00:: car%1:06:01:: car%1:06:01::
-pineapple%1:13:00:: pineapple%1:13:00:: cat%1:05:00::
-pineapple%1:13:00:: pineapple%1:13:00:: child%1:18:00::
+pineapple%1:13:00:: pineapple%1:13:00:: cat cat%1:05:00::
+pineapple%1:13:00:: pineapple%1:13:00:: child child%1:18:00::
 pineapple%1:13:00:: pineapple%1:13:00:: cloud%2:43:00:: cloud%1:17:00::
 pineapple%1:13:00:: pineapple%1:13:00:: color%1:07:00:: color%1:07:00::
 pineapple%1:13:00:: pineapple%1:13:00:: computer%1:06:00:: computer%1:06:00::
 pineapple%1:13:00:: pineapple%1:13:00:: cow%2:37:00:: cow%1:05:01::
 pineapple%1:13:00:: pineapple%1:13:00:: dog%2:38:00:: dog%1:05:00::
-pineapple%1:13:00:: dollar%1:21:01:: dollar%1:21:01::
-pineapple%1:13:00:: pineapple%1:13:00:: donkey%1:05:00::
+pineapple pineapple%1:13:00:: dollar%1:21:01:: dollar%1:21:01::
+pineapple%1:13:00:: pineapple%1:13:00:: donkey donkey%1:05:00::
 pineapple%1:13:00:: pineapple%1:13:00:: dream%2:36:00:: dream%1:09:01::
-pineapple%1:13:00:: pineapple%1:13:00:: eagle%1:05:00::
-pineapple%1:13:00:: pineapple%1:13:00:: elephant%1:05:00::
+pineapple%1:13:00:: pineapple%1:13:00:: eagle eagle%1:05:00::
+pineapple%1:13:00:: pineapple%1:13:00:: elephant elephant%1:05:00::
 pineapple%1:13:00:: pineapple%1:13:00:: eye%1:08:00:: eye%1:08:00::
-pineapple%1:13:00:: pineapple%1:13:00:: finger%1:08:00::
-pineapple%1:13:00:: pineapple%1:13:00:: goat%1:05:00::
+pineapple%1:13:00:: pineapple%1:13:00:: finger finger%1:08:00::
+pineapple%1:13:00:: pineapple%1:13:00:: goat goat%1:05:00::
 pineapple%1:13:00:: pineapple%1:13:00:: hand%1:23:00:: hand%1:23:00::
 pineapple%1:13:00:: pineapple%1:13:00:: horse%1:05:00:: horse%1:05:00::
-pineapple%1:13:00:: pineapple%1:13:00:: lion%1:05:00::
-pineapple%1:13:00:: machine%1:06:00:: machine%1:06:00::
-pineapple%1:13:00:: pineapple%1:13:00::
+pineapple%1:13:00:: pineapple%1:13:00:: lion lion%1:05:00::
+pineapple pineapple%1:13:00:: machine%1:06:00:: machine%1:06:00::
+pineapple%1:13:00:: pineapple%1:13:00:: mango mango
 pineapple%1:13:00:: pineapple%1:13:00:: man%1:18:00:: men%1:14:00::
-pineapple%1:13:00:: pineapple%1:13:00:: melon%1:20:00::
-pineapple%1:13:00:: pineapple%1:13:00:: monkey%2:35:00::
+pineapple%1:13:00:: pineapple%1:13:00:: melon melon%1:20:00::
+pineapple%1:13:00:: pineapple%1:13:00:: monkey%2:35:00:: monkey
 pineapple%1:13:00:: pineapple%1:13:00:: mouse%2:35:00:: mouse%1:05:00::
-pineapple%1:13:00:: pineapple%1:13:00:: onion%1:20:00::
-pineapple%1:13:00:: pineapple%1:13:00:: pear%1:13:00::
-pineapple%1:13:00:: pineapple%1:13:00:: pig%1:05:00::
+pineapple%1:13:00:: pineapple%1:13:00:: onion onion%1:20:00::
+pineapple%1:13:00:: pineapple%1:13:00:: pear pear%1:13:00::
+pineapple%1:13:00:: pineapple%1:13:00:: pig pig%1:05:00::
 rat%1:05:00:: rat%1:05:00:: road%1:06:00:: road%1:06:00::
 rat%1:05:00:: rat%1:05:00:: snake%2:38:01:: snake%1:18:00::
 rat%1:05:00:: rat%1:05:00:: woman%1:18:00:: woman%1:18:00::
-rat%1:05:00:: rat%1:05:00:: banana%1:20:00::
+rat%1:05:00:: rat%1:05:00:: banana banana%1:20:00::
 rat%1:05:00:: rat%1:05:00:: bird%2:33:00:: bird%1:05:00::
 rat%1:05:00:: rat%1:05:00:: bottle%2:35:00:: bottle%1:06:00::
 rat%1:05:00:: rat%1:05:00:: building%1:06:00:: building%1:06:00::
 rat%1:05:00:: rat%1:05:00:: car%1:06:01:: car%1:06:01::
-rat%1:05:00:: rat%1:05:00:: cat%1:05:00::
-rat%1:05:00:: rat%1:05:00:: child%1:18:00::
+rat%1:05:00:: rat%1:05:00:: cat cat%1:05:00::
+rat%1:05:00:: rat%1:05:00:: child child%1:18:00::
 rat%1:05:00:: rat%1:05:00:: cloud%2:43:00:: cloud%1:17:00::
 rat%1:05:00:: rat%1:05:00:: color%2:30:00:: color%1:07:00::
 rat%1:05:00:: rat%1:05:00:: computer%1:06:00:: computer%1:06:00::
 rat%1:05:00:: rat%1:05:00:: cow%2:37:00:: cow%1:05:01::
 rat%1:05:00:: rat%1:05:00:: dog%2:38:00:: dog%1:05:00::
 rat%1:05:00:: rat%1:05:00:: dollar%1:21:01:: dollar%1:21:01::
-rat%1:05:00:: rat%1:05:00:: donkey%1:05:00::
+rat%1:05:00:: rat%1:05:00:: donkey donkey%1:05:00::
 rat%1:05:00:: rat%1:05:00:: dream%2:36:00:: dream%1:09:01::
-rat%1:05:00:: rat%1:05:00:: eagle%1:05:00::
-rat%1:05:00:: rat%1:05:00:: elephant%1:05:00::
+rat%1:05:00:: rat%1:05:00:: eagle eagle%1:05:00::
+rat%1:05:00:: rat%1:05:00:: elephant elephant%1:05:00::
 rat%1:05:00:: rat%1:05:00:: eye%1:08:00:: eye%1:08:00::
-rat%1:05:00:: rat%1:05:00:: finger%1:08:00::
-rat%1:05:00:: rat%1:05:00:: goat%1:05:00::
+rat%1:05:00:: rat%1:05:00:: finger finger%1:08:00::
+rat%1:05:00:: rat%1:05:00:: goat goat%1:05:00::
 rat%1:05:00:: rat%1:05:00:: hand%1:23:00:: hand%1:23:00::
 rat%1:05:00:: rat%1:05:00:: horse%2:34:00:: horse%1:05:00::
-rat%1:05:00:: rat%1:05:00:: lion%1:05:00::
+rat%1:05:00:: rat%1:05:00:: lion lion%1:05:00::
 rat%1:05:00:: rat%1:05:00:: machine%1:06:00:: machine%1:06:00::
-rat%1:05:00:: rat%1:05:00::
+rat%1:05:00:: rat%1:05:00:: mango mango
 rat%1:05:00:: rat%1:05:00:: man%1:18:00:: men%1:14:00::
-rat%1:05:00:: rat%1:05:00:: melon%1:20:00::
-rat%1:05:00:: rat%1:05:00:: monkey%2:35:00::
+rat%1:05:00:: rat%1:05:00:: melon melon%1:20:00::
+rat%1:05:00:: rat%1:05:00:: monkey%2:35:00:: monkey
 rat%1:05:00:: rat%1:05:00:: mouse%2:35:00:: mouse%1:05:00::
-rat%1:05:00:: rat%1:05:00:: onion%1:20:00::
-rat%1:05:00:: rat%1:05:00:: pear%1:13:00::
-rat%1:05:00:: rat%1:05:00:: pig%1:05:00::
-rat%1:05:00:: rat%1:05:00:: pineapple%1:13:00::
+rat%1:05:00:: rat%1:05:00:: onion onion%1:20:00::
+rat%1:05:00:: rat%1:05:00:: pear pear%1:13:00::
+rat%1:05:00:: rat%1:05:00:: pig pig%1:05:00::
+rat%1:05:00:: rat%1:05:00:: pineapple pineapple%1:13:00::
 road%1:06:00:: road%1:06:00:: snake%2:38:01:: snake%1:18:00::
 road%1:06:00:: road%1:06:00:: woman%1:18:00:: woman%1:18:00::
-road%1:06:00:: road%1:06:00:: banana%1:20:00::
+road%1:06:00:: road%1:06:00:: banana banana%1:20:00::
 road%1:06:00:: road%1:06:00:: bird%2:33:00:: bird%1:05:00::
-road%1:06:00:: bottle%1:06:00::
+road%1:06:00:: roads bottle bottle%1:06:00::
 road%1:06:00:: road%1:06:00:: building%1:06:00:: building%1:06:00::
 road%1:06:00:: road%1:06:00:: car%1:06:01:: car%1:06:01::
-road%1:06:00:: road%1:06:00:: cat%1:05:00::
-road%1:06:00:: child%1:18:00::
+road%1:06:00:: road%1:06:00:: cat cat%1:05:00::
+road%1:06:00:: roads child child%1:18:00::
 road%1:06:00:: road%1:06:00:: cloud%2:43:00:: cloud%1:17:00::
 road%1:06:00:: road%1:06:00:: color%1:07:00:: color%1:07:00::
 road%1:06:00:: road%1:06:00:: computer%1:06:00:: computer%1:06:00::
 road%1:06:00:: road%1:06:00:: cow%2:37:00:: cow%1:05:01::
 road%1:06:00:: road%1:06:00:: dog%2:38:00:: dog%1:05:00::
 road%1:06:00:: road%1:06:00:: dollar%1:21:01:: dollar%1:21:01::
-road%1:06:00:: road%1:06:00:: donkey%1:05:00::
+road%1:06:00:: road%1:06:00:: donkey donkey%1:05:00::
 road%1:06:00:: road%1:06:00:: dream%2:36:00:: dream%1:09:01::
-road%1:06:00:: road%1:06:00:: eagle%1:05:00::
-road%1:06:00:: road%1:06:00:: elephant%1:05:00::
+road%1:06:00:: road%1:06:00:: eagle eagle%1:05:00::
+road%1:06:00:: road%1:06:00:: elephant elephant%1:05:00::
 road%1:06:00:: road%1:06:00:: eye%1:08:00:: eye%1:08:00::
 road%1:06:00:: road%1:06:00:: finger%1:08:00:: finger%1:08:00::
-road%1:06:00:: road%1:06:00:: goat%1:05:00::
+road%1:06:00:: road%1:06:00:: goat goat%1:05:00::
 road%1:06:00:: road%1:06:00:: hand%1:23:00:: hand%1:23:00::
 road%1:06:00:: road%1:06:00:: horse%1:05:00:: horse%1:05:00::
 road%1:06:00:: road%1:06:00:: lion%1:05:00:: lion%1:05:00::
 road%1:06:00:: road%1:06:00:: machine%1:06:00:: machine%1:06:00::
-road%1:06:00:: road%1:06:00::
-road%1:06:00:: man%1:18:00:: men%1:14:00::
-road%1:06:00:: road%1:06:00:: melon%1:20:00::
-road%1:06:00:: road%1:06:00:: monkey%2:35:00::
+road%1:06:00:: road%1:06:00:: mango mango
+road%1:06:00:: roads man%1:18:00:: men%1:14:00::
+road%1:06:00:: road%1:06:00:: melon melon%1:20:00::
+road%1:06:00:: road%1:06:00:: monkey%2:35:00:: monkey
 road%1:06:00:: road%1:06:00:: mouse%2:35:00:: mouse%1:05:00::
 road%1:06:00:: road%1:06:00:: onion%1:20:00:: onion%1:20:00::
-road%1:06:00:: road%1:06:00:: pear%1:13:00::
-road%1:06:00:: road%1:06:00:: pig%1:05:00::
-road%1:06:00:: road%1:06:00:: pineapple%1:13:00::
+road%1:06:00:: road%1:06:00:: pear pear%1:13:00::
+road%1:06:00:: road%1:06:00:: pig pig%1:05:00::
+road%1:06:00:: road%1:06:00:: pineapple pineapple%1:13:00::
 road%1:06:00:: road%1:06:00:: rat%2:35:01:: rat%1:05:00::
 snake%2:38:01:: snake%1:18:00:: woman%1:18:00:: woman%1:18:00::
-snake%2:38:01:: snake%1:18:00:: banana%1:20:00::
+snake%2:38:01:: snake%1:18:00:: banana banana%1:20:00::
 snake%2:38:01:: snake%1:18:00:: bird%1:05:00:: bird%1:05:00::
 snake%1:18:00:: snake%1:18:00:: bottle%2:35:00:: bottle%1:06:00::
 snake%1:18:00:: snake%1:18:00:: building%1:06:00:: building%1:06:00::
 snake%2:38:01:: snake%1:18:00:: car%1:06:01:: car%1:06:01::
-snake%2:38:01:: snake%1:18:00:: cat%1:05:00::
-snake%2:38:01:: snake%1:18:00:: child%1:18:00::
+snake%2:38:01:: snake%1:18:00:: cat cat%1:05:00::
+snake%2:38:01:: snake%1:18:00:: child child%1:18:00::
 snake%2:38:01:: snake%1:18:00:: cloud%2:43:00:: cloud%1:17:00::
 snake%2:38:01:: snake%1:18:00:: color%1:07:00:: color%1:07:00::
 snake%1:18:00:: snake%1:18:00:: computer%1:06:00:: computer%1:06:00::
-snake%2:38:01:: snake%1:18:00:: cow%1:05:01::
-snake%2:38:01:: snake%1:18:00:: dog%1:05:00::
-snake%1:18:00:: dollar%1:21:01:: dollar%1:21:01::
-snake%2:38:01:: snake%1:18:00:: donkey%1:05:00::
+snake%2:38:01:: snake%1:18:00:: cow cow%1:05:01::
+snake%2:38:01:: snake%1:18:00:: dog dog%1:05:00::
+snake snake%1:18:00:: dollar%1:21:01:: dollar%1:21:01::
+snake%2:38:01:: snake%1:18:00:: donkey donkey%1:05:00::
 snake%2:38:01:: snake%1:18:00:: dream%1:09:01:: dream%1:09:01::
-snake%2:38:01:: snake%1:18:00:: eagle%1:05:00::
-snake%2:38:01:: snake%1:18:00:: elephant%1:05:00::
+snake%2:38:01:: snake%1:18:00:: eagle eagle%1:05:00::
+snake%2:38:01:: snake%1:18:00:: elephant elephant%1:05:00::
 snake%1:18:00:: snake%1:18:00:: eye%1:08:00:: eye%1:08:00::
-snake%2:38:01:: snake%1:18:00:: finger%1:08:00::
+snake%2:38:01:: snake%1:18:00:: finger finger%1:08:00::
 snake%2:38:01:: snake%1:18:00:: goat%1:05:00:: goat%1:05:00::
 snake%1:18:00:: snake%1:18:00:: hand%1:23:00:: hand%1:23:00::
 snake%2:38:01:: snake%1:18:00:: horse%1:05:00:: horse%1:05:00::
 snake%2:38:01:: snake%1:18:00:: lion%1:05:00:: lion%1:05:00::
 snake%1:18:00:: snake%1:18:00:: machine%1:06:00:: machine%1:06:00::
-snake%2:38:01:: snake%1:18:00:: mango
+snake%2:38:01:: snake%1:18:00:: mango mango
 snake%1:18:00:: snake%1:18:00:: man%1:18:00:: men%1:14:00::
 snake%2:38:01:: snake%1:18:00:: melon melon%1:20:00::
-snake%2:38:01:: snake%1:18:00::
+snake%2:38:01:: snake%1:18:00:: monkey monkey
 snake%2:38:01:: snake%1:18:00:: mouse%2:35:00:: mouse%1:05:00::
 snake%2:38:01:: snake%1:18:00:: onion%1:20:00:: onion%1:20:00::
-snake%2:38:01:: snake%1:18:00:: pear%1:13:00::
-snake%2:38:01:: snake%1:18:00:: pig%1:05:00::
-snake%2:38:01:: snake%1:18:00:: pineapple%1:13:00::
+snake%2:38:01:: snake%1:18:00:: pear pear%1:13:00::
+snake%2:38:01:: snake%1:18:00:: pig pig%1:05:00::
+snake%2:38:01:: snake%1:18:00:: pineapple pineapple%1:13:00::
 snake%2:38:01:: snake%1:18:00:: rat%2:35:01:: rat%1:05:00::
 snake%1:18:00:: snake%1:18:00:: road%1:06:00:: road%1:06:00::
-woman%1:18:00:: woman%1:18:00:: banana%1:20:00::
+woman%1:18:00:: woman%1:18:00:: banana banana%1:20:00::
 woman%1:18:00:: woman%1:18:00:: bird%2:33:00:: bird%1:18:00::
 woman%1:18:00:: woman%1:18:00:: bottle%2:35:00:: bottle%1:06:00::
 woman%1:18:00:: woman%1:18:00:: build%2:30:10:: building%1:06:00::
 woman%1:18:00:: woman%1:18:00:: car%1:06:01:: car%1:06:01::
-woman%1:18:00:: woman%1:18:00:: cat%1:05:00::
-woman%1:18:00:: woman%1:18:00:: child%1:18:00::
+woman%1:18:00:: woman%1:18:00:: cat cat%1:05:00::
+woman%1:18:00:: woman%1:18:00:: child child%1:18:00::
 woman%1:18:00:: woman%1:18:00:: cloud%2:43:00:: cloud%1:17:00::
 woman%1:18:00:: woman%1:18:00:: color%1:07:00:: color%1:07:00::
 woman%1:18:00:: woman%1:18:00:: computer%1:06:00:: computer%1:06:00::
 woman%1:18:00:: woman%1:18:00:: cow%2:37:00:: cow%1:18:00::
 woman%1:18:00:: woman%1:18:00:: dog%2:38:00:: dog%1:18:01::
 woman%1:18:00:: woman%1:18:00:: dollar%1:21:01:: dollar%1:21:01::
-woman%1:18:00:: woman%1:18:00:: donkey%1:05:00::
+woman%1:18:00:: woman%1:18:00:: donkey donkey%1:05:00::
 woman%1:18:00:: woman%1:18:00:: dream%2:36:00:: dream%1:09:01::
-woman%1:18:00:: woman%1:18:00:: eagle%1:05:00::
-woman%1:18:00:: woman%1:18:00:: elephant%1:05:00::
+woman%1:18:00:: woman%1:18:00:: eagle eagle%1:05:00::
+woman%1:18:00:: woman%1:18:00:: elephant elephant%1:05:00::
 woman%1:18:00:: woman%1:18:00:: eye%1:08:00:: eye%1:08:00::
-woman%1:18:00:: woman%1:18:00:: finger%1:08:00::
-woman%1:18:00:: woman%1:18:00:: goat%1:05:00::
+woman%1:18:00:: woman%1:18:00:: finger finger%1:08:00::
+woman%1:18:00:: woman%1:18:00:: goat goat%1:05:00::
 woman%1:18:00:: woman%1:18:00:: hand%1:23:00:: hand%1:23:00::
 woman%1:18:00:: woman%1:18:00:: horse%1:05:00:: horse%1:05:00::
 woman%1:18:00:: woman%1:18:00:: lion%1:05:00:: lion%1:05:00::
 woman%1:18:00:: woman%1:18:00:: machine%1:06:00:: machine%1:06:00::
-woman%1:18:00:: woman%1:18:00::
+woman%1:18:00:: woman%1:18:00:: mango mango
 woman%1:18:00:: woman%1:18:00:: man%1:18:00:: men%1:14:00::
-woman%1:18:00:: woman%1:18:00:: melon%1:20:00::
-woman%1:18:00:: woman%1:18:00:: monkey%2:35:00::
+woman%1:18:00:: woman%1:18:00:: melon melon%1:20:00::
+woman%1:18:00:: woman%1:18:00:: monkey%2:35:00:: monkey
 woman%1:18:00:: woman%1:18:00:: mouse mouse%1:05:00::
 woman%1:18:00:: woman%1:18:00:: onion%1:20:00:: onion%1:20:00::
-woman%1:18:00:: woman%1:18:00:: pear%1:13:00::
-woman%1:18:00:: woman%1:18:00:: pig%1:05:00::
-woman%1:18:00:: woman%1:18:00:: pineapple%1:13:00::
+woman%1:18:00:: woman%1:18:00:: pear pear%1:13:00::
+woman%1:18:00:: woman%1:18:00:: pig pig%1:05:00::
+woman%1:18:00:: woman%1:18:00:: pineapple pineapple%1:13:00::
 woman%1:18:00:: woman%1:18:00:: rat%2:35:01:: rat%1:05:00::
 woman%1:18:00:: woman%1:18:00:: road%1:06:00:: road%1:06:00::
 woman%1:18:00:: woman%1:18:00:: snake%2:38:01:: snake%1:18:00::

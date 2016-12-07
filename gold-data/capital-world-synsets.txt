@@ -5,7 +5,7 @@ abuja%1:15:00:: nigeria%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-abuja%1:15:00:: nigeria%1:15:00:: turkmenistan%1:15:00::
+abuja%1:15:00:: nigeria%1:15:00:: Ashgabat turkmenistan%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -17,7 +17,7 @@ abuja%1:15:00:: nigeria%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: beijing%1:15:00:: china%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-abuja%1:15:00:: nigeria%1:15:00:: belize%1:15:00::
+abuja%1:15:00:: nigeria%1:15:00:: Belmopan belize%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 abuja%1:15:00:: nigeria%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -43,7 +43,7 @@ accra%1:15:00:: ghana%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-accra%1:15:00:: ghana%1:15:00:: turkmenistan%1:15:00::
+accra%1:15:00:: ghana%1:15:00:: Ashgabat turkmenistan%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -55,7 +55,7 @@ accra%1:15:00:: ghana%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: beijing%1:15:00:: china%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-accra%1:15:00:: ghana%1:15:00:: belize%1:15:00::
+accra%1:15:00:: ghana%1:15:00:: Belmopan belize%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 accra%1:15:00:: ghana%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -81,7 +81,7 @@ algiers%1:15:00:: algeria%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-algiers%1:15:00:: algeria%1:15:00:: turkmenistan%1:15:00::
+algiers%1:15:00:: algeria%1:15:00:: Ashgabat turkmenistan%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -93,7 +93,7 @@ algiers%1:15:00:: algeria%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: beijing%1:15:00:: china%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-algiers%1:15:00:: algeria%1:15:00:: belize%1:15:00::
+algiers%1:15:00:: algeria%1:15:00:: Belmopan belize%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 algiers%1:15:00:: algeria%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -119,7 +119,7 @@ algiers%1:15:00:: algeria%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-amman%1:15:00:: jordan%1:15:00:: turkmenistan%1:15:00::
+amman%1:15:00:: jordan%1:15:00:: Ashgabat turkmenistan%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -131,7 +131,7 @@ amman%1:15:00:: jordan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: beijing%1:15:00:: china%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-amman%1:15:00:: jordan%1:15:00:: belize%1:15:00::
+amman%1:15:00:: jordan%1:15:00:: Belmopan belize%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -157,7 +157,7 @@ amman%1:15:00:: jordan%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
 amman%1:15:00:: jordan%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-ankara%1:15:00:: turkey%1:15:00:: turkmenistan%1:15:00::
+ankara%1:15:00:: turkey%1:15:00:: Ashgabat turkmenistan%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -169,7 +169,7 @@ ankara%1:15:00:: turkey%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: beijing%1:15:00:: china%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-ankara%1:15:00:: turkey%1:15:00:: belize%1:15:00::
+ankara%1:15:00:: turkey%1:15:00:: Belmopan belize%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -195,7 +195,7 @@ ankara%1:15:00:: turkey%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
 ankara%1:15:00:: turkey%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-antananarivo%1:15:00:: madagascar%1:15:00:: turkmenistan%1:15:00::
+antananarivo%1:15:00:: madagascar%1:15:00:: Ashgabat turkmenistan%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -207,7 +207,7 @@ antananarivo%1:15:00:: madagascar%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: beijing%1:15:00:: china%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-antananarivo%1:15:00:: madagascar%1:15:00:: belize%1:15:00::
+antananarivo%1:15:00:: madagascar%1:15:00:: Belmopan belize%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -233,7 +233,7 @@ antananarivo%1:15:00:: madagascar%1:15:00:: gaborone%1:15:00:: botswana%1:15:00:
 antananarivo%1:15:00:: madagascar%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
 antananarivo%1:15:00:: madagascar%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
-apia%1:15:00:: samoa%1:15:01:: turkmenistan%1:15:00::
+apia%1:15:00:: samoa%1:15:01:: Ashgabat turkmenistan%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: asmara%1:15:00:: eritrea%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: astana%1:15:00:: kazakhstan%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: athens%1:15:00:: greece%1:15:00::
@@ -245,7 +245,7 @@ apia%1:15:00:: samoa%1:15:01:: banjul%1:15:00:: gambia%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: beijing%1:15:00:: china%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: beirut%1:15:00:: lebanon%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: belgrade%1:15:00:: serbia%1:15:00::
-apia%1:15:00:: samoa%1:15:01:: belize%1:15:00::
+apia%1:15:00:: samoa%1:15:01:: Belmopan belize%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: berlin%1:15:00:: germany%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: bern%1:15:00:: switzerland%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -272,45 +272,45 @@ apia%1:15:00:: samoa%1:15:01:: georgetown%1:15:00:: guyana%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: hanoi%1:15:00:: vietnam%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: harare%1:15:00:: zimbabwe%1:15:00::
 apia%1:15:00:: samoa%1:15:01:: havana%1:15:00:: cuba%1:15:01::
-turkmenistan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
-turkmenistan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
-turkmenistan%1:15:00:: athens%1:15:00:: greece%1:15:00::
-turkmenistan%1:15:00:: baghdad%1:15:00:: iraq%1:15:00::
-turkmenistan%1:15:00:: baku%1:15:00:: azerbaijan%1:15:00::
-turkmenistan%1:15:00:: bamako%1:15:00:: mali%1:15:00::
-turkmenistan%1:15:00:: bangkok%1:15:00:: thailand%1:15:00::
-turkmenistan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
-turkmenistan%1:15:00:: beijing%1:15:00:: china%1:15:00::
-turkmenistan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
-turkmenistan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-turkmenistan%1:15:00:: belize%1:15:00::
-turkmenistan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
-turkmenistan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
-turkmenistan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
-turkmenistan%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
-turkmenistan%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
-turkmenistan%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
-turkmenistan%1:15:00:: budapest%1:15:00:: hungary%1:15:00::
-turkmenistan%1:15:00:: bujumbura%1:15:00:: burundi%1:15:00::
-turkmenistan%1:15:00:: cairo%1:15:00:: egypt%1:15:00::
-turkmenistan%1:15:00:: canberra%1:15:00:: australia%1:15:00::
-turkmenistan%1:15:00:: caracas%1:15:00:: venezuela%1:15:00::
-turkmenistan%1:15:00:: chisinau%1:15:00:: moldova%1:15:00::
-turkmenistan%1:15:00:: conakry%1:15:00:: guinea%1:15:00::
-turkmenistan%1:15:00:: copenhagen%1:15:00:: denmark%1:15:00::
-turkmenistan%1:15:00:: dakar%1:15:00:: senegal%1:15:00::
-turkmenistan%1:15:00:: damascus%1:15:00:: syria%1:15:00::
-turkmenistan%1:15:00:: dhaka%1:15:00:: bangladesh%1:15:00::
-turkmenistan%1:15:00:: doha%1:15:00:: qatar%1:15:00::
-turkmenistan%1:15:00:: dublin%1:15:00:: ireland%1:15:01::
-turkmenistan%1:15:00:: dushanbe%1:15:00:: tajikistan%1:15:00::
-turkmenistan%1:15:00:: funafuti%1:15:00:: tuvalu%1:15:00::
-turkmenistan%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
-turkmenistan%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
-turkmenistan%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
-turkmenistan%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
-turkmenistan%1:15:00:: havana%1:15:00:: cuba%1:15:01::
-turkmenistan%1:15:00:: helsinki%1:15:00:: finland%1:15:00::
+Ashgabat turkmenistan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
+Ashgabat turkmenistan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
+Ashgabat turkmenistan%1:15:00:: athens%1:15:00:: greece%1:15:00::
+Ashgabat turkmenistan%1:15:00:: baghdad%1:15:00:: iraq%1:15:00::
+Ashgabat turkmenistan%1:15:00:: baku%1:15:00:: azerbaijan%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bamako%1:15:00:: mali%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bangkok%1:15:00:: thailand%1:15:00::
+Ashgabat turkmenistan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
+Ashgabat turkmenistan%1:15:00:: beijing%1:15:00:: china%1:15:00::
+Ashgabat turkmenistan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
+Ashgabat turkmenistan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
+Ashgabat turkmenistan%1:15:00:: Belmopan belize%1:15:00::
+Ashgabat turkmenistan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
+Ashgabat turkmenistan%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
+Ashgabat turkmenistan%1:15:00:: budapest%1:15:00:: hungary%1:15:00::
+Ashgabat turkmenistan%1:15:00:: bujumbura%1:15:00:: burundi%1:15:00::
+Ashgabat turkmenistan%1:15:00:: cairo%1:15:00:: egypt%1:15:00::
+Ashgabat turkmenistan%1:15:00:: canberra%1:15:00:: australia%1:15:00::
+Ashgabat turkmenistan%1:15:00:: caracas%1:15:00:: venezuela%1:15:00::
+Ashgabat turkmenistan%1:15:00:: chisinau%1:15:00:: moldova%1:15:00::
+Ashgabat turkmenistan%1:15:00:: conakry%1:15:00:: guinea%1:15:00::
+Ashgabat turkmenistan%1:15:00:: copenhagen%1:15:00:: denmark%1:15:00::
+Ashgabat turkmenistan%1:15:00:: dakar%1:15:00:: senegal%1:15:00::
+Ashgabat turkmenistan%1:15:00:: damascus%1:15:00:: syria%1:15:00::
+Ashgabat turkmenistan%1:15:00:: dhaka%1:15:00:: bangladesh%1:15:00::
+Ashgabat turkmenistan%1:15:00:: doha%1:15:00:: qatar%1:15:00::
+Ashgabat turkmenistan%1:15:00:: dublin%1:15:00:: ireland%1:15:01::
+Ashgabat turkmenistan%1:15:00:: dushanbe%1:15:00:: tajikistan%1:15:00::
+Ashgabat turkmenistan%1:15:00:: funafuti%1:15:00:: tuvalu%1:15:00::
+Ashgabat turkmenistan%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
+Ashgabat turkmenistan%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
+Ashgabat turkmenistan%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
+Ashgabat turkmenistan%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
+Ashgabat turkmenistan%1:15:00:: havana%1:15:00:: cuba%1:15:01::
+Ashgabat turkmenistan%1:15:00:: helsinki%1:15:00:: finland%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: athens%1:15:00:: greece%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: baghdad%1:15:00:: iraq%1:15:00::
@@ -321,7 +321,7 @@ asmara%1:15:00:: eritrea%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: beijing%1:15:00:: china%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-asmara%1:15:00:: eritrea%1:15:00:: belize%1:15:00::
+asmara%1:15:00:: eritrea%1:15:00:: Belmopan belize%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 asmara%1:15:00:: eritrea%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -359,7 +359,7 @@ astana%1:15:00:: kazakhstan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: beijing%1:15:00:: china%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-astana%1:15:00:: kazakhstan%1:15:00:: belize%1:15:00::
+astana%1:15:00:: kazakhstan%1:15:00:: Belmopan belize%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 astana%1:15:00:: kazakhstan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -397,7 +397,7 @@ athens%1:15:00:: greece%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 athens%1:15:00:: greece%1:15:00:: beijing%1:15:00:: china%1:15:00::
 athens%1:15:00:: greece%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 athens%1:15:00:: greece%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-athens%1:15:00:: greece%1:15:00:: belize%1:15:00::
+athens%1:15:00:: greece%1:15:00:: Belmopan belize%1:15:00::
 athens%1:15:00:: greece%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 athens%1:15:00:: greece%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 athens%1:15:00:: greece%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -435,7 +435,7 @@ baghdad%1:15:00:: iraq%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: beijing%1:15:00:: china%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-baghdad%1:15:00:: iraq%1:15:00:: belize%1:15:00::
+baghdad%1:15:00:: iraq%1:15:00:: Belmopan belize%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 baghdad%1:15:00:: iraq%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -473,7 +473,7 @@ baku%1:15:00:: azerbaijan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: beijing%1:15:00:: china%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-baku%1:15:00:: azerbaijan%1:15:00:: belize%1:15:00::
+baku%1:15:00:: azerbaijan%1:15:00:: Belmopan belize%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 baku%1:15:00:: azerbaijan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -511,7 +511,7 @@ bamako%1:15:00:: mali%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: beijing%1:15:00:: china%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-bamako%1:15:00:: mali%1:15:00:: belize%1:15:00::
+bamako%1:15:00:: mali%1:15:00:: Belmopan belize%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 bamako%1:15:00:: mali%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -549,7 +549,7 @@ bangkok%1:15:00:: thailand%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: beijing%1:15:00:: china%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-bangkok%1:15:00:: thailand%1:15:00:: belize%1:15:00::
+bangkok%1:15:00:: thailand%1:15:00:: Belmopan belize%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 bangkok%1:15:00:: thailand%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -587,7 +587,7 @@ bangkok%1:15:00:: thailand%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-banjul%1:15:00:: gambia%1:15:00:: belize%1:15:00::
+banjul%1:15:00:: gambia%1:15:00:: Belmopan belize%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -625,7 +625,7 @@ banjul%1:15:00:: gambia%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
 banjul%1:15:00:: gambia%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
 beijing%1:15:00:: china%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 beijing%1:15:00:: china%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-beijing%1:15:00:: china%1:15:00:: belize%1:15:00::
+beijing%1:15:00:: china%1:15:00:: Belmopan belize%1:15:00::
 beijing%1:15:00:: china%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 beijing%1:15:00:: china%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 beijing%1:15:00:: china%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -663,7 +663,7 @@ beijing%1:15:00:: china%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
 beijing%1:15:00:: china%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
 beijing%1:15:00:: china%1:15:00:: kingston%1:15:00:: jamaica%1:15:01::
 beirut%1:15:00:: lebanon%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-beirut%1:15:00:: lebanon%1:15:00:: belize%1:15:00::
+beirut%1:15:00:: lebanon%1:15:00:: Belmopan belize%1:15:00::
 beirut%1:15:00:: lebanon%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 beirut%1:15:00:: lebanon%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 beirut%1:15:00:: lebanon%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -701,7 +701,7 @@ beirut%1:15:00:: lebanon%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
 beirut%1:15:00:: lebanon%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
 beirut%1:15:00:: lebanon%1:15:00:: kingston%1:15:00:: jamaica%1:15:01::
 beirut%1:15:00:: lebanon%1:15:00:: libreville%1:15:00:: gabon%1:15:00::
-belgrade%1:15:00:: serbia%1:15:00:: belize%1:15:00::
+belgrade%1:15:00:: serbia%1:15:00:: Belmopan belize%1:15:00::
 belgrade%1:15:00:: serbia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 belgrade%1:15:00:: serbia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 belgrade%1:15:00:: serbia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -740,45 +740,45 @@ belgrade%1:15:00:: serbia%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
 belgrade%1:15:00:: serbia%1:15:00:: kingston%1:15:00:: jamaica%1:15:01::
 belgrade%1:15:00:: serbia%1:15:00:: libreville%1:15:00:: gabon%1:15:00::
 belgrade%1:15:00:: serbia%1:15:00:: lilongwe%1:15:00:: malawi%1:15:00::
-belize%1:15:00:: berlin%1:15:00:: germany%1:15:00::
-belize%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
-belize%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
-belize%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
-belize%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
-belize%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
-belize%1:15:00:: budapest%1:15:00:: hungary%1:15:00::
-belize%1:15:00:: bujumbura%1:15:00:: burundi%1:15:00::
-belize%1:15:00:: cairo%1:15:00:: egypt%1:15:00::
-belize%1:15:00:: canberra%1:15:00:: australia%1:15:00::
-belize%1:15:00:: caracas%1:15:00:: venezuela%1:15:00::
-belize%1:15:00:: chisinau%1:15:00:: moldova%1:15:00::
-belize%1:15:00:: conakry%1:15:00:: guinea%1:15:00::
-belize%1:15:00:: copenhagen%1:15:00:: denmark%1:15:00::
-belize%1:15:00:: dakar%1:15:00:: senegal%1:15:00::
-belize%1:15:00:: damascus%1:15:00:: syria%1:15:00::
-belize%1:15:00:: dhaka%1:15:00:: bangladesh%1:15:00::
-belize%1:15:00:: doha%1:15:00:: qatar%1:15:00::
-belize%1:15:00:: dublin%1:15:00:: ireland%1:15:01::
-belize%1:15:00:: dushanbe%1:15:00:: tajikistan%1:15:00::
-belize%1:15:00:: funafuti%1:15:00:: tuvalu%1:15:00::
-belize%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
-belize%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
-belize%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
-belize%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
-belize%1:15:00:: havana%1:15:00:: cuba%1:15:01::
-belize%1:15:00:: helsinki%1:15:00:: finland%1:15:00::
-belize%1:15:00:: islamabad%1:15:00:: pakistan%1:15:00::
-belize%1:15:00:: jakarta%1:15:00:: indonesia%1:15:00::
-belize%1:15:00:: kabul%1:15:00:: afghanistan%1:15:00::
-belize%1:15:00:: kampala%1:15:00:: uganda%1:15:00::
-belize%1:15:00:: kathmandu%1:15:00:: nepal%1:15:00::
-belize%1:15:00:: khartoum%1:15:00:: sudan%1:15:00::
-belize%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
-belize%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
-belize%1:15:00:: kingston%1:15:00:: jamaica%1:15:01::
-belize%1:15:00:: libreville%1:15:00:: gabon%1:15:00::
-belize%1:15:00:: lilongwe%1:15:00:: malawi%1:15:00::
-belize%1:15:00:: lima%1:15:00:: peru%1:15:00::
+Belmopan belize%1:15:00:: berlin%1:15:00:: germany%1:15:00::
+Belmopan belize%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
+Belmopan belize%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
+Belmopan belize%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
+Belmopan belize%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
+Belmopan belize%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
+Belmopan belize%1:15:00:: budapest%1:15:00:: hungary%1:15:00::
+Belmopan belize%1:15:00:: bujumbura%1:15:00:: burundi%1:15:00::
+Belmopan belize%1:15:00:: cairo%1:15:00:: egypt%1:15:00::
+Belmopan belize%1:15:00:: canberra%1:15:00:: australia%1:15:00::
+Belmopan belize%1:15:00:: caracas%1:15:00:: venezuela%1:15:00::
+Belmopan belize%1:15:00:: chisinau%1:15:00:: moldova%1:15:00::
+Belmopan belize%1:15:00:: conakry%1:15:00:: guinea%1:15:00::
+Belmopan belize%1:15:00:: copenhagen%1:15:00:: denmark%1:15:00::
+Belmopan belize%1:15:00:: dakar%1:15:00:: senegal%1:15:00::
+Belmopan belize%1:15:00:: damascus%1:15:00:: syria%1:15:00::
+Belmopan belize%1:15:00:: dhaka%1:15:00:: bangladesh%1:15:00::
+Belmopan belize%1:15:00:: doha%1:15:00:: qatar%1:15:00::
+Belmopan belize%1:15:00:: dublin%1:15:00:: ireland%1:15:01::
+Belmopan belize%1:15:00:: dushanbe%1:15:00:: tajikistan%1:15:00::
+Belmopan belize%1:15:00:: funafuti%1:15:00:: tuvalu%1:15:00::
+Belmopan belize%1:15:00:: gaborone%1:15:00:: botswana%1:15:00::
+Belmopan belize%1:15:00:: georgetown%1:15:00:: guyana%1:15:00::
+Belmopan belize%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
+Belmopan belize%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
+Belmopan belize%1:15:00:: havana%1:15:00:: cuba%1:15:01::
+Belmopan belize%1:15:00:: helsinki%1:15:00:: finland%1:15:00::
+Belmopan belize%1:15:00:: islamabad%1:15:00:: pakistan%1:15:00::
+Belmopan belize%1:15:00:: jakarta%1:15:00:: indonesia%1:15:00::
+Belmopan belize%1:15:00:: kabul%1:15:00:: afghanistan%1:15:00::
+Belmopan belize%1:15:00:: kampala%1:15:00:: uganda%1:15:00::
+Belmopan belize%1:15:00:: kathmandu%1:15:00:: nepal%1:15:00::
+Belmopan belize%1:15:00:: khartoum%1:15:00:: sudan%1:15:00::
+Belmopan belize%1:15:00:: kiev%1:15:00:: ukraine%1:15:00::
+Belmopan belize%1:15:00:: kigali%1:15:00:: rwanda%1:15:00::
+Belmopan belize%1:15:00:: kingston%1:15:00:: jamaica%1:15:01::
+Belmopan belize%1:15:00:: libreville%1:15:00:: gabon%1:15:00::
+Belmopan belize%1:15:00:: lilongwe%1:15:00:: malawi%1:15:00::
+Belmopan belize%1:15:00:: lima%1:15:00:: peru%1:15:00::
 berlin%1:15:00:: germany%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 berlin%1:15:00:: germany%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
 berlin%1:15:00:: germany%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
@@ -1636,7 +1636,7 @@ gaborone%1:15:00:: botswana%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 gaborone%1:15:00:: botswana%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 gaborone%1:15:00:: botswana%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 gaborone%1:15:00:: botswana%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-gaborone%1:15:00:: botswana%1:15:00:: greenland%1:15:00::
+gaborone%1:15:00:: botswana%1:15:00:: Nuuk greenland%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: hanoi%1:15:00:: vietnam%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: havana%1:15:00:: cuba%1:15:01::
@@ -1674,7 +1674,7 @@ georgetown%1:15:00:: guyana%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-georgetown%1:15:00:: guyana%1:15:00:: greenland%1:15:00::
+georgetown%1:15:00:: guyana%1:15:00:: Nuuk greenland%1:15:00::
 georgetown%1:15:00:: guyana%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: harare%1:15:00:: zimbabwe%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: havana%1:15:00:: cuba%1:15:01::
@@ -1712,7 +1712,7 @@ hanoi%1:15:00:: vietnam%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-hanoi%1:15:00:: vietnam%1:15:00:: greenland%1:15:00::
+hanoi%1:15:00:: vietnam%1:15:00:: Nuuk greenland%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 hanoi%1:15:00:: vietnam%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: havana%1:15:00:: cuba%1:15:01::
@@ -1750,7 +1750,7 @@ harare%1:15:00:: zimbabwe%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-harare%1:15:00:: zimbabwe%1:15:00:: greenland%1:15:00::
+harare%1:15:00:: zimbabwe%1:15:00:: Nuuk greenland%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 harare%1:15:00:: zimbabwe%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
@@ -1788,7 +1788,7 @@ havana%1:15:00:: cuba%1:15:01:: nassau%1:15:00:: bahamas%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: niamey%1:15:00:: niger%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: nicosia%1:15:00:: cyprus%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: nouakchott%1:15:00:: mauritania%1:15:00::
-havana%1:15:00:: cuba%1:15:01:: greenland%1:15:00::
+havana%1:15:00:: cuba%1:15:01:: Nuuk greenland%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: oslo%1:15:00:: norway%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: ottawa%1:15:00:: canada%1:15:00::
 havana%1:15:00:: cuba%1:15:01:: paramaribo%1:15:00:: suriname%1:15:00::
@@ -1826,12 +1826,12 @@ helsinki%1:15:00:: finland%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-helsinki%1:15:00:: finland%1:15:00:: greenland%1:15:00::
+helsinki%1:15:00:: finland%1:15:00:: Nuuk greenland%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 helsinki%1:15:00:: finland%1:15:00:: paris%1:15:00:: france%1:15:00::
-helsinki%1:15:00:: finland%1:15:00:: montenegro%1:15:00::
+helsinki%1:15:00:: finland%1:15:00:: Podgorica montenegro%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: jakarta%1:15:00:: indonesia%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: kabul%1:15:00:: afghanistan%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: kampala%1:15:00:: uganda%1:15:00::
@@ -1864,12 +1864,12 @@ islamabad%1:15:00:: pakistan%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-islamabad%1:15:00:: pakistan%1:15:00:: greenland%1:15:00::
+islamabad%1:15:00:: pakistan%1:15:00:: Nuuk greenland%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: paris%1:15:00:: france%1:15:00::
-islamabad%1:15:00:: pakistan%1:15:00:: montenegro%1:15:00::
+islamabad%1:15:00:: pakistan%1:15:00:: Podgorica montenegro%1:15:00::
 islamabad%1:15:00:: pakistan%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: kabul%1:15:00:: afghanistan%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: kampala%1:15:00:: uganda%1:15:00::
@@ -1902,12 +1902,12 @@ jakarta%1:15:00:: indonesia%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-jakarta%1:15:00:: indonesia%1:15:00:: greenland%1:15:00::
+jakarta%1:15:00:: indonesia%1:15:00:: Nuuk greenland%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: paris%1:15:00:: france%1:15:00::
-jakarta%1:15:00:: indonesia%1:15:00:: montenegro%1:15:00::
+jakarta%1:15:00:: indonesia%1:15:00:: Podgorica montenegro%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 jakarta%1:15:00:: indonesia%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: kampala%1:15:00:: uganda%1:15:00::
@@ -1940,12 +1940,12 @@ kabul%1:15:00:: afghanistan%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-kabul%1:15:00:: afghanistan%1:15:00:: greenland%1:15:00::
+kabul%1:15:00:: afghanistan%1:15:00:: Nuuk greenland%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: paris%1:15:00:: france%1:15:00::
-kabul%1:15:00:: afghanistan%1:15:00:: montenegro%1:15:00::
+kabul%1:15:00:: afghanistan%1:15:00:: Podgorica montenegro%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kabul%1:15:00:: afghanistan%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -1978,12 +1978,12 @@ kampala%1:15:00:: uganda%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-kampala%1:15:00:: uganda%1:15:00:: greenland%1:15:00::
+kampala%1:15:00:: uganda%1:15:00:: Nuuk greenland%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: paris%1:15:00:: france%1:15:00::
-kampala%1:15:00:: uganda%1:15:00:: montenegro%1:15:00::
+kampala%1:15:00:: uganda%1:15:00:: Podgorica montenegro%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kampala%1:15:00:: uganda%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2016,12 +2016,12 @@ kathmandu%1:15:00:: nepal%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-kathmandu%1:15:00:: nepal%1:15:00:: greenland%1:15:00::
+kathmandu%1:15:00:: nepal%1:15:00:: Nuuk greenland%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: paris%1:15:00:: france%1:15:00::
-kathmandu%1:15:00:: nepal%1:15:00:: montenegro%1:15:00::
+kathmandu%1:15:00:: nepal%1:15:00:: Podgorica montenegro%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kathmandu%1:15:00:: nepal%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2054,12 +2054,12 @@ khartoum%1:15:00:: sudan%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-khartoum%1:15:00:: sudan%1:15:00:: greenland%1:15:00::
+khartoum%1:15:00:: sudan%1:15:00:: Nuuk greenland%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: paris%1:15:00:: france%1:15:00::
-khartoum%1:15:00:: sudan%1:15:00:: montenegro%1:15:00::
+khartoum%1:15:00:: sudan%1:15:00:: Podgorica montenegro%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 khartoum%1:15:00:: sudan%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2092,12 +2092,12 @@ kiev%1:15:00:: ukraine%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-kiev%1:15:00:: ukraine%1:15:00:: greenland%1:15:00::
+kiev%1:15:00:: ukraine%1:15:00:: Nuuk greenland%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: paris%1:15:00:: france%1:15:00::
-kiev%1:15:00:: ukraine%1:15:00:: montenegro%1:15:00::
+kiev%1:15:00:: ukraine%1:15:00:: Podgorica montenegro%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kiev%1:15:00:: ukraine%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2130,12 +2130,12 @@ kigali%1:15:00:: rwanda%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-kigali%1:15:00:: rwanda%1:15:00:: greenland%1:15:00::
+kigali%1:15:00:: rwanda%1:15:00:: Nuuk greenland%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: paris%1:15:00:: france%1:15:00::
-kigali%1:15:00:: rwanda%1:15:00:: montenegro%1:15:00::
+kigali%1:15:00:: rwanda%1:15:00:: Podgorica montenegro%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 kigali%1:15:00:: rwanda%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2168,12 +2168,12 @@ kingston%1:15:00:: jamaica%1:15:01:: nassau%1:15:00:: bahamas%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: niamey%1:15:00:: niger%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: nicosia%1:15:00:: cyprus%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: nouakchott%1:15:00:: mauritania%1:15:00::
-kingston%1:15:00:: jamaica%1:15:01:: greenland%1:15:00::
+kingston%1:15:00:: jamaica%1:15:01:: Nuuk greenland%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: oslo%1:15:00:: norway%1:15:00::
 kingston%1:15:02:: jamaica%1:15:01:: ottawa%1:15:00:: canada%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: paramaribo%1:15:00:: suriname%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: paris%1:15:00:: france%1:15:00::
-kingston%1:15:00:: jamaica%1:15:01:: montenegro%1:15:00::
+kingston%1:15:00:: jamaica%1:15:01:: Podgorica montenegro%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: quito%1:15:00:: ecuador%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: rabat%1:15:00:: morocco%1:15:00::
 kingston%1:15:00:: jamaica%1:15:01:: riga%1:15:00:: latvia%1:15:00::
@@ -2206,12 +2206,12 @@ libreville%1:15:00:: gabon%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-libreville%1:15:00:: gabon%1:15:00:: greenland%1:15:00::
+libreville%1:15:00:: gabon%1:15:00:: Nuuk greenland%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: paris%1:15:00:: france%1:15:00::
-libreville%1:15:00:: gabon%1:15:00:: montenegro%1:15:00::
+libreville%1:15:00:: gabon%1:15:00:: Podgorica montenegro%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 libreville%1:15:00:: gabon%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2244,12 +2244,12 @@ lilongwe%1:15:00:: malawi%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-lilongwe%1:15:00:: malawi%1:15:00:: greenland%1:15:00::
+lilongwe%1:15:00:: malawi%1:15:00:: Nuuk greenland%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: paris%1:15:00:: france%1:15:00::
-lilongwe%1:15:00:: malawi%1:15:00:: montenegro%1:15:00::
+lilongwe%1:15:00:: malawi%1:15:00:: Podgorica montenegro%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 lilongwe%1:15:00:: malawi%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2282,12 +2282,12 @@ lima%1:15:00:: peru%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 lima%1:15:00:: peru%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 lima%1:15:00:: peru%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 lima%1:15:00:: peru%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-lima%1:15:00:: peru%1:15:00:: greenland%1:15:00::
+lima%1:15:00:: peru%1:15:00:: Nuuk greenland%1:15:00::
 lima%1:15:00:: peru%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 lima%1:15:00:: peru%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 lima%1:15:00:: peru%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 lima%1:15:00:: peru%1:15:00:: paris%1:15:00:: france%1:15:00::
-lima%1:15:00:: peru%1:15:00:: montenegro%1:15:00::
+lima%1:15:00:: peru%1:15:00:: Podgorica montenegro%1:15:00::
 lima%1:15:00:: peru%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 lima%1:15:00:: peru%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 lima%1:15:00:: peru%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2320,12 +2320,12 @@ lisbon%1:15:00:: portugal%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-lisbon%1:15:00:: portugal%1:15:00:: greenland%1:15:00::
+lisbon%1:15:00:: portugal%1:15:00:: Nuuk greenland%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: paris%1:15:00:: france%1:15:00::
-lisbon%1:15:00:: portugal%1:15:00:: montenegro%1:15:00::
+lisbon%1:15:00:: portugal%1:15:00:: Podgorica montenegro%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 lisbon%1:15:00:: portugal%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2358,12 +2358,12 @@ ljubljana%1:15:00:: slovenia%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-ljubljana%1:15:00:: slovenia%1:15:00:: greenland%1:15:00::
+ljubljana%1:15:00:: slovenia%1:15:00:: Nuuk greenland%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: paris%1:15:00:: france%1:15:00::
-ljubljana%1:15:00:: slovenia%1:15:00:: montenegro%1:15:00::
+ljubljana%1:15:00:: slovenia%1:15:00:: Podgorica montenegro%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 ljubljana%1:15:00:: slovenia%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2396,12 +2396,12 @@ london%1:15:00:: england%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 london%1:15:00:: england%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 london%1:15:00:: england%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 london%1:15:00:: england%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-london%1:15:00:: england%1:15:00:: greenland%1:15:00::
+london%1:15:00:: england%1:15:00:: Nuuk greenland%1:15:00::
 london%1:15:00:: england%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 london%1:15:00:: england%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 london%1:15:00:: england%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 london%1:15:00:: england%1:15:00:: paris%1:15:00:: france%1:15:00::
-london%1:15:00:: england%1:15:00:: montenegro%1:15:00::
+london%1:15:00:: england%1:15:00:: Podgorica montenegro%1:15:00::
 london%1:15:00:: england%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 london%1:15:00:: england%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 london%1:15:00:: england%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2434,12 +2434,12 @@ luanda%1:15:00:: angola%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-luanda%1:15:00:: angola%1:15:00:: greenland%1:15:00::
+luanda%1:15:00:: angola%1:15:00:: Nuuk greenland%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: paris%1:15:00:: france%1:15:00::
-luanda%1:15:00:: angola%1:15:00:: montenegro%1:15:00::
+luanda%1:15:00:: angola%1:15:00:: Podgorica montenegro%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 luanda%1:15:00:: angola%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2472,12 +2472,12 @@ lusaka%1:15:00:: zambia%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-lusaka%1:15:00:: zambia%1:15:00:: greenland%1:15:00::
+lusaka%1:15:00:: zambia%1:15:00:: Nuuk greenland%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: paris%1:15:00:: france%1:15:00::
-lusaka%1:15:00:: zambia%1:15:00:: montenegro%1:15:00::
+lusaka%1:15:00:: zambia%1:15:00:: Podgorica montenegro%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2494,7 +2494,7 @@ lusaka%1:15:00:: zambia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 lusaka%1:15:00:: zambia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 lusaka%1:15:00:: zambia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-lusaka%1:15:00:: zambia%1:15:00:: bhutan%1:15:00::
+lusaka%1:15:00:: zambia%1:15:00:: Thimphu bhutan%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: managua%1:15:00:: nicaragua%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: manama%1:15:00:: bahrain%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: manila%1:27:00:: philippines%1:15:01::
@@ -2510,12 +2510,12 @@ madrid%1:15:00:: spain%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-madrid%1:15:00:: spain%1:15:00:: greenland%1:15:00::
+madrid%1:15:00:: spain%1:15:00:: Nuuk greenland%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: paris%1:15:00:: france%1:15:00::
-madrid%1:15:00:: spain%1:15:00:: montenegro%1:15:00::
+madrid%1:15:00:: spain%1:15:00:: Podgorica montenegro%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2532,7 +2532,7 @@ madrid%1:15:00:: spain%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 madrid%1:15:00:: spain%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-madrid%1:15:00:: spain%1:15:00:: bhutan%1:15:00::
+madrid%1:15:00:: spain%1:15:00:: Thimphu bhutan%1:15:00::
 madrid%1:15:00:: spain%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: manama%1:15:00:: bahrain%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: manila%1:27:00:: philippines%1:15:01::
@@ -2548,12 +2548,12 @@ managua%1:15:00:: nicaragua%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-managua%1:15:00:: nicaragua%1:15:00:: greenland%1:15:00::
+managua%1:15:00:: nicaragua%1:15:00:: Nuuk greenland%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: paris%1:15:00:: france%1:15:00::
-managua%1:15:00:: nicaragua%1:15:00:: montenegro%1:15:00::
+managua%1:15:00:: nicaragua%1:15:00:: Podgorica montenegro%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2570,7 +2570,7 @@ managua%1:15:00:: nicaragua%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 managua%1:15:00:: nicaragua%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-managua%1:15:00:: nicaragua%1:15:00:: bhutan%1:15:00::
+managua%1:15:00:: nicaragua%1:15:00:: Thimphu bhutan%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 managua%1:15:00:: nicaragua%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 manama%1:15:00:: bahrain%1:15:00:: manila%1:27:00:: philippines%1:15:01::
@@ -2586,12 +2586,12 @@ manama%1:15:00:: bahrain%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-manama%1:15:00:: bahrain%1:15:00:: greenland%1:15:00::
+manama%1:15:00:: bahrain%1:15:00:: Nuuk greenland%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: paris%1:15:00:: france%1:15:00::
-manama%1:15:00:: bahrain%1:15:00:: montenegro%1:15:00::
+manama%1:15:00:: bahrain%1:15:00:: Podgorica montenegro%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2608,7 +2608,7 @@ manama%1:15:00:: bahrain%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 manama%1:15:00:: bahrain%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 manama%1:15:00:: bahrain%1:15:01:: tehran%1:15:00:: iran%1:15:00::
-manama%1:15:00:: bahrain%1:15:00:: bhutan%1:15:00::
+manama%1:15:00:: bahrain%1:15:00:: Thimphu bhutan%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 manama%1:15:00:: bahrain%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 manama%1:15:00:: bahrain%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2624,12 +2624,12 @@ manila%1:27:00:: philippines%1:15:01:: nassau%1:15:00:: bahamas%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: niamey%1:15:00:: niger%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: nicosia%1:15:00:: cyprus%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: nouakchott%1:15:00:: mauritania%1:15:00::
-manila%1:27:00:: philippines%1:15:01:: greenland%1:15:00::
+manila%1:27:00:: philippines%1:15:01:: Nuuk greenland%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: oslo%1:15:00:: norway%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: ottawa%1:15:00:: canada%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: paramaribo%1:15:00:: suriname%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: paris%1:15:00:: france%1:15:00::
-manila%1:27:00:: philippines%1:15:01:: montenegro%1:15:00::
+manila%1:27:00:: philippines%1:15:01:: Podgorica montenegro%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: quito%1:15:00:: ecuador%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: rabat%1:15:00:: morocco%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: riga%1:15:00:: latvia%1:15:00::
@@ -2646,7 +2646,7 @@ manila%1:27:00:: philippines%1:15:01:: tashkent%1:15:00:: uzbekistan%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: tbilisi%1:15:00:: georgia%1:15:01::
 manila%1:27:00:: philippines%1:15:01:: tegucigalpa%1:15:00:: honduras%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: tehran%1:15:00:: iran%1:15:00::
-manila%1:27:00:: philippines%1:15:01:: bhutan%1:15:00::
+manila%1:27:00:: philippines%1:15:01:: Thimphu bhutan%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: tirana%1:15:00:: albania%1:15:00::
 manila%1:27:00:: philippines%1:15:01:: tokyo%1:15:00:: japan%1:06:00::
 manila%1:27:00:: philippines%1:15:01:: tripoli%1:15:01:: libya%1:15:00::
@@ -2662,12 +2662,12 @@ maputo%1:15:00:: mozambique%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-maputo%1:15:00:: mozambique%1:15:00:: greenland%1:15:00::
+maputo%1:15:00:: mozambique%1:15:00:: Nuuk greenland%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: paris%1:15:00:: france%1:15:00::
-maputo%1:15:00:: mozambique%1:15:00:: montenegro%1:15:00::
+maputo%1:15:00:: mozambique%1:15:00:: Podgorica montenegro%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2684,7 +2684,7 @@ maputo%1:15:00:: mozambique%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 maputo%1:15:00:: mozambique%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-maputo%1:15:00:: mozambique%1:15:00:: bhutan%1:15:00::
+maputo%1:15:00:: mozambique%1:15:00:: Thimphu bhutan%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 maputo%1:15:00:: mozambique%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 maputo%1:15:00:: mozambique%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2700,12 +2700,12 @@ minsk%1:15:00:: belarus%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-minsk%1:15:00:: belarus%1:15:00:: greenland%1:15:00::
+minsk%1:15:00:: belarus%1:15:00:: Nuuk greenland%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: paris%1:15:00:: france%1:15:00::
-minsk%1:15:00:: belarus%1:15:00:: montenegro%1:15:00::
+minsk%1:15:00:: belarus%1:15:00:: Podgorica montenegro%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2722,7 +2722,7 @@ minsk%1:15:00:: belarus%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 minsk%1:15:00:: belarus%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-minsk%1:15:00:: belarus%1:15:00:: bhutan%1:15:00::
+minsk%1:15:00:: belarus%1:15:00:: Thimphu bhutan%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 minsk%1:15:00:: belarus%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 minsk%1:15:00:: belarus%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2738,12 +2738,12 @@ mogadishu%1:15:00:: somalia%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-mogadishu%1:15:00:: somalia%1:15:00:: greenland%1:15:00::
+mogadishu%1:15:00:: somalia%1:15:00:: Nuuk greenland%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: paris%1:15:00:: france%1:15:00::
-mogadishu%1:15:00:: somalia%1:15:00:: montenegro%1:15:00::
+mogadishu%1:15:00:: somalia%1:15:00:: Podgorica montenegro%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2760,7 +2760,7 @@ mogadishu%1:15:00:: somalia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 mogadishu%1:15:00:: somalia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-mogadishu%1:15:00:: somalia%1:15:00:: bhutan%1:15:00::
+mogadishu%1:15:00:: somalia%1:15:00:: Thimphu bhutan%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 mogadishu%1:15:00:: somalia%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 mogadishu%1:15:00:: somalia%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2776,12 +2776,12 @@ monrovia%1:15:00:: liberia%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-monrovia%1:15:00:: liberia%1:15:00:: greenland%1:15:00::
+monrovia%1:15:00:: liberia%1:15:00:: Nuuk greenland%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: paris%1:15:00:: france%1:15:00::
-monrovia%1:15:00:: liberia%1:15:00:: montenegro%1:15:00::
+monrovia%1:15:00:: liberia%1:15:00:: Podgorica montenegro%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2798,7 +2798,7 @@ monrovia%1:15:00:: liberia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 monrovia%1:15:00:: liberia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-monrovia%1:15:00:: liberia%1:15:00:: bhutan%1:15:00::
+monrovia%1:15:00:: liberia%1:15:00:: Thimphu bhutan%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 monrovia%1:15:00:: liberia%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 monrovia%1:15:00:: liberia%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2814,12 +2814,12 @@ montevideo%1:15:00:: uruguay%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-montevideo%1:15:00:: uruguay%1:15:00:: greenland%1:15:00::
+montevideo%1:15:00:: uruguay%1:15:00:: Nuuk greenland%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: paris%1:15:00:: france%1:15:00::
-montevideo%1:15:00:: uruguay%1:15:00:: montenegro%1:15:00::
+montevideo%1:15:00:: uruguay%1:15:00:: Podgorica montenegro%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2836,7 +2836,7 @@ montevideo%1:15:00:: uruguay%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 montevideo%1:15:00:: uruguay%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-montevideo%1:15:00:: uruguay%1:15:00:: bhutan%1:15:00::
+montevideo%1:15:00:: uruguay%1:15:00:: Thimphu bhutan%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 montevideo%1:15:00:: uruguay%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 montevideo%1:15:00:: uruguay%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2852,12 +2852,12 @@ moscow%1:15:00:: russia%1:15:02:: nassau%1:15:00:: bahamas%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: niamey%1:15:00:: niger%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: nicosia%1:15:00:: cyprus%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: nouakchott%1:15:00:: mauritania%1:15:00::
-moscow%1:15:00:: russia%1:15:02:: greenland%1:15:00::
+moscow%1:15:00:: russia%1:15:02:: Nuuk greenland%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: oslo%1:15:00:: norway%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: ottawa%1:15:00:: canada%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: paramaribo%1:15:00:: suriname%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: paris%1:15:00:: france%1:15:00::
-moscow%1:15:00:: russia%1:15:02:: montenegro%1:15:00::
+moscow%1:15:00:: russia%1:15:02:: Podgorica montenegro%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: quito%1:15:00:: ecuador%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: rabat%1:15:00:: morocco%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: riga%1:15:00:: latvia%1:15:00::
@@ -2874,7 +2874,7 @@ moscow%1:15:00:: russia%1:15:02:: tashkent%1:15:00:: uzbekistan%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: tbilisi%1:15:00:: georgia%1:15:01::
 moscow%1:15:00:: russia%1:15:02:: tegucigalpa%1:15:00:: honduras%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: tehran%1:15:00:: iran%1:15:00::
-moscow%1:15:00:: russia%1:15:02:: bhutan%1:15:00::
+moscow%1:15:00:: russia%1:15:02:: Thimphu bhutan%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: tirana%1:15:00:: albania%1:15:00::
 moscow%1:15:00:: russia%1:15:02:: tokyo%1:15:00:: japan%1:06:00::
 moscow%1:15:00:: russia%1:15:02:: tripoli%1:15:01:: libya%1:15:00::
@@ -2890,12 +2890,12 @@ muscat%1:15:00:: oman%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-muscat%1:15:00:: oman%1:15:00:: greenland%1:15:00::
+muscat%1:15:00:: oman%1:15:00:: Nuuk greenland%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: paris%1:15:00:: france%1:15:00::
-muscat%1:15:00:: oman%1:15:00:: montenegro%1:15:00::
+muscat%1:15:00:: oman%1:15:00:: Podgorica montenegro%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2912,7 +2912,7 @@ muscat%1:15:00:: oman%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 muscat%1:15:00:: oman%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-muscat%1:15:00:: oman%1:15:00:: bhutan%1:15:00::
+muscat%1:15:00:: oman%1:15:00:: Thimphu bhutan%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 muscat%1:15:00:: oman%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 muscat%1:15:00:: oman%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2928,12 +2928,12 @@ nairobi%1:15:00:: kenya%1:15:00:: nassau%1:15:00:: bahamas%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-nairobi%1:15:00:: kenya%1:15:00:: greenland%1:15:00::
+nairobi%1:15:00:: kenya%1:15:00:: Nuuk greenland%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: paris%1:15:00:: france%1:15:00::
-nairobi%1:15:00:: kenya%1:15:00:: montenegro%1:15:00::
+nairobi%1:15:00:: kenya%1:15:00:: Podgorica montenegro%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2950,7 +2950,7 @@ nairobi%1:15:00:: kenya%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 nairobi%1:15:00:: kenya%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-nairobi%1:15:00:: kenya%1:15:00:: bhutan%1:15:00::
+nairobi%1:15:00:: kenya%1:15:00:: Thimphu bhutan%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 nairobi%1:15:00:: kenya%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 nairobi%1:15:00:: kenya%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -2966,12 +2966,12 @@ nairobi%1:15:00:: kenya%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: niamey%1:15:00:: niger%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-nassau%1:15:00:: bahamas%1:15:00:: greenland%1:15:00::
+nassau%1:15:00:: bahamas%1:15:00:: Nuuk greenland%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: paris%1:15:00:: france%1:15:00::
-nassau%1:15:00:: bahamas%1:15:00:: montenegro%1:15:00::
+nassau%1:15:00:: bahamas%1:15:00:: Podgorica montenegro%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -2988,7 +2988,7 @@ nassau%1:15:00:: bahamas%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 nassau%1:15:00:: bahamas%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-nassau%1:15:00:: bahamas%1:15:00:: bhutan%1:15:00::
+nassau%1:15:00:: bahamas%1:15:00:: Thimphu bhutan%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 nassau%1:15:00:: bahamas%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3004,12 +3004,12 @@ nassau%1:15:00:: bahamas%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
 nassau%1:15:00:: bahamas%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: nicosia%1:15:00:: cyprus%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-niamey%1:15:00:: niger%1:15:00:: greenland%1:15:00::
+niamey%1:15:00:: niger%1:15:00:: Nuuk greenland%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: paris%1:15:00:: france%1:15:00::
-niamey%1:15:00:: niger%1:15:00:: montenegro%1:15:00::
+niamey%1:15:00:: niger%1:15:00:: Podgorica montenegro%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3026,7 +3026,7 @@ niamey%1:15:00:: niger%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 niamey%1:15:00:: niger%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-niamey%1:15:00:: niger%1:15:00:: bhutan%1:15:00::
+niamey%1:15:00:: niger%1:15:00:: Thimphu bhutan%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 niamey%1:15:00:: niger%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3042,12 +3042,12 @@ niamey%1:15:00:: niger%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
 niamey%1:15:00:: niger%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: nouakchott%1:15:00:: mauritania%1:15:00::
-nicosia%1:15:00:: cyprus%1:15:00:: greenland%1:15:00::
+nicosia%1:15:00:: cyprus%1:15:00:: Nuuk greenland%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: paris%1:15:00:: france%1:15:00::
-nicosia%1:15:00:: cyprus%1:15:00:: montenegro%1:15:00::
+nicosia%1:15:00:: cyprus%1:15:00:: Podgorica montenegro%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3064,7 +3064,7 @@ nicosia%1:15:00:: cyprus%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 nicosia%1:15:00:: cyprus%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-nicosia%1:15:00:: cyprus%1:15:00:: bhutan%1:15:00::
+nicosia%1:15:00:: cyprus%1:15:00:: Thimphu bhutan%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 nicosia%1:15:00:: cyprus%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3080,12 +3080,12 @@ nicosia%1:15:00:: cyprus%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
 nicosia%1:15:00:: cyprus%1:15:00:: accra%1:15:00:: ghana%1:15:00::
-nouakchott%1:15:00:: mauritania%1:15:00:: greenland%1:15:00::
+nouakchott%1:15:00:: mauritania%1:15:00:: Nuuk greenland%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: oslo%1:15:00:: norway%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: paris%1:15:00:: france%1:15:00::
-nouakchott%1:15:00:: mauritania%1:15:00:: montenegro%1:15:00::
+nouakchott%1:15:00:: mauritania%1:15:00:: Podgorica montenegro%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3102,7 +3102,7 @@ nouakchott%1:15:00:: mauritania%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00:
 nouakchott%1:15:00:: mauritania%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 nouakchott%1:15:00:: mauritania%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-nouakchott%1:15:00:: mauritania%1:15:00:: bhutan%1:15:00::
+nouakchott%1:15:00:: mauritania%1:15:00:: Thimphu bhutan%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3119,49 +3119,49 @@ nouakchott%1:15:00:: mauritania%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: accra%1:15:00:: ghana%1:15:00::
 nouakchott%1:15:00:: mauritania%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
-greenland%1:15:00:: oslo%1:15:00:: norway%1:15:00::
-greenland%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
-greenland%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
-greenland%1:15:00:: paris%1:15:00:: france%1:15:00::
-greenland%1:15:00:: montenegro%1:15:00::
-greenland%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
-greenland%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
-greenland%1:15:00:: riga%1:15:00:: latvia%1:15:00::
-greenland%1:15:00:: rome%1:15:00:: italy%1:15:00::
-greenland%1:15:00:: roseau%1:15:00:: dominica%1:15:01::
-greenland%1:15:00:: santiago%1:04:00:: chile%1:15:00::
-greenland%1:15:00:: skopje%1:15:00:: macedonia%1:15:00::
-greenland%1:15:00:: sofia%1:15:00:: bulgaria%1:15:00::
-greenland%1:15:00:: stockholm%1:15:00:: sweden%1:15:00::
-greenland%1:15:00:: suva%1:15:00:: fiji%1:15:00::
-greenland%1:15:00:: taipei%1:15:00:: taiwan%1:15:00::
-greenland%1:15:00:: tallinn%1:15:00:: estonia%1:15:00::
-greenland%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
-greenland%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
-greenland%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
-greenland%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-greenland%1:15:00:: bhutan%1:15:00::
-greenland%1:15:00:: tirana%1:15:00:: albania%1:15:00::
-greenland%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
-greenland%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
-greenland%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
-greenland%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
-greenland%1:15:00:: valletta%1:15:00:: malta%1:15:01::
-greenland%1:15:00:: vienna%1:15:00:: austria%1:15:00::
-greenland%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
-greenland%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
-greenland%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
-greenland%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
-greenland%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
-greenland%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
-greenland%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
-greenland%1:15:00:: accra%1:15:00:: ghana%1:15:00::
-greenland%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
-greenland%1:15:00:: amman%1:15:00:: jordan%1:15:00::
+Nuuk greenland%1:15:00:: oslo%1:15:00:: norway%1:15:00::
+Nuuk greenland%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
+Nuuk greenland%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
+Nuuk greenland%1:15:00:: paris%1:15:00:: france%1:15:00::
+Nuuk greenland%1:15:00:: Podgorica montenegro%1:15:00::
+Nuuk greenland%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
+Nuuk greenland%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
+Nuuk greenland%1:15:00:: riga%1:15:00:: latvia%1:15:00::
+Nuuk greenland%1:15:00:: rome%1:15:00:: italy%1:15:00::
+Nuuk greenland%1:15:00:: roseau%1:15:00:: dominica%1:15:01::
+Nuuk greenland%1:15:00:: santiago%1:04:00:: chile%1:15:00::
+Nuuk greenland%1:15:00:: skopje%1:15:00:: macedonia%1:15:00::
+Nuuk greenland%1:15:00:: sofia%1:15:00:: bulgaria%1:15:00::
+Nuuk greenland%1:15:00:: stockholm%1:15:00:: sweden%1:15:00::
+Nuuk greenland%1:15:00:: suva%1:15:00:: fiji%1:15:00::
+Nuuk greenland%1:15:00:: taipei%1:15:00:: taiwan%1:15:00::
+Nuuk greenland%1:15:00:: tallinn%1:15:00:: estonia%1:15:00::
+Nuuk greenland%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
+Nuuk greenland%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
+Nuuk greenland%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
+Nuuk greenland%1:15:00:: tehran%1:15:00:: iran%1:15:00::
+Nuuk greenland%1:15:00:: Thimphu bhutan%1:15:00::
+Nuuk greenland%1:15:00:: tirana%1:15:00:: albania%1:15:00::
+Nuuk greenland%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
+Nuuk greenland%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
+Nuuk greenland%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
+Nuuk greenland%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
+Nuuk greenland%1:15:00:: valletta%1:15:00:: malta%1:15:01::
+Nuuk greenland%1:15:00:: vienna%1:15:00:: austria%1:15:00::
+Nuuk greenland%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
+Nuuk greenland%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
+Nuuk greenland%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
+Nuuk greenland%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
+Nuuk greenland%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
+Nuuk greenland%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
+Nuuk greenland%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
+Nuuk greenland%1:15:00:: accra%1:15:00:: ghana%1:15:00::
+Nuuk greenland%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
+Nuuk greenland%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: ottawa%1:15:00:: canada%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: paris%1:15:00:: france%1:15:00::
-oslo%1:15:00:: norway%1:15:00:: montenegro%1:15:00::
+oslo%1:15:00:: norway%1:15:00:: Podgorica montenegro%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3178,7 +3178,7 @@ oslo%1:15:00:: norway%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 oslo%1:15:00:: norway%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-oslo%1:15:00:: norway%1:15:00:: bhutan%1:15:00::
+oslo%1:15:00:: norway%1:15:00:: Thimphu bhutan%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 oslo%1:15:00:: norway%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3199,7 +3199,7 @@ oslo%1:15:00:: norway%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 oslo%1:15:00:: norway%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: paramaribo%1:15:00:: suriname%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: paris%1:15:00:: france%1:15:00::
-ottawa%1:15:00:: canada%1:15:00:: montenegro%1:15:00::
+ottawa%1:15:00:: canada%1:15:00:: Podgorica montenegro%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3216,7 +3216,7 @@ ottawa%1:15:00:: canada%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 ottawa%1:15:00:: canada%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-ottawa%1:15:00:: canada%1:15:00:: bhutan%1:15:00::
+ottawa%1:15:00:: canada%1:15:00:: Thimphu bhutan%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 ottawa%1:15:00:: canada%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3237,7 +3237,7 @@ ottawa%1:15:00:: canada%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 ottawa%1:15:00:: canada%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: paris%1:15:00:: france%1:15:00::
-paramaribo%1:15:00:: suriname%1:15:00:: montenegro%1:15:00::
+paramaribo%1:15:00:: suriname%1:15:00:: Podgorica montenegro%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3254,7 +3254,7 @@ paramaribo%1:15:00:: suriname%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 paramaribo%1:15:00:: suriname%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-paramaribo%1:15:00:: suriname%1:15:00:: bhutan%1:15:00::
+paramaribo%1:15:00:: suriname%1:15:00:: Thimphu bhutan%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 paramaribo%1:15:00:: suriname%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3275,7 +3275,7 @@ paramaribo%1:15:00:: suriname%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 paramaribo%1:15:00:: suriname%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-paris%1:15:00:: france%1:15:00:: montenegro%1:15:00::
+paris%1:15:00:: france%1:15:00:: Podgorica montenegro%1:15:00::
 paris%1:15:00:: france%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
 paris%1:15:00:: france%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 paris%1:15:00:: france%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3292,7 +3292,7 @@ paris%1:15:00:: france%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 paris%1:15:00:: france%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 paris%1:15:00:: france%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 paris%1:15:00:: france%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-paris%1:15:00:: france%1:15:00:: bhutan%1:15:00::
+paris%1:15:00:: france%1:15:00:: Thimphu bhutan%1:15:00::
 paris%1:15:00:: france%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 paris%1:15:00:: france%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 paris%1:15:00:: france%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3313,46 +3313,46 @@ paris%1:15:00:: france%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 paris%1:15:00:: france%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 paris%1:15:00:: france%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 paris%1:15:00:: france%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-paris%1:15:00:: france%1:15:00:: turkmenistan%1:15:00::
-montenegro%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
-montenegro%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
-montenegro%1:15:00:: riga%1:15:00:: latvia%1:15:00::
-montenegro%1:15:00:: rome%1:15:00:: italy%1:15:00::
-montenegro%1:15:00:: roseau%1:15:00:: dominica%1:15:01::
-montenegro%1:15:00:: santiago%1:04:00:: chile%1:15:00::
-montenegro%1:15:00:: skopje%1:15:00:: macedonia%1:15:00::
-montenegro%1:15:00:: sofia%1:15:00:: bulgaria%1:15:00::
-montenegro%1:15:00:: stockholm%1:15:00:: sweden%1:15:00::
-montenegro%1:15:00:: suva%1:15:00:: fiji%1:15:00::
-montenegro%1:15:00:: taipei%1:15:00:: taiwan%1:15:00::
-montenegro%1:15:00:: tallinn%1:15:00:: estonia%1:15:00::
-montenegro%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
-montenegro%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
-montenegro%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
-montenegro%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-montenegro%1:15:00:: bhutan%1:15:00::
-montenegro%1:15:00:: tirana%1:15:00:: albania%1:15:00::
-montenegro%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
-montenegro%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
-montenegro%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
-montenegro%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
-montenegro%1:15:00:: valletta%1:15:00:: malta%1:15:01::
-montenegro%1:15:00:: vienna%1:15:00:: austria%1:15:00::
-montenegro%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
-montenegro%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
-montenegro%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
-montenegro%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
-montenegro%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
-montenegro%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
-montenegro%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
-montenegro%1:15:00:: accra%1:15:00:: ghana%1:15:00::
-montenegro%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
-montenegro%1:15:00:: amman%1:15:00:: jordan%1:15:00::
-montenegro%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
-montenegro%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
-montenegro%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-montenegro%1:15:00:: turkmenistan%1:15:00::
-montenegro%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
+paris%1:15:00:: france%1:15:00:: Ashgabat turkmenistan%1:15:00::
+Podgorica montenegro%1:15:00:: quito%1:15:00:: ecuador%1:15:00::
+Podgorica montenegro%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
+Podgorica montenegro%1:15:00:: riga%1:15:00:: latvia%1:15:00::
+Podgorica montenegro%1:15:00:: rome%1:15:00:: italy%1:15:00::
+Podgorica montenegro%1:15:00:: roseau%1:15:00:: dominica%1:15:01::
+Podgorica montenegro%1:15:00:: santiago%1:04:00:: chile%1:15:00::
+Podgorica montenegro%1:15:00:: skopje%1:15:00:: macedonia%1:15:00::
+Podgorica montenegro%1:15:00:: sofia%1:15:00:: bulgaria%1:15:00::
+Podgorica montenegro%1:15:00:: stockholm%1:15:00:: sweden%1:15:00::
+Podgorica montenegro%1:15:00:: suva%1:15:00:: fiji%1:15:00::
+Podgorica montenegro%1:15:00:: taipei%1:15:00:: taiwan%1:15:00::
+Podgorica montenegro%1:15:00:: tallinn%1:15:00:: estonia%1:15:00::
+Podgorica montenegro%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
+Podgorica montenegro%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
+Podgorica montenegro%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
+Podgorica montenegro%1:15:00:: tehran%1:15:00:: iran%1:15:00::
+Podgorica montenegro%1:15:00:: Thimphu bhutan%1:15:00::
+Podgorica montenegro%1:15:00:: tirana%1:15:00:: albania%1:15:00::
+Podgorica montenegro%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
+Podgorica montenegro%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
+Podgorica montenegro%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
+Podgorica montenegro%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
+Podgorica montenegro%1:15:00:: valletta%1:15:00:: malta%1:15:01::
+Podgorica montenegro%1:15:00:: vienna%1:15:00:: austria%1:15:00::
+Podgorica montenegro%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
+Podgorica montenegro%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
+Podgorica montenegro%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
+Podgorica montenegro%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
+Podgorica montenegro%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
+Podgorica montenegro%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
+Podgorica montenegro%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
+Podgorica montenegro%1:15:00:: accra%1:15:00:: ghana%1:15:00::
+Podgorica montenegro%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
+Podgorica montenegro%1:15:00:: amman%1:15:00:: jordan%1:15:00::
+Podgorica montenegro%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
+Podgorica montenegro%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
+Podgorica montenegro%1:15:00:: apia%1:15:00:: samoa%1:15:01::
+Podgorica montenegro%1:15:00:: Ashgabat turkmenistan%1:15:00::
+Podgorica montenegro%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: rabat%1:15:00:: morocco%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: riga%1:15:00:: latvia%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: rome%1:15:00:: italy%1:15:00::
@@ -3368,7 +3368,7 @@ quito%1:15:00:: ecuador%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 quito%1:15:00:: ecuador%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-quito%1:15:00:: ecuador%1:15:00:: bhutan%1:15:00::
+quito%1:15:00:: ecuador%1:15:00:: Thimphu bhutan%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 quito%1:15:00:: ecuador%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3389,7 +3389,7 @@ quito%1:15:00:: ecuador%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-quito%1:15:00:: ecuador%1:15:00:: turkmenistan%1:15:00::
+quito%1:15:00:: ecuador%1:15:00:: Ashgabat turkmenistan%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 quito%1:15:00:: ecuador%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: riga%1:15:00:: latvia%1:15:00::
@@ -3406,7 +3406,7 @@ rabat%1:15:00:: morocco%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 rabat%1:15:00:: morocco%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-rabat%1:15:00:: morocco%1:15:00:: bhutan%1:15:00::
+rabat%1:15:00:: morocco%1:15:00:: Thimphu bhutan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 rabat%1:15:00:: morocco%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3427,7 +3427,7 @@ rabat%1:15:00:: morocco%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-rabat%1:15:00:: morocco%1:15:00:: turkmenistan%1:15:00::
+rabat%1:15:00:: morocco%1:15:00:: Ashgabat turkmenistan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 rabat%1:15:00:: morocco%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3444,7 +3444,7 @@ riga%1:15:00:: latvia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 riga%1:15:00:: latvia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-riga%1:15:00:: latvia%1:15:00:: bhutan%1:15:00::
+riga%1:15:00:: latvia%1:15:00:: Thimphu bhutan%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 riga%1:15:00:: latvia%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3465,7 +3465,7 @@ riga%1:15:00:: latvia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-riga%1:15:00:: latvia%1:15:00:: turkmenistan%1:15:00::
+riga%1:15:00:: latvia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 riga%1:15:00:: latvia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3482,7 +3482,7 @@ rome%1:15:00:: italy%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 rome%1:15:00:: italy%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 rome%1:15:00:: italy%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 rome%1:15:00:: italy%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-rome%1:15:00:: italy%1:15:00:: bhutan%1:15:00::
+rome%1:15:00:: italy%1:15:00:: Thimphu bhutan%1:15:00::
 rome%1:15:00:: italy%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 rome%1:15:00:: italy%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 rome%1:15:00:: italy%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3503,7 +3503,7 @@ rome%1:15:00:: italy%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 rome%1:15:00:: italy%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 rome%1:15:00:: italy%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 rome%1:15:00:: italy%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-rome%1:15:00:: italy%1:15:00:: turkmenistan%1:15:00::
+rome%1:15:00:: italy%1:15:00:: Ashgabat turkmenistan%1:15:00::
 rome%1:15:00:: italy%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 rome%1:15:00:: italy%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 rome%1:15:00:: italy%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3520,7 +3520,7 @@ roseau%1:15:00:: dominica%1:15:01:: tashkent%1:15:00:: uzbekistan%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: tbilisi%1:15:00:: georgia%1:15:01::
 roseau%1:15:00:: dominica%1:15:01:: tegucigalpa%1:15:00:: honduras%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: tehran%1:15:00:: iran%1:15:00::
-roseau%1:15:00:: dominica%1:15:01:: bhutan%1:15:00::
+roseau%1:15:00:: dominica%1:15:01:: Thimphu bhutan%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: tirana%1:15:00:: albania%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: tokyo%1:15:00:: japan%1:06:00::
 roseau%1:15:00:: dominica%1:15:01:: tripoli%1:15:01:: libya%1:15:00::
@@ -3541,7 +3541,7 @@ roseau%1:15:00:: dominica%1:15:01:: amman%1:15:00:: jordan%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: ankara%1:15:00:: turkey%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: antananarivo%1:15:00:: madagascar%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: apia%1:15:00:: samoa%1:15:01::
-roseau%1:15:00:: dominica%1:15:01:: turkmenistan%1:15:00::
+roseau%1:15:00:: dominica%1:15:01:: Ashgabat turkmenistan%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: asmara%1:15:00:: eritrea%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: astana%1:15:00:: kazakhstan%1:15:00::
 roseau%1:15:00:: dominica%1:15:01:: athens%1:15:00:: greece%1:15:00::
@@ -3558,7 +3558,7 @@ santiago%1:04:00:: chile%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 santiago%1:04:00:: chile%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-santiago%1:04:00:: chile%1:15:00:: bhutan%1:15:00::
+santiago%1:04:00:: chile%1:15:00:: Thimphu bhutan%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 santiago%1:04:00:: chile%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3579,7 +3579,7 @@ santiago%1:04:00:: chile%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-santiago%1:04:00:: chile%1:15:00:: turkmenistan%1:15:00::
+santiago%1:04:00:: chile%1:15:00:: Ashgabat turkmenistan%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 santiago%1:04:00:: chile%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3596,7 +3596,7 @@ skopje%1:15:00:: macedonia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 skopje%1:15:00:: macedonia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-skopje%1:15:00:: macedonia%1:15:00:: bhutan%1:15:00::
+skopje%1:15:00:: macedonia%1:15:00:: Thimphu bhutan%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 skopje%1:15:00:: macedonia%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3617,7 +3617,7 @@ skopje%1:15:00:: macedonia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-skopje%1:15:00:: macedonia%1:15:00:: turkmenistan%1:15:00::
+skopje%1:15:00:: macedonia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 skopje%1:15:00:: macedonia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3634,7 +3634,7 @@ sofia%1:15:00:: bulgaria%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 sofia%1:15:00:: bulgaria%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-sofia%1:15:00:: bulgaria%1:15:00:: bhutan%1:15:00::
+sofia%1:15:00:: bulgaria%1:15:00:: Thimphu bhutan%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 sofia%1:15:00:: bulgaria%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3655,7 +3655,7 @@ sofia%1:15:00:: bulgaria%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-sofia%1:15:00:: bulgaria%1:15:00:: turkmenistan%1:15:00::
+sofia%1:15:00:: bulgaria%1:15:00:: Ashgabat turkmenistan%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 sofia%1:15:00:: bulgaria%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3672,7 +3672,7 @@ stockholm%1:15:00:: sweden%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 stockholm%1:15:00:: sweden%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-stockholm%1:15:00:: sweden%1:15:00:: bhutan%1:15:00::
+stockholm%1:15:00:: sweden%1:15:00:: Thimphu bhutan%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 stockholm%1:15:00:: sweden%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3693,7 +3693,7 @@ stockholm%1:15:00:: sweden%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-stockholm%1:15:00:: sweden%1:15:00:: turkmenistan%1:15:00::
+stockholm%1:15:00:: sweden%1:15:00:: Ashgabat turkmenistan%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 stockholm%1:15:00:: sweden%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3710,7 +3710,7 @@ suva%1:15:00:: fiji%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 suva%1:15:00:: fiji%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-suva%1:15:00:: fiji%1:15:00:: bhutan%1:15:00::
+suva%1:15:00:: fiji%1:15:00:: Thimphu bhutan%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 suva%1:15:00:: fiji%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3731,7 +3731,7 @@ suva%1:15:00:: fiji%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-suva%1:15:00:: fiji%1:15:00:: turkmenistan%1:15:00::
+suva%1:15:00:: fiji%1:15:00:: Ashgabat turkmenistan%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 suva%1:15:00:: fiji%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3748,7 +3748,7 @@ taipei%1:15:00:: taiwan%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 taipei%1:15:00:: taiwan%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-taipei%1:15:00:: taiwan%1:15:00:: bhutan%1:15:00::
+taipei%1:15:00:: taiwan%1:15:00:: Thimphu bhutan%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 taipei%1:15:00:: taiwan%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3769,7 +3769,7 @@ taipei%1:15:00:: taiwan%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-taipei%1:15:00:: taiwan%1:15:00:: turkmenistan%1:15:00::
+taipei%1:15:00:: taiwan%1:15:00:: Ashgabat turkmenistan%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3781,12 +3781,12 @@ taipei%1:15:00:: taiwan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: beijing%1:15:00:: china%1:15:01::
 taipei%1:15:00:: taiwan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 taipei%1:15:00:: taiwan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-taipei%1:15:00:: taiwan%1:15:00:: belize%1:15:00::
+taipei%1:15:00:: taiwan%1:15:00:: Belmopan belize%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: tashkent%1:15:00:: uzbekistan%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 tallinn%1:15:00:: estonia%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-tallinn%1:15:00:: estonia%1:15:00:: bhutan%1:15:00::
+tallinn%1:15:00:: estonia%1:15:00:: Thimphu bhutan%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 tallinn%1:15:00:: estonia%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3807,7 +3807,7 @@ tallinn%1:15:00:: estonia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tallinn%1:15:00:: estonia%1:15:00:: turkmenistan%1:15:00::
+tallinn%1:15:00:: estonia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3819,12 +3819,12 @@ tallinn%1:15:00:: estonia%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tallinn%1:15:00:: estonia%1:15:00:: belize%1:15:00::
+tallinn%1:15:00:: estonia%1:15:00:: Belmopan belize%1:15:00::
 tallinn%1:15:00:: estonia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tbilisi%1:15:00:: georgia%1:15:01::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tegucigalpa%1:15:00:: honduras%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-tashkent%1:15:00:: uzbekistan%1:15:00:: bhutan%1:15:00::
+tashkent%1:15:00:: uzbekistan%1:15:00:: Thimphu bhutan%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3845,7 +3845,7 @@ tashkent%1:15:00:: uzbekistan%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tashkent%1:15:00:: uzbekistan%1:15:00:: turkmenistan%1:15:00::
+tashkent%1:15:00:: uzbekistan%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3854,15 +3854,15 @@ tashkent%1:15:00:: uzbekistan%1:15:00:: baku%1:15:00:: azerbaijan%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: bamako%1:15:00:: mali%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: bangkok%1:15:00:: thailand%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
-uzbekistan%1:15:00:: beijing%1:15:00:: china%1:15:00::
+Tashkent uzbekistan%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tashkent%1:15:00:: uzbekistan%1:15:00:: belize%1:15:00::
+tashkent%1:15:00:: uzbekistan%1:15:00:: Belmopan belize%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tashkent%1:15:00:: uzbekistan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: tegucigalpa%1:15:00:: honduras%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: tehran%1:15:00:: iran%1:15:00::
-tbilisi%1:15:00:: georgia%1:15:01:: bhutan%1:15:00::
+tbilisi%1:15:00:: georgia%1:15:01:: Thimphu bhutan%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: tirana%1:15:00:: albania%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: tokyo%1:15:00:: japan%1:06:00::
 tbilisi%1:15:00:: georgia%1:15:01:: tripoli%1:15:01:: libya%1:15:00::
@@ -3883,7 +3883,7 @@ tbilisi%1:15:00:: georgia%1:15:01:: amman%1:15:00:: jordan%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: ankara%1:15:00:: turkey%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: antananarivo%1:15:00:: madagascar%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: apia%1:15:00:: samoa%1:15:01::
-tbilisi%1:15:00:: georgia%1:15:01:: turkmenistan%1:15:00::
+tbilisi%1:15:00:: georgia%1:15:01:: Ashgabat turkmenistan%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: asmara%1:15:00:: eritrea%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: astana%1:15:00:: kazakhstan%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: athens%1:15:00:: greece%1:15:00::
@@ -3895,12 +3895,12 @@ tbilisi%1:15:00:: georgia%1:15:01:: banjul%1:15:00:: gambia%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: beijing%1:15:00:: china%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: beirut%1:15:00:: lebanon%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: belgrade%1:15:00:: serbia%1:15:00::
-tbilisi%1:15:00:: georgia%1:15:01:: belize%1:15:00::
+tbilisi%1:15:00:: georgia%1:15:01:: Belmopan belize%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: berlin%1:15:00:: germany%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: bern%1:15:00:: switzerland%1:15:00::
 tbilisi%1:15:00:: georgia%1:15:01:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: tehran%1:15:00:: iran%1:15:00::
-tegucigalpa%1:15:00:: honduras%1:15:00:: bhutan%1:15:00::
+tegucigalpa%1:15:00:: honduras%1:15:00:: Thimphu bhutan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3921,7 +3921,7 @@ tegucigalpa%1:15:00:: honduras%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tegucigalpa%1:15:00:: honduras%1:15:00:: turkmenistan%1:15:00::
+tegucigalpa%1:15:00:: honduras%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3933,12 +3933,12 @@ tegucigalpa%1:15:00:: honduras%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tegucigalpa%1:15:00:: honduras%1:15:00:: belize%1:15:00::
+tegucigalpa%1:15:00:: honduras%1:15:00:: Belmopan belize%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
 tegucigalpa%1:15:00:: honduras%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
-tehran%1:15:00:: iran%1:15:00:: bhutan%1:15:00::
+tehran%1:15:00:: iran%1:15:00:: Thimphu bhutan%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: tirana%1:15:00:: albania%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 tehran%1:15:00:: iran%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
@@ -3959,7 +3959,7 @@ tehran%1:15:00:: iran%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tehran%1:15:00:: iran%1:15:00:: turkmenistan%1:15:00::
+tehran%1:15:00:: iran%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -3971,51 +3971,51 @@ tehran%1:15:00:: iran%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tehran%1:15:00:: iran%1:15:00:: belize%1:15:00::
+tehran%1:15:00:: iran%1:15:00:: Belmopan belize%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
 tehran%1:15:00:: iran%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
-bhutan%1:15:00:: tirana%1:15:00:: albania%1:15:00::
-bhutan%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
-bhutan%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
-bhutan%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
-bhutan%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
-bhutan%1:15:00:: valletta%1:15:00:: malta%1:15:01::
-bhutan%1:15:00:: vienna%1:15:00:: austria%1:15:00::
-bhutan%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
-bhutan%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
-bhutan%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
-bhutan%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
-bhutan%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
-bhutan%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
-bhutan%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
-bhutan%1:15:00:: accra%1:15:00:: ghana%1:15:00::
-bhutan%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
-bhutan%1:15:00:: amman%1:15:00:: jordan%1:15:00::
-bhutan%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
-bhutan%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
-bhutan%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-bhutan%1:15:00:: turkmenistan%1:15:00::
-bhutan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
-bhutan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
-bhutan%1:15:00:: athens%1:15:00:: greece%1:15:00::
-bhutan%1:15:00:: baghdad%1:15:00:: iraq%1:15:00::
-bhutan%1:15:00:: baku%1:15:00:: azerbaijan%1:15:00::
-bhutan%1:15:00:: bamako%1:15:00:: mali%1:15:00::
-bhutan%1:15:00:: bangkok%1:15:00:: thailand%1:15:00::
-bhutan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
-bhutan%1:15:00:: beijing%1:15:00:: china%1:15:00::
-bhutan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
-bhutan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-bhutan%1:15:00:: belize%1:15:00::
-bhutan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
-bhutan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
-bhutan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
-bhutan%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
-bhutan%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
-bhutan%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
+Thimphu bhutan%1:15:00:: tirana%1:15:00:: albania%1:15:00::
+Thimphu bhutan%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
+Thimphu bhutan%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
+Thimphu bhutan%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
+Thimphu bhutan%1:15:00:: vaduz%1:15:00:: liechtenstein%1:15:00::
+Thimphu bhutan%1:15:00:: valletta%1:15:00:: malta%1:15:01::
+Thimphu bhutan%1:15:00:: vienna%1:15:00:: austria%1:15:00::
+Thimphu bhutan%1:15:00:: vientiane%1:15:00:: laos%1:15:00::
+Thimphu bhutan%1:15:00:: vilnius%1:15:00:: lithuania%1:15:00::
+Thimphu bhutan%1:15:00:: warsaw%1:15:00:: poland%1:15:00::
+Thimphu bhutan%1:15:00:: windhoek%1:15:00:: namibia%1:15:00::
+Thimphu bhutan%1:15:00:: yerevan%1:15:00:: armenia%1:15:00::
+Thimphu bhutan%1:15:00:: zagreb%1:15:00:: croatia%1:15:00::
+Thimphu bhutan%1:15:00:: abuja%1:15:00:: nigeria%1:15:00::
+Thimphu bhutan%1:15:00:: accra%1:15:00:: ghana%1:15:00::
+Thimphu bhutan%1:15:00:: algiers%1:15:00:: algeria%1:15:00::
+Thimphu bhutan%1:15:00:: amman%1:15:00:: jordan%1:15:00::
+Thimphu bhutan%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
+Thimphu bhutan%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
+Thimphu bhutan%1:15:00:: apia%1:15:00:: samoa%1:15:01::
+Thimphu bhutan%1:15:00:: Ashgabat turkmenistan%1:15:00::
+Thimphu bhutan%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
+Thimphu bhutan%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
+Thimphu bhutan%1:15:00:: athens%1:15:00:: greece%1:15:00::
+Thimphu bhutan%1:15:00:: baghdad%1:15:00:: iraq%1:15:00::
+Thimphu bhutan%1:15:00:: baku%1:15:00:: azerbaijan%1:15:00::
+Thimphu bhutan%1:15:00:: bamako%1:15:00:: mali%1:15:00::
+Thimphu bhutan%1:15:00:: bangkok%1:15:00:: thailand%1:15:00::
+Thimphu bhutan%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
+Thimphu bhutan%1:15:00:: beijing%1:15:00:: china%1:15:00::
+Thimphu bhutan%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
+Thimphu bhutan%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
+Thimphu bhutan%1:15:00:: Belmopan belize%1:15:00::
+Thimphu bhutan%1:15:00:: berlin%1:15:00:: germany%1:15:00::
+Thimphu bhutan%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
+Thimphu bhutan%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
+Thimphu bhutan%1:15:00:: bratislava%1:15:00:: slovakia%1:15:00::
+Thimphu bhutan%1:15:00:: brussels%1:15:00:: belgium%1:15:00::
+Thimphu bhutan%1:15:00:: bucharest%1:15:00:: romania%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: tokyo%1:15:00:: japan%1:06:00::
 tirana%1:15:00:: albania%1:15:00:: tripoli%1:15:01:: libya%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: tunis%1:15:00:: tunisia%1:15:00::
@@ -4035,7 +4035,7 @@ tirana%1:15:00:: albania%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tirana%1:15:00:: albania%1:15:00:: turkmenistan%1:15:00::
+tirana%1:15:00:: albania%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4047,7 +4047,7 @@ tirana%1:15:00:: albania%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tirana%1:15:00:: albania%1:15:00:: belize%1:15:00::
+tirana%1:15:00:: albania%1:15:00:: Belmopan belize%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tirana%1:15:00:: albania%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4073,7 +4073,7 @@ tokyo%1:15:00:: japan%1:06:00:: amman%1:15:00:: jordan%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: ankara%1:15:00:: turkey%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: apia%1:15:00:: samoa%1:15:01::
-tokyo%1:15:00:: japan%1:06:00:: turkmenistan%1:15:00::
+tokyo%1:15:00:: japan%1:06:00:: Ashgabat turkmenistan%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: asmara%1:15:00:: eritrea%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: athens%1:15:00:: greece%1:15:00::
@@ -4085,7 +4085,7 @@ tokyo%1:15:00:: japan%1:06:00:: banjul%1:15:00:: gambia%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: beijing%1:15:00:: china%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: beirut%1:15:00:: lebanon%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: belgrade%1:15:00:: serbia%1:15:00::
-tokyo%1:15:00:: japan%1:06:00:: belize%1:15:00::
+tokyo%1:15:00:: japan%1:06:00:: Belmopan belize%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: berlin%1:15:00:: germany%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: bern%1:15:00:: switzerland%1:15:00::
 tokyo%1:15:00:: japan%1:06:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4111,7 +4111,7 @@ tripoli%1:15:01:: libya%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tripoli%1:15:01:: libya%1:15:00:: turkmenistan%1:15:00::
+tripoli%1:15:01:: libya%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4123,7 +4123,7 @@ tripoli%1:15:01:: libya%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tripoli%1:15:01:: libya%1:15:00:: belize%1:15:00::
+tripoli%1:15:01:: libya%1:15:00:: Belmopan belize%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tripoli%1:15:01:: libya%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4149,7 +4149,7 @@ tunis%1:15:00:: tunisia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-tunis%1:15:00:: tunisia%1:15:00:: turkmenistan%1:15:00::
+tunis%1:15:00:: tunisia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4161,7 +4161,7 @@ tunis%1:15:00:: tunisia%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-tunis%1:15:00:: tunisia%1:15:00:: belize%1:15:00::
+tunis%1:15:00:: tunisia%1:15:00:: Belmopan belize%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 tunis%1:15:00:: tunisia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4187,7 +4187,7 @@ vaduz%1:15:00:: liechtenstein%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-vaduz%1:15:00:: liechtenstein%1:15:00:: turkmenistan%1:15:00::
+vaduz%1:15:00:: liechtenstein%1:15:00:: Ashgabat turkmenistan%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4199,7 +4199,7 @@ vaduz%1:15:00:: liechtenstein%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: beijing%1:15:00:: china%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-vaduz%1:15:00:: liechtenstein%1:15:00:: belize%1:15:00::
+vaduz%1:15:00:: liechtenstein%1:15:00:: Belmopan belize%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 vaduz%1:15:00:: liechtenstein%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4225,7 +4225,7 @@ valletta%1:15:00:: malta%1:15:01:: amman%1:15:00:: jordan%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: ankara%1:15:00:: turkey%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: antananarivo%1:15:00:: madagascar%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: apia%1:15:00:: samoa%1:15:01::
-valletta%1:15:00:: malta%1:15:01:: turkmenistan%1:15:00::
+valletta%1:15:00:: malta%1:15:01:: Ashgabat turkmenistan%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: asmara%1:15:00:: eritrea%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: astana%1:15:00:: kazakhstan%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: athens%1:15:00:: greece%1:15:00::
@@ -4237,7 +4237,7 @@ valletta%1:15:00:: malta%1:15:01:: banjul%1:15:00:: gambia%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: beijing%1:15:00:: china%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: beirut%1:15:00:: lebanon%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: belgrade%1:15:00:: serbia%1:15:00::
-valletta%1:15:00:: malta%1:15:01:: belize%1:15:00::
+valletta%1:15:00:: malta%1:15:01:: Belmopan belize%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: berlin%1:15:00:: germany%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: bern%1:15:00:: switzerland%1:15:00::
 valletta%1:15:00:: malta%1:15:01:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4263,7 +4263,7 @@ vienna%1:15:00:: austria%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-vienna%1:15:00:: austria%1:15:00:: turkmenistan%1:15:00::
+vienna%1:15:00:: austria%1:15:00:: Ashgabat turkmenistan%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4275,7 +4275,7 @@ vienna%1:15:00:: austria%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: beijing%1:15:00:: china%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-vienna%1:15:00:: austria%1:15:00:: belize%1:15:00::
+vienna%1:15:00:: austria%1:15:00:: Belmopan belize%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 vienna%1:15:00:: austria%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4301,7 +4301,7 @@ vientiane%1:15:00:: laos%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-vientiane%1:15:00:: laos%1:15:00:: turkmenistan%1:15:00::
+vientiane%1:15:00:: laos%1:15:00:: Ashgabat turkmenistan%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4313,7 +4313,7 @@ vientiane%1:15:00:: laos%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: beijing%1:15:00:: china%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-vientiane%1:15:00:: laos%1:15:00:: belize%1:15:00::
+vientiane%1:15:00:: laos%1:15:00:: Belmopan belize%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 vientiane%1:15:00:: laos%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4339,7 +4339,7 @@ vilnius%1:15:00:: lithuania%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-vilnius%1:15:00:: lithuania%1:15:00:: turkmenistan%1:15:00::
+vilnius%1:15:00:: lithuania%1:15:00:: Ashgabat turkmenistan%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4351,7 +4351,7 @@ vilnius%1:15:00:: lithuania%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: beijing%1:15:00:: china%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-vilnius%1:15:00:: lithuania%1:15:00:: belize%1:15:00::
+vilnius%1:15:00:: lithuania%1:15:00:: Belmopan belize%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 vilnius%1:15:00:: lithuania%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4377,7 +4377,7 @@ warsaw%1:15:00:: poland%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-warsaw%1:15:00:: poland%1:15:00:: turkmenistan%1:15:00::
+warsaw%1:15:00:: poland%1:15:00:: Ashgabat turkmenistan%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4389,7 +4389,7 @@ warsaw%1:15:00:: poland%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: beijing%1:15:00:: china%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-warsaw%1:15:00:: poland%1:15:00:: belize%1:15:00::
+warsaw%1:15:00:: poland%1:15:00:: Belmopan belize%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 warsaw%1:15:00:: poland%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4415,7 +4415,7 @@ windhoek%1:15:00:: namibia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-windhoek%1:15:00:: namibia%1:15:00:: turkmenistan%1:15:00::
+windhoek%1:15:00:: namibia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4427,7 +4427,7 @@ windhoek%1:15:00:: namibia%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-windhoek%1:15:00:: namibia%1:15:00:: belize%1:15:00::
+windhoek%1:15:00:: namibia%1:15:00:: Belmopan belize%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 windhoek%1:15:00:: namibia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4453,7 +4453,7 @@ yerevan%1:15:00:: armenia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-yerevan%1:15:00:: armenia%1:15:00:: turkmenistan%1:15:00::
+yerevan%1:15:00:: armenia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4465,7 +4465,7 @@ yerevan%1:15:00:: armenia%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-yerevan%1:15:00:: armenia%1:15:00:: belize%1:15:00::
+yerevan%1:15:00:: armenia%1:15:00:: Belmopan belize%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 yerevan%1:15:00:: armenia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
@@ -4491,7 +4491,7 @@ zagreb%1:15:00:: croatia%1:15:00:: amman%1:15:00:: jordan%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: ankara%1:15:00:: turkey%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: antananarivo%1:15:00:: madagascar%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: apia%1:15:00:: samoa%1:15:01::
-zagreb%1:15:00:: croatia%1:15:00:: turkmenistan%1:15:00::
+zagreb%1:15:00:: croatia%1:15:00:: Ashgabat turkmenistan%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: asmara%1:15:00:: eritrea%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: astana%1:15:00:: kazakhstan%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: athens%1:15:00:: greece%1:15:00::
@@ -4503,7 +4503,7 @@ zagreb%1:15:00:: croatia%1:15:00:: banjul%1:15:00:: gambia%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: beijing%1:15:00:: china%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: beirut%1:15:00:: lebanon%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: belgrade%1:15:00:: serbia%1:15:00::
-zagreb%1:15:00:: croatia%1:15:00:: belize%1:15:00::
+zagreb%1:15:00:: croatia%1:15:00:: Belmopan belize%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: berlin%1:15:00:: germany%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: bern%1:15:00:: switzerland%1:15:00::
 zagreb%1:15:00:: croatia%1:15:00:: bishkek%1:15:00:: kyrgyzstan%1:15:00::
