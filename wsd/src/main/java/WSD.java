@@ -24,6 +24,7 @@ import java.io.FileInputStream;
 import java.io.FileReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
@@ -120,7 +121,7 @@ public class WSD {
     }
 
 
-    public void generateWordStreamSenses(String inputFilename, String outputFilename, int winSz, int batch_sz) {
+    public void generateWordStreamSenses(String inputFilename, String outputFilename, int winSz) {
         try {
             String content = readStringFromFile(inputFilename);
             content = content.trim();
@@ -133,10 +134,8 @@ public class WSD {
             logger.info("Processing #tuples=" + total);
             int j = 0;
             for (int i = 0; i < total; i++) {
-                BatchSenses batchSenses = getTupleSenses(tuples, i, i + batch_sz, winSz);
+                BatchSenses batchSenses = getTupleSenses(tuples, i, i + total, winSz);
                 writeSenseStreamToFile(outputFilename, batchSenses.senses);
-//                String newOutputFilename = outputFilename + "." + j + ".txt";
-//                writeSenseStreamToFile(newOutputFilename, batchSenses.senses);
                 i = batchSenses.index;
                 j++;
                 batchSenses = null;
@@ -272,7 +271,7 @@ public class WSD {
         for (int j = ind.left; j <= ind.right; j++) {
             String stuple = tuples[j];
             if (StringUtils.isBlank(stuple)) continue;
-            String[] lps = stuple.split("\\,\\,");
+            String[] lps = stuple.split("\\,");
             if (lps.length != 2) {
                 logger.debug("Not valid tuple=" + stuple);
                 continue;
@@ -308,6 +307,21 @@ public class WSD {
         return new Indices(li, ri);
     }
 
+    public void generateText8Senses() {
+        String[] indices = new String[]{"o","p","q"};
+        //String[] indices = new String[]{"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q"};
+        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
+        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
+        for(String idx: indices) {
+            String if2 = inputFilename + idx;
+            System.out.println(if2);
+            String of2 = outputFilename + idx + "-synsets.txt";
+            System.out.println(of2);
+            generateWordStreamSenses(if2, of2, 4);
+        }
+
+    }
+
     public void generateQASenseFromFiles() {
         for(String filename: FILENAMES) {
             String inputFilename = "../data/" + filename + "-l-pos.txt";
@@ -332,18 +346,8 @@ public class WSD {
 //        logger.debug(wsd.getBestSense("impossibly","acceptable unacceptable possibly impossibly", POS.ADJ));
 
 
-//        String[] indices = new String[]{"c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s"};
-//        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
-//        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
-//        for(String idx: indices) {
-//            String if2 = inputFilename + idx;
-//            System.out.println(if2);
-//            String of2 = outputFilename + idx + "-synsets.txt";
-//            System.out.println(of2);
-//            wsd.generateWordStreamSenses(if2, of2, 4, 1000000);
-//        }
-
-        wsd.generateQASenseFromFiles();
+        wsd.generateText8Senses();
+        //wsd.generateQASenseFromFiles();
 
     }
 

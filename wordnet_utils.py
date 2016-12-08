@@ -7,15 +7,13 @@ import os
 import os.path
 import pickle
 import zipfile
-
 from itertools import *
+
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.tag.perceptron import PerceptronTagger
 from nltk.wsd import lesk
-
-# from pywsd.lesk import adapted_lesk
 
 synsetid_synset_name_d_filename = 'synsetid_synset_name_d.p'
 synset_name_synsetid_d_filename = 'synset_name_synsetid_d.p'
@@ -240,16 +238,6 @@ class WordnetUtils():
         f = '%s%s' % (self.path, filename)
         senses_names_d = pickle.load(open(f, "rb"))
         return senses_names_d
-
-    def save_synsetids(self, filename, words):
-        '''
-        Generates senses to name dictionary and pickle them.
-        :param filename
-        :param words
-         '''
-        synsetids = self.generate_synsetids(words)
-        print("Synsetids", synsetids[:5])
-        pickle.dump(synsetids, open(filename, "wb"))
 
     def generate_synsetids(self, words):
         '''
@@ -500,7 +488,7 @@ def save_to_text_file(output_f, tuples):
     with open(filename, 'w') as f:
         for (lemma, tag) in tuples:
             #print("lemma=%s, tag=%s" %(lemma, tag))
-            token = ' %s,,%s' % (lemma, tag)
+            token = ' %s,%s' % (lemma, tag)
             f.write(' ' + token)
             i += 1
             print("Saving i=%d,total=%d" % (i, total))
@@ -602,19 +590,6 @@ def test_lesk():
             print('word=%s, synsetname=%s, synsetid=%d' % (word, synset.name(), synset.offset()))
 
 
-# def test_pywsd():
-#     print("#TESTING adapted_lesk() ...")
-#     for i in range(len(sentences)):
-#         sentence = sentences[i]
-#         print(sentence)
-#         words = sentence.split()
-#         for word in words:
-#             synset = adapted_lesk(sentence,word)
-#             if synset is None:
-#                 print('No synsetid for word=%s' %word)
-#             else:
-#                 print('word=%s, synsetname=%s, synsetid=%d' %(word,synset.name(), synset.offset()))
-
 def test_dictionaries(path):
     wn_utils = WordnetUtils(path)
     dog = wn.synset('dog.n.01')
@@ -643,25 +618,6 @@ def sample(path):
     words = wn_utils.transform(synsetids)
     print("Restored words")
     print(words)
-
-
-def generate_text8_words_synsets(path):
-    '''
-    Generate synsets using nltk lek from text8 file.
-    '''
-    filename = '%s%s' % (path, 'text8.zip')
-    # filename = '%s%s' % (path, 'text8_small.zip')
-    words = read_words(filename)
-    print("Initial words")
-    print(words[:10])
-    wn_utils = WordnetUtils(path)
-    filename = '%s%s' % (path, 'text8_words_synsets_d.p')
-    # filename = '%s%s' % (path, 'text8_small_words_synsets_d.p')
-    wn_utils.save_synsetids(filename, words)
-    # synsetids = restore_synsetids(filename)
-    # words = wn_utils.transform(synsetids)
-    # print("Restored words")
-    # print(words[:10])
 
 
 def generate_text8_lemma_pos(path):
@@ -773,7 +729,6 @@ if __name__ == '__main__':
     # test_window()
     # sample(path)gram6-nationality-adj
     # generate_text8_words_synsets(path)
-    # generate_text8_lemma_pos(path)
-    generate_qa_lemma_pos(path)
-    #generate_qa_lemma_pos(path)
+    generate_text8_lemma_pos(path)
+    # generate_qa_lemma_pos(path)
     # generate_news_lemma_pos(path)
