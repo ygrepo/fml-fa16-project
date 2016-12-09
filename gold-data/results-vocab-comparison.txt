@@ -7,5 +7,6 @@ Data file:  data/2016-12-04-text8-synsets.txt
 Vocab size:  58016  + UNK
 
             tokens          unique tokens         unique frequent tokens   
-words       17005207        253854 (14.92%)       71290  (28%) (0.41%)    
-synsets     15320733        105496 (0.68%)        58016  (54%) (0.37%)    
+words       17005207        253854 (1.49%)       71290  (28%) (0.41%)    
+synsets     15320733        105496 (0.68%)        58016 (54%) (0.37%)    
+synsets     17005200	    306620 (1.80%)       99004 (32%) (0.58%)

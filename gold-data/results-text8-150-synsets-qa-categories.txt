@@ -1,224 +1,112 @@
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/capital-common-countries-synsets.txt
 Questions:  506
-Eval  203/506 accuracy = 40.1%
+Eval  279/506 accuracy = 55.1%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/capital-common-countries-synsets.txt
-Questions:  506
-Eval  301/506 accuracy = 59.5%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/capital-world-synsets.txt
-Questions:  2961
-Eval  707/2961 accuracy = 23.9%
+Questions:  3091
+Eval  975/3091 accuracy = 31.5%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/capital-world-synsets.txt
-Questions:  2961
-Eval  842/2961 accuracy = 28.4%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/currency-synsets.txt
-Questions:  261
-Eval    5/261 accuracy =  1.9%
+Questions:  460
+Eval   12/460 accuracy =  2.6%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/currency-synsets.txt
-Questions:  261
-Eval    8/261 accuracy =  3.1%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/city-synsets.txt
-Questions:  1395
-Eval  359/1395 accuracy = 25.7%
+Questions:  2046
+Eval  588/2046 accuracy = 28.7%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/city-synsets.txt
-Questions:  1395
-Eval  447/1395 accuracy = 32.0%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/family-synsets.txt
-Questions:  238
-Eval   86/238 accuracy = 36.1%
+Questions:  378
+Eval  133/378 accuracy = 35.2%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/family-synsets.txt
-Questions:  238
-Eval   86/238 accuracy = 36.1%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram1-adj-adv-synsets.txt
-Questions:  244
-Eval   11/244 accuracy =  4.5%
+Questions:  928
+Eval   38/928 accuracy =  4.1%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram1-adj-adv-synsets.txt
-Questions:  244
-Eval   11/244 accuracy =  4.5%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram2-opposite-synsets.txt
-Questions:  308
-Eval    7/308 accuracy =  2.3%
+Questions:  454
+Eval   14/454 accuracy =  3.1%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram2-opposite-synsets.txt
-Questions:  308
-Eval   12/308 accuracy =  3.9%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram3-comparative-synsets.txt
-Questions:  1186
-Eval 1186/1186 accuracy = 100.0%
+Questions:  1322
+Eval 1322/1322 accuracy = 100.0%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram3-comparative-synsets.txt
-Questions:  1186
-Eval 1186/1186 accuracy = 100.0%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram4-superlative-synsets.txt
-Questions:  994
-Eval  964/994 accuracy = 97.0%
+Questions:  1118
+Eval 1086/1118 accuracy = 97.1%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram4-superlative-synsets.txt
-Questions:  994
-Eval  964/994 accuracy = 97.0%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram5-present-participle-synsets.txt
-Questions:  812
-Eval  812/812 accuracy = 100.0%
+Questions:  1048
+Eval 1016/1048 accuracy = 96.9%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram5-present-participle-synsets.txt
-Questions:  812
-Eval  812/812 accuracy = 100.0%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram6-nationality-adj-synsets.txt
-Questions:  1237
-Eval   96/1237 accuracy =  7.8%
+Questions:  1445
+Eval 1043/1445 accuracy = 72.2%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram6-nationality-adj-synsets.txt
-Questions:  1237
-Eval  593/1237 accuracy = 47.9%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram7-past-tense-synsets.txt
-Questions:  1264
-Eval 1196/1264 accuracy = 94.6%
+Questions:  1548
+Eval 1472/1548 accuracy = 95.1%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram7-past-tense-synsets.txt
-Questions:  1264
-Eval 1196/1264 accuracy = 94.6%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram8-plural-synsets.txt
-Questions:  687
-Eval  470/687 accuracy = 68.4%
+Questions:  1269
+Eval 1231/1269 accuracy = 97.0%
 Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram8-plural-synsets.txt
-Questions:  687
-Eval  657/687 accuracy = 95.6%
-Lenient=False
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
 Eval analogy file:  data/gram9-plural-verbs-synsets.txt
-Questions:  708
-Eval  708/708 accuracy = 100.0%
-Lenient=True
-I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-04-text8-synsets.txt contains 175455885 bytes, 15320733 words, 105496 unique words, 58016 unique frequent words.
-Data file:  data/2016-12-04-text8-synsets.txt
-Vocab size:  58016  + UNK
-Words per epoch:  15320733
-Eval analogy file:  data/gram9-plural-verbs-synsets.txt
-Questions:  708
-Eval  708/708 accuracy = 100.0%
+Questions:  866
+Eval  866/866 accuracy = 100.0%
