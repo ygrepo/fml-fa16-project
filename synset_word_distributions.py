@@ -6,7 +6,7 @@ Convenience code to plot the distributions of synsets vs words and words vs. syn
 '''
 def matplot_settings():
     from matplotlib.pylab import rcParams
-    rcParams['figure.figsize'] = 5,4
+    rcParams['figure.figsize'] = 4,4
     pgf_with_xelatex = {
         'text.usetex': True,
         'text.latex.unicode': True,
@@ -33,14 +33,15 @@ def plot(s1, s2):
     ax = fig.add_subplot(2,1,1)
     ax.plot(s1.index.values, s1.values)
     #ax.set_title('Synsets versus words')
-    ax.set_xlabel('Number\_of\_synsets')
-    ax.set_ylabel("Number\_of\_words")
+    ax.set_xlabel('synsets')
+    ax.set_ylabel("words")
     ax = fig.add_subplot(2,1,2)
     ax.plot( s2.index.values, s2.values)
     #ax.set_title('Words versus synsets')
-    ax.set_xlabel("Number\_of\_words")
-    ax.set_ylabel('Number\_of\_synsets')
+    ax.set_xlabel("words")
+    ax.set_ylabel('synsets')
     fig=plt.gcf()
+    plt.tight_layout()
     plt.show()
     return fig
 
