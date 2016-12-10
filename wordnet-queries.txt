@@ -1,0 +1,74 @@
+
+SELECT 'synset having N words (1..28)' AS comment;
+SELECT MIN(N),MAX(N) FROM (
+SELECT COUNT(wordid) AS N FROM synsets
+LEFT JOIN senses USING(synsetid)
+GROUP BY synsetid) AS C;
+
+select '# of words per synset' AS comment;
+SELECT definition, COUNT(wordid) AS N,synsetid FROM synsets
+LEFT JOIN senses USING(synsetid) GROUP BY synsetid order by count(wordid) desc;
+
+SELECT 'word having N synset (1..75)' AS comment;
+SELECT MIN(N),MAX(N) FROM (
+SELECT COUNT(synsetid) AS N FROM words
+LEFT JOIN senses USING(wordid)
+GROUP BY wordid) AS C;
+
+select '# of synsets per worsd' AS comment;
+SELECT wordid, lemma, COUNT(synsetid) AS N, sensekey  FROM words
+LEFT JOIN senses USING(wordid)
+GROUP BY wordid having count(synsetid) = 75 order by count(synsetid) desc;
+
+
+SELECT 'synset having N verbs (1..25)' AS comment;
+SELECT MIN(N),MAX(N) FROM (SELECT COUNT(wordid) AS N FROM synsets
+LEFT JOIN senses USING(synsetid)
+WHERE synsets.pos='r'
+GROUP BY synsetid) AS C;
+
+
+SELECT 'noun having N synset (1..33)' AS comment;
+SELECT MIN(N),MAX(N)  FROM (
+SELECT COUNT(synsetid) AS N FROM words
+LEFT JOIN senses USING(wordid)
+LEFT JOIN synsets USING(synsetid)
+WHERE synsets.pos='s'
+GROUP BY wordid) AS C;
+
+SELECT 'counting number of synsets for adjective satelites' AS comment;
+SELECT COUNT(synsetid), lemma AS N FROM words
+LEFT JOIN senses USING(wordid)
+LEFT JOIN synsets USING(synsetid)
+WHERE synsets.pos='s'
+GROUP BY wordid
+ORDER BY COUNT(synsetid) DESC;
+
+SELECT '(MIN,MAX) of words for a synset' AS comment;
+SELECT MIN(N),MAX(N) FROM ( SELECT COUNT(wordid) AS N FROM synsets LEFT JOIN senses USING(synsetid) GROUP BY synsetid) AS C;
+SELECT '(MIN,MAX) of synsets for a word' AS comment;
+SELECT MIN(N),MAX(N) FROM ( SELECT COUNT(synsetid) AS N FROM words LEFT JOIN senses USING(wordid) GROUP BY wordid) AS C;
+
+select * from senses LEFT JOIN words using(wordid) where synsetid = 105566889 ;
+
+SELECT lemma,pos,sensenum,tagcount,SUBSTRING(definition FROM 1 FOR 64)
+FROM dict
+WHERE lemma = 'break'
+ORDER BY pos,sensenum;
+
+select count(*) from words;
+select count(*) from senses;
+
+select * from words w where w.lemma='dog';
+select * from senses where wordid = 38148;
+
+
+select * from senses where wordid = 24777;
+select * from synsets s where s.synsetid = 109940626;
+
+SELECT 'DICTIONARY-LIKE' AS section;
+SELECT lemma,pos,sensenum,synsetid,SUBSTRING(definition FROM 1 FOR 64),SUBSTRING(sampleset FROM 1 FOR 50)
+FROM dict
+WHERE lemma = 'like' AND pos = 'v'
+ORDER BY pos,sensenum;
+
