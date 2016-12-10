@@ -3,7 +3,6 @@
  */
 
 import com.google.common.base.Joiner;
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import de.tudarmstadt.ukp.dkpro.wsd.lesk.algorithm.SimplifiedExtendedLesk;
 import de.tudarmstadt.ukp.dkpro.wsd.lesk.algorithm.SimplifiedLesk;
@@ -14,6 +13,7 @@ import de.tudarmstadt.ukp.dkpro.wsd.si.POS;
 import de.tudarmstadt.ukp.dkpro.wsd.si.SenseInventoryException;
 import de.tudarmstadt.ukp.dkpro.wsd.si.wordnet.WordNetSenseKeySenseInventory;
 import net.sf.extjwnl.JWNLException;
+import org.apache.commons.cli.*;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
@@ -31,25 +31,67 @@ import java.util.Map;
 public class WSD {
     private static Logger logger = Logger.getLogger(WSD.class);
 
-    private WordNetSenseKeySenseInventory inventory;
-    private SimplifiedLesk lesk;
+
+    enum MODE {STREAM, LINE}
+
+    ;
 
     private static Joiner JOINER = Joiner.on(" ").skipNulls();
-//    private static List<String> FILENAMES= ImmutableList.of("gram6-nationality-adj");
-    private static List<String> FILENAMES= ImmutableList.of("capital-common-countries","capital-world","currency",
-            "city","family","gram1-adj-adv","gram2-opposite","gram3-comparative","gram4-superlative",
-            "gram5-present-participle","gram6-nationality-adj","gram7-past-tense","gram8-plural","gram9-plural-verbs");
+    private static final String STREAMFILE_OPTION = "streamfile";
+    private static final String OUTPUT_STREAMFILE_OPTION = "outstreamfile";
+    private static final String LINEFILE_OPTION = "linefile";
+    private static final String OUTPUT_LINEFILE_OPTION = "outlinefile";
+
+    private final CommandLineParser commandLineParser = new DefaultParser();
+    private final Options options = new Options();
+
+    private WordNetSenseKeySenseInventory inventory;
+    private SimplifiedLesk lesk;
+    private String streamFileName = "";
+    private String outputStreamFileName = "";
+    private String lineFileName = "";
+    private String outputLineFileName = "";
+    private MODE mode;
 
     public WSD(WordNetSenseKeySenseInventory inventory) {
         this.inventory = inventory;
         this.lesk = new SimplifiedExtendedLesk(inventory,
                 new DotProduct(), new MostObjects(), new StringSplit(),
                 new StringSplit());
+        createOptions();
 //
 //        this.lesk = new SimplifiedLesk(inventory,
 //                new SetOverlap(), new NoNormalization(), new StringSplit(),
 //                new StringSplit());
     }
+
+    private void createOptions() {
+        Option streamfile = Option.builder().longOpt(STREAMFILE_OPTION)
+                .hasArg()
+                .desc("use given streamfile")
+                .build();
+        options.addOption(streamfile);
+
+        Option outputStreamfile = Option.builder().longOpt(OUTPUT_STREAMFILE_OPTION)
+                .hasArg()
+                .desc("generates output streamfile")
+                .build();
+        options.addOption(outputStreamfile);
+
+        Option linefile = Option.builder().longOpt(LINEFILE_OPTION)
+                .hasArg()
+                .desc("use given linefile")
+                .build();
+        options.addOption(linefile);
+
+        Option outlinefile = Option.builder().longOpt(OUTPUT_LINEFILE_OPTION)
+                .hasArg()
+                .desc("generates output linefile")
+                .build();
+        options.addOption(outlinefile);
+
+    }
+
 
     public String getBestSense(String lemma, String context, POS pos) throws SenseInventoryException, JWNLException {
         Map<String, Double> senseProbmap = lesk.getDisambiguation(lemma, pos, context);
@@ -72,7 +114,7 @@ public class WSD {
         try {
             content = new String(Files.readAllBytes(Paths.get(filename)));
         } catch (Exception e) {
-            logger.warn("Exception=" + e.getMessage());
+            logger.warn("Exception on read string=" + e.getMessage());
         }
         return content;
     }
@@ -91,7 +133,7 @@ public class WSD {
 
             br.close();
         } catch (Exception e) {
-            logger.warn("Exception=" + e.getMessage());
+            logger.warn("Exception on getlines=" + e.getMessage());
         }
         return lines;
     }
@@ -105,7 +147,7 @@ public class WSD {
             FileUtils.writeStringToFile(file, trSt);
             logger.info("Saved file=" + fileName);
         } catch (Exception e) {
-            logger.warn("Exception=" + e.getMessage());
+            logger.warn("Exception on saving stream=" + e.getMessage());
         }
     }
 
@@ -116,26 +158,26 @@ public class WSD {
             FileUtils.writeLines(file, senses);
             logger.info("Saved file=" + fileName);
         } catch (Exception e) {
-            logger.warn("Exception=" + e.getMessage());
+            logger.warn("Exception on saving lines=" + e.getMessage());
         }
     }
 
 
-    public void generateWordStreamSenses(String inputFilename, String outputFilename, int winSz) {
+    public void generateWordStreamSenses(int winSz) {
         try {
-            String content = readStringFromFile(inputFilename);
+            String content = readStringFromFile(this.streamFileName);
             content = content.trim();
             logger.debug("Content=" + content);
             String[] tuples = content.split("\\s+");
             content = null;
 //            String[] newArray = Arrays.copyOfRange(tuples, 0, 21);
-//            tuples = newArray;
+//           tuples = newArray;
             int total = tuples.length;
             logger.info("Processing #tuples=" + total);
             int j = 0;
             for (int i = 0; i < total; i++) {
                 BatchSenses batchSenses = getTupleSenses(tuples, i, i + total, winSz);
-                writeSenseStreamToFile(outputFilename, batchSenses.senses);
+                writeSenseStreamToFile(this.outputStreamFileName, batchSenses.senses);
                 i = batchSenses.index;
                 j++;
                 batchSenses = null;
@@ -148,9 +190,9 @@ public class WSD {
         }
     }
 
-    public void generateQASenses(String inputFilename, String outputFilename) {
+    public void generateLineSenses() {
         try {
-            List<String> lines = getLines(inputFilename);
+            List<String> lines = getLines(this.lineFileName);
             int total = lines.size();
             logger.info("Processing #lines=" + total);
             int i = 0;
@@ -176,9 +218,9 @@ public class WSD {
             }
 
             if (total != 0) {
-                logger.info("No senses for " + (100.0 * unkLine/(total * 1.0)));
+                logger.info("No senses for " + (100.0 * unkLine / (total * 1.0)));
             }
-            writeSenseLinesToFile(outputFilename, senseList);
+            writeSenseLinesToFile(this.outputLineFileName, senseList);
         } catch (Exception e) {
             logger.warn("Exception=" + e.getMessage());
         }
@@ -307,36 +349,60 @@ public class WSD {
         return new Indices(li, ri);
     }
 
-    public void generateText8Senses() {
-        String[] indices = new String[]{"o","p","q"};
-        //String[] indices = new String[]{"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q"};
-        String inputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
-        String outputFilename = "/home/yves/code/github/FML-FA16-Project/pre-data/xa";
-        for(String idx: indices) {
-            String if2 = inputFilename + idx;
-            System.out.println(if2);
-            String of2 = outputFilename + idx + "-synsets.txt";
-            System.out.println(of2);
-            generateWordStreamSenses(if2, of2, 4);
+    public void generateWordStreamSensesFromFile() {
+        if (StringUtils.isBlank(this.streamFileName) || StringUtils.isBlank(this.outputStreamFileName)) {
+            logger.info("Invalid filenames, ignoring");
+            return;
+        }
+        generateWordStreamSenses(4);
+    }
+
+    public void generateLineSensesFromFile() {
+        if (StringUtils.isBlank(this.lineFileName) || StringUtils.isBlank(this.outputLineFileName)) {
+            logger.info("Invalid filenames, ignoring");
+            return;
+        }
+        generateLineSenses();
+    }
+
+
+    public void parse(String[] args) {
+        try {
+            // parse the command line arguments
+            CommandLine line = commandLineParser.parse(options, args);
+            if (line.hasOption(STREAMFILE_OPTION)) {
+                this.streamFileName = line.getOptionValue(STREAMFILE_OPTION);
+                logger.info("processing stream filename :" + this.streamFileName);
+                this.mode = MODE.STREAM;
+            }
+            if (line.hasOption(OUTPUT_STREAMFILE_OPTION)) {
+                this.outputStreamFileName = line.getOptionValue(OUTPUT_STREAMFILE_OPTION);
+                logger.info("output stream filename :" + this.outputStreamFileName);
+                this.mode = MODE.STREAM;
+            }
+            if (line.hasOption(LINEFILE_OPTION)) {
+                this.lineFileName = line.getOptionValue(LINEFILE_OPTION);
+                logger.info("processing line filename: " + this.lineFileName);
+                this.mode = MODE.LINE;
+            }
+            if (line.hasOption(OUTPUT_LINEFILE_OPTION)) {
+                this.outputLineFileName = line.getOptionValue(OUTPUT_LINEFILE_OPTION);
+                logger.info("output line filename: " + this.outputLineFileName);
+                this.mode = MODE.LINE;
+            }
+        } catch (ParseException exp) {
+            logger.error("Parsing failed", exp);
         }
 
     }
 
-    public void generateQASenseFromFiles() {
-        for(String filename: FILENAMES) {
-            String inputFilename = "../data/" + filename + "-l-pos.txt";
-            String outputFilename = "../data/" + filename + "-synsets.txt";
-            generateQASenses(inputFilename, outputFilename);
-        }
-
-    }
 
     public static void main(String[] args) throws Exception {
+
 
         WordNetSenseKeySenseInventory inventory =
                 new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
-//        logger.debug(wsd.getBestSense("Baghdad", "Athens Greece Baghdad Iraq", POS.NOUN));
 //        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
 //        logger.debug(wsd.getBestSense("real", "denmark krone brazil real", POS.NOUN));
 //        logger.debug(wsd.getBestSense("kuna", "Algeria dinar Croatia kuna", POS.NOUN));
@@ -345,10 +411,11 @@ public class WSD {
 //        logger.debug(wsd.getBestSense("apparently", "amaze amazingly apparent apparently", POS.ADV));
 //        logger.debug(wsd.getBestSense("impossibly","acceptable unacceptable possibly impossibly", POS.ADJ));
 
-
-        wsd.generateText8Senses();
-        //wsd.generateQASenseFromFiles();
-
+        wsd.parse(args);
+        if (wsd.mode == MODE.STREAM)
+            wsd.generateWordStreamSensesFromFile();
+        if (wsd.mode == MODE.LINE)
+            wsd.generateLineSensesFromFile();
     }
 
 
