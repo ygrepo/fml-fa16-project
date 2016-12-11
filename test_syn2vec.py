@@ -3,7 +3,7 @@ import zipfile
 from syn2vec import Syn2Vec
 from syn2vec import build_dataset, generate_batch_skipgram, plot, plot_with_labels
 from wordnet_utils import WordnetUtils
-from wordnet_utils import read_words, read_unzipped_words, get_sample_words, restore_synsetids
+from wordnet_utils import read_stream_zip_file, read_stream_file, get_sample_words, restore_synsetids
 
 
 def save_list_to_file(lst, filename):
