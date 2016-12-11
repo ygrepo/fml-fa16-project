@@ -18,10 +18,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileReader;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Arrays;
@@ -398,10 +395,8 @@ public class WSD {
 
 
     public static void main(String[] args) throws Exception {
-
-
         WordNetSenseKeySenseInventory inventory =
-                new WordNetSenseKeySenseInventory(new FileInputStream("/home/yves/code/github/FML-FA16-Project/wsd/src/main/resources/extjwnl_properties.xml"));
+                new WordNetSenseKeySenseInventory(new FileInputStream("wsd/conf/extjwnl_properties.xml"));
         WSD wsd = new WSD(inventory);
 //        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
 //        logger.debug(wsd.getBestSense("real", "denmark krone brazil real", POS.NOUN));
