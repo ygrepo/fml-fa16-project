@@ -65,16 +65,16 @@ def test_similarity(s2v, synsetid):
 
 def test_text8():
     #filename = 'data/text8.zip'
-   # filename = 'data/text8-synsets.txt'
- #   words = read_unzipped_words(filename)
-#    words = words[:10000]
-    save_path =  'models/basic-synsets'
+    #filename = 'data/2016-12-07-text8-synsets.txt'
+    #words = read_stream_file(filename)
+    #words = words[:10000]
+    save_path =  'models/synsets'
   #  print('Data size', len(words))
     #fit(words, 100001, save_path)
     s2v = restore('%s%s' %(save_path, '/model.ckpt'))
     # test_similarity(s2v, 'religious')
     # print(s2v.transform(['religious']).shape)
-    plot(s2v, 'models/basic-synsets/tsne_text8.png')
+    plot(s2v, 'models/synsets/tsne-text8.png')
 
 
 def test_sample():

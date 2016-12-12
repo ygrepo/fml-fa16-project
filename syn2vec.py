@@ -20,6 +20,27 @@ from itertools import compress
 
 data_index = 0
 
+def matplot_settings():
+    from matplotlib.pylab import rcParams
+    rcParams['figure.figsize'] = 4,4
+    pgf_with_xelatex = {
+        'text.usetex': True,
+        'text.latex.unicode': True,
+        'pgf.rcfonts': False,
+        'font.family': 'sans-serif',
+        "pgf.texsystem": "xelatex",
+        "pgf.preamble": [
+            r"\usepackage{amssymb}",
+            r"\usepackage{amsmath}",
+            r"\usepackage{fontspec}",
+            r"\setmainfont{Gentium Book Basic}",
+            r"\setsansfont{Open Sans Light}",
+            r"\usepackage{unicode-math}",
+            r"\setmathfont{TeX Gyre Termes Math}"
+        ]
+    }
+    rcParams.update(pgf_with_xelatex)
+
 # Read the data into a list of strings.
 def read_data(filename):
     """Extract the first file enclosed in a zip file as a list of words"""
@@ -116,7 +137,8 @@ def generate_batch_cbow(data, batch_size, num_skips, skip_window):
 def plot_with_labels(low_dim_embs, labels, filename='tsne_senses.png'):
     assert low_dim_embs.shape[0] >= len(labels), "More labels than embeddings"
     # senses_names = load_senses_names_dict()
-    plt.figure(figsize=(18, 18))  #in inches
+    plt.figure(figsize=(6, 6))  #in inches
+    #plt.figure(figsize=(18, 18))  #in inches
     for i, label in enumerate(labels):
         x, y = low_dim_embs[i,:]
         plt.scatter(x, y)
@@ -132,7 +154,8 @@ def plot_with_labels(low_dim_embs, labels, filename='tsne_senses.png'):
 
 def plot(w2vc, filename):
     tsne = TSNE(perplexity=30, n_components=2, init='pca', n_iter=5000)
-    plot_only = w2vc.vocabulary_size
+    plot_only = 200
+    #plot_only = w2vc.vocabulary_size
     low_dim_embs = tsne.fit_transform(w2vc.final_embeddings[:plot_only,:])
     labels = [w2vc.reverse_dictionary[i] for i in xrange(plot_only)]
     plot_with_labels(low_dim_embs, labels, filename)
