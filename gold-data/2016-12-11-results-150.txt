@@ -1,0 +1,308 @@
+yves@yves-XPS-13-9350:~/code/github/FML-FA16-Project$ ./train.sh 
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 306620 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  306620  + UNK
+Words per epoch:  17005200
+Eval analogy file:  data/capital-common-countries-synsets.txt
+Questions:  506
+Skipped:  0
+Epoch    1 Step   152260: lr = 0.025 words/sec =      999
+Eval    5/506 accuracy =  1.0%
+Epoch    2 Step   304473: lr = 0.025 words/sec =     3421
+Eval    8/506 accuracy =  1.6%
+Epoch    3 Step   456724: lr = 0.025 words/sec =     6007
+Eval   12/506 accuracy =  2.4%
+Epoch    4 Step   608970: lr = 0.025 words/sec =     9008
+Eval   18/506 accuracy =  3.6%
+Epoch    5 Step   761190: lr = 0.024 words/sec =     3386
+Eval   13/506 accuracy =  2.6%
+Epoch    6 Step   913463: lr = 0.024 words/sec =    15109
+Eval   32/506 accuracy =  6.3%
+Epoch    7 Step  1065737: lr = 0.024 words/sec =     6388
+Eval   30/506 accuracy =  5.9%
+Epoch    8 Step  1217964: lr = 0.024 words/sec =     5985
+Eval   35/506 accuracy =  6.9%
+Epoch    9 Step  1370247: lr = 0.024 words/sec =     7500
+Eval   44/506 accuracy =  8.7%
+Epoch   10 Step  1522509: lr = 0.024 words/sec =     4720
+Eval   31/506 accuracy =  6.1%
+Epoch   11 Step  1674783: lr = 0.024 words/sec =     4879
+Eval   30/506 accuracy =  5.9%
+Epoch   12 Step  1827037: lr = 0.024 words/sec =     5631
+Eval   35/506 accuracy =  6.9%
+Epoch   13 Step  1979221: lr = 0.023 words/sec =     6404
+Eval   45/506 accuracy =  8.9%
+Epoch   14 Step  2131450: lr = 0.023 words/sec =    19570
+Eval   42/506 accuracy =  8.3%
+Epoch   15 Step  2283695: lr = 0.023 words/sec =    11638
+Eval   38/506 accuracy =  7.5%
+Epoch   16 Step  2436019: lr = 0.023 words/sec =    17221
+Eval   37/506 accuracy =  7.3%
+Epoch   17 Step  2588273: lr = 0.023 words/sec =    17089
+Eval   39/506 accuracy =  7.7%
+Epoch   18 Step  2740531: lr = 0.023 words/sec =    17918
+Eval   37/506 accuracy =  7.3%
+Epoch   19 Step  2892816: lr = 0.023 words/sec =    17579
+Eval   44/506 accuracy =  8.7%
+Epoch   20 Step  3045085: lr = 0.023 words/sec =    17646
+Eval   44/506 accuracy =  8.7%
+Epoch   21 Step  3197367: lr = 0.022 words/sec =    15636
+Eval   45/506 accuracy =  8.9%
+Epoch   22 Step  3349626: lr = 0.022 words/sec =    13701
+Eval   34/506 accuracy =  6.7%
+Epoch   23 Step  3501919: lr = 0.022 words/sec =    17912
+Eval   36/506 accuracy =  7.1%
+Epoch   24 Step  3654134: lr = 0.022 words/sec =    14715
+Eval   34/506 accuracy =  6.7%
+Epoch   25 Step  3806460: lr = 0.022 words/sec =    16813
+Eval   39/506 accuracy =  7.7%
+Epoch   26 Step  3958706: lr = 0.022 words/sec =    16098
+Eval   48/506 accuracy =  9.5%
+Epoch   27 Step  4111016: lr = 0.022 words/sec =    18220
+Eval   40/506 accuracy =  7.9%
+Epoch   28 Step  4263279: lr = 0.022 words/sec =    16927
+Eval   35/506 accuracy =  6.9%
+Epoch   29 Step  4415596: lr = 0.021 words/sec =    16286
+Eval   31/506 accuracy =  6.1%
+Epoch   30 Step  4567860: lr = 0.021 words/sec =    17746
+Eval   18/506 accuracy =  3.6%
+Epoch   31 Step  4720120: lr = 0.021 words/sec =    15725
+Eval   43/506 accuracy =  8.5%
+Epoch   32 Step  4872421: lr = 0.021 words/sec =    16011
+Eval   32/506 accuracy =  6.3%
+Epoch   33 Step  5024670: lr = 0.021 words/sec =    14172
+Eval   44/506 accuracy =  8.7%
+Epoch   34 Step  5176974: lr = 0.021 words/sec =    15761
+Eval   29/506 accuracy =  5.7%
+Epoch   35 Step  5329294: lr = 0.021 words/sec =    16134
+Eval   29/506 accuracy =  5.7%
+Epoch   36 Step  5481575: lr = 0.021 words/sec =    16802
+Eval   37/506 accuracy =  7.3%
+Epoch   37 Step  5633805: lr = 0.020 words/sec =    15336
+Eval   36/506 accuracy =  7.1%
+Epoch   38 Step  5786060: lr = 0.020 words/sec =    17097
+Eval   33/506 accuracy =  6.5%
+Epoch   39 Step  5938249: lr = 0.020 words/sec =    14303
+Eval   51/506 accuracy = 10.1%
+Epoch   40 Step  6090494: lr = 0.020 words/sec =    16257
+Eval   48/506 accuracy =  9.5%
+Epoch   41 Step  6242752: lr = 0.020 words/sec =    16159
+Eval   48/506 accuracy =  9.5%
+Epoch   42 Step  6394999: lr = 0.020 words/sec =    15302
+Eval   46/506 accuracy =  9.1%
+Epoch   43 Step  6547282: lr = 0.020 words/sec =    16054
+Eval   40/506 accuracy =  7.9%
+Epoch   44 Step  6699588: lr = 0.020 words/sec =    14955
+Eval   47/506 accuracy =  9.3%
+Epoch   45 Step  6851828: lr = 0.019 words/sec =    14339
+Eval   43/506 accuracy =  8.5%
+Epoch   46 Step  7004150: lr = 0.019 words/sec =    15108
+Eval   37/506 accuracy =  7.3%
+Epoch   47 Step  7156393: lr = 0.019 words/sec =    17174
+Eval   57/506 accuracy = 11.3%
+Epoch   48 Step  7308684: lr = 0.019 words/sec =    17094
+Eval   47/506 accuracy =  9.3%
+Epoch   49 Step  7460901: lr = 0.019 words/sec =    15126
+Eval   47/506 accuracy =  9.3%
+Epoch   50 Step  7613186: lr = 0.019 words/sec =    14107
+Eval   52/506 accuracy = 10.3%
+Epoch   51 Step  7765407: lr = 0.019 words/sec =    16421
+Eval   48/506 accuracy =  9.5%
+Epoch   52 Step  7917628: lr = 0.019 words/sec =    16516
+Eval   47/506 accuracy =  9.3%
+Epoch   53 Step  8069923: lr = 0.018 words/sec =    15293
+Eval   53/506 accuracy = 10.5%
+Epoch   54 Step  8222178: lr = 0.018 words/sec =    15347
+Eval   36/506 accuracy =  7.1%
+Epoch   55 Step  8374438: lr = 0.018 words/sec =    15535
+Eval   47/506 accuracy =  9.3%
+Epoch   56 Step  8526694: lr = 0.018 words/sec =    17539
+Eval   50/506 accuracy =  9.9%
+Epoch   57 Step  8678921: lr = 0.018 words/sec =    15907
+Eval   48/506 accuracy =  9.5%
+Epoch   58 Step  8831181: lr = 0.018 words/sec =    16332
+Eval   56/506 accuracy = 11.1%
+Epoch   59 Step  8983419: lr = 0.018 words/sec =    17108
+Eval   67/506 accuracy = 13.2%
+Epoch   60 Step  9135658: lr = 0.018 words/sec =    15674
+Eval   54/506 accuracy = 10.7%
+Epoch   61 Step  9287963: lr = 0.017 words/sec =    16859
+Eval   72/506 accuracy = 14.2%
+Epoch   62 Step  9440245: lr = 0.017 words/sec =    17757
+Eval   66/506 accuracy = 13.0%
+Epoch   63 Step  9592547: lr = 0.017 words/sec =    14318
+Eval   69/506 accuracy = 13.6%
+Epoch   64 Step  9744884: lr = 0.017 words/sec =    14837
+Eval   58/506 accuracy = 11.5%
+Epoch   65 Step  9897125: lr = 0.017 words/sec =    14259
+Eval   58/506 accuracy = 11.5%
+Epoch   66 Step 10049365: lr = 0.017 words/sec =    14381
+Eval   67/506 accuracy = 13.2%
+Epoch   67 Step 10201602: lr = 0.017 words/sec =    17813
+Eval   74/506 accuracy = 14.6%
+Epoch   68 Step 10353924: lr = 0.017 words/sec =    17525
+Eval   77/506 accuracy = 15.2%
+Epoch   69 Step 10506187: lr = 0.016 words/sec =    17509
+Eval   63/506 accuracy = 12.5%
+Epoch   70 Step 10658468: lr = 0.016 words/sec =    17110
+Eval   63/506 accuracy = 12.5%
+Epoch   71 Step 10810718: lr = 0.016 words/sec =    16249
+Eval   71/506 accuracy = 14.0%
+Epoch   72 Step 10962954: lr = 0.016 words/sec =    16607
+Eval   61/506 accuracy = 12.1%
+Epoch   73 Step 11115165: lr = 0.016 words/sec =     7884
+Eval   63/506 accuracy = 12.5%
+Epoch   74 Step 11267374: lr = 0.016 words/sec =    17441
+Eval   59/506 accuracy = 11.7%
+Epoch   75 Step 11419633: lr = 0.016 words/sec =    21091
+Eval   54/506 accuracy = 10.7%
+Epoch   76 Step 11571908: lr = 0.016 words/sec =     2507
+Eval   67/506 accuracy = 13.2%
+Epoch   77 Step 11724148: lr = 0.015 words/sec =    16206
+Eval   83/506 accuracy = 16.4%
+Epoch   78 Step 11876447: lr = 0.015 words/sec =     9380
+Eval   69/506 accuracy = 13.6%
+Epoch   79 Step 12028687: lr = 0.015 words/sec =     3108
+Eval   59/506 accuracy = 11.7%
+Epoch   80 Step 12180974: lr = 0.015 words/sec =    15690
+Eval   64/506 accuracy = 12.6%
+Epoch   81 Step 12333258: lr = 0.015 words/sec =    13409
+Eval   79/506 accuracy = 15.6%
+Epoch   82 Step 12485541: lr = 0.015 words/sec =    16772
+Eval   74/506 accuracy = 14.6%
+Epoch   83 Step 12637830: lr = 0.015 words/sec =    13705
+Eval   73/506 accuracy = 14.4%
+Epoch   84 Step 12790084: lr = 0.015 words/sec =    16660
+Eval   69/506 accuracy = 13.6%
+Epoch   85 Step 12942375: lr = 0.014 words/sec =    15567
+Eval   59/506 accuracy = 11.7%
+Epoch   86 Step 13094676: lr = 0.014 words/sec =    16471
+Eval   74/506 accuracy = 14.6%
+Epoch   87 Step 13246961: lr = 0.014 words/sec =    14082
+Eval   67/506 accuracy = 13.2%
+Epoch   88 Step 13399258: lr = 0.014 words/sec =    17528
+Eval   61/506 accuracy = 12.1%
+Epoch   89 Step 13551537: lr = 0.014 words/sec =    16073
+Eval   65/506 accuracy = 12.8%
+Epoch   90 Step 13703813: lr = 0.014 words/sec =    16363
+Eval   69/506 accuracy = 13.6%
+Epoch   91 Step 13856111: lr = 0.014 words/sec =    17045
+Eval   87/506 accuracy = 17.2%
+Epoch   92 Step 14008341: lr = 0.014 words/sec =    13435
+Eval   83/506 accuracy = 16.4%
+Epoch   93 Step 14160640: lr = 0.013 words/sec =    16291
+Eval   68/506 accuracy = 13.4%
+Epoch   94 Step 14312961: lr = 0.013 words/sec =    15194
+Eval   81/506 accuracy = 16.0%
+Epoch   95 Step 14465204: lr = 0.013 words/sec =    15142
+Eval   75/506 accuracy = 14.8%
+Epoch   96 Step 14617481: lr = 0.013 words/sec =    15698
+Eval   75/506 accuracy = 14.8%
+Epoch   97 Step 14769784: lr = 0.013 words/sec =    15802
+Eval   82/506 accuracy = 16.2%
+Epoch   98 Step 14922066: lr = 0.013 words/sec =    16818
+Eval   86/506 accuracy = 17.0%
+Epoch   99 Step 15074328: lr = 0.013 words/sec =    15246
+Eval   88/506 accuracy = 17.4%
+Epoch  100 Step 15226574: lr = 0.013 words/sec =    15705
+Eval   79/506 accuracy = 15.6%
+Epoch  101 Step 15378865: lr = 0.012 words/sec =    18229
+Eval   69/506 accuracy = 13.6%
+Epoch  102 Step 15531146: lr = 0.012 words/sec =    16176
+Eval   91/506 accuracy = 18.0%
+Epoch  103 Step 15683440: lr = 0.012 words/sec =    17098
+Eval   91/506 accuracy = 18.0%
+Epoch  104 Step 15835687: lr = 0.012 words/sec =    17902
+Eval   82/506 accuracy = 16.2%
+Epoch  105 Step 15987966: lr = 0.012 words/sec =    16921
+Eval   88/506 accuracy = 17.4%
+Epoch  106 Step 16140262: lr = 0.012 words/sec =    16716
+Eval   91/506 accuracy = 18.0%
+Epoch  107 Step 16292544: lr = 0.012 words/sec =    16941
+Eval   92/506 accuracy = 18.2%
+Epoch  108 Step 16444779: lr = 0.012 words/sec =    15422
+Eval   92/506 accuracy = 18.2%
+Epoch  109 Step 16597057: lr = 0.011 words/sec =    17533
+Eval   99/506 accuracy = 19.6%
+Epoch  110 Step 16749284: lr = 0.011 words/sec =    14169
+Eval   91/506 accuracy = 18.0%
+Epoch  111 Step 16901492: lr = 0.011 words/sec =    14320
+Eval   92/506 accuracy = 18.2%
+Epoch  112 Step 17053758: lr = 0.011 words/sec =    15329
+Eval   85/506 accuracy = 16.8%
+Epoch  113 Step 17205984: lr = 0.011 words/sec =    14920
+Eval   89/506 accuracy = 17.6%
+Epoch  114 Step 17358260: lr = 0.011 words/sec =    15435
+Eval   83/506 accuracy = 16.4%
+Epoch  115 Step 17510504: lr = 0.011 words/sec =    16511
+Eval   78/506 accuracy = 15.4%
+Epoch  116 Step 17662832: lr = 0.011 words/sec =    16483
+Eval   81/506 accuracy = 16.0%
+Epoch  117 Step 17815132: lr = 0.010 words/sec =    17912
+Eval   98/506 accuracy = 19.4%
+Epoch  118 Step 17967438: lr = 0.010 words/sec =    16108
+Eval   89/506 accuracy = 17.6%
+Epoch  119 Step 18119727: lr = 0.010 words/sec =    16134
+Eval   83/506 accuracy = 16.4%
+Epoch  120 Step 18271994: lr = 0.010 words/sec =    15012
+Eval   91/506 accuracy = 18.0%
+Epoch  121 Step 18424240: lr = 0.010 words/sec =    14023
+Eval   94/506 accuracy = 18.6%
+Epoch  122 Step 18576503: lr = 0.010 words/sec =    17228
+Eval   84/506 accuracy = 16.6%
+Epoch  123 Step 18728802: lr = 0.010 words/sec =    17943
+Eval   93/506 accuracy = 18.4%
+Epoch  124 Step 18881106: lr = 0.010 words/sec =    15663
+Eval   94/506 accuracy = 18.6%
+Epoch  125 Step 19033416: lr = 0.009 words/sec =    17224
+Eval  103/506 accuracy = 20.4%
+Epoch  126 Step 19185685: lr = 0.009 words/sec =    17416
+Eval  103/506 accuracy = 20.4%
+Epoch  127 Step 19337952: lr = 0.009 words/sec =    13410
+Eval   95/506 accuracy = 18.8%
+Epoch  128 Step 19490205: lr = 0.009 words/sec =    15499
+Eval  102/506 accuracy = 20.2%
+Epoch  129 Step 19642480: lr = 0.009 words/sec =    15315
+Eval   95/506 accuracy = 18.8%
+Epoch  130 Step 19794764: lr = 0.009 words/sec =    11923
+Eval   87/506 accuracy = 17.2%
+Epoch  131 Step 19947096: lr = 0.009 words/sec =    18176
+Eval   87/506 accuracy = 17.2%
+Epoch  132 Step 20099352: lr = 0.009 words/sec =    16627
+Eval   98/506 accuracy = 19.4%
+Epoch  133 Step 20251645: lr = 0.008 words/sec =    16632
+Eval  101/506 accuracy = 20.0%
+Epoch  134 Step 20403908: lr = 0.008 words/sec =    17306
+Eval  102/506 accuracy = 20.2%
+Epoch  135 Step 20556192: lr = 0.008 words/sec =    17624
+Eval   93/506 accuracy = 18.4%
+Epoch  136 Step 20708459: lr = 0.008 words/sec =    16344
+Eval   99/506 accuracy = 19.6%
+Epoch  137 Step 20860662: lr = 0.008 words/sec =    15543
+Eval  100/506 accuracy = 19.8%
+Epoch  138 Step 21012915: lr = 0.008 words/sec =    13721
+Eval   95/506 accuracy = 18.8%
+Epoch  139 Step 21165185: lr = 0.008 words/sec =    15567
+Eval  108/506 accuracy = 21.3%
+Epoch  140 Step 21317442: lr = 0.008 words/sec =    16901
+Eval   97/506 accuracy = 19.2%
+Epoch  141 Step 21469731: lr = 0.007 words/sec =    14854
+Eval   94/506 accuracy = 18.6%
+Epoch  142 Step 21621950: lr = 0.007 words/sec =    15927
+Eval   96/506 accuracy = 19.0%
+Epoch  143 Step 21774217: lr = 0.007 words/sec =    16217
+Eval  100/506 accuracy = 19.8%
+Epoch  144 Step 21926509: lr = 0.007 words/sec =    17623
+Eval   95/506 accuracy = 18.8%
+Epoch  145 Step 22078809: lr = 0.007 words/sec =    16333
+Eval  107/506 accuracy = 21.1%
+Epoch  146 Step 22231031: lr = 0.007 words/sec =    13887
+Eval  109/506 accuracy = 21.5%
+Epoch  147 Step 22383259: lr = 0.007 words/sec =    14217
+Eval  110/506 accuracy = 21.7%
+Epoch  148 Step 22535573: lr = 0.007 words/sec =    15582
+Eval  103/506 accuracy = 20.4%
+Epoch  149 Step 22687873: lr = 0.006 words/sec =    16296
+Eval   97/506 accuracy = 19.2%
+Epoch  150 Step 22840167: lr = 0.006 words/sec =    15929
+Eval  102/506 accuracy = 20.2%

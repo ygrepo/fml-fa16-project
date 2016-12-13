@@ -5,7 +5,7 @@ declare -a arr=("capital-common-countries" "capital-world" "currency" "city" "fa
             "gram5-present-participle" "gram6-nationality-adj" "gram7-past-tense" "gram8-plural" "gram9-plural-verbs")
 
 
-epoch="15"
+epoch="150"
 outputFile="results-text8-"$epoch"-synsets-qa-categories.txt"  
 rm -f gold-data/$outputFile
 

@@ -1,0 +1,826 @@
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_1 = Assign[T=DT_FLOAT, _class=["loc:@w_in"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_in, save/restore_slice_1)]]
+Caused by op u'save/Assign_1', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_1 = Assign[T=DT_FLOAT, _class=["loc:@w_in"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_in, save/restore_slice_1)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_1 = Assign[T=DT_FLOAT, _class=["loc:@w_in"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_in, save/restore_slice_1)]]
+Caused by op u'save/Assign_1', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_1 = Assign[T=DT_FLOAT, _class=["loc:@w_in"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_in, save/restore_slice_1)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Lenient=True
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 469, in use
+    os.path.join(opts.save_path + "/model.ckpt"))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1345, in restore
+    {self.saver_def.filename_tensor_name: save_path})
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 717, in run
+    run_metadata_ptr)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 915, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 965, in _do_run
+    target_list, options, run_metadata)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/client/session.py", line 985, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors.InvalidArgumentError: Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]
+Caused by op u'save/Assign_2', defined at:
+  File "word2vec_optimized.py", line 517, in <module>
+    tf.app.run()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 30, in run
+    sys.exit(main(sys.argv[:1] + flags_passthrough))
+  File "word2vec_optimized.py", line 507, in main
+    use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
+  File "word2vec_optimized.py", line 465, in use
+    model = Word2Vec(opts, session)
+  File "word2vec_optimized.py", line 152, in __init__
+    self.build_eval_graph()
+  File "word2vec_optimized.py", line 312, in build_eval_graph
+    self.saver = tf.train.Saver()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 986, in __init__
+    self.build()
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 1015, in build
+    restore_sequentially=self._restore_sequentially)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 620, in build
+    restore_sequentially, reshape)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 369, in _AddRestoreOps
+    assign_ops.append(saveable.restore(tensors, shapes))
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/training/saver.py", line 212, in restore
+    self.op.get_shape().is_fully_defined())
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/ops/gen_state_ops.py", line 45, in assign
+    use_locking=use_locking, name=name)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/yves/anaconda2/envs/tensorflow/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [99005,200] rhs shape= [306621,500]
+	 [[Node: save/Assign_2 = Assign[T=DT_FLOAT, _class=["loc:@w_out"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/cpu:0"](w_out, save/restore_slice_2)]]

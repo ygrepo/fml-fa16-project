@@ -128,7 +128,7 @@ def save_list_list_to_text_file(output_f, tuples):
                 f.write(felm  + '\n')
                 i += 1
                 continue
-            print(tuples_l)
+            #print(tuples_l)
             line = ""
             for (lemma, tag) in tuples_l:
                 token = ' %s,%s' % (lemma, tag)
@@ -571,7 +571,7 @@ class WordnetUtils():
         for word, tag in tags:
             pos = get_wordnet_pos(tag)
             if pos is None:
-                print("No pos for word=%s" % word)
+                #print("No pos for word=%s" % word)
                 tuples.append((word, None))
                 i += 1
                 unknown_count += 1
@@ -717,6 +717,7 @@ class SynsetLineGenerator():
         # input_filename = '%s%s' % (path, input_filename)
         word_list = read_lines(self.infile)
         print("word_list=%s" % word_list[:10])
+        #word_list = word_list[:10]
         tuples = []
         tagging_mode = TAG_MODE.FULL_TAGGING
         for word_line in word_list:
