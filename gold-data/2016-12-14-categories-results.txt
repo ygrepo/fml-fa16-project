@@ -1,20 +1,20 @@
 min_count:5
 embedding_size:200
 
-                                word text8
-Epoch                           15                                   
+                                word text8              synset text8            synset text8            synset text8
+Epoch                           15                      15                      150                     300
 
-capital-common-countries        82.4 (417/506)
-capital-world                   39.2 (1396/3564)
-currency                        11.9 (71/596)
-city                            39.1 (912/2330)
-family                          46.7 (196/420)
-gram1-adj-adv                   7.7 (76/92)
-gram2-opposite                  6.6 (50/756)            
-gram3-comparative               48.6 (648/1332)
-gram4-superlative               20 (198/992)
-gram5-present-participle        21.5 (227/1056)
-gram6-nationality-adj           74.2 (1129/1521) 
-gram7-past-tense                26.9 (419/1560)
-gram8-plural                    42.5 (566/1332)
-gram9-plural-verbs              23.7 (206/870)
+capital-common-countries        82.4 (417/506)                                  55.1 (279/506)
+capital-world                   39.2 (1396/3564)                                31.5 (975/3091)
+currency                        11.9 (71/596)                                   2.6  (12/460)
+city                            39.1 (912/2330)                                 28.7 (588/2046)
+family                          46.7 (196/420)                                  35.2 (133/378)
+gram1-adj-adv                   7.7 (76/92)                                     49.1 (38/928)
+gram2-opposite                  6.6 (50/756)                                    3.1  (14/454)
+gram3-comparative               48.6 (648/1332)                                 100  (1322/1322)
+gram4-superlative               20 (198/992)                                    97.1 (1086/1118)
+gram5-present-participle        21.5 (227/1056)                                 96.9 (1016/1048)
+gram6-nationality-adj           74.2 (1129/1521)                                72.2 (1043/1445)
+gram7-past-tense                26.9 (419/1560)                                 95.1 (1472/1548)
+gram8-plural                    42.5 (566/1332)                                 97.0 (1231/1269)
+gram9-plural-verbs              23.7 (206/870)                                  100  (866/866)

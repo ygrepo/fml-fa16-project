@@ -1,0 +1,1364 @@
+question=['banana%1:20:00::' 'banana%1:20:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'bottle%2:35:00::'
+ 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['banana%1:20:00::' 'banana%1:20:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['banana%1:20:00::' 'banana%1:20:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'dollar%1:21:01::'
+ 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['banana%1:20:00::' 'banana%1:20:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['banana%1:20:00::' 'banana%1:20:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['banana%1:20:00::' 'banana%1:20:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'finger%1:08:00::'
+ 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'mango' 'mango'], predicted=mango
+question=['banana%1:20:00::' 'banana%1:20:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['banana%1:20:00::' 'banana%1:20:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['banana%1:20:00::' 'banana%1:20:00::' 'pineapple%1:13:00::'
+ 'pineapple%1:13:00::'], predicted=pineapple%1:13:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['banana%1:20:00::' 'banana%1:20:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'bottle%1:06:00::' 'bottle%1:06:00::'], predicted=bottle%1:06:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['bird%1:05:00::' 'bird%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'cow%1:05:01::' 'cow%1:05:01::'], predicted=cow%1:05:01::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['bird%1:05:00::' 'bird%1:05:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['bird%1:05:00::' 'bird%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['bird%1:05:00::' 'bird%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['bird%1:05:00::' 'bird%1:05:00::' 'melon%1:20:00::' 'melon%1:20:00::'], predicted=melon%1:20:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'monkey' 'monkey'], predicted=monkey
+question=['bird%1:05:00::' 'bird%1:05:00::' 'mouse%1:05:00::' 'mouse%1:05:00::'], predicted=mouse%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['bird%1:05:00::' 'bird%1:05:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'pineapple%1:13:00::'
+ 'pineapple%1:13:00::'], predicted=pineapple%1:13:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['bird%1:18:00::' 'bird%1:18:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['bird%1:05:00::' 'bird%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['bottle' 'bottle%1:06:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'mango' 'mango'], predicted=mango
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['bottle%1:06:00::' 'bottle%1:06:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['building%1:06:00::' 'building%1:06:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['building%1:06:00::' 'building%1:06:00::' 'cloud%2:43:00::'
+ 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'color%1:07:00::'
+ 'color%1:07:00::'], predicted=color%1:07:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'cow%1:05:01::' 'cow%1:05:01::'], predicted=cow%1:05:01::
+question=['building%1:06:00::' 'building%1:06:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'dollar%1:21:01::'
+ 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['building%1:06:00::' 'building%1:06:00::' 'donkey%1:05:00::'
+ 'donkey%1:05:00::'], predicted=donkey%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'dream%1:09:01::'
+ 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['building%1:06:00::' 'building%1:06:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['building%1:06:00::' 'building%1:06:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['building%1:06:00::' 'building%1:06:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'finger%1:08:00::'
+ 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'goat%1:05:00::'
+ 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'hand%1:23:00::'
+ 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'horse%1:05:00::'
+ 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'lion%1:05:00::'
+ 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'mango' 'mango'], predicted=mango
+question=['building%1:06:00::' 'building%1:06:00::' 'melon%1:20:00::'
+ 'melon%1:20:00::'], predicted=melon%1:20:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'monkey' 'monkey'], predicted=monkey
+question=['building%1:06:00::' 'building%1:06:00::' 'mouse%1:05:00::'
+ 'mouse%1:05:00::'], predicted=mouse%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'onion%1:20:00::'
+ 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['building%1:06:00::' 'building%1:06:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'pineapple%1:13:00::'
+ 'pineapple%1:13:00::'], predicted=pineapple%1:13:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'rat%1:05:00::' 'rat%1:05:00::'], predicted=rat%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'road%1:06:00::'
+ 'road%1:06:00::'], predicted=road%1:06:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'snake%2:38:01::'
+ 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['building%1:06:00::' 'building%1:06:00::' 'woman%1:18:00::'
+ 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['building%1:06:00::' 'building%1:06:00::' 'bird%1:05:00::'
+ 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['building%1:06:00::' 'building%1:06:00::' 'bottle%1:06:00::'
+ 'bottle%1:06:00::'], predicted=bottle%1:06:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['car%1:06:01::' 'car%1:06:01::' 'child' 'child%1:18:00::'], predicted=child
+question=['car%1:06:01::' 'car%1:06:01::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['car%1:06:01::' 'car%1:06:01::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['car%1:06:01::' 'car%1:06:01::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['car%1:06:01::' 'car%1:06:01::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['car%1:06:01::' 'car%1:06:01::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['car%1:06:01::' 'car%1:06:01::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['car%1:06:01::' 'car%1:06:01::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'mango' 'mango'], predicted=mango
+question=['car%1:06:01::' 'car%1:06:01::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['car%1:06:01::' 'car%1:06:01::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['car%1:06:01::' 'car%1:06:01::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['car%1:06:01::' 'car%1:06:01::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['car%1:06:01::' 'car%1:06:01::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['car%1:06:01::' 'car%1:06:01::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['car%1:06:01::' 'car%1:06:01::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['car%1:06:01::' 'car%1:06:01::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['cat%1:05:00::' 'cat%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'color%2:30:00::' 'color%1:07:00::'], predicted=color%2:30:00::
+question=['cat%1:04:00::' 'cat%1:04:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['cat%1:05:00::' 'cat%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['cat%1:05:00::' 'cat%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['cat%1:05:00::' 'cat%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['cat%1:05:00::' 'cat%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['cat%1:05:00::' 'cat%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['cat%1:05:00::' 'cat%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['cat%1:05:00::' 'cat%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['cat%1:05:00::' 'cat%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['cat%1:05:00::' 'cat%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['cat%1:05:00::' 'cat%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['cat%1:05:00::' 'cat%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['child%1:18:00::' 'child%1:18:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'cow' 'cow%1:05:01::'], predicted=cow
+question=['child%1:18:00::' 'child%1:18:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['child' 'child%1:18:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['child%1:18:00::' 'child%1:18:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['child%1:18:00::' 'child%1:18:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['child%1:18:00::' 'child%1:18:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['child%1:18:00::' 'child%1:18:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['child%1:18:00::' 'child%1:18:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['child' 'child%1:18:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'mango' 'mango'], predicted=mango
+question=['child%1:18:00::' 'child%1:18:00::' 'monkey' 'monkey%1:18:00::'], predicted=monkey
+question=['child%1:18:00::' 'child%1:18:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['child' 'child%1:18:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['child%1:18:00::' 'child%1:18:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['child' 'child%1:18:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['child%1:18:00::' 'child%1:18:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['child%1:18:00::' 'child%1:18:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['child%1:18:00::' 'child%1:18:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['child%1:18:00::' 'child%1:18:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'mango' 'mango'], predicted=mango
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['cloud%1:17:00::' 'cloud%1:17:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['color%1:07:00::' 'color%1:07:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['color%1:07:00::' 'color%1:07:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['color%1:07:00::' 'color%1:07:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['color%1:07:00::' 'color%1:07:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['color%1:07:00::' 'color%1:07:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['color%1:07:00::' 'color%1:07:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['color%1:07:00::' 'color%1:07:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'mango' 'mango'], predicted=mango
+question=['color%1:07:00::' 'color%1:07:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['color%1:07:00::' 'color%1:07:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['color%1:07:00::' 'color%1:07:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['color%1:07:00::' 'color%1:07:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['color%1:07:00::' 'color%1:07:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['color%1:07:00::' 'color%1:07:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['color%1:07:00::' 'color%1:07:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['color%1:07:00::' 'color%1:07:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['color%1:07:00::' 'color%1:07:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['color%1:07:00::' 'color%1:07:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['color%1:07:00::' 'color%1:07:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'dollar%1:21:01::'
+ 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['computer%1:06:00::' 'computer%1:06:00::' 'dream%2:36:00::'
+ 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['computer%1:06:00::' 'computer%1:06:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['computer%1:06:00::' 'computer%1:06:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'finger%2:35:01::'
+ 'finger%1:08:00::'], predicted=finger%2:35:01::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['computer%1:06:00::' 'computer%1:06:00::' 'hand%1:23:00::'
+ 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'horse%2:34:00::'
+ 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'mango' 'mango'], predicted=mango
+question=['computer%1:06:00::' 'computer%1:06:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'mouse%2:35:00::'
+ 'mouse%1:06:00::'], predicted=mouse%2:35:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['computer%1:06:00::' 'computer%1:06:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['computer%1:06:00::' 'computer%1:06:00::' 'pineapple'
+ 'pineapple%1:13:00::'], predicted=pineapple
+question=['computer%1:06:00::' 'computer%1:06:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'road%1:06:00::'
+ 'road%1:06:00::'], predicted=road%1:06:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'snake%2:38:01::'
+ 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'woman%1:18:00::'
+ 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['computer%1:06:00::' 'computer%1:06:00::' 'bird%2:33:00::'
+ 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'bottle%2:35:00::'
+ 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'cat' 'cat%1:04:00::'], predicted=cat
+question=['computer%1:06:00::' 'computer%1:06:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['computer%1:06:00::' 'computer%1:06:00::' 'cloud%2:43:00::'
+ 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['computer%1:06:00::' 'computer%1:06:00::' 'color%1:07:00::'
+ 'color%1:07:00::'], predicted=color%1:07:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['cow%1:05:01::' 'cow%1:05:01::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['cow%1:05:01::' 'cow%1:05:01::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['cow%1:05:01::' 'cow%1:05:01::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['cow%1:05:01::' 'cow%1:05:01::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'mango' 'mango'], predicted=mango
+question=['cow%1:05:01::' 'cow%1:05:01::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['cow%1:05:01::' 'cow%1:05:01::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['cow%1:05:01::' 'cow%1:05:01::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['cow%1:05:01::' 'cow%1:05:01::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['cow%1:18:00::' 'cow%1:18:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['cow%1:05:01::' 'cow%1:05:01::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['cow%1:05:01::' 'cow%1:05:01::' 'child' 'child%1:18:00::'], predicted=child
+question=['cow%1:05:01::' 'cow%1:05:01::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['cow%1:05:01::' 'cow%1:05:01::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['dog' 'dog%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['dog' 'dog%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['dog' 'dog%1:05:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['dog' 'dog%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['dog' 'dog%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['dog' 'dog%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['dog' 'dog%1:05:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['dog' 'dog%1:05:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['dog' 'dog%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['dog' 'dog%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['dog' 'dog%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['dog' 'dog%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['dog' 'dog%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['dog' 'dog%1:05:00::' 'melon%1:20:00::' 'melon%1:20:00::'], predicted=melon%1:20:00::
+question=['dog' 'dog%1:05:00::' 'monkey' 'monkey'], predicted=monkey
+question=['dog' 'dog%1:05:00::' 'mouse%1:05:00::' 'mouse%1:05:00::'], predicted=mouse%1:05:00::
+question=['dog' 'dog%1:05:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['dog' 'dog%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['dog' 'dog%1:05:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['dog' 'dog%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['dog' 'dog%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['dog' 'dog%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['dog' 'dog%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['dog' 'dog%1:18:01::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['dog' 'dog%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['dog' 'dog%1:05:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['dog' 'dog%1:05:00::' 'bottle%1:06:00::' 'bottle%1:06:00::'], predicted=bottle%1:06:00::
+question=['dog' 'dog%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['dog%1:05:00::' 'dog%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['dog' 'dog%1:05:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['dog' 'dog%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['dog' 'dog%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['dog' 'dog%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['dog%1:05:00::' 'dog%1:05:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['dog' 'dog%1:05:00::' 'cow%1:05:01::' 'cow%1:05:01::'], predicted=cow%1:05:01::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'mango' 'mango'], predicted=mango
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'monkey' 'monkey'], predicted=monkey
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'mouse' 'mouse%1:05:00::'], predicted=mouse
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'bottle' 'bottle%1:06:00::'], predicted=bottle
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'child' 'child%1:18:00::'], predicted=child
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'cow' 'cow%1:05:01::'], predicted=cow
+question=['dollar%1:21:01::' 'dollar%1:21:01::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['donkey' 'donkey%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['donkey' 'donkey%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['donkey' 'donkey%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['donkey' 'donkey%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['donkey' 'donkey%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['donkey' 'donkey%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['donkey' 'donkey%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['donkey' 'donkey%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['donkey' 'donkey%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['donkey' 'donkey%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['donkey' 'donkey%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['donkey' 'donkey%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['donkey' 'donkey%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['donkey' 'donkey%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['donkey' 'donkey%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['donkey' 'donkey%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['donkey' 'donkey%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['donkey' 'donkey%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['donkey' 'donkey%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['donkey' 'donkey%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'bottle%2:35:00::'
+ 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['donkey' 'donkey%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['donkey' 'donkey%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['donkey' 'donkey%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['donkey' 'donkey%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['donkey%1:05:00::' 'donkey%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['donkey' 'donkey%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['donkey' 'donkey%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['donkey' 'donkey%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['dream%1:09:01::' 'dream%1:09:01::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['dream%1:09:01::' 'dream%1:09:01::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['dream%1:09:01::' 'dream%1:09:01::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['dream%1:09:01::' 'dream%1:09:01::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'mango' 'mango'], predicted=mango
+question=['dream%1:09:01::' 'dream%1:09:01::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['dream%1:09:01::' 'dream%1:09:01::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['dream%1:09:01::' 'dream%1:09:01::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['dream%1:09:01::' 'dream%1:09:01::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['dream%1:09:01::' 'dream%1:09:01::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['dream%1:09:01::' 'dream%2:36:00::' 'bottle' 'bottle%1:06:00::'], predicted=bottle
+question=['dream%1:09:01::' 'dream%1:09:01::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['dream%1:09:01::' 'dream%2:36:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['dream%1:09:01::' 'dream%1:09:01::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['dream%1:09:01::' 'dream%1:09:01::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['eagle%1:05:00::' 'eagle' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['eagle%1:05:00::' 'eagle' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['eagle%1:05:00::' 'eagle' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['eagle%1:05:00::' 'eagle' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['eagle%1:05:00::' 'eagle' 'bottle' 'bottle%1:06:00::'], predicted=bottle
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['eagle%1:05:00::' 'eagle' 'child' 'child%1:18:00::'], predicted=child
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['eagle%1:05:00::' 'eagle%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['elephant' 'elephant%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['elephant' 'elephant%1:05:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['elephant' 'elephant%1:05:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['elephant' 'elephant%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['elephant' 'elephant%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['elephant' 'elephant%1:05:00::' 'monkey' 'monkey'], predicted=monkey
+question=['elephant' 'elephant%1:05:00::' 'mouse' 'mouse%1:05:00::'], predicted=mouse
+question=['elephant' 'elephant%1:05:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['elephant' 'elephant%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['elephant' 'elephant%1:05:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['elephant' 'elephant%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['elephant' 'elephant%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['elephant' 'elephant%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['elephant' 'elephant%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['elephant' 'elephant%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['elephant' 'elephant%1:05:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'bottle' 'bottle%1:06:00::'], predicted=bottle
+question=['elephant' 'elephant%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['elephant' 'elephant%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['elephant' 'elephant%1:05:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['elephant' 'elephant%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['elephant' 'elephant%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['elephant' 'elephant%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['elephant' 'elephant%1:05:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['elephant' 'elephant%1:05:00::' 'cow' 'cow%1:05:01::'], predicted=cow
+question=['elephant' 'elephant%1:05:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['elephant' 'elephant%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['elephant' 'elephant%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['elephant' 'elephant%1:05:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['elephant' 'elephant%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['eye%1:08:00::' 'eye%1:08:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['eye%1:08:00::' 'eye%1:08:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'mango' 'mango'], predicted=mango
+question=['eye%1:08:00::' 'eye%1:08:00::' 'monkey' 'monkey'], predicted=monkey
+question=['eye%1:08:00::' 'eye%1:08:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['eye%1:08:00::' 'eye%1:08:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['eye%1:08:00::' 'eye%1:08:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['eye%1:08:00::' 'eye%1:08:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['eye%1:08:00::' 'eye%1:08:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['eye%1:08:00::' 'eye%1:08:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['eye%1:08:00::' 'eye%1:08:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'cow' 'cow%1:05:01::'], predicted=cow
+question=['eye%1:08:00::' 'eye%1:08:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['eye%1:08:00::' 'eye%1:08:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['eye%1:08:00::' 'eye%1:08:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['eye%1:08:00::' 'eye%1:08:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['eye%1:08:00::' 'eye%1:08:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['finger%1:08:00::' 'finger%1:08:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['finger%1:08:00::' 'finger%1:08:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'mango' 'mango'], predicted=mango
+question=['finger%1:08:00::' 'finger%1:08:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['finger%1:08:00::' 'finger%1:08:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['finger%1:08:00::' 'finger%1:08:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['finger%1:08:00::' 'finger%1:08:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['finger%1:08:00::' 'finger%1:08:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'bottle%2:35:00::'
+ 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['finger%1:08:00::' 'finger%1:08:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['finger%1:08:00::' 'finger%1:08:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'color%2:30:00::' 'color%1:07:00::'], predicted=color%2:30:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'dollar%1:21:01::'
+ 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['finger%1:08:00::' 'finger%1:08:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['finger%1:08:00::' 'finger%1:08:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['finger%1:08:00::' 'finger%1:08:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['finger%1:08:00::' 'finger%1:08:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['goat%1:05:00::' 'goat%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['goat%1:05:00::' 'goat%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['goat%1:05:00::' 'goat%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['goat%1:05:00::' 'goat%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['goat%1:05:00::' 'goat%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['goat%1:05:00::' 'goat%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['goat%1:05:00::' 'goat%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'color%2:30:00::' 'color%1:07:00::'], predicted=color%2:30:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['goat%1:05:00::' 'goat%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['goat%1:05:00::' 'goat%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['goat%1:05:00::' 'goat%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['goat%1:05:00::' 'goat%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['hand%1:23:00::' 'hand%1:23:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'mango' 'mango'], predicted=mango
+question=['hand%1:23:00::' 'hand%1:23:00::' 'monkey' 'monkey'], predicted=monkey
+question=['hand%1:23:00::' 'hand%1:23:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['hand%1:23:00::' 'hand%1:23:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['hand%1:23:00::' 'hand%1:23:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['hand%1:23:00::' 'hand%1:23:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['hand%1:23:00::' 'hand%1:23:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['hand%1:23:00::' 'hand%1:23:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['hand%1:23:00::' 'hand%1:23:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['hand%1:23:00::' 'hand%1:23:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['hand%1:23:00::' 'hand%1:23:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['hand%1:23:00::' 'hand%1:23:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['hand%1:23:00::' 'hand%1:23:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['horse%1:05:00::' 'horse%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['horse%1:05:00::' 'horse%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['horse%1:05:00::' 'horse%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['horse%1:05:00::' 'horse%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['horse%1:05:00::' 'horse%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['horse%1:05:00::' 'horse%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['horse%1:05:00::' 'horse%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['horse%1:05:00::' 'horse%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['horse%1:05:00::' 'horse%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['horse%1:05:00::' 'horse%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['horse%1:05:00::' 'horse%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['horse%1:05:00::' 'horse%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['horse%1:05:00::' 'horse%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['lion%1:05:00::' 'lion%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['lion%1:05:00::' 'lion%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['lion%1:05:00::' 'lion%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['lion%1:05:00::' 'lion%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['lion%1:05:00::' 'lion%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['lion%1:05:00::' 'lion%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['lion%1:05:00::' 'lion%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['lion%1:05:00::' 'lion%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['lion%1:05:00::' 'lion%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['lion%1:05:00::' 'lion%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['lion%1:05:00::' 'lion%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['lion%1:05:00::' 'lion%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['lion%1:05:00::' 'lion%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'mango' 'mango'], predicted=mango
+question=['machine%1:06:00::' 'machine%1:06:00::' 'melon%1:20:00::'
+ 'melon%1:20:00::'], predicted=melon%1:20:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'monkey' 'monkey'], predicted=monkey
+question=['machine%1:06:00::' 'machine%1:06:00::' 'mouse' 'mouse%1:05:00::'], predicted=mouse
+question=['machine%1:06:00::' 'machine%1:06:00::' 'onion%1:20:00::'
+ 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['machine%1:06:00::' 'machine%1:06:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'pineapple%1:13:00::'
+ 'pineapple%1:13:00::'], predicted=pineapple%1:13:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'rat%1:05:00::' 'rat%1:05:00::'], predicted=rat%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'snake%2:38:01::'
+ 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'woman%1:18:00::'
+ 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['machine%1:06:00::' 'machine%1:06:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'bottle%1:06:00::'
+ 'bottle%1:06:00::'], predicted=bottle%1:06:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['machine%1:06:00::' 'machine%1:06:00::' 'cloud%2:43:00::'
+ 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'color%1:07:00::'
+ 'color%1:07:00::'], predicted=color%1:07:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'cow%1:05:01::' 'cow%1:05:01::'], predicted=cow%1:05:01::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['machine%1:06:00::' 'machine%1:06:00::' 'dollar%1:21:01::'
+ 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['machine%1:06:00::' 'machine%1:06:00::' 'dream%1:09:01::'
+ 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['machine%1:06:00::' 'machine%1:06:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['machine%1:06:00::' 'machine%1:06:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'finger%1:08:00::'
+ 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'horse%1:05:00::'
+ 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['machine%1:06:00::' 'machine%1:06:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['mango' 'mango' 'monkey' 'monkey'], predicted=monkey
+question=['mango' 'mango' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['mango' 'mango' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['mango' 'mango' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['mango' 'mango' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['mango' 'mango' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['mango' 'mango' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['mango' 'mango' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['mango' 'mango' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['mango' 'mango' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['mango' 'mango' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['mango' 'mango' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['mango' 'mango' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['mango' 'mango' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['mango' 'mango' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['mango' 'mango' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['mango' 'mango' 'child' 'child%1:18:00::'], predicted=child
+question=['mango' 'mango' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['mango' 'mango' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['mango' 'mango' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['mango' 'mango' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['mango' 'mango' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['mango' 'mango' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['mango' 'mango' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['mango' 'mango' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['mango' 'mango' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['mango' 'mango' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['mango' 'mango' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['mango' 'mango' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['mango' 'mango' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['mango' 'mango' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['mango' 'mango' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['mango' 'mango' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['mango' 'mango' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['man%1:18:00::' 'men%1:14:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['man%1:18:00::' 'men%1:14:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['man%1:18:00::' 'men%1:14:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['man%1:18:00::' 'men%1:14:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['man%1:18:00::' 'men%1:14:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['man%1:18:00::' 'men%1:14:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['man%1:18:00::' 'men%1:14:00::' 'cat' 'cat%1:18:01::'], predicted=cat
+question=['man%1:18:00::' 'men%1:14:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['man%1:18:00::' 'men%1:14:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'dog%2:38:00::' 'dog%1:18:00::'], predicted=dog%2:38:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['man%1:18:00::' 'men%1:14:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['man%1:18:00::' 'men%1:14:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['man%1:18:00::' 'men%1:14:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['man%1:18:00::' 'men%1:14:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['man%1:18:00::' 'men%1:14:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['man%1:18:00::' 'men%1:14:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['man%1:18:00::' 'men%1:14:00::' 'mango' 'mango'], predicted=mango
+question=['melon%1:20:00::' 'melon%1:20:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['melon%1:20:00::' 'melon%1:20:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['melon%1:20:00::' 'melon%1:20:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['melon%1:20:00::' 'melon%1:20:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['melon%1:20:00::' 'melon%1:20:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['melon%1:20:00::' 'melon%1:20:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['melon%1:20:00::' 'melon%1:20:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['melon%1:20:00::' 'melon%1:20:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['melon%1:20:00::' 'melon%1:20:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['melon%1:20:00::' 'melon%1:20:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['melon%1:20:00::' 'melon%1:20:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['melon%1:20:00::' 'melon%1:20:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['melon%1:20:00::' 'melon%1:20:00::' 'mango' 'mango'], predicted=mango
+question=['monkey' 'monkey' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['monkey' 'monkey' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['monkey' 'monkey' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['monkey' 'monkey' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['monkey' 'monkey' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['monkey' 'monkey' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['monkey' 'monkey' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['monkey' 'monkey' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['monkey' 'monkey' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['monkey' 'monkey' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['monkey' 'monkey' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['monkey' 'monkey' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['monkey' 'monkey' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['monkey' 'monkey' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['monkey' 'monkey%1:18:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['monkey' 'monkey' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['monkey' 'monkey' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['monkey' 'monkey' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['monkey' 'monkey' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['monkey' 'monkey' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['monkey' 'monkey' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['monkey' 'monkey' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['monkey' 'monkey' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['monkey' 'monkey' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['monkey' 'monkey' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['monkey' 'monkey' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['monkey' 'monkey' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['monkey' 'monkey' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['monkey' 'monkey' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['monkey' 'monkey' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['monkey' 'monkey' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['monkey' 'monkey' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['monkey' 'monkey' 'mango' 'mango'], predicted=mango
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'pig%1:05:00::' 'pig%1:05:00::'], predicted=pig%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'pineapple%1:13:00::'
+ 'pineapple%1:13:00::'], predicted=pineapple%1:13:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'rat%1:05:00::' 'rat%1:05:00::'], predicted=rat%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'banana%1:20:00::' 'banana%1:20:00::'], predicted=banana%1:20:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'bottle%1:06:00::' 'bottle%1:06:00::'], predicted=bottle%1:06:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'cat%1:05:00::' 'cat%1:05:00::'], predicted=cat%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'child%1:18:00::' 'child%1:18:00::'], predicted=child%1:18:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'cloud%1:17:00::' 'cloud%1:17:00::'], predicted=cloud%1:17:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['mouse%1:06:00::' 'mouse%1:06:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'cow%1:05:01::' 'cow%1:05:01::'], predicted=cow%1:05:01::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'dog%1:05:00::' 'dog%1:05:00::'], predicted=dog%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'donkey%1:05:00::' 'donkey%1:05:00::'], predicted=donkey%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'eagle%1:05:00::' 'eagle%1:05:00::'], predicted=eagle%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'elephant%1:05:00::'
+ 'elephant%1:05:00::'], predicted=elephant%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'melon%1:20:00::' 'melon%1:20:00::'], predicted=melon%1:20:00::
+question=['mouse%1:05:00::' 'mouse%1:05:00::' 'monkey' 'monkey'], predicted=monkey
+question=['onion%1:20:00::' 'onion%1:20:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['onion%1:20:00::' 'onion%1:20:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['onion%1:20:00::' 'onion%1:20:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['onion%1:20:00::' 'onion%1:20:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['onion%1:20:00::' 'onion%1:20:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['onion%1:20:00::' 'onion%1:20:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['onion%1:20:00::' 'onion%1:20:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['onion%1:20:00::' 'onion%1:20:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['onion%1:20:00::' 'onion%1:20:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['onion%1:20:00::' 'onion%1:20:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['onion%1:20:00::' 'onion%1:20:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['onion%1:20:00::' 'onion%1:20:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'mango' 'mango'], predicted=mango
+question=['onion%1:20:00::' 'onion%1:20:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['onion%1:20:00::' 'onion%1:20:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['pear' 'pear%1:13:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['pear' 'pear%1:13:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['pear' 'pear%1:13:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['pear' 'pear%1:13:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['pear' 'pear%1:13:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['pear' 'pear%1:13:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['pear' 'pear%1:13:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['pear' 'pear%1:13:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['pear' 'pear%1:13:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['pear' 'pear%1:13:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['pear' 'pear%1:13:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['pear' 'pear%1:13:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['pear' 'pear%1:13:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['pear' 'pear%1:13:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['pear' 'pear%1:13:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['pear' 'pear%1:13:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['pear' 'pear%1:13:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['pear' 'pear%1:13:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['pear' 'pear%1:13:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['pear' 'pear%1:13:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['pear' 'pear%1:13:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['pear' 'pear%1:13:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['pear' 'pear%1:13:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['pear' 'pear%1:13:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['pear' 'pear%1:13:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['pear' 'pear%1:13:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['pear' 'pear%1:13:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['pear' 'pear%1:13:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['pear' 'pear%1:13:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['pear' 'pear%1:13:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['pear' 'pear%1:13:00::' 'mango' 'mango'], predicted=mango
+question=['pear' 'pear%1:13:00::' 'monkey' 'monkey'], predicted=monkey
+question=['pear' 'pear%1:13:00::' 'mouse' 'mouse%1:05:00::'], predicted=mouse
+question=['pear' 'pear%1:13:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['pig%1:05:00::' 'pig%1:05:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['pig%1:05:00::' 'pig%1:05:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['pig%1:05:00::' 'pig%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['pig%1:05:00::' 'pig%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['pig%1:05:00::' 'pig%1:05:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['pig%1:05:00::' 'pig%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['pig%1:05:00::' 'pig%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['pig%1:05:00::' 'pig%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['pig%1:05:00::' 'pig%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'rat%2:35:01::'
+ 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['pineapple' 'pineapple%1:13:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'snake%2:38:01::'
+ 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'woman%1:18:00::'
+ 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'bird%2:33:00::'
+ 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'bottle%2:35:00::'
+ 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'car%1:06:01::'
+ 'car%1:06:01::'], predicted=car%1:06:01::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'cloud%2:43:00::'
+ 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'color%1:07:00::'
+ 'color%1:07:00::'], predicted=color%1:07:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'cow%2:37:00::'
+ 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'dog%2:38:00::'
+ 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['pineapple' 'pineapple%1:13:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'dream%2:36:00::'
+ 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'elephant'
+ 'elephant%1:05:00::'], predicted=elephant
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'eye%1:08:00::'
+ 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'hand%1:23:00::'
+ 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'horse%1:05:00::'
+ 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['pineapple' 'pineapple%1:13:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'mango' 'mango'], predicted=mango
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'mouse%2:35:00::'
+ 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['rat%1:05:00::' 'rat%1:05:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['rat%1:05:00::' 'rat%1:05:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'building%1:06:00::' 'building%1:06:00::'], predicted=building%1:06:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['rat%1:05:00::' 'rat%1:05:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['rat%1:05:00::' 'rat%1:05:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'color%2:30:00::' 'color%1:07:00::'], predicted=color%2:30:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'computer%1:06:00::' 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['rat%1:05:00::' 'rat%1:05:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['rat%1:05:00::' 'rat%1:05:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['rat%1:05:00::' 'rat%1:05:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['rat%1:05:00::' 'rat%1:05:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['rat%1:05:00::' 'rat%1:05:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'horse%2:34:00::' 'horse%1:05:00::'], predicted=horse%2:34:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'mango' 'mango'], predicted=mango
+question=['rat%1:05:00::' 'rat%1:05:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['rat%1:05:00::' 'rat%1:05:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['rat%1:05:00::' 'rat%1:05:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['rat%1:05:00::' 'rat%1:05:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['road%1:06:00::' 'road%1:06:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::
+question=['road%1:06:00::' 'road%1:06:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['road%1:06:00::' 'road%1:06:00::' 'bird%2:33:00::' 'bird%1:05:00::'], predicted=bird%2:33:00::
+question=['road%1:06:00::' 'roads' 'bottle' 'bottle%1:06:00::'], predicted=bottle
+question=['road%1:06:00::' 'road%1:06:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['road%1:06:00::' 'road%1:06:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['road%1:06:00::' 'roads' 'child' 'child%1:18:00::'], predicted=child
+question=['road%1:06:00::' 'road%1:06:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'cow%2:37:00::' 'cow%1:05:01::'], predicted=cow%2:37:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'dog%2:38:00::' 'dog%1:05:00::'], predicted=dog%2:38:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['road%1:06:00::' 'road%1:06:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['road%1:06:00::' 'road%1:06:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['road%1:06:00::' 'road%1:06:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['road%1:06:00::' 'road%1:06:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'finger%1:08:00::' 'finger%1:08:00::'], predicted=finger%1:08:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['road%1:06:00::' 'road%1:06:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'machine%1:06:00::' 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'mango' 'mango'], predicted=mango
+question=['road%1:06:00::' 'road%1:06:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['road%1:06:00::' 'road%1:06:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['road%1:06:00::' 'road%1:06:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['road%1:06:00::' 'road%1:06:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['road%1:06:00::' 'road%1:06:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'woman%1:18:00::' 'woman%1:18:00::'], predicted=woman%1:18:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['snake%2:38:01::' 'snake%1:18:00::' 'bird%1:05:00::' 'bird%1:05:00::'], predicted=bird%1:05:00::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'building%1:06:00::'
+ 'building%1:06:00::'], predicted=building%1:06:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['snake%2:38:01::' 'snake%1:18:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['snake%2:38:01::' 'snake%1:18:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'cow' 'cow%1:05:01::'], predicted=cow
+question=['snake%2:38:01::' 'snake%1:18:00::' 'dog' 'dog%1:05:00::'], predicted=dog
+question=['snake' 'snake%1:18:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['snake%2:38:01::' 'snake%1:18:00::' 'dream%1:09:01::' 'dream%1:09:01::'], predicted=dream%1:09:01::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['snake%2:38:01::' 'snake%1:18:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['snake%1:18:00::' 'snake%1:18:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['snake%2:38:01::' 'snake%1:18:00::' 'goat%1:05:00::' 'goat%1:05:00::'], predicted=goat%1:05:00::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'mango' 'mango'], predicted=mango
+question=['snake%2:38:01::' 'snake%1:18:00::' 'monkey' 'monkey'], predicted=monkey
+question=['snake%2:38:01::' 'snake%1:18:00::' 'mouse%2:35:00::' 'mouse%1:05:00::'], predicted=mouse%2:35:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['snake%2:38:01::' 'snake%1:18:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['snake%2:38:01::' 'snake%1:18:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['snake%2:38:01::' 'snake%1:18:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['snake%2:38:01::' 'snake%1:18:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['snake%1:18:00::' 'snake%1:18:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'banana' 'banana%1:20:00::'], predicted=banana
+question=['woman%1:18:00::' 'woman%1:18:00::' 'bird%2:33:00::' 'bird%1:18:00::'], predicted=bird%2:33:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'bottle%2:35:00::' 'bottle%1:06:00::'], predicted=bottle%2:35:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'car%1:06:01::' 'car%1:06:01::'], predicted=car%1:06:01::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'cat' 'cat%1:05:00::'], predicted=cat
+question=['woman%1:18:00::' 'woman%1:18:00::' 'child' 'child%1:18:00::'], predicted=child
+question=['woman%1:18:00::' 'woman%1:18:00::' 'cloud%2:43:00::' 'cloud%1:17:00::'], predicted=cloud%2:43:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'color%1:07:00::' 'color%1:07:00::'], predicted=color%1:07:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'computer%1:06:00::'
+ 'computer%1:06:00::'], predicted=computer%1:06:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'cow%2:37:00::' 'cow%1:18:00::'], predicted=cow%2:37:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'dog%2:38:00::' 'dog%1:18:01::'], predicted=dog%2:38:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'dollar%1:21:01::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'donkey' 'donkey%1:05:00::'], predicted=donkey
+question=['woman%1:18:00::' 'woman%1:18:00::' 'dream%2:36:00::' 'dream%1:09:01::'], predicted=dream%2:36:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'eagle' 'eagle%1:05:00::'], predicted=eagle
+question=['woman%1:18:00::' 'woman%1:18:00::' 'elephant' 'elephant%1:05:00::'], predicted=elephant
+question=['woman%1:18:00::' 'woman%1:18:00::' 'eye%1:08:00::' 'eye%1:08:00::'], predicted=eye%1:08:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'finger' 'finger%1:08:00::'], predicted=finger
+question=['woman%1:18:00::' 'woman%1:18:00::' 'goat' 'goat%1:05:00::'], predicted=goat
+question=['woman%1:18:00::' 'woman%1:18:00::' 'hand%1:23:00::' 'hand%1:23:00::'], predicted=hand%1:23:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'horse%1:05:00::' 'horse%1:05:00::'], predicted=horse%1:05:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'lion%1:05:00::' 'lion%1:05:00::'], predicted=lion%1:05:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'machine%1:06:00::'
+ 'machine%1:06:00::'], predicted=machine%1:06:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'mango' 'mango'], predicted=mango
+question=['woman%1:18:00::' 'woman%1:18:00::' 'monkey%2:35:00::' 'monkey'], predicted=monkey%2:35:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'mouse' 'mouse%1:05:00::'], predicted=mouse
+question=['woman%1:18:00::' 'woman%1:18:00::' 'onion%1:20:00::' 'onion%1:20:00::'], predicted=onion%1:20:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'pear' 'pear%1:13:00::'], predicted=pear
+question=['woman%1:18:00::' 'woman%1:18:00::' 'pig' 'pig%1:05:00::'], predicted=pig
+question=['woman%1:18:00::' 'woman%1:18:00::' 'pineapple' 'pineapple%1:13:00::'], predicted=pineapple
+question=['woman%1:18:00::' 'woman%1:18:00::' 'rat%2:35:01::' 'rat%1:05:00::'], predicted=rat%2:35:01::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'road%1:06:00::' 'road%1:06:00::'], predicted=road%1:06:00::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'snake%2:38:01::' 'snake%1:18:00::'], predicted=snake%2:38:01::

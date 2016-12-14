@@ -1,10 +1,12 @@
 
 EPOCH="150"
+MINCUT=5
+EMBSIZE=200
 OUTPUTDIR=gold-data
 TRAINFILE=data/2016-12-07-text8-synsets.txt
 EVALFILE=gold-data/questions-words-synsets.txt
 ANSWFILE=gold-data/questions-words-synsets
-OUTPUTFILE=gold-data/results-text8-$EPOCH"-synsets-quest-words.txt"
+OUTPUTFILE=gold-data/results-text8-$EPOCH-$MINCUT-$EMBSIZE-"synsets-quest-words.txt"
 MODEL=models/synsets
 
 rm -f $OUTPUTFILE

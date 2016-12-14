@@ -1,0 +1,2455 @@
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:18:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=dallas
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=indianapolis
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=tulare
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=appalachian%3:01:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['chicago%1:15:00::' 'illinois%1:10:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=tampa
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=missouri%1:17:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=shirelles
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=los
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=lincoln%1:18:00::
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=kamloops
+question=['chicago%1:15:00::' 'illinois%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['houston%1:18:00::' 'texas%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:18:00::
+question=['houston%1:18:00::' 'texas%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=texas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['houston%1:18:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=kansas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=nashville
+question=['houston%1:18:00::' 'texas%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=missouri
+question=['houston%1:18:00::' 'texas%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['houston%1:18:00::' 'texas%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['houston%1:18:00::' 'texas%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=texas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['houston%1:18:00::' 'texas%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=laredo
+question=['houston%1:18:00::' 'texas%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['houston%1:18:00::' 'texas%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=texas
+question=['houston%1:18:00::' 'texas%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=oregon%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'phoenix'
+ 'arizona%1:05:00::'], predicted=psionic
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=township%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=georgia%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=georgia%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=creole%1:18:02::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'portland%1:15:01::'
+ 'oregon%1:15:00::'], predicted=cement%1:27:03::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=georgia%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=almon
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=georgia%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=diphosphate
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=locate%2:30:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=dakota%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=southwestern%5:00:00:south:00
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=pasadena%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=maier
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=southwestern%5:00:00:south:00
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=michigan%1:15:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=locate%2:30:00::
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=bohemia
+question=['philadelphia%1:15:00::' 'pennsylvania%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['phoenix' 'arizona%1:05:00::' 'jacksonville%1:15:00::' 'florida%1:15:00::'], predicted=tallahassee%1:15:00::
+question=['phoenix' 'arizona%1:05:00::' 'indianapolis%1:15:00::' 'indiana%1:15:00::'], predicted=michigan%1:04:00::
+question=['phoenix' 'arizona%1:05:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['phoenix' 'arizona%1:05:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=richland
+question=['phoenix' 'arizona%1:05:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=dallas%1:15:00::
+question=['phoenix' 'arizona%1:05:00::' 'nashville%1:15:00::' 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['phoenix' 'arizona%1:05:00::' 'fresno%1:15:00::' 'california%1:15:00::'], predicted=delaware%1:15:01::
+question=['phoenix' 'arizona%1:05:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['phoenix' 'arizona%1:05:00::' 'arlington%1:15:00::' 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['phoenix' 'arizona%1:05:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=waitakere
+question=['phoenix' 'arizona%1:05:00::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=floridian%1:18:00::
+question=['phoenix' 'arizona%1:05:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['phoenix' 'arizona%1:05:00::' 'lexington%1:04:00::' 'kentucky%1:15:00::'], predicted=solano
+question=['phoenix' 'arizona%1:05:00::' 'stockton%1:18:00::' 'california%1:15:00::'], predicted=gwinnett
+question=['phoenix' 'arizona%1:05:00::' 'cincinnati%1:15:00::' 'ohio%1:15:00::'], predicted=cincinnati
+question=['phoenix' 'arizona%1:15:00::' 'anchorage%1:15:01::' 'alaska%1:15:00::'], predicted=washington%1:15:01::
+question=['phoenix' 'arizona%1:05:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=clarification%1:10:00::
+question=['phoenix' 'arizona%1:05:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=cancellous%5:00:00:cellular:00
+question=['phoenix' 'arizona%1:05:00::' 'henderson' 'nevada%1:15:00::'], predicted=fletcher
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=indianapolis
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=whorehouse%1:06:00::
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=san
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=nashville
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=wyoming
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=wyoming
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=california%1:15:00::
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'miami%1:15:00::' 'florida%1:15:00::'], predicted=san
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=texas
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=san
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=wyoming
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=spain%1:15:00::
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=sr
+question=['dallas%1:15:00::' 'texas%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=develop%2:30:13::
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=florida
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=asheville
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=florida
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=florida
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=florida
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=rhode
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=anchorage%1:04:00::
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=spain%1:15:00::
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=anderson
+question=['jacksonville%1:15:00::' 'florida%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=gonzalo
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=estes
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=boston
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=kucinich
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=jones%1:18:03::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'portland%1:15:01::'
+ 'oregon%1:15:00::'], predicted=maine%1:15:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=shandong
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=bushman%1:18:01::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=indiana
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=indiana
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=annapolis
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:20:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=jones%1:18:03::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=jones%1:18:03::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=prospect%2:39:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=indiana
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=bourbon%1:14:00::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=domed%5:00:00:rounded:00
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=shaw
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=jones%1:18:03::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=jones%1:18:03::
+question=['indianapolis%1:15:00::' 'indiana%1:15:00::' 'chandler'
+ 'arizona%1:05:00::'], predicted=rachel
+question=['austin%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['austin%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['austin%1:15:00::' 'texas%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=houston%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['austin%1:15:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=texas
+question=['austin%1:15:00::' 'texas%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['austin%1:15:00::' 'texas%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=gadsden
+question=['austin%1:15:00::' 'texas%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=texas
+question=['austin%1:15:00::' 'texas%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=galveston%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['austin%1:15:00::' 'texas%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=mexico%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=sacramento%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['austin%1:15:00::' 'texas%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=houston%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=spain%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=galveston%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=mexico%1:15:00::
+question=['austin%1:15:00::' 'texas%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=jackson%1:15:03::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=ilayaraja
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=iwamura
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=heber
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=arlington
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=newport
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=kamloops
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=train%2:29:00::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=anderson
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=tactician%1:18:00::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=carter
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=jackson%1:15:03::
+question=['detroit%1:15:00::' 'michigan%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=oakland%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=detroit%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=kansa
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=virginia%1:15:01::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=virginia%1:15:01::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=oakland%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=creek
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=detroit%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=miami%1:18:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=creek
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=raider%1:18:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=oakland%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=mississippi%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=oakland%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=michigan%1:17:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=confederate%1:18:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=davenport%1:06:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=detroit%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=michigan%1:17:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=virginia%1:15:01::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=detroit%1:15:00::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=mississippi
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=virginia%1:15:01::
+question=['memphis%1:15:00::' 'tennessee%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=shawnee
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=memphis%1:15:01::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=virginia%1:15:01::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=crespigny
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=chumash
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=dakota%1:10:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=nebraska
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=haggard
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:11:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['boston%1:15:00::' 'massachusetts%1:15:00::' 'lexington%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=farm%1:06:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=avram
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=virginia%1:15:01::
+question=['boston%1:15:00::' 'massachusetts%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=cutback%1:04:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=episcopalian%3:01:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=projection%1:09:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'henderson'
+ 'nevada%1:15:00::'], predicted=tammy
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=furioso
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=pee%1:27:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'chandler'
+ 'arizona%1:05:00::'], predicted=vinegar%1:13:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=hurt%1:26:00::
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=chanson
+question=['boston%1:15:00::' 'massachusetts%1:15:01::' 'glendale'
+ 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=capitol
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=humboldt
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=wyoming
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=washington%1:14:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=washington%1:15:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=nebraska%1:15:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=memorial%1:06:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=wyoming
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=washington
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=confederate%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=blaine
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=washington%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=washington%1:15:01::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=fortify%2:30:01::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=mandible
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'henderson' 'nevada%1:15:00::'], predicted=shaw
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=letelier
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=barad
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'chandler' 'arizona%1:05:00::'], predicted=condemn%2:32:01::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=will%1:09:00::
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=prescott
+question=['seattle%1:15:00::' 'washington%1:15:01::' 'glendale' 'arizona%1:05:00::'], predicted=memorial%1:06:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=nashville
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=segregated%3:00:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:15:00::'], predicted=utah%1:15:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=iwamura
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:15:00::'], predicted=olomouc
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=utah%1:15:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=arlington
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=ksl
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=gulf%1:17:01::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=gruppe
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=utah%1:15:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=petrolia
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=arduous%5:00:02:effortful:00
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=mitch
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=shrimp%2:33:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=sonora
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'chandler' 'arizona%1:15:00::'], predicted=watson
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=woodard
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'glendale' 'arizona%1:15:00::'], predicted=lakeshore%1:17:00::
+question=['denver%1:15:00::' 'colorado%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=sonora
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=memphis%1:15:01::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=kansa
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'portland%1:15:01::'
+ 'oregon%1:15:00::'], predicted=portland%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=nevada%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=nevada%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=tamasheq
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=creek
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=pooja
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=oaks
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=bowdoin
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=dakota%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=bowdoin
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=newman
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=expatriate
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=lusitania
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=dakota%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=dakota%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=arkansas
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=displayed
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['baltimore%1:15:00::' 'maryland%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=peoria
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=mississippi%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=mississippi%1:17:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=mississippi%1:17:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=mississippi%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=mississippi%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=arkansas%1:17:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=iowa
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=nebraska%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=mississippi%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=mississippi
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=virginia%1:15:01::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=mississippi%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=cheyenne
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=arkansas%1:17:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=arkansas%1:17:00::
+question=['nashville%1:15:00::' 'tennessee%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=shandong
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=mississippi%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=usa%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=mississippi%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=davenport%1:06:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=mississippi%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=alberta%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=determined%5:00:00:ambitious:00
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=brown
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=solano
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=springfield%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=mississippi%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=legislative%3:01:01::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=presley%1:18:00::
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=parton
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=lee%5:00:00:leeward:00
+question=['louisville%1:15:00::' 'kentucky%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=sacramento%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=iowa
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=arkansas%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=topeka%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=creek
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=iowa
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=arkansas
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=wyoming
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=arkansas%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=lincoln%1:18:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=cole%1:13:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=michigan%1:17:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=sewer%1:06:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=james
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=iowa%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=superior%3:00:02::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=krylov
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=arkansas
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=burgess%1:18:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=oregon%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=maine%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=dakota
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=laurence
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=oregon%1:15:00::
+question=['milwaukee%1:15:00::' 'wisconsin%1:15:00::' 'irvine'
+ 'california%1:15:00::'], predicted=oregon%1:15:00::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=iowa
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=honolulu
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=anderson
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=congressman%1:18:00::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=oklahoma
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=maryland%1:15:01::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=florida
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=spokane
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=washington
+question=['portland%1:15:01::' 'oregon%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:00::'], predicted=maryland%1:15:01::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=concealment%1:04:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=paso
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=miami%1:18:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=switzer
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=miami%1:18:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=uaw
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=merle
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=southwest%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=wisconsin%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=lincoln
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=misskelley
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=michigan%1:17:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=liaise%2:32:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=piloto
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'henderson' 'nevada%1:15:00::'], predicted=davidson
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=tallahassee%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=bus%1:09:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=videotaped
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=minnesota
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=register%2:32:05::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=marshfield
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'irving' 'texas%1:15:00::'], predicted=essay%2:41:01::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=southwest%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'irvine' 'california%1:15:00::'], predicted=cnidaria%1:05:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=southwest%1:15:00::
+question=['tucson%1:15:00::' 'arizona%1:05:00::' 'modesto' 'california%1:15:00::'], predicted=certification%1:04:00::
+question=['fresno%1:15:00::' 'california%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=los
+question=['fresno%1:15:00::' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['fresno%1:15:00::' 'california%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=california
+question=['fresno%1:15:00::' 'california%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['fresno%1:15:00::' 'california%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california
+question=['fresno%1:15:00::' 'california%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=atlanta
+question=['fresno%1:15:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=california
+question=['fresno%1:15:00::' 'california%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=jr%1:18:00::
+question=['fresno%1:15:00::' 'california%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=monica
+question=['fresno%1:15:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison
+question=['fresno%1:15:00::' 'california%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=los
+question=['fresno%1:15:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=angeles
+question=['fresno%1:15:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=jr%1:18:00::
+question=['fresno%1:15:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'atlanta'
+ 'georgia%1:15:01::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=angeles
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=anderson
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'chandler'
+ 'arizona%1:05:00::'], predicted=favorite
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=whitaker
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'glendale'
+ 'arizona%1:05:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=angeles
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=hackman
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['sacramento%1:15:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'miami%1:15:00::' 'florida%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=wisconsin%1:15:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=wisconsin%1:15:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=hawai
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=alabama
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=minnesota
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=wisconsin%1:15:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=zenith%1:15:01::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'henderson' 'nevada%1:15:00::'], predicted=davidson
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=alabama
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'lubbock%1:15:00::' 'texas%1:15:00::'], predicted=holley
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'garland%1:15:00::' 'texas%1:15:00::'], predicted=unanimous%5:00:00:accordant:00
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'irving' 'texas%1:15:00::'], predicted=howells%1:18:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=marshfield
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'irvine' 'california%1:15:00::'], predicted=wisconsin%1:15:00::
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=ecw
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'modesto' 'california%1:15:00::'], predicted=alabama
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=alabama
+question=['mesa%1:15:00::' 'arizona%1:05:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=wisconsin%1:15:00::
+question=['atlanta' 'georgia%1:15:01::' 'miami%1:15:00::' 'florida%1:15:00::'], predicted=exclave
+question=['atlanta' 'georgia%1:15:01::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=bigamy
+question=['atlanta' 'georgia%1:15:01::' 'oakland%1:15:00::' 'california%1:15:00::'], predicted=flowing%5:00:00:smooth:00
+question=['atlanta' 'georgia%1:15:01::' 'cleveland%1:15:00::' 'ohio%1:15:00::'], predicted=fayette
+question=['atlanta' 'georgia%1:15:01::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=nebraska%1:15:00::
+question=['atlanta' 'georgia%1:15:01::' 'arlington%1:15:00::' 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['atlanta' 'georgia%1:15:01::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=vault%2:38:01::
+question=['atlanta' 'georgia%1:15:01::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=mallow%1:20:00::
+question=['atlanta' 'georgia%1:15:01::' 'anaheim%1:15:00::' 'california%1:15:00::'], predicted=alto%1:18:00::
+question=['atlanta' 'georgia%1:15:01::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=virginia%1:15:01::
+question=['atlanta' 'georgia%1:15:01::' 'lexington%1:04:00::' 'kentucky%1:15:00::'], predicted=polic
+question=['atlanta' 'georgia%1:15:01::' 'stockton%1:18:00::' 'california%1:15:00::'], predicted=hutcheson
+question=['atlanta' 'georgia%1:15:01::' 'cincinnati%1:15:00::' 'ohio%1:15:00::'], predicted=virginia%1:15:01::
+question=['atlanta' 'georgia%1:15:01::' 'anchorage%1:15:01::' 'alaska%1:15:00::'], predicted=alto%1:18:00::
+question=['atlanta' 'georgia%1:15:01::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=morphology%1:09:01::
+question=['atlanta' 'georgia%1:15:01::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=belligerency%1:12:00::
+question=['atlanta' 'georgia%1:15:01::' 'henderson' 'nevada%1:15:00::'], predicted=wyatt
+question=['atlanta' 'georgia%1:15:01::' 'orlando%1:15:00::' 'florida%1:15:00::'], predicted=letelier
+question=['atlanta' 'georgia%1:15:01::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=exclave
+question=['atlanta' 'georgia%1:15:01::' 'chandler' 'arizona%1:05:00::'], predicted=unadded
+question=['atlanta' 'georgia%1:15:01::' 'madison%1:15:00::' 'wisconsin%1:15:00::'], predicted=secession%1:04:00::
+question=['atlanta' 'georgia%1:15:01::' 'lubbock%1:15:00::' 'texas%1:15:00::'], predicted=joplin%1:18:00::
+question=['atlanta' 'georgia%1:15:01::' 'garland%1:15:00::' 'texas%1:15:00::'], predicted=mallow%1:20:00::
+question=['atlanta' 'georgia%1:15:01::' 'glendale' 'arizona%1:05:00::'], predicted=polic
+question=['atlanta' 'georgia%1:15:01::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=parity%1:23:00::
+question=['atlanta' 'georgia%1:15:01::' 'scottsdale' 'arizona%1:05:00::'], predicted=unadded
+question=['atlanta' 'georgia%1:15:01::' 'irving' 'texas%1:15:00::'], predicted=ligeti
+question=['atlanta' 'georgia%1:15:01::' 'fremont%1:18:00::' 'california%1:15:00::'], predicted=abercorn
+question=['atlanta' 'georgia%1:15:01::' 'irvine' 'california%1:15:00::'], predicted=polyanin
+question=['atlanta' 'georgia%1:15:01::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=exclave
+question=['atlanta' 'georgia%1:15:01::' 'modesto' 'california%1:15:00::'], predicted=cession%1:04:00::
+question=['atlanta' 'georgia%1:15:01::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=declare%2:32:03::
+question=['atlanta' 'georgia%1:15:01::' 'fontana' 'california%1:15:00::'], predicted=hellbender%1:05:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia
+question=['miami%1:15:00::' 'florida%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=santa%1:18:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=dunraven
+question=['miami%1:15:00::' 'florida%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['miami%1:15:00::' 'florida%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=georgia
+question=['miami%1:15:00::' 'florida%1:15:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=piloto
+question=['miami%1:15:00::' 'florida%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=elli%1:18:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=jefferson%1:18:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=carolina%1:15:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=alabama
+question=['miami%1:15:00::' 'florida%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=shawnee
+question=['miami%1:15:00::' 'florida%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=wallace
+question=['miami%1:15:00::' 'florida%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=galloway
+question=['miami%1:15:00::' 'florida%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=florida
+question=['miami%1:15:00::' 'florida%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=manitowoc
+question=['miami%1:15:00::' 'florida%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=nativity%1:09:00::
+question=['miami%1:15:00::' 'florida%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=georgia
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=pittsburgh%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=minneapolis
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=arlington
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=merle
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=alamogordo
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=philadelphia%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=pittsburg
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=blaine
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=pittsburgh%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=kansas
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=alamogordo
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=tabasco%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=bobby%1:18:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=tabasco%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=jefferson%1:18:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=alamogordo
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=perse
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=cemetery%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=alamogordo
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=baxter
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=exeter
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=corn%1:20:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=albany
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=portland%1:15:01::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=silvio
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=tennessee%1:15:00::
+question=['tulsa%1:15:00::' 'oklahoma%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=cemetery%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia
+question=['oakland%1:15:00::' 'california%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['oakland%1:15:00::' 'california%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=fletcher
+question=['oakland%1:15:00::' 'california%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=culbert
+question=['oakland%1:15:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=melanie
+question=['oakland%1:15:00::' 'california%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=hughes%1:18:03::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['oakland%1:15:00::' 'california%1:15:00::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=texas%1:15:00::
+question=['oakland%1:15:00::' 'california%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=georgia
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=bootsy
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=mississippi%1:15:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=berkeley%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=virginia%1:15:01::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=screename
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=iowa%1:10:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=scioto
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=sidney%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=missouri%1:10:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=grafton
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=rosebud
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=marais
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=teton%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=sidney%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=sacramento%1:15:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=berkeley%1:18:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=coosa%1:17:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=lincei
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=southwest
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=dramatize%2:36:00::
+question=['cleveland%1:15:00::' 'ohio%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=louisiana%1:15:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=san
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=diego
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=albertson
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=michigan%1:17:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=bourbon%1:14:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=boselli
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=matador%1:18:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'chandler'
+ 'arizona%1:05:00::'], predicted=darryl
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=dakota
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=lead%1:07:01::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'glendale'
+ 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=diego
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=athletic
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=carroll%1:18:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=diego
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'irvine'
+ 'california%1:15:00::'], predicted=diego
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=diego
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'modesto'
+ 'california%1:15:00::'], predicted=nominee%1:18:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=wisconsin%1:15:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'fontana'
+ 'california%1:15:00::'], predicted=prosciutto%1:13:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=arizona%1:05:00::
+question=['minneapolis%1:15:00::' 'minnesota%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=vermont%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=bakersfield
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=philadelphia%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=prospect%2:39:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=houston%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=mexico%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=nashville
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=antonio
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=mexico%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=carolina%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=nashville
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=oklahoma%1:15:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=houston%1:18:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=mite%1:05:00::
+question=['arlington%1:15:00::' 'texas%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=houston%1:15:00::
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=cancellous%5:00:00:cellular:00
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'chandler'
+ 'arizona%1:05:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'glendale'
+ 'arizona%1:05:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=florida
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['bakersfield%1:15:00::' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'toledo%1:15:00::' 'ohio%1:15:00::'], predicted=illinois
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=softwood%1:27:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=iowa%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=illinois%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=florida
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=moines
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california%1:15:00::
+question=['tampa%1:15:00::' 'florida%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california%1:15:00::
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=california
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=oregon%1:15:00::
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=ouagadougou
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=brown
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=jackson
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=carolina
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=haughton
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=texas%1:15:00::
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=texas%1:15:00::
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=connecticut
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['anaheim%1:15:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=connecticut
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=steelers
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=incan%3:01:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=kamloops
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=kingdom%1:14:01::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'henderson' 'nevada%1:15:00::'], predicted=guan
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=letelier
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=tactician%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'chandler' 'arizona%1:05:00::'], predicted=carter
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=taoiseach%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=clinton%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'scottsdale' 'arizona%1:05:00::'], predicted=teton%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'irving' 'texas%1:15:00::'], predicted=senator%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=ostrogoth%1:18:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=sundanese
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'modesto' 'california%1:15:00::'], predicted=state%1:26:01::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=arkansas%1:15:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'fontana' 'california%1:15:00::'], predicted=bellagio
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=bihar%1:15:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=sarin%1:27:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=delores
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['honolulu%1:15:00::' 'hawaii%1:15:01::' 'phoenix' 'arizona%1:05:00::'], predicted=capra%1:18:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'henderson'
+ 'nevada%1:15:00::'], predicted=ward%1:06:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=letelier
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=detmold
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'chandler'
+ 'arizona%1:05:00::'], predicted=jackson
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=dakota%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=sparkle
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'glendale'
+ 'arizona%1:05:00::'], predicted=cemetery%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=keppel
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=intact%5:00:00:undamaged:00
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=schlesinger
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'modesto'
+ 'california%1:15:00::'], predicted=asheville
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'fontana'
+ 'california%1:15:00::'], predicted=loreto
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'glendale'
+ 'california%1:15:00::'], predicted=cemetery%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=locate%2:30:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=township%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=downtown%3:00:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'phoenix'
+ 'arizona%1:05:00::'], predicted=phoenix%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=township%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=carolina%1:15:00::
+question=['pittsburgh%1:15:00::' 'pennsylvania%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=illinois
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=arkansas%1:17:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cincinnati
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=michigan%1:17:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=piloto
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=earl
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=carter
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=lexington%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=mississippi%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=shawnee
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=louisiana%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=arkansas%1:17:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=ford%1:04:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=louisiana%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=wisconsin%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'fontana'
+ 'california%1:15:00::'], predicted=caldwell
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=louisiana%1:15:00::
+question=['lexington%1:15:00::' 'kentucky%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=kentucky
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=ohio
+question=['lexington%1:04:00::' 'kentucky%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=brewer
+question=['stockton%1:18:00::' 'california%1:15:00::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'anchorage%1:15:01::'
+ 'alaska%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'scottsdale'
+ 'arizona%1:05:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=laboratory%1:06:00::
+question=['stockton%1:18:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=los
+question=['stockton%1:18:00::' 'california%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['stockton%1:18:00::' 'california%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=angeles
+question=['stockton%1:18:00::' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=angeles
+question=['stockton%1:18:00::' 'california%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas%1:15:00::
+question=['stockton%1:18:00::' 'california%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=california
+question=['stockton%1:18:00::' 'california%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=phase
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=goldwasser
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=letelier
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=tactician%1:18:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=olson
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=madison
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=holley
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=namibian%3:01:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=united%5:00:00:married:00
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=isomer
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=goldwasser
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=route%2:38:01::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=goldwasser
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=togo%1:15:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=lincei
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=goldwasser
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=goldwasser
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=arizona%1:15:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=illinois%1:10:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=mill
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:15:00::
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['cincinnati%1:15:00::' 'ohio%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=intkey
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'toledo%1:15:00::'
+ 'ohio%1:15:00::'], predicted=antislavery
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'plano%1:15:00::'
+ 'texas%1:15:00::'], predicted=ideal%5:00:00:perfect:00
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=barber%2:29:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'laredo%1:15:00::'
+ 'texas%1:15:00::'], predicted=dorado%1:17:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=wrangel
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=georgia
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=alaska
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=casta
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=carnahan
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=delta
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=carroll%1:18:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=alaska
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=florida
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:00::'], predicted=siberia%1:15:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=alaska
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:00::'], predicted=alaska
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=revolutionary
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=georgia
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=georgia
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=alaska
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'phoenix' 'arizona%1:15:00::'], predicted=yucat
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=florida%1:15:00::
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['anchorage%1:15:01::' 'alaska%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=florida%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'plano%1:15:00::' 'texas%1:15:00::'], predicted=downtown%3:00:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=nicholson
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=dayton%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=rachel
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=cleveland%1:18:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'lubbock%1:15:00::' 'texas%1:15:00::'], predicted=iowa%1:10:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'garland%1:15:00::' 'texas%1:15:00::'], predicted=cleveland%1:18:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=suburb%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=kentucky%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=asu
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=jack%1:06:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=suburb%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=pennsylvania%1:15:01::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=maryland%1:15:01::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=pennsylvania%1:15:01::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=minneapolis
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=pennsylvania%1:15:01::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=suburb%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=jacksonville%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=pennsylvania%1:15:01::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago%1:04:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:15:00::
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=iowa
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=boston
+question=['toledo%1:15:00::' 'ohio%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=cleveland%1:18:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'henderson' 'nevada%1:15:00::'], predicted=texas
+question=['plano%1:15:00::' 'texas%1:15:00::' 'orlando%1:15:00::'
+ 'florida%1:15:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=jackson%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=carolina
+question=['plano%1:15:00::' 'texas%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['plano%1:15:00::' 'texas%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=texas
+question=['plano%1:15:00::' 'texas%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=louisiana%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['plano%1:15:00::' 'texas%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['plano%1:15:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=chicago%1:04:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['plano%1:15:00::' 'texas%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=california%1:15:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=chicago%1:04:00::
+question=['plano%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=california%1:15:00::
+question=['henderson' 'nevada%1:15:00::' 'orlando%1:15:00::' 'florida%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'laredo%1:15:00::' 'texas%1:15:00::'], predicted=vega%1:17:00::
+question=['henderson' 'nevada%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'madison%1:15:00::' 'wisconsin%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'lubbock%1:15:00::' 'texas%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'garland%1:15:00::' 'texas%1:15:00::'], predicted=vega%1:17:00::
+question=['henderson' 'nevada%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'fremont%1:18:00::' 'california%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=vega%1:17:00::
+question=['henderson' 'nevada%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['henderson' 'nevada%1:15:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=vega%1:17:00::
+question=['henderson' 'nevada%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=nevada
+question=['henderson' 'nevada%1:15:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=vega%1:17:00::
+question=['henderson' 'nevada%1:15:00::' 'baltimore%1:15:00::' 'maryland%1:15:00::'], predicted=nevada
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=jackson%1:15:03::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=jackson%1:15:03::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=jackson%1:15:03::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=county%1:15:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=florida
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=dean%1:18:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=maryland%1:15:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=florida
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=houston%1:18:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=scotland
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=arizona%1:15:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=hampshire%1:15:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=ohio
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=jackson%1:15:03::
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['orlando%1:15:00::' 'florida%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'chandler' 'arizona%1:05:00::'], predicted=virginia%1:15:01::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'madison%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=carolina%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=california%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=missouri%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=philadelphia%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=philadelphia%1:15:00::
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=nashville
+question=['laredo%1:15:00::' 'texas%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=virginia%1:15:01::
+question=['chandler' 'arizona%1:05:00::' 'madison%1:15:00::' 'wisconsin%1:15:00::'], predicted=alabama
+question=['chandler' 'arizona%1:05:00::' 'garland%1:15:00::' 'texas%1:15:00::'], predicted=alcal
+question=['chandler' 'arizona%1:05:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=marshfield
+question=['chandler' 'arizona%1:05:00::' 'irving' 'texas%1:15:00::'], predicted=colorado%1:17:00::
+question=['chandler' 'arizona%1:05:00::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=sonora
+question=['chandler' 'arizona%1:05:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=michigan%1:04:00::
+question=['chandler' 'arizona%1:05:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=marshfield
+question=['chandler' 'arizona%1:05:00::' 'fontana' 'california%1:15:00::'], predicted=emeritus
+question=['chandler' 'arizona%1:05:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=tallahassee%1:15:00::
+question=['chandler' 'arizona%1:05:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=marshfield
+question=['chandler' 'arizona%1:05:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['chandler' 'arizona%1:05:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=pittsburgh
+question=['chandler' 'arizona%1:05:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['chandler' 'arizona%1:05:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=hmc
+question=['chandler' 'arizona%1:05:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=marshfield
+question=['chandler' 'arizona%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=arizona
+question=['chandler' 'arizona%1:05:00::' 'baltimore%1:15:00::' 'maryland%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['chandler' 'arizona%1:05:00::' 'nashville%1:15:00::' 'tennessee%1:15:00::'], predicted=metrodome
+question=['chandler' 'arizona%1:05:00::' 'louisville%1:15:00::' 'kentucky%1:15:00::'], predicted=arizona
+question=['chandler' 'arizona%1:05:00::' 'milwaukee%1:15:00::' 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'lubbock%1:15:00::'
+ 'texas%1:15:00::'], predicted=wichita
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'garland%1:15:00::'
+ 'texas%1:15:00::'], predicted=schwarzkopf
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=topeka%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'reno%1:15:00::'
+ 'nevada%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=wichita
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=award
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=michigan%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=inland
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=award
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=bellagio
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'glendale'
+ 'california%1:15:00::'], predicted=topeka%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=topeka%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=pennsylvania%1:15:01::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago%1:04:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=minnesota
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=illinois%1:10:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=minnesota%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=minnesota%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=milwaukee%1:15:00::
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=michigan
+question=['madison%1:15:00::' 'wisconsin%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=minnesota%1:15:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=california%1:15:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=pennsylvania%1:15:01::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=texas
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=chicago%1:04:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=chicago%1:04:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['lubbock%1:15:00::' 'texas%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'glendale' 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['garland%1:15:00::' 'texas%1:15:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=california%1:15:00::
+question=['garland%1:15:00::' 'texas%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california%1:15:00::
+question=['garland%1:15:00::' 'texas%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['garland%1:15:00::' 'texas%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=philadelphia
+question=['garland%1:15:00::' 'texas%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['garland%1:15:00::' 'texas%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['garland%1:15:00::' 'texas%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['garland%1:15:00::' 'texas%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['garland%1:15:00::' 'texas%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=texas
+question=['garland%1:15:00::' 'texas%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=texas
+question=['glendale' 'arizona%1:05:00::' 'reno%1:15:00::' 'nevada%1:15:00::'], predicted=clinton%1:18:00::
+question=['glendale' 'arizona%1:05:00::' 'irving' 'texas%1:15:00::'], predicted=howells%1:18:00::
+question=['glendale' 'arizona%1:05:00::' 'fremont%1:18:00::' 'california%1:15:00::'], predicted=southwest%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'irvine' 'california%1:15:00::'], predicted=northeast%4:02:00::
+question=['glendale' 'arizona%1:05:00::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=southwest%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'modesto' 'california%1:15:00::'], predicted=alaska%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=manitowoc
+question=['glendale' 'arizona%1:05:00::' 'fontana' 'california%1:15:00::'], predicted=meteorology%1:09:00::
+question=['glendale' 'arizona%1:05:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=homeschooled
+question=['glendale' 'arizona%1:05:00::' 'tallahassee%1:15:00::' 'florida%1:15:00::'], predicted=kansa%1:18:00::
+question=['glendale' 'arizona%1:05:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago
+question=['glendale' 'arizona%1:05:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=philadelphia
+question=['glendale' 'arizona%1:05:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=minnesota
+question=['glendale' 'arizona%1:05:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=minnesota%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['glendale' 'arizona%1:05:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=minnesota
+question=['glendale' 'arizona%1:05:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=richland
+question=['glendale' 'arizona%1:05:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=minnesota%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'baltimore%1:15:00::' 'maryland%1:15:00::'], predicted=minnesota%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'nashville%1:15:00::' 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'louisville%1:15:00::' 'kentucky%1:15:00::'], predicted=minnesota%1:15:00::
+question=['glendale' 'arizona%1:05:00::' 'portland%1:15:01::' 'oregon%1:15:00::'], predicted=meteorology%1:09:00::
+question=['glendale' 'arizona%1:05:00::' 'fresno%1:15:00::' 'california%1:15:00::'], predicted=meteorology%1:09:00::
+question=['glendale' 'arizona%1:05:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=minnesota%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'scottsdale' 'arizona%1:05:00::'], predicted=teton%1:18:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'irving' 'texas%1:15:00::'], predicted=encampment%1:04:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=terminus%1:09:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'irvine' 'california%1:15:00::'], predicted=jurassic%3:01:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=moraine%1:17:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=maryland%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'shreveport%1:15:00::'
+ 'louisiana%1:15:00::'], predicted=mississippi
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=colorado
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=emanuele
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=montana%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=sierra%1:05:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=maryland%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=nearby%5:00:00:near:00
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:17:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=franchise%1:07:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=wyoming%1:15:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=track%1:06:02::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=kansa
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=league%1:14:01::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=vega%1:17:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=colorado%1:17:01::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=appalachian%3:01:00::
+question=['reno%1:15:00::' 'nevada%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'irving' 'texas%1:15:00::'], predicted=gould%1:18:00::
+question=['scottsdale' 'arizona%1:05:00::' 'fremont%1:18:00::'
+ 'california%1:15:00::'], predicted=tallahassee%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'irvine' 'california%1:15:00::'], predicted=mycologist%1:18:00::
+question=['scottsdale' 'arizona%1:05:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=notify%2:32:00::
+question=['scottsdale' 'arizona%1:05:00::' 'modesto' 'california%1:15:00::'], predicted=florida
+question=['scottsdale' 'arizona%1:05:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=michigan%1:04:00::
+question=['scottsdale' 'arizona%1:05:00::' 'fontana' 'california%1:15:00::'], predicted=banca
+question=['scottsdale' 'arizona%1:05:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=tallahassee%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=louisiana%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=georgia%1:15:01::
+question=['scottsdale' 'arizona%1:05:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago
+question=['scottsdale' 'arizona%1:05:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=minnesota
+question=['scottsdale' 'arizona%1:05:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['scottsdale' 'arizona%1:05:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['scottsdale' 'arizona%1:05:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=hawaii%1:15:01::
+question=['scottsdale' 'arizona%1:05:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=hawaii%1:15:01::
+question=['scottsdale' 'arizona%1:05:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['scottsdale' 'arizona%1:05:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=alabama
+question=['scottsdale' 'arizona%1:05:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=alabama
+question=['scottsdale' 'arizona%1:05:00::' 'portland%1:15:01::' 'oregon%1:15:00::'], predicted=oklahoma%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'fresno%1:15:00::' 'california%1:15:00::'], predicted=humboldt
+question=['scottsdale' 'arizona%1:05:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=florida%1:15:00::
+question=['scottsdale' 'arizona%1:05:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['irving' 'texas%1:15:00::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'modesto' 'california%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'fontana' 'california%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'worcester%1:15:01::' 'massachusetts%1:15:01::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago
+question=['irving' 'texas%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'indianapolis%1:15:00::' 'indiana%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['irving' 'texas%1:15:00::' 'memphis%1:15:00::' 'tennessee%1:15:00::'], predicted=florida%1:15:00::
+question=['irving' 'texas%1:15:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'baltimore%1:15:00::' 'maryland%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'nashville%1:15:00::' 'tennessee%1:15:00::'], predicted=knoxville%1:15:00::
+question=['irving' 'texas%1:15:00::' 'louisville%1:15:00::' 'kentucky%1:15:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'milwaukee%1:15:00::' 'wisconsin%1:15:00::'], predicted=minnesota%1:15:00::
+question=['irving' 'texas%1:15:00::' 'tucson%1:15:00::' 'arizona%1:05:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=texas
+question=['irving' 'texas%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=texas
+question=['fremont%1:18:00::' 'california%1:15:00::' 'spokane%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=texas%1:15:00::
+question=['fremont%1:18:00::' 'california%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago
+question=['fremont%1:18:00::' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas%1:15:00::
+question=['fremont%1:18:00::' 'california%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['fremont%1:18:00::' 'california%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=california
+question=['fremont%1:18:00::' 'california%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=los
+question=['fremont%1:18:00::' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['fremont%1:18:00::' 'california%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=california
+question=['irvine' 'california%1:15:00::' 'spokane%1:15:00::' 'washington%1:15:01::'], predicted=california
+question=['irvine' 'california%1:15:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=los
+question=['irvine' 'california%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=tennessee%1:15:00::
+question=['irvine' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=boston%1:15:00::
+question=['irvine' 'california%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=chicago%1:04:00::
+question=['irvine' 'california%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['irvine' 'california%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['irvine' 'california%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=boston
+question=['irvine' 'california%1:15:00::' 'seattle%1:15:00::' 'washington%1:15:01::'], predicted=chicago%1:04:00::
+question=['irvine' 'california%1:15:00::' 'baltimore%1:15:00::' 'maryland%1:15:00::'], predicted=oakland%1:15:00::
+question=['irvine' 'california%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=memphis%1:15:01::
+question=['irvine' 'california%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=chicago%1:04:00::
+question=['irvine' 'california%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=los
+question=['irvine' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['irvine' 'california%1:15:00::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=texas%1:15:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'modesto'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'fontana'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'glendale'
+ 'california%1:15:00::'], predicted=washington
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=madison%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'chicago%1:15:00::'
+ 'illinois%1:15:00::'], predicted=chicago%1:04:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'phoenix' 'arizona%1:05:00::'], predicted=johnston%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=baltimore%1:15:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=indianapolis
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=jackson%1:15:03::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=lincoln%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=waterman%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['spokane%1:15:00::' 'washington%1:15:01::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['modesto' 'california%1:15:00::' 'tacoma%1:15:00::' 'washington%1:15:01::'], predicted=los
+question=['modesto' 'california%1:15:00::' 'akron%1:15:00::' 'ohio%1:15:00::'], predicted=los
+question=['modesto' 'california%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=los
+question=['modesto' 'california%1:15:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago%1:04:00::
+question=['modesto' 'california%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['modesto' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=angeles
+question=['modesto' 'california%1:15:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=angeles
+question=['modesto' 'california%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=chicago%1:04:00::
+question=['modesto' 'california%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['modesto' 'california%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['modesto' 'california%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=denver
+question=['modesto' 'california%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['modesto' 'california%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=los
+question=['modesto' 'california%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=angeles
+question=['modesto' 'california%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=los
+question=['modesto' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['modesto' 'california%1:15:00::' 'miami%1:15:00::' 'florida%1:15:00::'], predicted=san
+question=['modesto' 'california%1:15:00::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=angeles
+question=['modesto' 'california%1:15:00::' 'cleveland%1:15:00::' 'ohio%1:15:00::'], predicted=chicago%1:04:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'tacoma%1:15:00::'
+ 'washington%1:15:01::'], predicted=tacoma
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'fontana'
+ 'california%1:15:00::'], predicted=banca
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=mississippi%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'glendale'
+ 'california%1:15:00::'], predicted=oregon%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=mississippi%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=yucat
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=florida
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=florida%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=creole%1:18:02::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=florida
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=mississippi%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=native%3:00:02::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=spokane
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=francisco
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=florida%1:15:00::
+question=['shreveport%1:15:00::' 'louisiana%1:15:00::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=mississippi%1:15:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'fontana' 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'akron%1:15:00::'
+ 'ohio%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'glendale'
+ 'california%1:15:00::'], predicted=washington
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=louisiana%1:15:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=jackson%1:15:03::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'phoenix' 'arizona%1:05:00::'], predicted=johnston%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'dallas%1:15:00::'
+ 'texas%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=indianapolis
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=jackson%1:15:03::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=philadelphia%1:15:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=washington
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=virginia%1:15:01::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=rhoades
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'minneapolis%1:15:00::'
+ 'minnesota%1:15:00::'], predicted=washington%1:18:00::
+question=['tacoma%1:15:00::' 'washington%1:15:01::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['fontana' 'california%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago
+question=['fontana' 'california%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=oakland%1:15:00::
+question=['fontana' 'california%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['fontana' 'california%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=oakland%1:15:00::
+question=['fontana' 'california%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=denver
+question=['fontana' 'california%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=oakland%1:15:00::
+question=['fontana' 'california%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'portland%1:15:01::' 'oregon%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'arlington%1:15:00::' 'texas%1:15:00::'], predicted=california
+question=['fontana' 'california%1:15:00::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=oakland%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'glendale' 'california%1:15:00::'], predicted=oregon%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'tallahassee%1:15:00::'
+ 'florida%1:15:00::'], predicted=downtown%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=tulare
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'houston%1:18:00::' 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=phoenix%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'dallas%1:15:00::' 'texas%1:15:00::'], predicted=dallas
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'austin%1:15:00::' 'texas%1:15:00::'], predicted=austin
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=west%3:00:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=chicago%1:04:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=denver
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=baltimore
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=scratch%1:10:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'tucson%1:15:00::' 'arizona%1:05:00::'], predicted=iowa%1:10:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=tulare
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=downtown%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=stripper%1:18:01::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=stripper%1:18:01::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=downtown%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'arlington%1:15:00::' 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=downtown%1:15:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['akron%1:15:00::' 'ohio%1:15:00::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=angeles
+question=['glendale' 'california%1:15:00::' 'chicago%1:15:00::' 'illinois%1:15:00::'], predicted=chicago
+question=['glendale' 'california%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'phoenix' 'arizona%1:05:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'detroit%1:15:00::' 'michigan%1:15:00::'], predicted=detroit
+question=['glendale' 'california%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=francisco
+question=['glendale' 'california%1:15:00::' 'denver%1:15:00::' 'colorado%1:15:00::'], predicted=minnesota%1:15:00::
+question=['glendale' 'california%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'portland%1:15:01::' 'oregon%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'tucson%1:15:00::' 'arizona%1:05:00::'], predicted=francisco
+question=['glendale' 'california%1:15:00::' 'mesa%1:15:00::' 'arizona%1:05:00::'], predicted=kesey%1:18:00::
+question=['glendale' 'california%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['glendale' 'california%1:15:00::' 'tulsa%1:15:00::' 'oklahoma%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'cleveland%1:15:00::' 'ohio%1:15:00::'], predicted=texas%1:15:00::
+question=['glendale' 'california%1:15:00::' 'tampa%1:15:00::' 'florida%1:15:00::'], predicted=bay%1:17:00::
+question=['glendale' 'california%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=francisco
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'worcester%1:15:01::'
+ 'massachusetts%1:15:01::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=jackson%1:15:03::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'boston%1:15:00::'
+ 'massachusetts%1:15:01::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=seattle
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=denver
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'baltimore%1:15:00::'
+ 'maryland%1:15:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=bakersfield%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=arizona
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=sox
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'atlanta' 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'honolulu%1:15:00::'
+ 'hawaii%1:15:01::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'pittsburgh%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=california%1:15:00::
+question=['tallahassee%1:15:00::' 'florida%1:15:00::' 'lexington%1:04:00::'
+ 'kentucky%1:15:00::'], predicted=california%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'houston%1:18:00::'
+ 'texas%1:15:00::'], predicted=houston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'philadelphia%1:15:00::'
+ 'pennsylvania%1:15:00::'], predicted=boston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'phoenix'
+ 'arizona%1:05:00::'], predicted=phoenix%1:17:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'jacksonville%1:15:00::'
+ 'florida%1:15:00::'], predicted=baltimore%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'indianapolis%1:15:00::'
+ 'indiana%1:15:00::'], predicted=illinois%1:18:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'austin%1:15:00::'
+ 'texas%1:15:00::'], predicted=austin
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'detroit%1:15:00::'
+ 'michigan%1:15:00::'], predicted=detroit
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'memphis%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=memphis%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'seattle%1:15:00::'
+ 'washington%1:15:01::'], predicted=boston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'denver%1:15:00::'
+ 'colorado%1:15:00::'], predicted=illinois%1:18:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'nashville%1:15:00::'
+ 'tennessee%1:15:00::'], predicted=memphis%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'louisville%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=boston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'milwaukee%1:15:00::'
+ 'wisconsin%1:15:00::'], predicted=milwaukee
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'portland%1:15:01::'
+ 'oregon%1:15:00::'], predicted=boston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'tucson%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'fresno%1:15:00::'
+ 'california%1:15:00::'], predicted=maryland%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'sacramento%1:15:00::'
+ 'california%1:15:00::'], predicted=illinois%1:18:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'mesa%1:15:00::'
+ 'arizona%1:05:00::'], predicted=maryland%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'atlanta'
+ 'georgia%1:15:01::'], predicted=atlanta%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'miami%1:15:00::'
+ 'florida%1:15:00::'], predicted=maryland%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'tulsa%1:15:00::'
+ 'oklahoma%1:15:00::'], predicted=illinois%1:18:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'oakland%1:15:00::'
+ 'california%1:15:00::'], predicted=boston%1:15:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'cleveland%1:15:00::'
+ 'ohio%1:15:00::'], predicted=cleveland%1:18:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'arlington%1:15:00::'
+ 'texas%1:15:00::'], predicted=virginia%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'bakersfield%1:15:00::'
+ 'california%1:15:00::'], predicted=connecticut%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'tampa%1:15:00::'
+ 'florida%1:15:00::'], predicted=bay%1:11:00::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'anaheim%1:15:00::'
+ 'california%1:15:00::'], predicted=maryland%1:15:01::
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'lexington%1:15:00::'
+ 'kentucky%1:15:00::'], predicted=massachusetts
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'stockton%1:18:00::'
+ 'california%1:15:00::'], predicted=massachusetts
+question=['worcester%1:15:01::' 'massachusetts%1:15:01::' 'cincinnati%1:15:00::'
+ 'ohio%1:15:00::'], predicted=boston%1:15:00::

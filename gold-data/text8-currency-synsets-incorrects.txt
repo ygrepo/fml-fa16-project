@@ -1,0 +1,572 @@
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=sparteca
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=palmeri
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=revaluation%1:09:00::
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=nomura
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=serbia
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=tenga
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=upanija
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=denmark
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=reincarnate%2:42:00::
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=upanija
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=hanimex
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=yuan
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=estonia%1:15:00::
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=kuala
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=poland
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=upanija
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=nikolaevna
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=usa
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=kuomintang%1:14:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=maradona
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=armenia
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=kunene
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=romania%1:15:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=perthshire
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=slovenia%1:15:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=norway
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=continental%3:01:01::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=hungary
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=takao
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=estonia%1:15:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=estonia%1:15:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=eesti
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=pomerania
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=romania
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=usa
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['angola%1:15:00::' 'kwanza%1:23:00::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=kabyle
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'armenia%1:15:00::'
+ 'dram%1:23:00::'], predicted=lat%1:08:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'brazil%1:15:00::' 'real%1:23:01::'], predicted=lat%1:08:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'bulgaria%1:15:00::'
+ 'lev%1:23:00::'], predicted=bulgarian%3:01:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=khmer
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'croatia%1:15:00::' 'kuna'], predicted=mulanje
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=dkr
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=offa
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=eur
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=sanjo
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=lithuania%1:15:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=malaysian%3:01:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'poland%1:15:00::'
+ 'zloty%1:23:00::'], predicted=gda
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=litas%1:23:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'russia%1:15:02::'
+ 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=cfaf
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'vietnam%1:15:00::'
+ 'dong%1:23:00::'], predicted=fifty
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=djiboutian%3:01:00::
+question=['argentina%1:15:00::' 'peso%1:23:03::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=mulanje
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=ram%1:05:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=moldova%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=burma%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=dubrovnik%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=danish%3:01:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=tivo
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=hungarian%3:01:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=nintendo
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=estonia%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=burma%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=warsaw%1:15:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=romanian%3:01:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=imac
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam%1:04:00::
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=arab
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=angola
+question=['armenia%1:15:00::' 'dram%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=maradona
+question=['brazil%1:15:00::' 'real%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=stormbl
+question=['brazil%1:15:00::' 'real%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=algebra%1:09:00::
+question=['brazil%1:15:00::' 'real%1:23:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=number%1:10:03::
+question=['brazil%1:15:00::' 'real%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=operator%1:18:01::
+question=['brazil%1:15:00::' 'real%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=associativity
+question=['brazil%1:15:00::' 'real%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=redshifted
+question=['brazil%1:15:00::' 'real%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=dimensional
+question=['brazil%1:15:00::' 'real%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=bin%1:06:00::
+question=['brazil%1:15:00::' 'real%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=commutativity
+question=['brazil%1:15:00::' 'real%1:23:01::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=computable%5:00:00:calculable:00
+question=['brazil%1:15:00::' 'real%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=algebra%1:09:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=yang%1:09:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canadian%3:01:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=czech
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=danish%3:01:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=western
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=mashiach
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=japanese%3:01:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=vytautas
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=yang%1:09:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=polish%3:01:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=rolando
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=canton
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=mohammed
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=fdd
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=tversky
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=lat%1:08:00::
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=brazilian%3:01:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=romania%1:15:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=sweden
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=disingenuous%3:00:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=hungary
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=bluff%1:17:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=lithuania%1:15:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=jogaila
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=riel
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=wawel
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=lysenko%1:18:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=conservative%5:00:00:middle-class:00
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=riel
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=algerian%3:01:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=namibia%1:15:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=argentine%3:01:00::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=execution%1:10:01::
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=pedro
+question=['cambodia%1:15:00::' 'riel%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=romania%1:15:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'croatia%1:15:00::' 'kuna'], predicted=bosnia
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=cent%1:21:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=pva%1:27:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=euro%1:23:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=usd
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=lithuania%1:15:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=currency%1:07:01::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=lithuania%1:15:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=currency%1:07:01::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=currency%1:07:01::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=shilling
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=shilling
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=usd
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=escudo
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=dollar%1:23:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=currency%1:07:01::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=lira
+question=['croatia%1:15:00::' 'kuna' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=dkr
+question=['croatia%1:15:00::' 'kuna' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=resurgence%1:04:00::
+question=['croatia%1:15:00::' 'kuna' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=transfer%1:04:03::
+question=['croatia%1:15:00::' 'kuna' 'korea%1:15:00::' 'won%1:23:01::'], predicted=katana
+question=['croatia%1:15:00::' 'kuna' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=kyat%1:23:00::
+question=['croatia%1:15:00::' 'kuna' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=jogaila
+question=['croatia%1:15:00::' 'kuna' 'malaysia%1:15:00::' 'ringgit%1:23:00::'], predicted=hsbc
+question=['croatia%1:15:00::' 'kuna' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=kazimierz
+question=['croatia%1:15:00::' 'kuna' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['croatia%1:15:00::' 'kuna' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=rpi
+question=['croatia%1:15:00::' 'kuna' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=shooting
+question=['croatia%1:15:00::' 'kuna' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=djiboutian%3:01:00::
+question=['croatia%1:15:00::' 'kuna' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=convertible%5:00:00:adaptable:00
+question=['croatia%1:15:00::' 'kuna' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=anguilla%1:05:00::
+question=['croatia%1:15:00::' 'kuna' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=khosrau
+question=['croatia%1:15:00::' 'kuna' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=rate%1:28:00::
+question=['croatia%1:15:00::' 'kuna' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=inflation%1:22:00::
+question=['croatia%1:15:00::' 'kuna' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=khmer
+question=['croatia%1:15:00::' 'kuna' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=rate%1:28:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=peerless
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=austro
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=hyperinflation
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=china%1:06:01::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=lithuania%1:15:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=transcaucasian
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=indonesia%1:15:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=polish%3:01:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=bulgaria%1:15:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=biotech%1:09:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=hyperinflation
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=libya%1:15:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=angola
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=uruguay%1:15:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=kyrgyz
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=hyperinflation
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=bulgarian%3:01:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=khmer%1:10:00::
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['denmark%1:15:00::' 'krone%1:23:01::' 'croatia%1:15:00::' 'kuna'], predicted=serbia%1:15:00::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'russia%1:15:01::' 'ruble%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=usd
+question=['europe%1:14:01::' 'euro%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=franc%1:23:00::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=peg%2:41:00::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=franc%1:23:00::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=currency%1:07:01::
+question=['europe%1:14:01::' 'euro%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=eurocents
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=kyat%1:23:00::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=ltl
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=huf
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'poland%1:15:00::'
+ 'zloty%1:23:00::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'russia%1:15:02::'
+ 'ruble%1:23:00::'], predicted=dkr
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'vietnam%1:15:00::'
+ 'dong%1:23:00::'], predicted=vietnam
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=huf
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=angola
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=argentina
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'armenia%1:15:00::'
+ 'dram%1:23:00::'], predicted=huf
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'bulgaria%1:15:00::'
+ 'lev%1:23:00::'], predicted=ruble%1:23:00::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=huf
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=huf
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=kwacha%1:23:01::
+question=['hungary%1:15:00::' 'forint%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=kwacha%1:23:01::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=latvia
+question=['japan%1:06:00::' 'yen%1:23:00::' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=ltl
+question=['japan%1:06:00::' 'yen%1:23:00::' 'malaysia%1:15:00::' 'ringgit%1:23:00::'], predicted=mxn
+question=['japan%1:06:00::' 'yen%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=polish%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=bulgaria%1:15:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=biotech%1:09:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['japan%1:06:00::' 'yen%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=djiboutian%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=angola
+question=['japan%1:06:00::' 'yen%1:23:00::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=argentine%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=drachma%1:23:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=sergipe
+question=['japan%1:06:00::' 'yen%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=bulgarian%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=lao%1:10:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['japan%1:06:00::' 'yen%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=montenegro%1:15:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=danish%3:01:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=yen
+question=['japan%1:06:00::' 'yen%1:23:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=suzdal
+question=['korea%1:15:00::' 'won%1:23:01::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=rzburg
+question=['korea%1:15:00::' 'won%1:23:01::' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=rzburg
+question=['korea%1:15:00::' 'won%1:23:01::' 'malaysia%1:15:00::' 'ringgit%1:23:00::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=margrave%1:18:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=tufted
+question=['korea%1:15:00::' 'won%1:23:01::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=masri
+question=['korea%1:15:00::' 'won%1:23:01::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=savimbi
+question=['korea%1:15:00::' 'won%1:23:01::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=uncle
+question=['korea%1:15:00::' 'won%1:23:01::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=margrave%1:18:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=win%1:11:00::
+question=['korea%1:15:00::' 'won%1:23:01::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=bowell
+question=['korea%1:15:00::' 'won%1:23:01::' 'croatia%1:15:00::' 'kuna'], predicted=knin
+question=['korea%1:15:00::' 'won%1:23:01::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=hauptbahnhof
+question=['korea%1:15:00::' 'won%1:23:01::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=relaxed
+question=['korea%1:15:00::' 'won%1:23:01::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=rzburg
+question=['korea%1:15:00::' 'won%1:23:01::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=win%1:11:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=ltl
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=inti%1:23:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=aw
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=dark%5:00:00:depressing:00
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=coulee
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=viet
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=truffaut
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=financi
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=insult
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=azerbaijani%3:01:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=truffaut
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=khmer%1:10:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=atrice
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'croatia%1:15:00::' 'kuna'], predicted=pretty
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=dkr
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=truffaut
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=astarte%1:18:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=manga
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=malaysian%3:01:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'poland%1:15:00::'
+ 'zloty%1:23:00::'], predicted=banknote%1:21:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'romania%1:15:00::'
+ 'leu%1:23:00::'], predicted=banknote%1:21:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'russia%1:15:02::'
+ 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=usd
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'vietnam%1:15:00::'
+ 'dong%1:23:00::'], predicted=vietnam%1:04:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=banknote
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=falklands
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'armenia%1:15:00::'
+ 'dram%1:23:00::'], predicted=banknote
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'brazil%1:15:00::'
+ 'real%1:23:00::'], predicted=bolivian%3:01:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'bulgaria%1:15:00::'
+ 'lev%1:23:00::'], predicted=banknote%1:21:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=stamp%1:06:02::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=herzegovina
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=banknote%1:21:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'europe%1:14:01::'
+ 'euro%1:23:00::'], predicted=postage%1:21:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=trianon
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=japanese%3:01:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=banknote%1:21:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'poland%1:15:00::'
+ 'zloty%1:23:00::'], predicted=polish%3:01:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'romania%1:15:00::'
+ 'leu%1:23:00::'], predicted=severin
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'russia%1:15:02::'
+ 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'usa%1:15:00::'
+ 'dollar%1:21:01::'], predicted=mikkelson
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'vietnam%1:15:00::'
+ 'dong%1:23:00::'], predicted=vietnam
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'algeria%1:15:00::'
+ 'dinar%1:23:00::'], predicted=algeria
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=savimbi
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=argentine%3:01:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'armenia%1:15:00::'
+ 'dram%1:23:00::'], predicted=timecode
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'brazil%1:15:00::'
+ 'real%1:23:00::'], predicted=amazonas
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'bulgaria%1:15:00::'
+ 'lev%1:23:00::'], predicted=severin
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'cambodia%1:15:00::'
+ 'riel%1:23:00::'], predicted=cambodia
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'canada%1:15:00::'
+ 'dollar%1:21:01::'], predicted=canada
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=istria
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'denmark%1:15:00::'
+ 'krone%1:23:01::'], predicted=danish%3:01:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'europe%1:14:01::'
+ 'euro%1:23:00::'], predicted=theodoric
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=bohemia%1:14:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=show%2:33:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'latvia%1:15:00::'
+ 'lat%1:08:00::'], predicted=estonia%1:15:00::
+question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=xof
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=dramatically%4:02:01::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=suntrust
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=xof
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=kwacha%1:23:01::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=yttrium%1:27:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=dinar%1:23:05::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=peso
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=xof
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=tenga
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=kor
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=kwacha%1:23:01::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=bird%1:18:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=peso
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=bird%1:18:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=pataca%1:23:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=malaysia
+question=['romania%1:15:00::' 'leu%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=azim
+question=['romania%1:15:00::' 'leu%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=detritus
+question=['romania%1:15:00::' 'leu%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam%1:04:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=zenati
+question=['romania%1:15:00::' 'leu%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=angola
+question=['romania%1:15:00::' 'leu%1:23:00::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=anguilla%1:05:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=azerbaijan
+question=['romania%1:15:00::' 'leu%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=altiplano
+question=['romania%1:15:00::' 'leu%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=detritus
+question=['romania%1:15:00::' 'leu%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=detritus
+question=['romania%1:15:00::' 'leu%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['romania%1:15:00::' 'leu%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=leucine%1:27:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=leucine%1:27:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=detritus
+question=['romania%1:15:00::' 'leu%1:23:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=leucine%1:27:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=sufficiency%1:23:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korean%3:01:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=kyat%1:23:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=leucine%1:27:00::
+question=['romania%1:15:00::' 'leu%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=detritus
+question=['romania%1:15:00::' 'leu%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=leucine%1:27:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=shilling
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=vietnam
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=xof
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=angola
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=anguilla%1:05:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=guilder
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=peso
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=xof
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=ringgit%1:23:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=herzegovina
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=kyat%1:23:00::
+question=['russia%1:15:01::' 'ruble%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=aoa
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=growth%1:22:01::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=kyat%1:23:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=franc%1:23:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=rupee
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=guilder
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=franc%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=angola
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'argentina%1:15:00::' 'peso%1:23:03::'], predicted=anguilla%1:05:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=dinar%1:23:05::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=macedonia%1:15:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=comorian
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'croatia%1:15:00::' 'kuna'], predicted=herzegovina
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=dkk
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=estonia%1:15:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=brunei%1:15:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=kazimierz
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=dollar%1:23:00::
+question=['usa%1:15:00::' 'dollar%1:21:01::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=dollar%1:23:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=converter%1:06:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'argentina%1:15:00::'
+ 'peso%1:23:03::'], predicted=argentina
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'armenia%1:15:00::' 'dram%1:23:00::'], predicted=armenian%3:01:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'brazil%1:15:00::' 'real%1:23:00::'], predicted=forte
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=moldova%1:15:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'cambodia%1:15:00::' 'riel%1:23:00::'], predicted=longitudinal
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=canada
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'croatia%1:15:00::' 'kuna'], predicted=czech
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=danish%3:01:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=faraway
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'hungary%1:15:00::'
+ 'forint%1:23:00::'], predicted=hungary
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=ogura
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'korea%1:15:00::' 'won%1:23:01::'], predicted=korea
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=latvia
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=latvia%1:15:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=pertuan
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'poland%1:15:00::' 'zloty%1:23:00::'], predicted=wojew
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=romanian%3:01:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'russia%1:15:02::' 'ruble%1:23:00::'], predicted=tsar%1:18:00::
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'usa%1:15:00::' 'dollar%1:21:01::'], predicted=diva
