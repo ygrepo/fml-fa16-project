@@ -496,14 +496,11 @@ def use(opts, correct_filename, incorrect_filename, lenient):
 def main(_):
   opts = Options()
   if FLAGS.use:
-    path = 'data/'
     correct_filename = None
     incorrect_filename = None
     if  FLAGS.answer_filename is not None:
       correct_filename = FLAGS.answer_filename + '-corrects.txt'
-      correct_filename = '%s%s' % (path, correct_filename)
       incorrect_filename = FLAGS.answer_filename + '-incorrects.txt'
-      incorrect_filename = '%s%s' % (path, incorrect_filename)
     use(opts, correct_filename, incorrect_filename, FLAGS.lenient)
   elif not FLAGS.train_data or not FLAGS.eval_data or not FLAGS.save_path:
     """Train a word2vec model."""

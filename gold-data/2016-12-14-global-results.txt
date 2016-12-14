@@ -1,0 +1,10 @@
+min_count:5
+embedding_size:200
+Epoch            15                     150
+word text8       36.5%  (6511/17827)    
+synset text8     61.5% (10075/16479)
+
+
+            tokens          unique tokens         unique frequent tokens
+words       17005207        253854 (1.49%)       71290  (28%) (0.41%)
+synsets     17005200        306620 (1.80%)       99004 (32%) (0.58%)
