@@ -1,5 +1,5 @@
 # FML-FA16-Project
-FML class final project
+Fundations of Machine Learning class final project
 
 ## Project Abstract
 
