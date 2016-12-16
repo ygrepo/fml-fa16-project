@@ -1,6 +1,6 @@
  #!/bin/bash
  
-EPOCH="15"
+EPOCH="150"
 OUTPUTDIR=gold-data
 TRAINFILE=data/text8
 EVALFILE=gold-data/questions-words.txt
