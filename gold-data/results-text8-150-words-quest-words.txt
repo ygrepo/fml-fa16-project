@@ -1,0 +1,7 @@
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/questions-words.txt
+Questions:  17827
+Eval 7005/17827 accuracy = 39.3%

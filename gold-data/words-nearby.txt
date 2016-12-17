@@ -1,0 +1,161 @@
+race
+=====================================
+race                 1.0000
+races                0.6672
+racing               0.5809
+car                  0.5795
+driver               0.5520
+daytona              0.4885
+pennant              0.4829
+prix                 0.4816
+hispanic             0.4749
+wimille              0.4704
+drivers              0.4656
+motorcycle           0.4616
+championship         0.4606
+cars                 0.4521
+horse                0.4501
+speedweeks           0.4459
+ethnicity            0.4443
+ancestry             0.4441
+speedway             0.4370
+road                 0.4318
+
+net
+=====================================
+net                  1.0000
+http                 0.5305
+org                  0.5211
+com                  0.5189
+www                  0.5164
+migration            0.4536
+https                0.4498
+html                 0.4440
+website              0.4411
+online               0.4411
+htm                  0.4395
+irc                  0.4380
+migrant              0.4250
+wiki                 0.4099
+database             0.4078
+forum                0.4053
+page                 0.4016
+pdf                  0.4015
+site                 0.4007
+index                0.4003
+
+bank
+=====================================
+bank                 1.0000
+banks                0.6406
+monetary             0.5959
+reserve              0.5250
+fund                 0.5207
+banking              0.5179
+imf                  0.5145
+gaza                 0.5036
+currency             0.5015
+money                0.4959
+savings              0.4910
+financial            0.4848
+loans                0.4626
+credit               0.4599
+investment           0.4483
+loan                 0.4395
+exchange             0.4394
+funds                0.4389
+banknotes            0.4354
+lending              0.4293
+
+proton
+=====================================
+proton               1.0000
+electron             0.6452
+protons              0.6315
+hydrogen             0.6127
+electrons            0.6032
+atom                 0.5838
+ions                 0.5798
+neutron              0.5781
+neutrinos            0.5693
+ion                  0.5595
+atoms                0.5574
+neutrons             0.5511
+particle             0.5468
+nucleus              0.5437
+molecule             0.5379
+molecules            0.5299
+membrane             0.5269
+particles            0.5259
+anion                0.5210
+muon                 0.5201
+
+elephant
+=====================================
+elephant             1.0000
+elephants            0.6649
+bird                 0.5227
+tusks                0.4938
+grandorder           0.4895
+birds                0.4879
+elephas              0.4853
+lion                 0.4746
+loxodonta            0.4578
+albatrosses          0.4503
+giraffe              0.4495
+calf                 0.4468
+animal               0.4464
+breeding             0.4459
+panthera             0.4459
+hippopotamus         0.4444
+leopard              0.4444
+ears                 0.4436
+camel                0.4428
+camels               0.4369
+
+maxwell
+=====================================
+maxwell              1.0000
+equations            0.6546
+boltzmann            0.5976
+einstein             0.5509
+newton               0.5458
+electromagnetism     0.5399
+clerk                0.5053
+relativity           0.5044
+gauss                0.4887
+faraday              0.4857
+lorentz              0.4687
+thermodynamic        0.4528
+physics              0.4508
+luminiferous         0.4487
+gravitation          0.4418
+relativistic         0.4406
+poiseuille           0.4378
+thermodynamics       0.4370
+electromagnetic      0.4353
+quantum              0.4341
+
+dream
+=====================================
+dream                1.0000
+dreams               0.6201
+lucid                0.5046
+story                0.4800
+dreaming             0.4683
+prophetic            0.4476
+quest                0.4363
+sad                  0.4304
+glory                0.4293
+tangerine            0.4242
+deliverance          0.4235
+strange              0.4189
+destiny              0.4166
+journey              0.4159
+waking               0.4132
+vision               0.4116
+night                0.4098
+awake                0.4087
+novel                0.4074
+sleep                0.4051
+
