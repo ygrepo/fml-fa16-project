@@ -1,5 +1,5 @@
 #!/bin/bash
 
-STREAMINFILE="data/text8.zip"
-STREAMOUTFILE="data/text8-l-pos.txt"
-python wordnet_utils.py --stream --zip --streaminfile $STREAMINFILE --streamoutfile $STREAMOUTFILE
+STREAMINFILE="data/wiki5k.txt"
+STREAMOUTFILE="data/wiki5k-l-pos.txt"
+python wordnet_utils.py --stream --streaminfile $STREAMINFILE --streamoutfile $STREAMOUTFILE

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MINCOUNT=5
+MINCOUNT=2
 EMBSIZE=200
 EPOCHS=15
 TRAININGDATA=data/2016-12-07-text8-synsets.txt
