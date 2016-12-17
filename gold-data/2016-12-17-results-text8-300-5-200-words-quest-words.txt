@@ -1,0 +1,3443 @@
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Skipped=Abuja Nigeria Accra Ghana
+
+Skipped=Abuja Nigeria Algiers Algeria
+
+Skipped=Abuja Nigeria Amman Jordan
+
+Skipped=Abuja Nigeria Ankara Turkey
+
+Skipped=Abuja Nigeria Antananarivo Madagascar
+
+Skipped=Abuja Nigeria Apia Samoa
+
+Skipped=Abuja Nigeria Ashgabat Turkmenistan
+
+Skipped=Abuja Nigeria Asmara Eritrea
+
+Skipped=Abuja Nigeria Astana Kazakhstan
+
+Skipped=Abuja Nigeria Athens Greece
+
+Skipped=Abuja Nigeria Baghdad Iraq
+
+Skipped=Abuja Nigeria Baku Azerbaijan
+
+Skipped=Abuja Nigeria Bamako Mali
+
+Skipped=Abuja Nigeria Bangkok Thailand
+
+Skipped=Abuja Nigeria Banjul Gambia
+
+Skipped=Abuja Nigeria Beijing China
+
+Skipped=Abuja Nigeria Beirut Lebanon
+
+Skipped=Abuja Nigeria Belgrade Serbia
+
+Skipped=Abuja Nigeria Belmopan Belize
+
+Skipped=Abuja Nigeria Berlin Germany
+
+Skipped=Abuja Nigeria Bern Switzerland
+
+Skipped=Abuja Nigeria Bishkek Kyrgyzstan
+
+Skipped=Abuja Nigeria Bratislava Slovakia
+
+Skipped=Abuja Nigeria Brussels Belgium
+
+Skipped=Abuja Nigeria Bucharest Romania
+
+Skipped=Abuja Nigeria Budapest Hungary
+
+Skipped=Abuja Nigeria Bujumbura Burundi
+
+Skipped=Abuja Nigeria Cairo Egypt
+
+Skipped=Abuja Nigeria Canberra Australia
+
+Skipped=Abuja Nigeria Caracas Venezuela
+
+Skipped=Abuja Nigeria Chisinau Moldova
+
+Skipped=Abuja Nigeria Conakry Guinea
+
+Skipped=Abuja Nigeria Copenhagen Denmark
+
+Skipped=Abuja Nigeria Dakar Senegal
+
+Skipped=Abuja Nigeria Damascus Syria
+
+Skipped=Abuja Nigeria Dhaka Bangladesh
+
+Skipped=Abuja Nigeria Doha Qatar
+
+Skipped=Abuja Nigeria Dublin Ireland
+
+Skipped=Abuja Nigeria Dushanbe Tajikistan
+
+Skipped=Accra Ghana Apia Samoa
+
+Skipped=Accra Ghana Ashgabat Turkmenistan
+
+Skipped=Accra Ghana Banjul Gambia
+
+Skipped=Accra Ghana Belmopan Belize
+
+Skipped=Accra Ghana Dushanbe Tajikistan
+
+Skipped=Accra Ghana Funafuti Tuvalu
+
+Skipped=Algiers Algeria Apia Samoa
+
+Skipped=Algiers Algeria Ashgabat Turkmenistan
+
+Skipped=Algiers Algeria Banjul Gambia
+
+Skipped=Algiers Algeria Belmopan Belize
+
+Skipped=Algiers Algeria Dushanbe Tajikistan
+
+Skipped=Algiers Algeria Funafuti Tuvalu
+
+Skipped=Amman Jordan Apia Samoa
+
+Skipped=Amman Jordan Ashgabat Turkmenistan
+
+Skipped=Amman Jordan Banjul Gambia
+
+Skipped=Amman Jordan Belmopan Belize
+
+Skipped=Amman Jordan Dushanbe Tajikistan
+
+Skipped=Amman Jordan Funafuti Tuvalu
+
+Skipped=Ankara Turkey Apia Samoa
+
+Skipped=Ankara Turkey Ashgabat Turkmenistan
+
+Skipped=Ankara Turkey Banjul Gambia
+
+Skipped=Ankara Turkey Belmopan Belize
+
+Skipped=Ankara Turkey Dushanbe Tajikistan
+
+Skipped=Ankara Turkey Funafuti Tuvalu
+
+Skipped=Antananarivo Madagascar Apia Samoa
+
+Skipped=Antananarivo Madagascar Ashgabat Turkmenistan
+
+Skipped=Antananarivo Madagascar Banjul Gambia
+
+Skipped=Antananarivo Madagascar Belmopan Belize
+
+Skipped=Antananarivo Madagascar Dushanbe Tajikistan
+
+Skipped=Antananarivo Madagascar Funafuti Tuvalu
+
+Skipped=Apia Samoa Ashgabat Turkmenistan
+
+Skipped=Apia Samoa Asmara Eritrea
+
+Skipped=Apia Samoa Astana Kazakhstan
+
+Skipped=Apia Samoa Athens Greece
+
+Skipped=Apia Samoa Baghdad Iraq
+
+Skipped=Apia Samoa Baku Azerbaijan
+
+Skipped=Apia Samoa Bamako Mali
+
+Skipped=Apia Samoa Bangkok Thailand
+
+Skipped=Apia Samoa Banjul Gambia
+
+Skipped=Apia Samoa Beijing China
+
+Skipped=Apia Samoa Beirut Lebanon
+
+Skipped=Apia Samoa Belgrade Serbia
+
+Skipped=Apia Samoa Belmopan Belize
+
+Skipped=Apia Samoa Berlin Germany
+
+Skipped=Apia Samoa Bern Switzerland
+
+Skipped=Apia Samoa Bishkek Kyrgyzstan
+
+Skipped=Apia Samoa Bratislava Slovakia
+
+Skipped=Apia Samoa Brussels Belgium
+
+Skipped=Apia Samoa Bucharest Romania
+
+Skipped=Apia Samoa Budapest Hungary
+
+Skipped=Apia Samoa Bujumbura Burundi
+
+Skipped=Apia Samoa Cairo Egypt
+
+Skipped=Apia Samoa Canberra Australia
+
+Skipped=Apia Samoa Caracas Venezuela
+
+Skipped=Apia Samoa Chisinau Moldova
+
+Skipped=Apia Samoa Conakry Guinea
+
+Skipped=Apia Samoa Copenhagen Denmark
+
+Skipped=Apia Samoa Dakar Senegal
+
+Skipped=Apia Samoa Damascus Syria
+
+Skipped=Apia Samoa Dhaka Bangladesh
+
+Skipped=Apia Samoa Doha Qatar
+
+Skipped=Apia Samoa Dublin Ireland
+
+Skipped=Apia Samoa Dushanbe Tajikistan
+
+Skipped=Apia Samoa Funafuti Tuvalu
+
+Skipped=Apia Samoa Gaborone Botswana
+
+Skipped=Apia Samoa Georgetown Guyana
+
+Skipped=Apia Samoa Hanoi Vietnam
+
+Skipped=Apia Samoa Harare Zimbabwe
+
+Skipped=Apia Samoa Havana Cuba
+
+Skipped=Ashgabat Turkmenistan Asmara Eritrea
+
+Skipped=Ashgabat Turkmenistan Astana Kazakhstan
+
+Skipped=Ashgabat Turkmenistan Athens Greece
+
+Skipped=Ashgabat Turkmenistan Baghdad Iraq
+
+Skipped=Ashgabat Turkmenistan Baku Azerbaijan
+
+Skipped=Ashgabat Turkmenistan Bamako Mali
+
+Skipped=Ashgabat Turkmenistan Bangkok Thailand
+
+Skipped=Ashgabat Turkmenistan Banjul Gambia
+
+Skipped=Ashgabat Turkmenistan Beijing China
+
+Skipped=Ashgabat Turkmenistan Beirut Lebanon
+
+Skipped=Ashgabat Turkmenistan Belgrade Serbia
+
+Skipped=Ashgabat Turkmenistan Belmopan Belize
+
+Skipped=Ashgabat Turkmenistan Berlin Germany
+
+Skipped=Ashgabat Turkmenistan Bern Switzerland
+
+Skipped=Ashgabat Turkmenistan Bishkek Kyrgyzstan
+
+Skipped=Ashgabat Turkmenistan Bratislava Slovakia
+
+Skipped=Ashgabat Turkmenistan Brussels Belgium
+
+Skipped=Ashgabat Turkmenistan Bucharest Romania
+
+Skipped=Ashgabat Turkmenistan Budapest Hungary
+
+Skipped=Ashgabat Turkmenistan Bujumbura Burundi
+
+Skipped=Ashgabat Turkmenistan Cairo Egypt
+
+Skipped=Ashgabat Turkmenistan Canberra Australia
+
+Skipped=Ashgabat Turkmenistan Caracas Venezuela
+
+Skipped=Ashgabat Turkmenistan Chisinau Moldova
+
+Skipped=Ashgabat Turkmenistan Conakry Guinea
+
+Skipped=Ashgabat Turkmenistan Copenhagen Denmark
+
+Skipped=Ashgabat Turkmenistan Dakar Senegal
+
+Skipped=Ashgabat Turkmenistan Damascus Syria
+
+Skipped=Ashgabat Turkmenistan Dhaka Bangladesh
+
+Skipped=Ashgabat Turkmenistan Doha Qatar
+
+Skipped=Ashgabat Turkmenistan Dublin Ireland
+
+Skipped=Ashgabat Turkmenistan Dushanbe Tajikistan
+
+Skipped=Ashgabat Turkmenistan Funafuti Tuvalu
+
+Skipped=Ashgabat Turkmenistan Gaborone Botswana
+
+Skipped=Ashgabat Turkmenistan Georgetown Guyana
+
+Skipped=Ashgabat Turkmenistan Hanoi Vietnam
+
+Skipped=Ashgabat Turkmenistan Harare Zimbabwe
+
+Skipped=Ashgabat Turkmenistan Havana Cuba
+
+Skipped=Ashgabat Turkmenistan Helsinki Finland
+
+Skipped=Asmara Eritrea Banjul Gambia
+
+Skipped=Asmara Eritrea Belmopan Belize
+
+Skipped=Asmara Eritrea Dushanbe Tajikistan
+
+Skipped=Asmara Eritrea Funafuti Tuvalu
+
+Skipped=Astana Kazakhstan Banjul Gambia
+
+Skipped=Astana Kazakhstan Belmopan Belize
+
+Skipped=Astana Kazakhstan Dushanbe Tajikistan
+
+Skipped=Astana Kazakhstan Funafuti Tuvalu
+
+Skipped=Athens Greece Banjul Gambia
+
+Skipped=Athens Greece Belmopan Belize
+
+Skipped=Athens Greece Dushanbe Tajikistan
+
+Skipped=Athens Greece Funafuti Tuvalu
+
+Skipped=Baghdad Iraq Banjul Gambia
+
+Skipped=Baghdad Iraq Belmopan Belize
+
+Skipped=Baghdad Iraq Dushanbe Tajikistan
+
+Skipped=Baghdad Iraq Funafuti Tuvalu
+
+Skipped=Baghdad Iraq Kampala Uganda
+
+Skipped=Baku Azerbaijan Banjul Gambia
+
+Skipped=Baku Azerbaijan Belmopan Belize
+
+Skipped=Baku Azerbaijan Dushanbe Tajikistan
+
+Skipped=Baku Azerbaijan Funafuti Tuvalu
+
+Skipped=Baku Azerbaijan Kampala Uganda
+
+Skipped=Bamako Mali Banjul Gambia
+
+Skipped=Bamako Mali Belmopan Belize
+
+Skipped=Bamako Mali Dushanbe Tajikistan
+
+Skipped=Bamako Mali Funafuti Tuvalu
+
+Skipped=Bamako Mali Kampala Uganda
+
+Skipped=Bangkok Thailand Banjul Gambia
+
+Skipped=Bangkok Thailand Belmopan Belize
+
+Skipped=Bangkok Thailand Dushanbe Tajikistan
+
+Skipped=Bangkok Thailand Funafuti Tuvalu
+
+Skipped=Bangkok Thailand Kampala Uganda
+
+Skipped=Banjul Gambia Beijing China
+
+Skipped=Banjul Gambia Beirut Lebanon
+
+Skipped=Banjul Gambia Belgrade Serbia
+
+Skipped=Banjul Gambia Belmopan Belize
+
+Skipped=Banjul Gambia Berlin Germany
+
+Skipped=Banjul Gambia Bern Switzerland
+
+Skipped=Banjul Gambia Bishkek Kyrgyzstan
+
+Skipped=Banjul Gambia Bratislava Slovakia
+
+Skipped=Banjul Gambia Brussels Belgium
+
+Skipped=Banjul Gambia Bucharest Romania
+
+Skipped=Banjul Gambia Budapest Hungary
+
+Skipped=Banjul Gambia Bujumbura Burundi
+
+Skipped=Banjul Gambia Cairo Egypt
+
+Skipped=Banjul Gambia Canberra Australia
+
+Skipped=Banjul Gambia Caracas Venezuela
+
+Skipped=Banjul Gambia Chisinau Moldova
+
+Skipped=Banjul Gambia Conakry Guinea
+
+Skipped=Banjul Gambia Copenhagen Denmark
+
+Skipped=Banjul Gambia Dakar Senegal
+
+Skipped=Banjul Gambia Damascus Syria
+
+Skipped=Banjul Gambia Dhaka Bangladesh
+
+Skipped=Banjul Gambia Doha Qatar
+
+Skipped=Banjul Gambia Dublin Ireland
+
+Skipped=Banjul Gambia Dushanbe Tajikistan
+
+Skipped=Banjul Gambia Funafuti Tuvalu
+
+Skipped=Banjul Gambia Gaborone Botswana
+
+Skipped=Banjul Gambia Georgetown Guyana
+
+Skipped=Banjul Gambia Hanoi Vietnam
+
+Skipped=Banjul Gambia Harare Zimbabwe
+
+Skipped=Banjul Gambia Havana Cuba
+
+Skipped=Banjul Gambia Helsinki Finland
+
+Skipped=Banjul Gambia Islamabad Pakistan
+
+Skipped=Banjul Gambia Jakarta Indonesia
+
+Skipped=Banjul Gambia Kabul Afghanistan
+
+Skipped=Banjul Gambia Kampala Uganda
+
+Skipped=Banjul Gambia Kathmandu Nepal
+
+Skipped=Banjul Gambia Khartoum Sudan
+
+Skipped=Banjul Gambia Kiev Ukraine
+
+Skipped=Banjul Gambia Kigali Rwanda
+
+Skipped=Beijing China Belmopan Belize
+
+Skipped=Beijing China Dushanbe Tajikistan
+
+Skipped=Beijing China Funafuti Tuvalu
+
+Skipped=Beijing China Kampala Uganda
+
+Skipped=Beijing China Kigali Rwanda
+
+Skipped=Beirut Lebanon Belmopan Belize
+
+Skipped=Beirut Lebanon Dushanbe Tajikistan
+
+Skipped=Beirut Lebanon Funafuti Tuvalu
+
+Skipped=Beirut Lebanon Kampala Uganda
+
+Skipped=Beirut Lebanon Kigali Rwanda
+
+Skipped=Belgrade Serbia Belmopan Belize
+
+Skipped=Belgrade Serbia Dushanbe Tajikistan
+
+Skipped=Belgrade Serbia Funafuti Tuvalu
+
+Skipped=Belgrade Serbia Kampala Uganda
+
+Skipped=Belgrade Serbia Kigali Rwanda
+
+Skipped=Belmopan Belize Berlin Germany
+
+Skipped=Belmopan Belize Bern Switzerland
+
+Skipped=Belmopan Belize Bishkek Kyrgyzstan
+
+Skipped=Belmopan Belize Bratislava Slovakia
+
+Skipped=Belmopan Belize Brussels Belgium
+
+Skipped=Belmopan Belize Bucharest Romania
+
+Skipped=Belmopan Belize Budapest Hungary
+
+Skipped=Belmopan Belize Bujumbura Burundi
+
+Skipped=Belmopan Belize Cairo Egypt
+
+Skipped=Belmopan Belize Canberra Australia
+
+Skipped=Belmopan Belize Caracas Venezuela
+
+Skipped=Belmopan Belize Chisinau Moldova
+
+Skipped=Belmopan Belize Conakry Guinea
+
+Skipped=Belmopan Belize Copenhagen Denmark
+
+Skipped=Belmopan Belize Dakar Senegal
+
+Skipped=Belmopan Belize Damascus Syria
+
+Skipped=Belmopan Belize Dhaka Bangladesh
+
+Skipped=Belmopan Belize Doha Qatar
+
+Skipped=Belmopan Belize Dublin Ireland
+
+Skipped=Belmopan Belize Dushanbe Tajikistan
+
+Skipped=Belmopan Belize Funafuti Tuvalu
+
+Skipped=Belmopan Belize Gaborone Botswana
+
+Skipped=Belmopan Belize Georgetown Guyana
+
+Skipped=Belmopan Belize Hanoi Vietnam
+
+Skipped=Belmopan Belize Harare Zimbabwe
+
+Skipped=Belmopan Belize Havana Cuba
+
+Skipped=Belmopan Belize Helsinki Finland
+
+Skipped=Belmopan Belize Islamabad Pakistan
+
+Skipped=Belmopan Belize Jakarta Indonesia
+
+Skipped=Belmopan Belize Kabul Afghanistan
+
+Skipped=Belmopan Belize Kampala Uganda
+
+Skipped=Belmopan Belize Kathmandu Nepal
+
+Skipped=Belmopan Belize Khartoum Sudan
+
+Skipped=Belmopan Belize Kiev Ukraine
+
+Skipped=Belmopan Belize Kigali Rwanda
+
+Skipped=Belmopan Belize Kingston Jamaica
+
+Skipped=Belmopan Belize Libreville Gabon
+
+Skipped=Belmopan Belize Lilongwe Malawi
+
+Skipped=Belmopan Belize Lima Peru
+
+Skipped=Berlin Germany Dushanbe Tajikistan
+
+Skipped=Berlin Germany Funafuti Tuvalu
+
+Skipped=Berlin Germany Kampala Uganda
+
+Skipped=Berlin Germany Kigali Rwanda
+
+Skipped=Bern Switzerland Dushanbe Tajikistan
+
+Skipped=Bern Switzerland Funafuti Tuvalu
+
+Skipped=Bern Switzerland Kampala Uganda
+
+Skipped=Bern Switzerland Kigali Rwanda
+
+Skipped=Bishkek Kyrgyzstan Dushanbe Tajikistan
+
+Skipped=Bishkek Kyrgyzstan Funafuti Tuvalu
+
+Skipped=Bishkek Kyrgyzstan Kampala Uganda
+
+Skipped=Bishkek Kyrgyzstan Kigali Rwanda
+
+Skipped=Bratislava Slovakia Dushanbe Tajikistan
+
+Skipped=Bratislava Slovakia Funafuti Tuvalu
+
+Skipped=Bratislava Slovakia Kampala Uganda
+
+Skipped=Bratislava Slovakia Kigali Rwanda
+
+Skipped=Brussels Belgium Dushanbe Tajikistan
+
+Skipped=Brussels Belgium Funafuti Tuvalu
+
+Skipped=Brussels Belgium Kampala Uganda
+
+Skipped=Brussels Belgium Kigali Rwanda
+
+Skipped=Bucharest Romania Dushanbe Tajikistan
+
+Skipped=Bucharest Romania Funafuti Tuvalu
+
+Skipped=Bucharest Romania Kampala Uganda
+
+Skipped=Bucharest Romania Kigali Rwanda
+
+Skipped=Budapest Hungary Dushanbe Tajikistan
+
+Skipped=Budapest Hungary Funafuti Tuvalu
+
+Skipped=Budapest Hungary Kampala Uganda
+
+Skipped=Budapest Hungary Kigali Rwanda
+
+Skipped=Bujumbura Burundi Dushanbe Tajikistan
+
+Skipped=Bujumbura Burundi Funafuti Tuvalu
+
+Skipped=Bujumbura Burundi Kampala Uganda
+
+Skipped=Bujumbura Burundi Kigali Rwanda
+
+Skipped=Cairo Egypt Dushanbe Tajikistan
+
+Skipped=Cairo Egypt Funafuti Tuvalu
+
+Skipped=Cairo Egypt Kampala Uganda
+
+Skipped=Cairo Egypt Kigali Rwanda
+
+Skipped=Canberra Australia Dushanbe Tajikistan
+
+Skipped=Canberra Australia Funafuti Tuvalu
+
+Skipped=Canberra Australia Kampala Uganda
+
+Skipped=Canberra Australia Kigali Rwanda
+
+Skipped=Caracas Venezuela Dushanbe Tajikistan
+
+Skipped=Caracas Venezuela Funafuti Tuvalu
+
+Skipped=Caracas Venezuela Kampala Uganda
+
+Skipped=Caracas Venezuela Kigali Rwanda
+
+Skipped=Chisinau Moldova Dushanbe Tajikistan
+
+Skipped=Chisinau Moldova Funafuti Tuvalu
+
+Skipped=Chisinau Moldova Kampala Uganda
+
+Skipped=Chisinau Moldova Kigali Rwanda
+
+Skipped=Conakry Guinea Dushanbe Tajikistan
+
+Skipped=Conakry Guinea Funafuti Tuvalu
+
+Skipped=Conakry Guinea Kampala Uganda
+
+Skipped=Conakry Guinea Kigali Rwanda
+
+Skipped=Copenhagen Denmark Dushanbe Tajikistan
+
+Skipped=Copenhagen Denmark Funafuti Tuvalu
+
+Skipped=Copenhagen Denmark Kampala Uganda
+
+Skipped=Copenhagen Denmark Kigali Rwanda
+
+Skipped=Dakar Senegal Dushanbe Tajikistan
+
+Skipped=Dakar Senegal Funafuti Tuvalu
+
+Skipped=Dakar Senegal Kampala Uganda
+
+Skipped=Dakar Senegal Kigali Rwanda
+
+Skipped=Damascus Syria Dushanbe Tajikistan
+
+Skipped=Damascus Syria Funafuti Tuvalu
+
+Skipped=Damascus Syria Kampala Uganda
+
+Skipped=Damascus Syria Kigali Rwanda
+
+Skipped=Dhaka Bangladesh Dushanbe Tajikistan
+
+Skipped=Dhaka Bangladesh Funafuti Tuvalu
+
+Skipped=Dhaka Bangladesh Kampala Uganda
+
+Skipped=Dhaka Bangladesh Kigali Rwanda
+
+Skipped=Doha Qatar Dushanbe Tajikistan
+
+Skipped=Doha Qatar Funafuti Tuvalu
+
+Skipped=Doha Qatar Kampala Uganda
+
+Skipped=Doha Qatar Kigali Rwanda
+
+Skipped=Dublin Ireland Dushanbe Tajikistan
+
+Skipped=Dublin Ireland Funafuti Tuvalu
+
+Skipped=Dublin Ireland Kampala Uganda
+
+Skipped=Dublin Ireland Kigali Rwanda
+
+Skipped=Dublin Ireland Niamey Niger
+
+Skipped=Dushanbe Tajikistan Funafuti Tuvalu
+
+Skipped=Dushanbe Tajikistan Gaborone Botswana
+
+Skipped=Dushanbe Tajikistan Georgetown Guyana
+
+Skipped=Dushanbe Tajikistan Hanoi Vietnam
+
+Skipped=Dushanbe Tajikistan Harare Zimbabwe
+
+Skipped=Dushanbe Tajikistan Havana Cuba
+
+Skipped=Dushanbe Tajikistan Helsinki Finland
+
+Skipped=Dushanbe Tajikistan Islamabad Pakistan
+
+Skipped=Dushanbe Tajikistan Jakarta Indonesia
+
+Skipped=Dushanbe Tajikistan Kabul Afghanistan
+
+Skipped=Dushanbe Tajikistan Kampala Uganda
+
+Skipped=Dushanbe Tajikistan Kathmandu Nepal
+
+Skipped=Dushanbe Tajikistan Khartoum Sudan
+
+Skipped=Dushanbe Tajikistan Kiev Ukraine
+
+Skipped=Dushanbe Tajikistan Kigali Rwanda
+
+Skipped=Dushanbe Tajikistan Kingston Jamaica
+
+Skipped=Dushanbe Tajikistan Libreville Gabon
+
+Skipped=Dushanbe Tajikistan Lilongwe Malawi
+
+Skipped=Dushanbe Tajikistan Lima Peru
+
+Skipped=Dushanbe Tajikistan Lisbon Portugal
+
+Skipped=Dushanbe Tajikistan Ljubljana Slovenia
+
+Skipped=Dushanbe Tajikistan London England
+
+Skipped=Dushanbe Tajikistan Luanda Angola
+
+Skipped=Dushanbe Tajikistan Lusaka Zambia
+
+Skipped=Dushanbe Tajikistan Madrid Spain
+
+Skipped=Dushanbe Tajikistan Managua Nicaragua
+
+Skipped=Dushanbe Tajikistan Manama Bahrain
+
+Skipped=Dushanbe Tajikistan Manila Philippines
+
+Skipped=Dushanbe Tajikistan Maputo Mozambique
+
+Skipped=Dushanbe Tajikistan Minsk Belarus
+
+Skipped=Dushanbe Tajikistan Mogadishu Somalia
+
+Skipped=Dushanbe Tajikistan Monrovia Liberia
+
+Skipped=Dushanbe Tajikistan Montevideo Uruguay
+
+Skipped=Dushanbe Tajikistan Moscow Russia
+
+Skipped=Dushanbe Tajikistan Muscat Oman
+
+Skipped=Dushanbe Tajikistan Nairobi Kenya
+
+Skipped=Dushanbe Tajikistan Nassau Bahamas
+
+Skipped=Dushanbe Tajikistan Niamey Niger
+
+Skipped=Dushanbe Tajikistan Nicosia Cyprus
+
+Skipped=Funafuti Tuvalu Gaborone Botswana
+
+Skipped=Funafuti Tuvalu Georgetown Guyana
+
+Skipped=Funafuti Tuvalu Hanoi Vietnam
+
+Skipped=Funafuti Tuvalu Harare Zimbabwe
+
+Skipped=Funafuti Tuvalu Havana Cuba
+
+Skipped=Funafuti Tuvalu Helsinki Finland
+
+Skipped=Funafuti Tuvalu Islamabad Pakistan
+
+Skipped=Funafuti Tuvalu Jakarta Indonesia
+
+Skipped=Funafuti Tuvalu Kabul Afghanistan
+
+Skipped=Funafuti Tuvalu Kampala Uganda
+
+Skipped=Funafuti Tuvalu Kathmandu Nepal
+
+Skipped=Funafuti Tuvalu Khartoum Sudan
+
+Skipped=Funafuti Tuvalu Kiev Ukraine
+
+Skipped=Funafuti Tuvalu Kigali Rwanda
+
+Skipped=Funafuti Tuvalu Kingston Jamaica
+
+Skipped=Funafuti Tuvalu Libreville Gabon
+
+Skipped=Funafuti Tuvalu Lilongwe Malawi
+
+Skipped=Funafuti Tuvalu Lima Peru
+
+Skipped=Funafuti Tuvalu Lisbon Portugal
+
+Skipped=Funafuti Tuvalu Ljubljana Slovenia
+
+Skipped=Funafuti Tuvalu London England
+
+Skipped=Funafuti Tuvalu Luanda Angola
+
+Skipped=Funafuti Tuvalu Lusaka Zambia
+
+Skipped=Funafuti Tuvalu Madrid Spain
+
+Skipped=Funafuti Tuvalu Managua Nicaragua
+
+Skipped=Funafuti Tuvalu Manama Bahrain
+
+Skipped=Funafuti Tuvalu Manila Philippines
+
+Skipped=Funafuti Tuvalu Maputo Mozambique
+
+Skipped=Funafuti Tuvalu Minsk Belarus
+
+Skipped=Funafuti Tuvalu Mogadishu Somalia
+
+Skipped=Funafuti Tuvalu Monrovia Liberia
+
+Skipped=Funafuti Tuvalu Montevideo Uruguay
+
+Skipped=Funafuti Tuvalu Moscow Russia
+
+Skipped=Funafuti Tuvalu Muscat Oman
+
+Skipped=Funafuti Tuvalu Nairobi Kenya
+
+Skipped=Funafuti Tuvalu Nassau Bahamas
+
+Skipped=Funafuti Tuvalu Niamey Niger
+
+Skipped=Funafuti Tuvalu Nicosia Cyprus
+
+Skipped=Funafuti Tuvalu Nouakchott Mauritania
+
+Skipped=Gaborone Botswana Kampala Uganda
+
+Skipped=Gaborone Botswana Kigali Rwanda
+
+Skipped=Gaborone Botswana Niamey Niger
+
+Skipped=Georgetown Guyana Kampala Uganda
+
+Skipped=Georgetown Guyana Kigali Rwanda
+
+Skipped=Georgetown Guyana Niamey Niger
+
+Skipped=Hanoi Vietnam Kampala Uganda
+
+Skipped=Hanoi Vietnam Kigali Rwanda
+
+Skipped=Hanoi Vietnam Niamey Niger
+
+Skipped=Harare Zimbabwe Kampala Uganda
+
+Skipped=Harare Zimbabwe Kigali Rwanda
+
+Skipped=Harare Zimbabwe Niamey Niger
+
+Skipped=Harare Zimbabwe Paramaribo Suriname
+
+Skipped=Havana Cuba Kampala Uganda
+
+Skipped=Havana Cuba Kigali Rwanda
+
+Skipped=Havana Cuba Niamey Niger
+
+Skipped=Havana Cuba Paramaribo Suriname
+
+Skipped=Helsinki Finland Kampala Uganda
+
+Skipped=Helsinki Finland Kigali Rwanda
+
+Skipped=Helsinki Finland Niamey Niger
+
+Skipped=Helsinki Finland Paramaribo Suriname
+
+Skipped=Islamabad Pakistan Kampala Uganda
+
+Skipped=Islamabad Pakistan Kigali Rwanda
+
+Skipped=Islamabad Pakistan Niamey Niger
+
+Skipped=Islamabad Pakistan Paramaribo Suriname
+
+Skipped=Jakarta Indonesia Kampala Uganda
+
+Skipped=Jakarta Indonesia Kigali Rwanda
+
+Skipped=Jakarta Indonesia Niamey Niger
+
+Skipped=Jakarta Indonesia Paramaribo Suriname
+
+Skipped=Kabul Afghanistan Kampala Uganda
+
+Skipped=Kabul Afghanistan Kigali Rwanda
+
+Skipped=Kabul Afghanistan Niamey Niger
+
+Skipped=Kabul Afghanistan Paramaribo Suriname
+
+Skipped=Kampala Uganda Kathmandu Nepal
+
+Skipped=Kampala Uganda Khartoum Sudan
+
+Skipped=Kampala Uganda Kiev Ukraine
+
+Skipped=Kampala Uganda Kigali Rwanda
+
+Skipped=Kampala Uganda Kingston Jamaica
+
+Skipped=Kampala Uganda Libreville Gabon
+
+Skipped=Kampala Uganda Lilongwe Malawi
+
+Skipped=Kampala Uganda Lima Peru
+
+Skipped=Kampala Uganda Lisbon Portugal
+
+Skipped=Kampala Uganda Ljubljana Slovenia
+
+Skipped=Kampala Uganda London England
+
+Skipped=Kampala Uganda Luanda Angola
+
+Skipped=Kampala Uganda Lusaka Zambia
+
+Skipped=Kampala Uganda Madrid Spain
+
+Skipped=Kampala Uganda Managua Nicaragua
+
+Skipped=Kampala Uganda Manama Bahrain
+
+Skipped=Kampala Uganda Manila Philippines
+
+Skipped=Kampala Uganda Maputo Mozambique
+
+Skipped=Kampala Uganda Minsk Belarus
+
+Skipped=Kampala Uganda Mogadishu Somalia
+
+Skipped=Kampala Uganda Monrovia Liberia
+
+Skipped=Kampala Uganda Montevideo Uruguay
+
+Skipped=Kampala Uganda Moscow Russia
+
+Skipped=Kampala Uganda Muscat Oman
+
+Skipped=Kampala Uganda Nairobi Kenya
+
+Skipped=Kampala Uganda Nassau Bahamas
+
+Skipped=Kampala Uganda Niamey Niger
+
+Skipped=Kampala Uganda Nicosia Cyprus
+
+Skipped=Kampala Uganda Nouakchott Mauritania
+
+Skipped=Kampala Uganda Nuuk Greenland
+
+Skipped=Kampala Uganda Oslo Norway
+
+Skipped=Kampala Uganda Ottawa Canada
+
+Skipped=Kampala Uganda Paramaribo Suriname
+
+Skipped=Kampala Uganda Paris France
+
+Skipped=Kampala Uganda Podgorica Montenegro
+
+Skipped=Kampala Uganda Quito Ecuador
+
+Skipped=Kampala Uganda Rabat Morocco
+
+Skipped=Kampala Uganda Riga Latvia
+
+Skipped=Kampala Uganda Rome Italy
+
+Skipped=Kathmandu Nepal Kigali Rwanda
+
+Skipped=Kathmandu Nepal Niamey Niger
+
+Skipped=Kathmandu Nepal Paramaribo Suriname
+
+Skipped=Khartoum Sudan Kigali Rwanda
+
+Skipped=Khartoum Sudan Niamey Niger
+
+Skipped=Khartoum Sudan Paramaribo Suriname
+
+Skipped=Kiev Ukraine Kigali Rwanda
+
+Skipped=Kiev Ukraine Niamey Niger
+
+Skipped=Kiev Ukraine Paramaribo Suriname
+
+Skipped=Kigali Rwanda Kingston Jamaica
+
+Skipped=Kigali Rwanda Libreville Gabon
+
+Skipped=Kigali Rwanda Lilongwe Malawi
+
+Skipped=Kigali Rwanda Lima Peru
+
+Skipped=Kigali Rwanda Lisbon Portugal
+
+Skipped=Kigali Rwanda Ljubljana Slovenia
+
+Skipped=Kigali Rwanda London England
+
+Skipped=Kigali Rwanda Luanda Angola
+
+Skipped=Kigali Rwanda Lusaka Zambia
+
+Skipped=Kigali Rwanda Madrid Spain
+
+Skipped=Kigali Rwanda Managua Nicaragua
+
+Skipped=Kigali Rwanda Manama Bahrain
+
+Skipped=Kigali Rwanda Manila Philippines
+
+Skipped=Kigali Rwanda Maputo Mozambique
+
+Skipped=Kigali Rwanda Minsk Belarus
+
+Skipped=Kigali Rwanda Mogadishu Somalia
+
+Skipped=Kigali Rwanda Monrovia Liberia
+
+Skipped=Kigali Rwanda Montevideo Uruguay
+
+Skipped=Kigali Rwanda Moscow Russia
+
+Skipped=Kigali Rwanda Muscat Oman
+
+Skipped=Kigali Rwanda Nairobi Kenya
+
+Skipped=Kigali Rwanda Nassau Bahamas
+
+Skipped=Kigali Rwanda Niamey Niger
+
+Skipped=Kigali Rwanda Nicosia Cyprus
+
+Skipped=Kigali Rwanda Nouakchott Mauritania
+
+Skipped=Kigali Rwanda Nuuk Greenland
+
+Skipped=Kigali Rwanda Oslo Norway
+
+Skipped=Kigali Rwanda Ottawa Canada
+
+Skipped=Kigali Rwanda Paramaribo Suriname
+
+Skipped=Kigali Rwanda Paris France
+
+Skipped=Kigali Rwanda Podgorica Montenegro
+
+Skipped=Kigali Rwanda Quito Ecuador
+
+Skipped=Kigali Rwanda Rabat Morocco
+
+Skipped=Kigali Rwanda Riga Latvia
+
+Skipped=Kigali Rwanda Rome Italy
+
+Skipped=Kigali Rwanda Roseau Dominica
+
+Skipped=Kigali Rwanda Santiago Chile
+
+Skipped=Kigali Rwanda Skopje Macedonia
+
+Skipped=Kigali Rwanda Sofia Bulgaria
+
+Skipped=Kingston Jamaica Niamey Niger
+
+Skipped=Kingston Jamaica Paramaribo Suriname
+
+Skipped=Libreville Gabon Niamey Niger
+
+Skipped=Libreville Gabon Paramaribo Suriname
+
+Skipped=Lilongwe Malawi Niamey Niger
+
+Skipped=Lilongwe Malawi Paramaribo Suriname
+
+Skipped=Lima Peru Niamey Niger
+
+Skipped=Lima Peru Paramaribo Suriname
+
+Skipped=Lisbon Portugal Niamey Niger
+
+Skipped=Lisbon Portugal Paramaribo Suriname
+
+Skipped=Ljubljana Slovenia Niamey Niger
+
+Skipped=Ljubljana Slovenia Paramaribo Suriname
+
+Skipped=London England Niamey Niger
+
+Skipped=London England Paramaribo Suriname
+
+Skipped=Luanda Angola Niamey Niger
+
+Skipped=Luanda Angola Paramaribo Suriname
+
+Skipped=Lusaka Zambia Niamey Niger
+
+Skipped=Lusaka Zambia Paramaribo Suriname
+
+Skipped=Lusaka Zambia Thimphu Bhutan
+
+Skipped=Madrid Spain Niamey Niger
+
+Skipped=Madrid Spain Paramaribo Suriname
+
+Skipped=Madrid Spain Thimphu Bhutan
+
+Skipped=Managua Nicaragua Niamey Niger
+
+Skipped=Managua Nicaragua Paramaribo Suriname
+
+Skipped=Managua Nicaragua Thimphu Bhutan
+
+Skipped=Manama Bahrain Niamey Niger
+
+Skipped=Manama Bahrain Paramaribo Suriname
+
+Skipped=Manama Bahrain Thimphu Bhutan
+
+Skipped=Manila Philippines Niamey Niger
+
+Skipped=Manila Philippines Paramaribo Suriname
+
+Skipped=Manila Philippines Thimphu Bhutan
+
+Skipped=Maputo Mozambique Niamey Niger
+
+Skipped=Maputo Mozambique Paramaribo Suriname
+
+Skipped=Maputo Mozambique Thimphu Bhutan
+
+Skipped=Minsk Belarus Niamey Niger
+
+Skipped=Minsk Belarus Paramaribo Suriname
+
+Skipped=Minsk Belarus Thimphu Bhutan
+
+Skipped=Mogadishu Somalia Niamey Niger
+
+Skipped=Mogadishu Somalia Paramaribo Suriname
+
+Skipped=Mogadishu Somalia Thimphu Bhutan
+
+Skipped=Monrovia Liberia Niamey Niger
+
+Skipped=Monrovia Liberia Paramaribo Suriname
+
+Skipped=Monrovia Liberia Thimphu Bhutan
+
+Skipped=Montevideo Uruguay Niamey Niger
+
+Skipped=Montevideo Uruguay Paramaribo Suriname
+
+Skipped=Montevideo Uruguay Thimphu Bhutan
+
+Skipped=Moscow Russia Niamey Niger
+
+Skipped=Moscow Russia Paramaribo Suriname
+
+Skipped=Moscow Russia Thimphu Bhutan
+
+Skipped=Muscat Oman Niamey Niger
+
+Skipped=Muscat Oman Paramaribo Suriname
+
+Skipped=Muscat Oman Thimphu Bhutan
+
+Skipped=Muscat Oman Windhoek Namibia
+
+Skipped=Nairobi Kenya Niamey Niger
+
+Skipped=Nairobi Kenya Paramaribo Suriname
+
+Skipped=Nairobi Kenya Thimphu Bhutan
+
+Skipped=Nairobi Kenya Windhoek Namibia
+
+Skipped=Nassau Bahamas Niamey Niger
+
+Skipped=Nassau Bahamas Paramaribo Suriname
+
+Skipped=Nassau Bahamas Thimphu Bhutan
+
+Skipped=Nassau Bahamas Windhoek Namibia
+
+Skipped=Niamey Niger Nicosia Cyprus
+
+Skipped=Niamey Niger Nouakchott Mauritania
+
+Skipped=Niamey Niger Nuuk Greenland
+
+Skipped=Niamey Niger Oslo Norway
+
+Skipped=Niamey Niger Ottawa Canada
+
+Skipped=Niamey Niger Paramaribo Suriname
+
+Skipped=Niamey Niger Paris France
+
+Skipped=Niamey Niger Podgorica Montenegro
+
+Skipped=Niamey Niger Quito Ecuador
+
+Skipped=Niamey Niger Rabat Morocco
+
+Skipped=Niamey Niger Riga Latvia
+
+Skipped=Niamey Niger Rome Italy
+
+Skipped=Niamey Niger Roseau Dominica
+
+Skipped=Niamey Niger Santiago Chile
+
+Skipped=Niamey Niger Skopje Macedonia
+
+Skipped=Niamey Niger Sofia Bulgaria
+
+Skipped=Niamey Niger Stockholm Sweden
+
+Skipped=Niamey Niger Suva Fiji
+
+Skipped=Niamey Niger Taipei Taiwan
+
+Skipped=Niamey Niger Tallinn Estonia
+
+Skipped=Niamey Niger Tashkent Uzbekistan
+
+Skipped=Niamey Niger Tbilisi Georgia
+
+Skipped=Niamey Niger Tegucigalpa Honduras
+
+Skipped=Niamey Niger Tehran Iran
+
+Skipped=Niamey Niger Thimphu Bhutan
+
+Skipped=Niamey Niger Tirana Albania
+
+Skipped=Niamey Niger Tokyo Japan
+
+Skipped=Niamey Niger Tripoli Libya
+
+Skipped=Niamey Niger Tunis Tunisia
+
+Skipped=Niamey Niger Vaduz Liechtenstein
+
+Skipped=Niamey Niger Valletta Malta
+
+Skipped=Niamey Niger Vienna Austria
+
+Skipped=Niamey Niger Vientiane Laos
+
+Skipped=Niamey Niger Vilnius Lithuania
+
+Skipped=Niamey Niger Warsaw Poland
+
+Skipped=Niamey Niger Windhoek Namibia
+
+Skipped=Niamey Niger Yerevan Armenia
+
+Skipped=Niamey Niger Zagreb Croatia
+
+Skipped=Niamey Niger Abuja Nigeria
+
+Skipped=Nicosia Cyprus Paramaribo Suriname
+
+Skipped=Nicosia Cyprus Thimphu Bhutan
+
+Skipped=Nicosia Cyprus Windhoek Namibia
+
+Skipped=Nicosia Cyprus Abuja Nigeria
+
+Skipped=Nouakchott Mauritania Paramaribo Suriname
+
+Skipped=Nouakchott Mauritania Thimphu Bhutan
+
+Skipped=Nouakchott Mauritania Windhoek Namibia
+
+Skipped=Nouakchott Mauritania Abuja Nigeria
+
+Skipped=Nuuk Greenland Paramaribo Suriname
+
+Skipped=Nuuk Greenland Thimphu Bhutan
+
+Skipped=Nuuk Greenland Windhoek Namibia
+
+Skipped=Nuuk Greenland Abuja Nigeria
+
+Skipped=Oslo Norway Paramaribo Suriname
+
+Skipped=Oslo Norway Thimphu Bhutan
+
+Skipped=Oslo Norway Windhoek Namibia
+
+Skipped=Oslo Norway Abuja Nigeria
+
+Skipped=Ottawa Canada Paramaribo Suriname
+
+Skipped=Ottawa Canada Thimphu Bhutan
+
+Skipped=Ottawa Canada Windhoek Namibia
+
+Skipped=Ottawa Canada Abuja Nigeria
+
+Skipped=Paramaribo Suriname Paris France
+
+Skipped=Paramaribo Suriname Podgorica Montenegro
+
+Skipped=Paramaribo Suriname Quito Ecuador
+
+Skipped=Paramaribo Suriname Rabat Morocco
+
+Skipped=Paramaribo Suriname Riga Latvia
+
+Skipped=Paramaribo Suriname Rome Italy
+
+Skipped=Paramaribo Suriname Roseau Dominica
+
+Skipped=Paramaribo Suriname Santiago Chile
+
+Skipped=Paramaribo Suriname Skopje Macedonia
+
+Skipped=Paramaribo Suriname Sofia Bulgaria
+
+Skipped=Paramaribo Suriname Stockholm Sweden
+
+Skipped=Paramaribo Suriname Suva Fiji
+
+Skipped=Paramaribo Suriname Taipei Taiwan
+
+Skipped=Paramaribo Suriname Tallinn Estonia
+
+Skipped=Paramaribo Suriname Tashkent Uzbekistan
+
+Skipped=Paramaribo Suriname Tbilisi Georgia
+
+Skipped=Paramaribo Suriname Tegucigalpa Honduras
+
+Skipped=Paramaribo Suriname Tehran Iran
+
+Skipped=Paramaribo Suriname Thimphu Bhutan
+
+Skipped=Paramaribo Suriname Tirana Albania
+
+Skipped=Paramaribo Suriname Tokyo Japan
+
+Skipped=Paramaribo Suriname Tripoli Libya
+
+Skipped=Paramaribo Suriname Tunis Tunisia
+
+Skipped=Paramaribo Suriname Vaduz Liechtenstein
+
+Skipped=Paramaribo Suriname Valletta Malta
+
+Skipped=Paramaribo Suriname Vienna Austria
+
+Skipped=Paramaribo Suriname Vientiane Laos
+
+Skipped=Paramaribo Suriname Vilnius Lithuania
+
+Skipped=Paramaribo Suriname Warsaw Poland
+
+Skipped=Paramaribo Suriname Windhoek Namibia
+
+Skipped=Paramaribo Suriname Yerevan Armenia
+
+Skipped=Paramaribo Suriname Zagreb Croatia
+
+Skipped=Paramaribo Suriname Abuja Nigeria
+
+Skipped=Paramaribo Suriname Accra Ghana
+
+Skipped=Paramaribo Suriname Algiers Algeria
+
+Skipped=Paramaribo Suriname Amman Jordan
+
+Skipped=Paramaribo Suriname Ankara Turkey
+
+Skipped=Paramaribo Suriname Antananarivo Madagascar
+
+Skipped=Paramaribo Suriname Apia Samoa
+
+Skipped=Paris France Thimphu Bhutan
+
+Skipped=Paris France Windhoek Namibia
+
+Skipped=Paris France Abuja Nigeria
+
+Skipped=Paris France Apia Samoa
+
+Skipped=Paris France Ashgabat Turkmenistan
+
+Skipped=Podgorica Montenegro Thimphu Bhutan
+
+Skipped=Podgorica Montenegro Windhoek Namibia
+
+Skipped=Podgorica Montenegro Abuja Nigeria
+
+Skipped=Podgorica Montenegro Apia Samoa
+
+Skipped=Podgorica Montenegro Ashgabat Turkmenistan
+
+Skipped=Quito Ecuador Thimphu Bhutan
+
+Skipped=Quito Ecuador Windhoek Namibia
+
+Skipped=Quito Ecuador Abuja Nigeria
+
+Skipped=Quito Ecuador Apia Samoa
+
+Skipped=Quito Ecuador Ashgabat Turkmenistan
+
+Skipped=Rabat Morocco Thimphu Bhutan
+
+Skipped=Rabat Morocco Windhoek Namibia
+
+Skipped=Rabat Morocco Abuja Nigeria
+
+Skipped=Rabat Morocco Apia Samoa
+
+Skipped=Rabat Morocco Ashgabat Turkmenistan
+
+Skipped=Riga Latvia Thimphu Bhutan
+
+Skipped=Riga Latvia Windhoek Namibia
+
+Skipped=Riga Latvia Abuja Nigeria
+
+Skipped=Riga Latvia Apia Samoa
+
+Skipped=Riga Latvia Ashgabat Turkmenistan
+
+Skipped=Rome Italy Thimphu Bhutan
+
+Skipped=Rome Italy Windhoek Namibia
+
+Skipped=Rome Italy Abuja Nigeria
+
+Skipped=Rome Italy Apia Samoa
+
+Skipped=Rome Italy Ashgabat Turkmenistan
+
+Skipped=Roseau Dominica Thimphu Bhutan
+
+Skipped=Roseau Dominica Windhoek Namibia
+
+Skipped=Roseau Dominica Abuja Nigeria
+
+Skipped=Roseau Dominica Apia Samoa
+
+Skipped=Roseau Dominica Ashgabat Turkmenistan
+
+Skipped=Santiago Chile Thimphu Bhutan
+
+Skipped=Santiago Chile Windhoek Namibia
+
+Skipped=Santiago Chile Abuja Nigeria
+
+Skipped=Santiago Chile Apia Samoa
+
+Skipped=Santiago Chile Ashgabat Turkmenistan
+
+Skipped=Skopje Macedonia Thimphu Bhutan
+
+Skipped=Skopje Macedonia Windhoek Namibia
+
+Skipped=Skopje Macedonia Abuja Nigeria
+
+Skipped=Skopje Macedonia Apia Samoa
+
+Skipped=Skopje Macedonia Ashgabat Turkmenistan
+
+Skipped=Skopje Macedonia Banjul Gambia
+
+Skipped=Sofia Bulgaria Thimphu Bhutan
+
+Skipped=Sofia Bulgaria Windhoek Namibia
+
+Skipped=Sofia Bulgaria Abuja Nigeria
+
+Skipped=Sofia Bulgaria Apia Samoa
+
+Skipped=Sofia Bulgaria Ashgabat Turkmenistan
+
+Skipped=Sofia Bulgaria Banjul Gambia
+
+Skipped=Stockholm Sweden Thimphu Bhutan
+
+Skipped=Stockholm Sweden Windhoek Namibia
+
+Skipped=Stockholm Sweden Abuja Nigeria
+
+Skipped=Stockholm Sweden Apia Samoa
+
+Skipped=Stockholm Sweden Ashgabat Turkmenistan
+
+Skipped=Stockholm Sweden Banjul Gambia
+
+Skipped=Suva Fiji Thimphu Bhutan
+
+Skipped=Suva Fiji Windhoek Namibia
+
+Skipped=Suva Fiji Abuja Nigeria
+
+Skipped=Suva Fiji Apia Samoa
+
+Skipped=Suva Fiji Ashgabat Turkmenistan
+
+Skipped=Suva Fiji Banjul Gambia
+
+Skipped=Taipei Taiwan Thimphu Bhutan
+
+Skipped=Taipei Taiwan Windhoek Namibia
+
+Skipped=Taipei Taiwan Abuja Nigeria
+
+Skipped=Taipei Taiwan Apia Samoa
+
+Skipped=Taipei Taiwan Ashgabat Turkmenistan
+
+Skipped=Taipei Taiwan Banjul Gambia
+
+Skipped=Taipei Taiwan Belmopan Belize
+
+Skipped=Tallinn Estonia Thimphu Bhutan
+
+Skipped=Tallinn Estonia Windhoek Namibia
+
+Skipped=Tallinn Estonia Abuja Nigeria
+
+Skipped=Tallinn Estonia Apia Samoa
+
+Skipped=Tallinn Estonia Ashgabat Turkmenistan
+
+Skipped=Tallinn Estonia Banjul Gambia
+
+Skipped=Tallinn Estonia Belmopan Belize
+
+Skipped=Tashkent Uzbekistan Thimphu Bhutan
+
+Skipped=Tashkent Uzbekistan Windhoek Namibia
+
+Skipped=Tashkent Uzbekistan Abuja Nigeria
+
+Skipped=Tashkent Uzbekistan Apia Samoa
+
+Skipped=Tashkent Uzbekistan Ashgabat Turkmenistan
+
+Skipped=Tashkent Uzbekistan Banjul Gambia
+
+Skipped=Tashkent Uzbekistan Belmopan Belize
+
+Skipped=Tbilisi Georgia Thimphu Bhutan
+
+Skipped=Tbilisi Georgia Windhoek Namibia
+
+Skipped=Tbilisi Georgia Abuja Nigeria
+
+Skipped=Tbilisi Georgia Apia Samoa
+
+Skipped=Tbilisi Georgia Ashgabat Turkmenistan
+
+Skipped=Tbilisi Georgia Banjul Gambia
+
+Skipped=Tbilisi Georgia Belmopan Belize
+
+Skipped=Tegucigalpa Honduras Thimphu Bhutan
+
+Skipped=Tegucigalpa Honduras Windhoek Namibia
+
+Skipped=Tegucigalpa Honduras Abuja Nigeria
+
+Skipped=Tegucigalpa Honduras Apia Samoa
+
+Skipped=Tegucigalpa Honduras Ashgabat Turkmenistan
+
+Skipped=Tegucigalpa Honduras Banjul Gambia
+
+Skipped=Tegucigalpa Honduras Belmopan Belize
+
+Skipped=Tehran Iran Thimphu Bhutan
+
+Skipped=Tehran Iran Windhoek Namibia
+
+Skipped=Tehran Iran Abuja Nigeria
+
+Skipped=Tehran Iran Apia Samoa
+
+Skipped=Tehran Iran Ashgabat Turkmenistan
+
+Skipped=Tehran Iran Banjul Gambia
+
+Skipped=Tehran Iran Belmopan Belize
+
+Skipped=Thimphu Bhutan Tirana Albania
+
+Skipped=Thimphu Bhutan Tokyo Japan
+
+Skipped=Thimphu Bhutan Tripoli Libya
+
+Skipped=Thimphu Bhutan Tunis Tunisia
+
+Skipped=Thimphu Bhutan Vaduz Liechtenstein
+
+Skipped=Thimphu Bhutan Valletta Malta
+
+Skipped=Thimphu Bhutan Vienna Austria
+
+Skipped=Thimphu Bhutan Vientiane Laos
+
+Skipped=Thimphu Bhutan Vilnius Lithuania
+
+Skipped=Thimphu Bhutan Warsaw Poland
+
+Skipped=Thimphu Bhutan Windhoek Namibia
+
+Skipped=Thimphu Bhutan Yerevan Armenia
+
+Skipped=Thimphu Bhutan Zagreb Croatia
+
+Skipped=Thimphu Bhutan Abuja Nigeria
+
+Skipped=Thimphu Bhutan Accra Ghana
+
+Skipped=Thimphu Bhutan Algiers Algeria
+
+Skipped=Thimphu Bhutan Amman Jordan
+
+Skipped=Thimphu Bhutan Ankara Turkey
+
+Skipped=Thimphu Bhutan Antananarivo Madagascar
+
+Skipped=Thimphu Bhutan Apia Samoa
+
+Skipped=Thimphu Bhutan Ashgabat Turkmenistan
+
+Skipped=Thimphu Bhutan Asmara Eritrea
+
+Skipped=Thimphu Bhutan Astana Kazakhstan
+
+Skipped=Thimphu Bhutan Athens Greece
+
+Skipped=Thimphu Bhutan Baghdad Iraq
+
+Skipped=Thimphu Bhutan Baku Azerbaijan
+
+Skipped=Thimphu Bhutan Bamako Mali
+
+Skipped=Thimphu Bhutan Bangkok Thailand
+
+Skipped=Thimphu Bhutan Banjul Gambia
+
+Skipped=Thimphu Bhutan Beijing China
+
+Skipped=Thimphu Bhutan Beirut Lebanon
+
+Skipped=Thimphu Bhutan Belgrade Serbia
+
+Skipped=Thimphu Bhutan Belmopan Belize
+
+Skipped=Thimphu Bhutan Berlin Germany
+
+Skipped=Thimphu Bhutan Bern Switzerland
+
+Skipped=Thimphu Bhutan Bishkek Kyrgyzstan
+
+Skipped=Thimphu Bhutan Bratislava Slovakia
+
+Skipped=Thimphu Bhutan Brussels Belgium
+
+Skipped=Thimphu Bhutan Bucharest Romania
+
+Skipped=Tirana Albania Windhoek Namibia
+
+Skipped=Tirana Albania Abuja Nigeria
+
+Skipped=Tirana Albania Apia Samoa
+
+Skipped=Tirana Albania Ashgabat Turkmenistan
+
+Skipped=Tirana Albania Banjul Gambia
+
+Skipped=Tirana Albania Belmopan Belize
+
+Skipped=Tokyo Japan Windhoek Namibia
+
+Skipped=Tokyo Japan Abuja Nigeria
+
+Skipped=Tokyo Japan Apia Samoa
+
+Skipped=Tokyo Japan Ashgabat Turkmenistan
+
+Skipped=Tokyo Japan Banjul Gambia
+
+Skipped=Tokyo Japan Belmopan Belize
+
+Skipped=Tripoli Libya Windhoek Namibia
+
+Skipped=Tripoli Libya Abuja Nigeria
+
+Skipped=Tripoli Libya Apia Samoa
+
+Skipped=Tripoli Libya Ashgabat Turkmenistan
+
+Skipped=Tripoli Libya Banjul Gambia
+
+Skipped=Tripoli Libya Belmopan Belize
+
+Skipped=Tunis Tunisia Windhoek Namibia
+
+Skipped=Tunis Tunisia Abuja Nigeria
+
+Skipped=Tunis Tunisia Apia Samoa
+
+Skipped=Tunis Tunisia Ashgabat Turkmenistan
+
+Skipped=Tunis Tunisia Banjul Gambia
+
+Skipped=Tunis Tunisia Belmopan Belize
+
+Skipped=Vaduz Liechtenstein Windhoek Namibia
+
+Skipped=Vaduz Liechtenstein Abuja Nigeria
+
+Skipped=Vaduz Liechtenstein Apia Samoa
+
+Skipped=Vaduz Liechtenstein Ashgabat Turkmenistan
+
+Skipped=Vaduz Liechtenstein Banjul Gambia
+
+Skipped=Vaduz Liechtenstein Belmopan Belize
+
+Skipped=Valletta Malta Windhoek Namibia
+
+Skipped=Valletta Malta Abuja Nigeria
+
+Skipped=Valletta Malta Apia Samoa
+
+Skipped=Valletta Malta Ashgabat Turkmenistan
+
+Skipped=Valletta Malta Banjul Gambia
+
+Skipped=Valletta Malta Belmopan Belize
+
+Skipped=Vienna Austria Windhoek Namibia
+
+Skipped=Vienna Austria Abuja Nigeria
+
+Skipped=Vienna Austria Apia Samoa
+
+Skipped=Vienna Austria Ashgabat Turkmenistan
+
+Skipped=Vienna Austria Banjul Gambia
+
+Skipped=Vienna Austria Belmopan Belize
+
+Skipped=Vientiane Laos Windhoek Namibia
+
+Skipped=Vientiane Laos Abuja Nigeria
+
+Skipped=Vientiane Laos Apia Samoa
+
+Skipped=Vientiane Laos Ashgabat Turkmenistan
+
+Skipped=Vientiane Laos Banjul Gambia
+
+Skipped=Vientiane Laos Belmopan Belize
+
+Skipped=Vilnius Lithuania Windhoek Namibia
+
+Skipped=Vilnius Lithuania Abuja Nigeria
+
+Skipped=Vilnius Lithuania Apia Samoa
+
+Skipped=Vilnius Lithuania Ashgabat Turkmenistan
+
+Skipped=Vilnius Lithuania Banjul Gambia
+
+Skipped=Vilnius Lithuania Belmopan Belize
+
+Skipped=Warsaw Poland Windhoek Namibia
+
+Skipped=Warsaw Poland Abuja Nigeria
+
+Skipped=Warsaw Poland Apia Samoa
+
+Skipped=Warsaw Poland Ashgabat Turkmenistan
+
+Skipped=Warsaw Poland Banjul Gambia
+
+Skipped=Warsaw Poland Belmopan Belize
+
+Skipped=Windhoek Namibia Yerevan Armenia
+
+Skipped=Windhoek Namibia Zagreb Croatia
+
+Skipped=Windhoek Namibia Abuja Nigeria
+
+Skipped=Windhoek Namibia Accra Ghana
+
+Skipped=Windhoek Namibia Algiers Algeria
+
+Skipped=Windhoek Namibia Amman Jordan
+
+Skipped=Windhoek Namibia Ankara Turkey
+
+Skipped=Windhoek Namibia Antananarivo Madagascar
+
+Skipped=Windhoek Namibia Apia Samoa
+
+Skipped=Windhoek Namibia Ashgabat Turkmenistan
+
+Skipped=Windhoek Namibia Asmara Eritrea
+
+Skipped=Windhoek Namibia Astana Kazakhstan
+
+Skipped=Windhoek Namibia Athens Greece
+
+Skipped=Windhoek Namibia Baghdad Iraq
+
+Skipped=Windhoek Namibia Baku Azerbaijan
+
+Skipped=Windhoek Namibia Bamako Mali
+
+Skipped=Windhoek Namibia Bangkok Thailand
+
+Skipped=Windhoek Namibia Banjul Gambia
+
+Skipped=Windhoek Namibia Beijing China
+
+Skipped=Windhoek Namibia Beirut Lebanon
+
+Skipped=Windhoek Namibia Belgrade Serbia
+
+Skipped=Windhoek Namibia Belmopan Belize
+
+Skipped=Windhoek Namibia Berlin Germany
+
+Skipped=Windhoek Namibia Bern Switzerland
+
+Skipped=Windhoek Namibia Bishkek Kyrgyzstan
+
+Skipped=Windhoek Namibia Bratislava Slovakia
+
+Skipped=Windhoek Namibia Brussels Belgium
+
+Skipped=Windhoek Namibia Bucharest Romania
+
+Skipped=Windhoek Namibia Budapest Hungary
+
+Skipped=Windhoek Namibia Bujumbura Burundi
+
+Skipped=Windhoek Namibia Cairo Egypt
+
+Skipped=Windhoek Namibia Canberra Australia
+
+Skipped=Windhoek Namibia Caracas Venezuela
+
+Skipped=Windhoek Namibia Chisinau Moldova
+
+Skipped=Windhoek Namibia Conakry Guinea
+
+Skipped=Windhoek Namibia Copenhagen Denmark
+
+Skipped=Windhoek Namibia Dakar Senegal
+
+Skipped=Windhoek Namibia Damascus Syria
+
+Skipped=Windhoek Namibia Dhaka Bangladesh
+
+Skipped=Yerevan Armenia Abuja Nigeria
+
+Skipped=Yerevan Armenia Apia Samoa
+
+Skipped=Yerevan Armenia Ashgabat Turkmenistan
+
+Skipped=Yerevan Armenia Banjul Gambia
+
+Skipped=Yerevan Armenia Belmopan Belize
+
+Skipped=Zagreb Croatia Abuja Nigeria
+
+Skipped=Zagreb Croatia Apia Samoa
+
+Skipped=Zagreb Croatia Ashgabat Turkmenistan
+
+Skipped=Zagreb Croatia Banjul Gambia
+
+Skipped=Zagreb Croatia Belmopan Belize
+
+Skipped=Algeria dinar Latvia lats
+
+Skipped=Algeria dinar Macedonia denar
+
+Skipped=Algeria dinar Nigeria naira
+
+Skipped=Algeria dinar Thailand baht
+
+Skipped=Algeria dinar Ukraine hryvnia
+
+Skipped=Angola kwanza Latvia lats
+
+Skipped=Angola kwanza Macedonia denar
+
+Skipped=Angola kwanza Nigeria naira
+
+Skipped=Angola kwanza Thailand baht
+
+Skipped=Angola kwanza Ukraine hryvnia
+
+Skipped=Argentina peso Latvia lats
+
+Skipped=Argentina peso Macedonia denar
+
+Skipped=Argentina peso Nigeria naira
+
+Skipped=Argentina peso Thailand baht
+
+Skipped=Argentina peso Ukraine hryvnia
+
+Skipped=Armenia dram Latvia lats
+
+Skipped=Armenia dram Macedonia denar
+
+Skipped=Armenia dram Nigeria naira
+
+Skipped=Armenia dram Thailand baht
+
+Skipped=Armenia dram Ukraine hryvnia
+
+Skipped=Brazil real Latvia lats
+
+Skipped=Brazil real Macedonia denar
+
+Skipped=Brazil real Nigeria naira
+
+Skipped=Brazil real Thailand baht
+
+Skipped=Brazil real Ukraine hryvnia
+
+Skipped=Bulgaria lev Latvia lats
+
+Skipped=Bulgaria lev Macedonia denar
+
+Skipped=Bulgaria lev Nigeria naira
+
+Skipped=Bulgaria lev Thailand baht
+
+Skipped=Bulgaria lev Ukraine hryvnia
+
+Skipped=Cambodia riel Latvia lats
+
+Skipped=Cambodia riel Macedonia denar
+
+Skipped=Cambodia riel Nigeria naira
+
+Skipped=Cambodia riel Thailand baht
+
+Skipped=Cambodia riel Ukraine hryvnia
+
+Skipped=Canada dollar Latvia lats
+
+Skipped=Canada dollar Macedonia denar
+
+Skipped=Canada dollar Nigeria naira
+
+Skipped=Canada dollar Thailand baht
+
+Skipped=Canada dollar Ukraine hryvnia
+
+Skipped=Croatia kuna Latvia lats
+
+Skipped=Croatia kuna Macedonia denar
+
+Skipped=Croatia kuna Nigeria naira
+
+Skipped=Croatia kuna Thailand baht
+
+Skipped=Croatia kuna Ukraine hryvnia
+
+Skipped=Denmark krone Latvia lats
+
+Skipped=Denmark krone Macedonia denar
+
+Skipped=Denmark krone Nigeria naira
+
+Skipped=Denmark krone Thailand baht
+
+Skipped=Denmark krone Ukraine hryvnia
+
+Skipped=Europe euro Latvia lats
+
+Skipped=Europe euro Macedonia denar
+
+Skipped=Europe euro Nigeria naira
+
+Skipped=Europe euro Thailand baht
+
+Skipped=Europe euro Ukraine hryvnia
+
+Skipped=Hungary forint Latvia lats
+
+Skipped=Hungary forint Macedonia denar
+
+Skipped=Hungary forint Nigeria naira
+
+Skipped=Hungary forint Thailand baht
+
+Skipped=Hungary forint Ukraine hryvnia
+
+Skipped=India rupee Latvia lats
+
+Skipped=India rupee Macedonia denar
+
+Skipped=India rupee Nigeria naira
+
+Skipped=India rupee Thailand baht
+
+Skipped=India rupee Ukraine hryvnia
+
+Skipped=Iran rial Latvia lats
+
+Skipped=Iran rial Macedonia denar
+
+Skipped=Iran rial Nigeria naira
+
+Skipped=Iran rial Thailand baht
+
+Skipped=Iran rial Ukraine hryvnia
+
+Skipped=Japan yen Latvia lats
+
+Skipped=Japan yen Macedonia denar
+
+Skipped=Japan yen Nigeria naira
+
+Skipped=Japan yen Thailand baht
+
+Skipped=Japan yen Ukraine hryvnia
+
+Skipped=Korea won Latvia lats
+
+Skipped=Korea won Macedonia denar
+
+Skipped=Korea won Nigeria naira
+
+Skipped=Korea won Thailand baht
+
+Skipped=Korea won Ukraine hryvnia
+
+Skipped=Latvia lats Lithuania litas
+
+Skipped=Latvia lats Macedonia denar
+
+Skipped=Latvia lats Malaysia ringgit
+
+Skipped=Latvia lats Mexico peso
+
+Skipped=Latvia lats Nigeria naira
+
+Skipped=Latvia lats Poland zloty
+
+Skipped=Latvia lats Romania leu
+
+Skipped=Latvia lats Russia ruble
+
+Skipped=Latvia lats Sweden krona
+
+Skipped=Latvia lats Thailand baht
+
+Skipped=Latvia lats Ukraine hryvnia
+
+Skipped=Latvia lats USA dollar
+
+Skipped=Latvia lats Vietnam dong
+
+Skipped=Latvia lats Algeria dinar
+
+Skipped=Latvia lats Angola kwanza
+
+Skipped=Latvia lats Argentina peso
+
+Skipped=Latvia lats Armenia dram
+
+Skipped=Latvia lats Brazil real
+
+Skipped=Latvia lats Bulgaria lev
+
+Skipped=Latvia lats Cambodia riel
+
+Skipped=Latvia lats Canada dollar
+
+Skipped=Latvia lats Croatia kuna
+
+Skipped=Latvia lats Denmark krone
+
+Skipped=Latvia lats Europe euro
+
+Skipped=Latvia lats Hungary forint
+
+Skipped=Latvia lats India rupee
+
+Skipped=Latvia lats Iran rial
+
+Skipped=Latvia lats Japan yen
+
+Skipped=Latvia lats Korea won
+
+Skipped=Lithuania litas Macedonia denar
+
+Skipped=Lithuania litas Nigeria naira
+
+Skipped=Lithuania litas Thailand baht
+
+Skipped=Lithuania litas Ukraine hryvnia
+
+Skipped=Lithuania litas Latvia lats
+
+Skipped=Macedonia denar Malaysia ringgit
+
+Skipped=Macedonia denar Mexico peso
+
+Skipped=Macedonia denar Nigeria naira
+
+Skipped=Macedonia denar Poland zloty
+
+Skipped=Macedonia denar Romania leu
+
+Skipped=Macedonia denar Russia ruble
+
+Skipped=Macedonia denar Sweden krona
+
+Skipped=Macedonia denar Thailand baht
+
+Skipped=Macedonia denar Ukraine hryvnia
+
+Skipped=Macedonia denar USA dollar
+
+Skipped=Macedonia denar Vietnam dong
+
+Skipped=Macedonia denar Algeria dinar
+
+Skipped=Macedonia denar Angola kwanza
+
+Skipped=Macedonia denar Argentina peso
+
+Skipped=Macedonia denar Armenia dram
+
+Skipped=Macedonia denar Brazil real
+
+Skipped=Macedonia denar Bulgaria lev
+
+Skipped=Macedonia denar Cambodia riel
+
+Skipped=Macedonia denar Canada dollar
+
+Skipped=Macedonia denar Croatia kuna
+
+Skipped=Macedonia denar Denmark krone
+
+Skipped=Macedonia denar Europe euro
+
+Skipped=Macedonia denar Hungary forint
+
+Skipped=Macedonia denar India rupee
+
+Skipped=Macedonia denar Iran rial
+
+Skipped=Macedonia denar Japan yen
+
+Skipped=Macedonia denar Korea won
+
+Skipped=Macedonia denar Latvia lats
+
+Skipped=Macedonia denar Lithuania litas
+
+Skipped=Malaysia ringgit Nigeria naira
+
+Skipped=Malaysia ringgit Thailand baht
+
+Skipped=Malaysia ringgit Ukraine hryvnia
+
+Skipped=Malaysia ringgit Latvia lats
+
+Skipped=Malaysia ringgit Macedonia denar
+
+Skipped=Mexico peso Nigeria naira
+
+Skipped=Mexico peso Thailand baht
+
+Skipped=Mexico peso Ukraine hryvnia
+
+Skipped=Mexico peso Latvia lats
+
+Skipped=Mexico peso Macedonia denar
+
+Skipped=Nigeria naira Poland zloty
+
+Skipped=Nigeria naira Romania leu
+
+Skipped=Nigeria naira Russia ruble
+
+Skipped=Nigeria naira Sweden krona
+
+Skipped=Nigeria naira Thailand baht
+
+Skipped=Nigeria naira Ukraine hryvnia
+
+Skipped=Nigeria naira USA dollar
+
+Skipped=Nigeria naira Vietnam dong
+
+Skipped=Nigeria naira Algeria dinar
+
+Skipped=Nigeria naira Angola kwanza
+
+Skipped=Nigeria naira Argentina peso
+
+Skipped=Nigeria naira Armenia dram
+
+Skipped=Nigeria naira Brazil real
+
+Skipped=Nigeria naira Bulgaria lev
+
+Skipped=Nigeria naira Cambodia riel
+
+Skipped=Nigeria naira Canada dollar
+
+Skipped=Nigeria naira Croatia kuna
+
+Skipped=Nigeria naira Denmark krone
+
+Skipped=Nigeria naira Europe euro
+
+Skipped=Nigeria naira Hungary forint
+
+Skipped=Nigeria naira India rupee
+
+Skipped=Nigeria naira Iran rial
+
+Skipped=Nigeria naira Japan yen
+
+Skipped=Nigeria naira Korea won
+
+Skipped=Nigeria naira Latvia lats
+
+Skipped=Nigeria naira Lithuania litas
+
+Skipped=Nigeria naira Macedonia denar
+
+Skipped=Nigeria naira Malaysia ringgit
+
+Skipped=Nigeria naira Mexico peso
+
+Skipped=Poland zloty Thailand baht
+
+Skipped=Poland zloty Ukraine hryvnia
+
+Skipped=Poland zloty Latvia lats
+
+Skipped=Poland zloty Macedonia denar
+
+Skipped=Poland zloty Nigeria naira
+
+Skipped=Romania leu Thailand baht
+
+Skipped=Romania leu Ukraine hryvnia
+
+Skipped=Romania leu Latvia lats
+
+Skipped=Romania leu Macedonia denar
+
+Skipped=Romania leu Nigeria naira
+
+Skipped=Russia ruble Thailand baht
+
+Skipped=Russia ruble Ukraine hryvnia
+
+Skipped=Russia ruble Latvia lats
+
+Skipped=Russia ruble Macedonia denar
+
+Skipped=Russia ruble Nigeria naira
+
+Skipped=Sweden krona Thailand baht
+
+Skipped=Sweden krona Ukraine hryvnia
+
+Skipped=Sweden krona Latvia lats
+
+Skipped=Sweden krona Macedonia denar
+
+Skipped=Sweden krona Nigeria naira
+
+Skipped=Thailand baht Ukraine hryvnia
+
+Skipped=Thailand baht USA dollar
+
+Skipped=Thailand baht Vietnam dong
+
+Skipped=Thailand baht Algeria dinar
+
+Skipped=Thailand baht Angola kwanza
+
+Skipped=Thailand baht Argentina peso
+
+Skipped=Thailand baht Armenia dram
+
+Skipped=Thailand baht Brazil real
+
+Skipped=Thailand baht Bulgaria lev
+
+Skipped=Thailand baht Cambodia riel
+
+Skipped=Thailand baht Canada dollar
+
+Skipped=Thailand baht Croatia kuna
+
+Skipped=Thailand baht Denmark krone
+
+Skipped=Thailand baht Europe euro
+
+Skipped=Thailand baht Hungary forint
+
+Skipped=Thailand baht India rupee
+
+Skipped=Thailand baht Iran rial
+
+Skipped=Thailand baht Japan yen
+
+Skipped=Thailand baht Korea won
+
+Skipped=Thailand baht Latvia lats
+
+Skipped=Thailand baht Lithuania litas
+
+Skipped=Thailand baht Macedonia denar
+
+Skipped=Thailand baht Malaysia ringgit
+
+Skipped=Thailand baht Mexico peso
+
+Skipped=Thailand baht Nigeria naira
+
+Skipped=Thailand baht Poland zloty
+
+Skipped=Thailand baht Romania leu
+
+Skipped=Thailand baht Russia ruble
+
+Skipped=Thailand baht Sweden krona
+
+Skipped=Ukraine hryvnia USA dollar
+
+Skipped=Ukraine hryvnia Vietnam dong
+
+Skipped=Ukraine hryvnia Algeria dinar
+
+Skipped=Ukraine hryvnia Angola kwanza
+
+Skipped=Ukraine hryvnia Argentina peso
+
+Skipped=Ukraine hryvnia Armenia dram
+
+Skipped=Ukraine hryvnia Brazil real
+
+Skipped=Ukraine hryvnia Bulgaria lev
+
+Skipped=Ukraine hryvnia Cambodia riel
+
+Skipped=Ukraine hryvnia Canada dollar
+
+Skipped=Ukraine hryvnia Croatia kuna
+
+Skipped=Ukraine hryvnia Denmark krone
+
+Skipped=Ukraine hryvnia Europe euro
+
+Skipped=Ukraine hryvnia Hungary forint
+
+Skipped=Ukraine hryvnia India rupee
+
+Skipped=Ukraine hryvnia Iran rial
+
+Skipped=Ukraine hryvnia Japan yen
+
+Skipped=Ukraine hryvnia Korea won
+
+Skipped=Ukraine hryvnia Latvia lats
+
+Skipped=Ukraine hryvnia Lithuania litas
+
+Skipped=Ukraine hryvnia Macedonia denar
+
+Skipped=Ukraine hryvnia Malaysia ringgit
+
+Skipped=Ukraine hryvnia Mexico peso
+
+Skipped=Ukraine hryvnia Nigeria naira
+
+Skipped=Ukraine hryvnia Poland zloty
+
+Skipped=Ukraine hryvnia Romania leu
+
+Skipped=Ukraine hryvnia Russia ruble
+
+Skipped=Ukraine hryvnia Sweden krona
+
+Skipped=Ukraine hryvnia Thailand baht
+
+Skipped=USA dollar Latvia lats
+
+Skipped=USA dollar Macedonia denar
+
+Skipped=USA dollar Nigeria naira
+
+Skipped=USA dollar Thailand baht
+
+Skipped=USA dollar Ukraine hryvnia
+
+Skipped=Vietnam dong Latvia lats
+
+Skipped=Vietnam dong Macedonia denar
+
+Skipped=Vietnam dong Nigeria naira
+
+Skipped=Vietnam dong Thailand baht
+
+Skipped=Vietnam dong Ukraine hryvnia
+
+Skipped=Seattle Washington Hialeah Florida
+
+Skipped=Denver Colorado Hialeah Florida
+
+Skipped=Baltimore Maryland Hialeah Florida
+
+Skipped=Nashville Tennessee Hialeah Florida
+
+Skipped=Louisville Kentucky Hialeah Florida
+
+Skipped=Milwaukee Wisconsin Hialeah Florida
+
+Skipped=Portland Oregon Hialeah Florida
+
+Skipped=Tucson Arizona Hialeah Florida
+
+Skipped=Fresno California Hialeah Florida
+
+Skipped=Sacramento California Hialeah Florida
+
+Skipped=Mesa Arizona Hialeah Florida
+
+Skipped=Mesa Arizona Oxnard California
+
+Skipped=Atlanta Georgia Hialeah Florida
+
+Skipped=Atlanta Georgia Oxnard California
+
+Skipped=Omaha Nebraska Hialeah Florida
+
+Skipped=Omaha Nebraska Oxnard California
+
+Skipped=Miami Florida Oxnard California
+
+Skipped=Tulsa Oklahoma Hialeah Florida
+
+Skipped=Tulsa Oklahoma Oxnard California
+
+Skipped=Oakland California Hialeah Florida
+
+Skipped=Cleveland Ohio Hialeah Florida
+
+Skipped=Cleveland Ohio Oxnard California
+
+Skipped=Minneapolis Minnesota Hialeah Florida
+
+Skipped=Minneapolis Minnesota Oxnard California
+
+Skipped=Wichita Kansas Hialeah Florida
+
+Skipped=Wichita Kansas Oxnard California
+
+Skipped=Arlington Texas Hialeah Florida
+
+Skipped=Arlington Texas Oxnard California
+
+Skipped=Bakersfield California Hialeah Florida
+
+Skipped=Tampa Florida Oxnard California
+
+Skipped=Anaheim California Hialeah Florida
+
+Skipped=Honolulu Hawaii Hialeah Florida
+
+Skipped=Honolulu Hawaii Oxnard California
+
+Skipped=Pittsburgh Pennsylvania Hialeah Florida
+
+Skipped=Pittsburgh Pennsylvania Oxnard California
+
+Skipped=Lexington Kentucky Hialeah Florida
+
+Skipped=Lexington Kentucky Oxnard California
+
+Skipped=Stockton California Hialeah Florida
+
+Skipped=Cincinnati Ohio Hialeah Florida
+
+Skipped=Cincinnati Ohio Oxnard California
+
+Skipped=Anchorage Alaska Hialeah Florida
+
+Skipped=Anchorage Alaska Oxnard California
+
+Skipped=Toledo Ohio Hialeah Florida
+
+Skipped=Toledo Ohio Oxnard California
+
+Skipped=Plano Texas Hialeah Florida
+
+Skipped=Plano Texas Oxnard California
+
+Skipped=Henderson Nevada Hialeah Florida
+
+Skipped=Henderson Nevada Oxnard California
+
+Skipped=Orlando Florida Oxnard California
+
+Skipped=Laredo Texas Hialeah Florida
+
+Skipped=Laredo Texas Oxnard California
+
+Skipped=Chandler Arizona Hialeah Florida
+
+Skipped=Chandler Arizona Oxnard California
+
+Skipped=Madison Wisconsin Hialeah Florida
+
+Skipped=Madison Wisconsin Oxnard California
+
+Skipped=Lubbock Texas Hialeah Florida
+
+Skipped=Lubbock Texas Oxnard California
+
+Skipped=Garland Texas Hialeah Florida
+
+Skipped=Garland Texas Oxnard California
+
+Skipped=Glendale Arizona Hialeah Florida
+
+Skipped=Glendale Arizona Oxnard California
+
+Skipped=Hialeah Florida Reno Nevada
+
+Skipped=Hialeah Florida Scottsdale Arizona
+
+Skipped=Hialeah Florida Irving Texas
+
+Skipped=Hialeah Florida Fremont California
+
+Skipped=Hialeah Florida Irvine California
+
+Skipped=Hialeah Florida Spokane Washington
+
+Skipped=Hialeah Florida Modesto California
+
+Skipped=Hialeah Florida Shreveport Louisiana
+
+Skipped=Hialeah Florida Tacoma Washington
+
+Skipped=Hialeah Florida Oxnard California
+
+Skipped=Hialeah Florida Fontana California
+
+Skipped=Hialeah Florida Akron Ohio
+
+Skipped=Hialeah Florida Amarillo Texas
+
+Skipped=Hialeah Florida Glendale California
+
+Skipped=Hialeah Florida Huntsville Alabama
+
+Skipped=Hialeah Florida Worcester Massachusetts
+
+Skipped=Hialeah Florida Chicago Illinois
+
+Skipped=Hialeah Florida Houston Texas
+
+Skipped=Hialeah Florida Philadelphia Pennsylvania
+
+Skipped=Hialeah Florida Phoenix Arizona
+
+Skipped=Hialeah Florida Dallas Texas
+
+Skipped=Hialeah Florida Indianapolis Indiana
+
+Skipped=Hialeah Florida Austin Texas
+
+Skipped=Hialeah Florida Detroit Michigan
+
+Skipped=Hialeah Florida Memphis Tennessee
+
+Skipped=Hialeah Florida Boston Massachusetts
+
+Skipped=Hialeah Florida Seattle Washington
+
+Skipped=Hialeah Florida Denver Colorado
+
+Skipped=Hialeah Florida Baltimore Maryland
+
+Skipped=Hialeah Florida Nashville Tennessee
+
+Skipped=Hialeah Florida Louisville Kentucky
+
+Skipped=Hialeah Florida Milwaukee Wisconsin
+
+Skipped=Hialeah Florida Portland Oregon
+
+Skipped=Hialeah Florida Tucson Arizona
+
+Skipped=Hialeah Florida Fresno California
+
+Skipped=Hialeah Florida Sacramento California
+
+Skipped=Hialeah Florida Mesa Arizona
+
+Skipped=Reno Nevada Oxnard California
+
+Skipped=Scottsdale Arizona Oxnard California
+
+Skipped=Irving Texas Oxnard California
+
+Skipped=Spokane Washington Oxnard California
+
+Skipped=Shreveport Louisiana Oxnard California
+
+Skipped=Tacoma Washington Oxnard California
+
+Skipped=Oxnard California Akron Ohio
+
+Skipped=Oxnard California Amarillo Texas
+
+Skipped=Oxnard California Tallahassee Florida
+
+Skipped=Oxnard California Huntsville Alabama
+
+Skipped=Oxnard California Worcester Massachusetts
+
+Skipped=Oxnard California Chicago Illinois
+
+Skipped=Oxnard California Houston Texas
+
+Skipped=Oxnard California Philadelphia Pennsylvania
+
+Skipped=Oxnard California Phoenix Arizona
+
+Skipped=Oxnard California Dallas Texas
+
+Skipped=Oxnard California Jacksonville Florida
+
+Skipped=Oxnard California Indianapolis Indiana
+
+Skipped=Oxnard California Austin Texas
+
+Skipped=Oxnard California Detroit Michigan
+
+Skipped=Oxnard California Memphis Tennessee
+
+Skipped=Oxnard California Boston Massachusetts
+
+Skipped=Oxnard California Seattle Washington
+
+Skipped=Oxnard California Denver Colorado
+
+Skipped=Oxnard California Baltimore Maryland
+
+Skipped=Oxnard California Nashville Tennessee
+
+Skipped=Oxnard California Louisville Kentucky
+
+Skipped=Oxnard California Milwaukee Wisconsin
+
+Skipped=Oxnard California Portland Oregon
+
+Skipped=Oxnard California Tucson Arizona
+
+Skipped=Oxnard California Mesa Arizona
+
+Skipped=Oxnard California Atlanta Georgia
+
+Skipped=Oxnard California Omaha Nebraska
+
+Skipped=Oxnard California Miami Florida
+
+Skipped=Oxnard California Tulsa Oklahoma
+
+Skipped=Oxnard California Cleveland Ohio
+
+Skipped=Oxnard California Minneapolis Minnesota
+
+Skipped=Oxnard California Wichita Kansas
+
+Skipped=Oxnard California Arlington Texas
+
+Skipped=boy girl policeman policewoman
+
+Skipped=boy girl stepbrother stepsister
+
+Skipped=brother sister policeman policewoman
+
+Skipped=brother sister stepbrother stepsister
+
+Skipped=brothers sisters policeman policewoman
+
+Skipped=brothers sisters stepbrother stepsister
+
+Skipped=dad mom policeman policewoman
+
+Skipped=dad mom stepbrother stepsister
+
+Skipped=father mother policeman policewoman
+
+Skipped=father mother stepbrother stepsister
+
+Skipped=grandfather grandmother policeman policewoman
+
+Skipped=grandfather grandmother stepbrother stepsister
+
+Skipped=grandpa grandma policeman policewoman
+
+Skipped=grandpa grandma stepbrother stepsister
+
+Skipped=grandson granddaughter policeman policewoman
+
+Skipped=grandson granddaughter stepbrother stepsister
+
+Skipped=groom bride policeman policewoman
+
+Skipped=groom bride stepbrother stepsister
+
+Skipped=he she policeman policewoman
+
+Skipped=he she stepbrother stepsister
+
+Skipped=his her policeman policewoman
+
+Skipped=his her stepbrother stepsister
+
+Skipped=husband wife policeman policewoman
+
+Skipped=husband wife stepbrother stepsister
+
+Skipped=king queen policeman policewoman
+
+Skipped=king queen stepbrother stepsister
+
+Skipped=man woman policeman policewoman
+
+Skipped=man woman stepbrother stepsister
+
+Skipped=nephew niece policeman policewoman
+
+Skipped=nephew niece stepbrother stepsister
+
+Skipped=policeman policewoman prince princess
+
+Skipped=policeman policewoman son daughter
+
+Skipped=policeman policewoman sons daughters
+
+Skipped=policeman policewoman stepbrother stepsister
+
+Skipped=policeman policewoman stepfather stepmother
+
+Skipped=policeman policewoman stepson stepdaughter
+
+Skipped=policeman policewoman uncle aunt
+
+Skipped=policeman policewoman boy girl
+
+Skipped=policeman policewoman brother sister
+
+Skipped=policeman policewoman brothers sisters
+
+Skipped=policeman policewoman dad mom
+
+Skipped=policeman policewoman father mother
+
+Skipped=policeman policewoman grandfather grandmother
+
+Skipped=policeman policewoman grandpa grandma
+
+Skipped=policeman policewoman grandson granddaughter
+
+Skipped=policeman policewoman groom bride
+
+Skipped=policeman policewoman he she
+
+Skipped=policeman policewoman his her
+
+Skipped=policeman policewoman husband wife
+
+Skipped=policeman policewoman king queen
+
+Skipped=policeman policewoman man woman
+
+Skipped=policeman policewoman nephew niece
+
+Skipped=prince princess stepbrother stepsister
+
+Skipped=prince princess policeman policewoman
+
+Skipped=son daughter stepbrother stepsister
+
+Skipped=son daughter policeman policewoman
+
+Skipped=sons daughters stepbrother stepsister
+
+Skipped=sons daughters policeman policewoman
+
+Skipped=stepbrother stepsister stepfather stepmother
+
+Skipped=stepbrother stepsister stepson stepdaughter
+
+Skipped=stepbrother stepsister uncle aunt
+
+Skipped=stepbrother stepsister boy girl
+
+Skipped=stepbrother stepsister brother sister
+
+Skipped=stepbrother stepsister brothers sisters
+
+Skipped=stepbrother stepsister dad mom
+
+Skipped=stepbrother stepsister father mother
+
+Skipped=stepbrother stepsister grandfather grandmother
+
+Skipped=stepbrother stepsister grandpa grandma
+
+Skipped=stepbrother stepsister grandson granddaughter
+
+Skipped=stepbrother stepsister groom bride
+
+Skipped=stepbrother stepsister he she
+
+Skipped=stepbrother stepsister his her
+
+Skipped=stepbrother stepsister husband wife
+
+Skipped=stepbrother stepsister king queen
+
+Skipped=stepbrother stepsister man woman
+
+Skipped=stepbrother stepsister nephew niece
+
+Skipped=stepbrother stepsister policeman policewoman
+
+Skipped=stepbrother stepsister prince princess
+
+Skipped=stepbrother stepsister son daughter
+
+Skipped=stepbrother stepsister sons daughters
+
+Skipped=stepfather stepmother policeman policewoman
+
+Skipped=stepfather stepmother stepbrother stepsister
+
+Skipped=stepson stepdaughter policeman policewoman
+
+Skipped=stepson stepdaughter stepbrother stepsister
+
+Skipped=uncle aunt policeman policewoman
+
+Skipped=uncle aunt stepbrother stepsister
+
+Skipped=acceptable unacceptable informative uninformative
+
+Skipped=aware unaware informative uninformative
+
+Skipped=certain uncertain informative uninformative
+
+Skipped=clear unclear informative uninformative
+
+Skipped=comfortable uncomfortable informative uninformative
+
+Skipped=competitive uncompetitive informative uninformative
+
+Skipped=consistent inconsistent informative uninformative
+
+Skipped=convincing unconvincing informative uninformative
+
+Skipped=convenient inconvenient informative uninformative
+
+Skipped=decided undecided informative uninformative
+
+Skipped=efficient inefficient informative uninformative
+
+Skipped=ethical unethical informative uninformative
+
+Skipped=fortunate unfortunate informative uninformative
+
+Skipped=honest dishonest informative uninformative
+
+Skipped=impressive unimpressive informative uninformative
+
+Skipped=informative uninformative informed uninformed
+
+Skipped=informative uninformative known unknown
+
+Skipped=informative uninformative likely unlikely
+
+Skipped=informative uninformative logical illogical
+
+Skipped=informative uninformative pleasant unpleasant
+
+Skipped=informative uninformative possible impossible
+
+Skipped=informative uninformative possibly impossibly
+
+Skipped=informative uninformative productive unproductive
+
+Skipped=informative uninformative rational irrational
+
+Skipped=informative uninformative reasonable unreasonable
+
+Skipped=informative uninformative responsible irresponsible
+
+Skipped=informative uninformative sure unsure
+
+Skipped=informative uninformative tasteful distasteful
+
+Skipped=informative uninformative acceptable unacceptable
+
+Skipped=informative uninformative aware unaware
+
+Skipped=informative uninformative certain uncertain
+
+Skipped=informative uninformative clear unclear
+
+Skipped=informative uninformative comfortable uncomfortable
+
+Skipped=informative uninformative competitive uncompetitive
+
+Skipped=informative uninformative consistent inconsistent
+
+Skipped=informative uninformative convincing unconvincing
+
+Skipped=informative uninformative convenient inconvenient
+
+Skipped=informative uninformative decided undecided
+
+Skipped=informative uninformative efficient inefficient
+
+Skipped=informative uninformative ethical unethical
+
+Skipped=informative uninformative fortunate unfortunate
+
+Skipped=informative uninformative honest dishonest
+
+Skipped=informative uninformative impressive unimpressive
+
+Skipped=informed uninformed informative uninformative
+
+Skipped=known unknown informative uninformative
+
+Skipped=likely unlikely informative uninformative
+
+Skipped=logical illogical informative uninformative
+
+Skipped=pleasant unpleasant informative uninformative
+
+Skipped=possible impossible informative uninformative
+
+Skipped=possibly impossibly informative uninformative
+
+Skipped=productive unproductive informative uninformative
+
+Skipped=rational irrational informative uninformative
+
+Skipped=reasonable unreasonable informative uninformative
+
+Skipped=responsible irresponsible informative uninformative
+
+Skipped=sure unsure informative uninformative
+
+Skipped=tasteful distasteful informative uninformative
+
+Skipped=bad worst tasty tastiest
+
+Skipped=bad worst weird weirdest
+
+Skipped=big biggest tasty tastiest
+
+Skipped=big biggest weird weirdest
+
+Skipped=bright brightest tasty tastiest
+
+Skipped=bright brightest weird weirdest
+
+Skipped=cold coldest tasty tastiest
+
+Skipped=cold coldest weird weirdest
+
+Skipped=cool coolest tasty tastiest
+
+Skipped=cool coolest weird weirdest
+
+Skipped=dark darkest tasty tastiest
+
+Skipped=dark darkest weird weirdest
+
+Skipped=easy easiest tasty tastiest
+
+Skipped=easy easiest weird weirdest
+
+Skipped=fast fastest tasty tastiest
+
+Skipped=fast fastest weird weirdest
+
+Skipped=good best tasty tastiest
+
+Skipped=good best weird weirdest
+
+Skipped=great greatest tasty tastiest
+
+Skipped=great greatest weird weirdest
+
+Skipped=high highest tasty tastiest
+
+Skipped=high highest weird weirdest
+
+Skipped=hot hottest tasty tastiest
+
+Skipped=hot hottest weird weirdest
+
+Skipped=large largest tasty tastiest
+
+Skipped=large largest weird weirdest
+
+Skipped=long longest tasty tastiest
+
+Skipped=long longest weird weirdest
+
+Skipped=low lowest tasty tastiest
+
+Skipped=low lowest weird weirdest
+
+Skipped=lucky luckiest tasty tastiest
+
+Skipped=lucky luckiest weird weirdest
+
+Skipped=old oldest tasty tastiest
+
+Skipped=old oldest weird weirdest
+
+Skipped=quick quickest tasty tastiest
+
+Skipped=quick quickest weird weirdest
+
+Skipped=sharp sharpest tasty tastiest
+
+Skipped=sharp sharpest weird weirdest
+
+Skipped=simple simplest tasty tastiest
+
+Skipped=simple simplest weird weirdest
+
+Skipped=short shortest tasty tastiest
+
+Skipped=short shortest weird weirdest
+
+Skipped=slow slowest tasty tastiest
+
+Skipped=slow slowest weird weirdest
+
+Skipped=small smallest tasty tastiest
+
+Skipped=small smallest weird weirdest
+
+Skipped=smart smartest tasty tastiest
+
+Skipped=smart smartest weird weirdest
+
+Skipped=strange strangest tasty tastiest
+
+Skipped=strange strangest weird weirdest
+
+Skipped=strong strongest tasty tastiest
+
+Skipped=strong strongest weird weirdest
+
+Skipped=sweet sweetest tasty tastiest
+
+Skipped=sweet sweetest weird weirdest
+
+Skipped=tall tallest tasty tastiest
+
+Skipped=tall tallest weird weirdest
+
+Skipped=tasty tastiest warm warmest
+
+Skipped=tasty tastiest weak weakest
+
+Skipped=tasty tastiest weird weirdest
+
+Skipped=tasty tastiest wide widest
+
+Skipped=tasty tastiest young youngest
+
+Skipped=tasty tastiest bad worst
+
+Skipped=tasty tastiest big biggest
+
+Skipped=tasty tastiest bright brightest
+
+Skipped=tasty tastiest cold coldest
+
+Skipped=tasty tastiest cool coolest
+
+Skipped=tasty tastiest dark darkest
+
+Skipped=tasty tastiest easy easiest
+
+Skipped=tasty tastiest fast fastest
+
+Skipped=tasty tastiest good best
+
+Skipped=tasty tastiest great greatest
+
+Skipped=tasty tastiest high highest
+
+Skipped=tasty tastiest hot hottest
+
+Skipped=tasty tastiest large largest
+
+Skipped=tasty tastiest long longest
+
+Skipped=tasty tastiest low lowest
+
+Skipped=tasty tastiest lucky luckiest
+
+Skipped=tasty tastiest old oldest
+
+Skipped=tasty tastiest quick quickest
+
+Skipped=tasty tastiest sharp sharpest
+
+Skipped=tasty tastiest simple simplest
+
+Skipped=tasty tastiest short shortest
+
+Skipped=tasty tastiest slow slowest
+
+Skipped=tasty tastiest small smallest
+
+Skipped=tasty tastiest smart smartest
+
+Skipped=tasty tastiest strange strangest
+
+Skipped=tasty tastiest strong strongest
+
+Skipped=tasty tastiest sweet sweetest
+
+Skipped=tasty tastiest tall tallest
+
+Skipped=warm warmest weird weirdest
+
+Skipped=warm warmest tasty tastiest
+
+Skipped=weak weakest weird weirdest
+
+Skipped=weak weakest tasty tastiest
+
+Skipped=weird weirdest wide widest
+
+Skipped=weird weirdest young youngest
+
+Skipped=weird weirdest bad worst
+
+Skipped=weird weirdest big biggest
+
+Skipped=weird weirdest bright brightest
+
+Skipped=weird weirdest cold coldest
+
+Skipped=weird weirdest cool coolest
+
+Skipped=weird weirdest dark darkest
+
+Skipped=weird weirdest easy easiest
+
+Skipped=weird weirdest fast fastest
+
+Skipped=weird weirdest good best
+
+Skipped=weird weirdest great greatest
+
+Skipped=weird weirdest high highest
+
+Skipped=weird weirdest hot hottest
+
+Skipped=weird weirdest large largest
+
+Skipped=weird weirdest long longest
+
+Skipped=weird weirdest low lowest
+
+Skipped=weird weirdest lucky luckiest
+
+Skipped=weird weirdest old oldest
+
+Skipped=weird weirdest quick quickest
+
+Skipped=weird weirdest sharp sharpest
+
+Skipped=weird weirdest simple simplest
+
+Skipped=weird weirdest short shortest
+
+Skipped=weird weirdest slow slowest
+
+Skipped=weird weirdest small smallest
+
+Skipped=weird weirdest smart smartest
+
+Skipped=weird weirdest strange strangest
+
+Skipped=weird weirdest strong strongest
+
+Skipped=weird weirdest sweet sweetest
+
+Skipped=weird weirdest tall tallest
+
+Skipped=weird weirdest tasty tastiest
+
+Skipped=weird weirdest warm warmest
+
+Skipped=weird weirdest weak weakest
+
+Skipped=wide widest tasty tastiest
+
+Skipped=wide widest weird weirdest
+
+Skipped=young youngest tasty tastiest
+
+Skipped=young youngest weird weirdest
+
+Skipped=Albania Albanian Belarus Belorussian
+
+Skipped=Argentina Argentinean Belarus Belorussian
+
+Skipped=Australia Australian Belarus Belorussian
+
+Skipped=Austria Austrian Belarus Belorussian
+
+Skipped=Belarus Belorussian Brazil Brazilian
+
+Skipped=Belarus Belorussian Bulgaria Bulgarian
+
+Skipped=Belarus Belorussian Cambodia Cambodian
+
+Skipped=Belarus Belorussian Chile Chilean
+
+Skipped=Belarus Belorussian China Chinese
+
+Skipped=Belarus Belorussian Colombia Colombian
+
+Skipped=Belarus Belorussian Croatia Croatian
+
+Skipped=Belarus Belorussian Denmark Danish
+
+Skipped=Belarus Belorussian Egypt Egyptian
+
+Skipped=Belarus Belorussian England English
+
+Skipped=Belarus Belorussian France French
+
+Skipped=Belarus Belorussian Germany German
+
+Skipped=Belarus Belorussian Greece Greek
+
+Skipped=Belarus Belorussian Iceland Icelandic
+
+Skipped=Belarus Belorussian India Indian
+
+Skipped=Belarus Belorussian Ireland Irish
+
+Skipped=Belarus Belorussian Israel Israeli
+
+Skipped=Belarus Belorussian Italy Italian
+
+Skipped=Belarus Belorussian Japan Japanese
+
+Skipped=Belarus Belorussian Korea Korean
+
+Skipped=Belarus Belorussian Macedonia Macedonian
+
+Skipped=Belarus Belorussian Malta Maltese
+
+Skipped=Belarus Belorussian Mexico Mexican
+
+Skipped=Belarus Belorussian Moldova Moldovan
+
+Skipped=Belarus Belorussian Netherlands Dutch
+
+Skipped=Belarus Belorussian Norway Norwegian
+
+Skipped=Belarus Belorussian Peru Peruvian
+
+Skipped=Belarus Belorussian Poland Polish
+
+Skipped=Belarus Belorussian Portugal Portuguese
+
+Skipped=Belarus Belorussian Russia Russian
+
+Skipped=Belarus Belorussian Slovakia Slovakian
+
+Skipped=Belarus Belorussian Spain Spanish
+
+Skipped=Belarus Belorussian Sweden Swedish
+
+Skipped=Belarus Belorussian Switzerland Swiss
+
+Skipped=Belarus Belorussian Thailand Thai
+
+Skipped=Belarus Belorussian Ukraine Ukrainian
+
+Skipped=Belarus Belorussian Albania Albanian
+
+Skipped=Belarus Belorussian Argentina Argentinean
+
+Skipped=Belarus Belorussian Australia Australian
+
+Skipped=Bulgaria Bulgarian Belarus Belorussian
+
+Skipped=Cambodia Cambodian Belarus Belorussian
+
+Skipped=Chile Chilean Belarus Belorussian
+
+Skipped=China Chinese Belarus Belorussian
+
+Skipped=Colombia Colombian Belarus Belorussian
+
+Skipped=Croatia Croatian Belarus Belorussian
+
+Skipped=Denmark Danish Belarus Belorussian
+
+Skipped=Egypt Egyptian Belarus Belorussian
+
+Skipped=England English Belarus Belorussian
+
+Skipped=France French Belarus Belorussian
+
+Skipped=Germany German Belarus Belorussian
+
+Skipped=Greece Greek Belarus Belorussian
+
+Skipped=Iceland Icelandic Belarus Belorussian
+
+Skipped=India Indian Belarus Belorussian
+
+Skipped=Ireland Irish Belarus Belorussian
+
+Skipped=Israel Israeli Belarus Belorussian
+
+Skipped=Italy Italian Belarus Belorussian
+
+Skipped=Japan Japanese Belarus Belorussian
+
+Skipped=Korea Korean Belarus Belorussian
+
+Skipped=Macedonia Macedonian Belarus Belorussian
+
+Skipped=Malta Maltese Belarus Belorussian
+
+Skipped=Mexico Mexican Belarus Belorussian
+
+Skipped=Moldova Moldovan Belarus Belorussian
+
+Skipped=Netherlands Dutch Belarus Belorussian
+
+Skipped=Norway Norwegian Belarus Belorussian
+
+Skipped=Peru Peruvian Belarus Belorussian
+
+Skipped=Poland Polish Belarus Belorussian
+
+Skipped=Portugal Portuguese Belarus Belorussian
+
+Skipped=Russia Russian Belarus Belorussian
+
+Skipped=Slovakia Slovakian Belarus Belorussian
+
+Skipped=Spain Spanish Belarus Belorussian
+
+Skipped=Sweden Swedish Belarus Belorussian
+
+Skipped=Switzerland Swiss Belarus Belorussian
+
+Skipped=Thailand Thai Belarus Belorussian
+
+Skipped=Ukraine Ukrainian Belarus Belorussian
+
+Eval analogy file:  gold-data/questions-words.txt
+Questions:  17827
+Skipped:  1717
+
+Eval 6888/17827 accuracy = 38.6%
