@@ -12,15 +12,9 @@ question=['cow%1:05:01::' 'cow%1:05:01::' 'man%1:18:00::' 'men%1:14:00::'], pred
 question=['dog' 'dog%1:18:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['dollar%1:21:01::' 'dollar%1:21:01::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['donkey' 'donkey%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
-<<<<<<< HEAD
-question=['dream%1:09:01::' 'dream%2:36:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:18:05::
-question=['eagle%1:05:00::' 'eagle' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:18:05::
-question=['elephant' 'elephant%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:18:05::
-=======
 question=['dream%1:09:01::' 'dream%2:36:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:18:06::
-question=['eagle%1:05:00::' 'eagle' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
-question=['elephant' 'elephant%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=boy%1:18:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['eagle%1:05:00::' 'eagle' 'man%1:18:00::' 'men%1:14:00::'], predicted=spider
+question=['elephant' 'elephant%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:18:05::
 question=['eye%1:08:00::' 'eye%1:08:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['finger%1:08:00::' 'finger%1:08:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['goat%1:05:00::' 'goat%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
@@ -29,7 +23,7 @@ question=['horse%1:05:00::' 'horse%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], 
 question=['lion%1:05:00::' 'lion%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['machine%1:06:00::' 'machine%1:06:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['mango' 'mango' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
-question=['man%1:18:00::' 'men%1:14:00::' 'build%2:30:10::' 'building%1:06:00::'], predicted=build%2:30:02::
+question=['man%1:18:00::' 'men%1:14:00::' 'build%2:30:10::' 'building%1:06:00::'], predicted=build%2:36:09::
 question=['melon%1:20:00::' 'melon%1:20:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['monkey' 'monkey' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
 question=['mouse%1:05:00::' 'mouse%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
@@ -39,7 +33,7 @@ question=['pig%1:05:00::' 'pig%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], pred
 question=['pineapple%1:13:00::' 'pineapple%1:13:00::' 'man%1:18:00::'
  'men%1:14:00::'], predicted=man%1:15:00::
 question=['rat%1:05:00::' 'rat%1:05:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
-question=['road%1:06:00::' 'roads' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
+question=['road%1:06:00::' 'roads' 'man%1:18:00::' 'men%1:14:00::'], predicted=spider%1:05:00::
 question=['snake%1:18:00::' 'snake%1:18:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::
-question=['woman%1:18:00::' 'woman%1:18:00::' 'build%2:30:10::' 'building%1:06:00::'], predicted=build%2:36:09::
+question=['woman%1:18:00::' 'woman%1:18:00::' 'build%2:30:10::' 'building%1:06:00::'], predicted=build%2:30:02::
 question=['woman%1:18:00::' 'woman%1:18:00::' 'man%1:18:00::' 'men%1:14:00::'], predicted=man%1:15:00::

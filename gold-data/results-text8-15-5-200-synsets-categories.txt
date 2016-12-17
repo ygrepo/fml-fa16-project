@@ -1,0 +1,56 @@
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "word2vec_optimized.py", line 42, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow

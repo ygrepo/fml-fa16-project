@@ -1,724 +1,353 @@
-<<<<<<< HEAD
-question=['athens%1:15:00::' 'greece%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
-=======
-question=['athens%1:15:00::' 'greece%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=lebanon%1:15:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['athens%1:15:00::' 'greece%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=syria%1:15:00::
 question=['athens%1:15:00::' 'greece%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=varig
+ 'thailand%1:15:00::'], predicted=japan%1:06:01::
 question=['athens%1:15:00::' 'greece%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
 question=['athens%1:15:00::' 'greece%1:15:00::' 'bern%1:15:00::'
-<<<<<<< HEAD
- 'switzerland%1:15:00::'], predicted=canton%2:42:00::
+ 'switzerland%1:15:00::'], predicted=alsace%1:15:00::
 question=['athens%1:15:00::' 'greece%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=prokofiev%1:18:00::
+ 'vietnam%1:15:00::'], predicted=indochina
 question=['athens%1:15:00::' 'greece%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=tallinn%1:15:00::
-question=['athens%1:15:00::' 'greece%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=kashmiri%1:10:00::
-question=['athens%1:15:00::' 'greece%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['athens%1:15:00::' 'greece%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=plo%1:14:00::
-question=['athens%1:15:00::' 'greece%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=kodagu
-question=['athens%1:15:00::' 'greece%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
-question=['athens%1:15:00::' 'greece%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['athens%1:15:00::' 'greece%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=izmir
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=unamsil
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=ostmark
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=collor
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=quebec%1:15:00::
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=athens%1:15:02::
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=alsace%1:15:00::
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=kyrgyzstan%1:15:00::
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'madrid%1:15:00::'
- 'spain%1:15:00::'], predicted=portugal%1:15:00::
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=guangxi
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'rome%1:15:00::'
- 'italy%1:15:00::'], predicted=rome
-question=['beijing%1:15:00::' 'china%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=wadden
-question=['beijing%1:15:00::' 'china%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:04:00::'], predicted=japan%1:06:01::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['beijing%1:15:00::' 'china%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=sicily
-question=['beijing%1:15:00::' 'china%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-question=['beijing%1:15:00::' 'china%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=tepe
-question=['beijing%1:15:00::' 'china%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris%1:15:01::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['beijing%1:15:00::' 'china%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=boeotia%1:15:00::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=persia%1:15:00::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=japan%1:06:01::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=aarau
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=spain%1:15:00::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=japan%1:06:01::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=freetown
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=trento%1:15:00::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=japan%1:06:01::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=abbasid
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
-=======
- 'switzerland%1:15:00::'], predicted=alsace%1:15:00::
+ 'finland%1:15:00::'], predicted=helsinki
 question=['athens%1:15:00::' 'greece%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
 question=['athens%1:15:00::' 'greece%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
-question=['athens%1:15:00::' 'greece%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=china%1:06:01::
 question=['athens%1:15:00::' 'greece%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
 question=['athens%1:15:00::' 'greece%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
+question=['athens%1:15:00::' 'greece%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=japan%1:06:01::
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=iran%1:15:00::
+ 'thailand%1:15:00::'], predicted=indonesia%1:15:00::
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=countryside
+ 'switzerland%1:15:00::'], predicted=iraq
+question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=iraq
+question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=ireann
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'islamabad%1:15:00::'
  'pakistan%1:15:00::'], predicted=iran%1:15:00::
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
+question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=guatemala%1:15:00::
+question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=soviet%3:01:00::
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=iraq
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
 question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['baghdad%1:15:00::' 'iraq%1:15:00::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=norway
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
-question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'berlin%1:15:00::'
- 'germany%1:15:00::'], predicted=hungary
+question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'bern%1:15:00::'
+ 'switzerland%1:15:00::'], predicted=saxony%1:15:00::
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'hanoi%1:15:00::'
  'vietnam%1:15:00::'], predicted=lao%1:10:00::
+question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'madrid%1:15:00::'
+ 'spain%1:15:00::'], predicted=portugal
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'oslo%1:15:00::'
- 'norway%1:15:00::'], predicted=israel%1:15:01::
+ 'norway%1:15:00::'], predicted=swaziland%1:15:00::
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=saskatchewan%1:15:00::
+ 'canada%1:15:00::'], predicted=alberta
+question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'paris%1:15:00::'
+ 'france%1:15:00::'], predicted=paris%1:18:00::
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
 question=['bangkok%1:15:00::' 'thailand%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=syria%1:15:00::
+ 'iraq%1:15:00::'], predicted=afghanistan
 question=['beijing%1:15:00::' 'china%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=cortez%1:18:00::
+ 'switzerland%1:15:00::'], predicted=northwest%5:00:01:north:00
 question=['beijing%1:15:00::' 'china%1:15:00::' 'helsinki%1:15:00::'
  'finland%1:15:00::'], predicted=sweden%1:15:00::
 question=['beijing%1:15:00::' 'china%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
-question=['beijing%1:15:00::' 'china%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=japan%1:06:01::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=yemen%1:15:00::
+question=['beijing%1:15:00::' 'china%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=turkey%1:05:00::
 question=['beijing%1:15:00::' 'china%1:15:00::' 'ottawa%1:15:00::'
  'canada%1:15:00::'], predicted=japan%1:06:01::
 question=['beijing%1:15:00::' 'china%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=japan%1:06:01::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
 question=['beijing%1:15:00::' 'china%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=japan%1:06:01::
-question=['beijing%1:15:00::' 'china%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=yemen%1:15:00::
+question=['beijing%1:15:00::' 'china%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=persia%1:15:00::
 question=['beijing%1:15:00::' 'china%1:15:00::' 'bangkok%1:15:00::'
  'thailand%1:15:00::'], predicted=japan%1:06:01::
 question=['berlin%1:15:00::' 'germany%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=belgium%1:15:00::
+ 'switzerland%1:15:00::'], predicted=netherlands%1:15:00::
+question=['berlin%1:15:00::' 'germany%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=europe%1:17:00::
 question=['berlin%1:15:00::' 'germany%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=france%1:15:00::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=pakistan%1:15:00::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=invades
+ 'vietnam%1:15:00::'], predicted=gloire
+question=['berlin%1:15:00::' 'germany%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=mexico%1:15:00::
+question=['berlin%1:15:00::' 'germany%1:15:00::' 'moscow%1:15:00::'
+ 'russia%1:15:02::'], predicted=soviet%3:01:00::
+question=['berlin%1:15:00::' 'germany%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
+question=['berlin%1:15:00::' 'germany%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
 question=['berlin%1:15:00::' 'germany%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=japan%1:06:01::
-question=['berlin%1:15:00::' 'germany%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'thailand%1:15:00::'], predicted=badge%2:35:00::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=thailand%1:15:00::
+ 'vietnam%1:15:00::'], predicted=italy%1:15:00::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=helsinki
+ 'finland%1:15:00::'], predicted=sweden
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'islamabad%1:15:00::'
-<<<<<<< HEAD
- 'pakistan%1:15:00::'], predicted=deir
-=======
- 'pakistan%1:15:00::'], predicted=sweden
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'pakistan%1:15:00::'], predicted=tobago%1:15:00::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'kabul%1:15:00::'
  'afghanistan%1:15:00::'], predicted=kabul
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
-<<<<<<< HEAD
-question=['bern%1:15:00::' 'switzerland%1:15:00::' 'madrid%1:15:00::'
- 'spain%1:15:00::'], predicted=madrid
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'oslo%1:15:00::'
- 'norway%1:15:00::'], predicted=oslo
-=======
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'norway%1:15:00::'], predicted=italy%1:15:00::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=italy%1:15:00::
+ 'canada%1:15:00::'], predicted=sweden
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'paris%1:15:00::'
- 'france%1:15:00::'], predicted=paris
+ 'france%1:15:00::'], predicted=paris%1:15:01::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
-question=['bern%1:15:00::' 'switzerland%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=athens%1:15:02::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=saudi%1:18:00::
+ 'iraq%1:15:00::'], predicted=syria%1:15:00::
 question=['bern%1:15:00::' 'switzerland%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
-<<<<<<< HEAD
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=saigon
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=iran%1:15:00::
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=chile%1:15:00::
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accords
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=kermanshah
-=======
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=aram%1:15:00::
+question=['cairo%1:15:00::' 'egypt%1:15:00::' 'helsinki%1:15:00::'
+ 'finland%1:15:00::'], predicted=latvia%1:15:00::
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['cairo%1:15:00::' 'egypt%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=sumeria
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=satrap%1:18:00::
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=iran%1:15:00::
+question=['cairo%1:15:00::' 'egypt%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=syria%1:15:00::
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'bangkok%1:15:00::'
-<<<<<<< HEAD
- 'thailand%1:15:00::'], predicted=sikkim
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=berlin%1:06:00::
+ 'thailand%1:15:00::'], predicted=irenaeus
 question=['cairo%1:15:00::' 'egypt%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=alamannia
+ 'switzerland%1:15:00::'], predicted=gera
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=whirlwind
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'havana%1:15:00::'
- 'cuba%1:15:01::'], predicted=acapulco
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=tenga
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=ottawa%1:17:00::
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'rome%1:15:00::'
- 'italy%1:15:00::'], predicted=rome
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'tehran%1:15:00::'
- 'iran%1:15:00::'], predicted=tehran
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=megara
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=baghdad
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=elmira
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=helsinki
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=jeddah%1:15:00::
-=======
- 'thailand%1:15:00::'], predicted=persia%1:15:00::
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['cairo%1:15:00::' 'egypt%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=judah%1:18:00::
-question=['canberra%1:15:00::' 'australia%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=minded%5:00:00:oriented:00
+ 'vietnam%1:15:00::'], predicted=reunite%2:41:01::
+question=['canberra%1:15:00::' 'australia%1:15:00::' 'madrid%1:15:00::'
+ 'spain%1:15:00::'], predicted=japan%1:06:01::
+question=['canberra%1:15:00::' 'australia%1:15:00::' 'oslo%1:15:00::'
+ 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'paris%1:15:00::'
  'france%1:15:00::'], predicted=paris
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'tehran%1:15:00::'
  'iran%1:15:00::'], predicted=japan%1:06:01::
+question=['canberra%1:15:00::' 'australia%1:15:00::' 'athens%1:15:00::'
+ 'greece%1:15:00::'], predicted=athens%1:15:01::
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=syria%1:15:00::
+ 'iraq%1:15:00::'], predicted=caliph%1:18:00::
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'bangkok%1:15:00::'
  'thailand%1:15:00::'], predicted=japan%1:06:01::
 question=['canberra%1:15:00::' 'australia%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['canberra%1:15:00::' 'australia%1:15:00::' 'bern%1:15:00::'
+ 'switzerland%1:15:00::'], predicted=england
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
+question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'moscow%1:15:00::'
-<<<<<<< HEAD
- 'russia%1:15:02::'], predicted=vietnamization
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-=======
  'russia%1:15:02::'], predicted=korea%1:15:00::
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=gaza%1:15:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=palestinian%1:18:00::
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=mansfield%1:18:00::
+ 'canada%1:15:00::'], predicted=saskatchewan%1:15:00::
 question=['hanoi%1:15:00::' 'vietnam%1:04:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
-<<<<<<< HEAD
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=proconsul%1:18:00::
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=oslo
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=vietnam
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=tokyo
-=======
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=institute%1:14:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=athens%1:15:01::
+ 'greece%1:15:00::'], predicted=athens
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=vietnam
+ 'thailand%1:15:00::'], predicted=pacific
 question=['hanoi%1:15:00::' 'vietnam%1:04:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'berlin%1:15:00::'
- 'germany%1:15:00::'], predicted=berlin%1:06:00::
 question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'bern%1:15:00::'
-<<<<<<< HEAD
- 'switzerland%1:15:00::'], predicted=canton%1:15:00::
-question=['hanoi%1:15:00::' 'vietnam%1:15:00::' 'canberra%1:15:00::'
- 'australia%1:15:00::'], predicted=digitise%2:30:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=baluchistan
+ 'switzerland%1:15:00::'], predicted=northwest%5:00:01:north:00
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=ussr%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=ussr%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:01::
-=======
- 'switzerland%1:15:00::'], predicted=vietnam
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=afghanistan
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=ussr%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=ussr%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=palestinian%1:18:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=soviet%3:01:00::
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=ottawa%1:17:00::
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-<<<<<<< HEAD
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=baltic%3:01:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=arabia%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=athens%1:15:01::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=arabia%1:15:00::
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=varig
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=gdr
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=bundesland
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=ussr%1:15:00::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=britain%1:15:00::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'madrid%1:15:00::'
- 'spain%1:15:00::'], predicted=argentina
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'moscow%1:15:00::'
- 'russia%1:15:02::'], predicted=belarus%1:15:00::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'rome%1:15:00::'
- 'italy%1:15:00::'], predicted=rome
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=iran%1:15:00::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=anterselva
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=ostmark
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=soviet%3:01:00::
-=======
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=macedonia%1:15:01::
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=afghanistan
+question=['havana%1:15:00::' 'cuba%1:15:01::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=communist%1:18:01::
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['havana%1:15:00::' 'cuba%1:15:01::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=berlin%1:06:00::
 question=['havana%1:15:00::' 'cuba%1:15:01::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=immaterial%3:00:01::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=britain%1:15:00::
+ 'switzerland%1:15:00::'], predicted=okavango
 question=['helsinki%1:15:00::' 'finland%1:15:00::' 'oslo%1:15:00::'
- 'norway%1:15:00::'], predicted=denmark%1:15:00::
+ 'norway%1:15:00::'], predicted=oslo
 question=['helsinki%1:15:00::' 'finland%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=invades
+ 'canada%1:15:00::'], predicted=france%1:15:00::
 question=['helsinki%1:15:00::' 'finland%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=denmark%1:15:00::
-question=['helsinki%1:15:00::' 'finland%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
+question=['helsinki%1:15:00::' 'finland%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=war%1:04:00::
 question=['helsinki%1:15:00::' 'finland%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=denmark%1:15:00::
+ 'switzerland%1:15:00::'], predicted=austria%1:15:00::
 question=['helsinki%1:15:00::' 'finland%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=ally%1:18:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'vietnam%1:15:00::'], predicted=france%1:15:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
+question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'madrid%1:15:00::'
+ 'spain%1:15:00::'], predicted=madrid
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'oslo%1:15:00::'
-<<<<<<< HEAD
- 'norway%1:15:00::'], predicted=accord%1:10:00::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'rome%1:15:00::'
- 'italy%1:15:00::'], predicted=rome%1:14:00::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=afghanistan%1:15:00::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=india%1:15:00::
-=======
  'norway%1:15:00::'], predicted=plo%1:14:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'ottawa%1:15:00::'
  'canada%1:15:00::'], predicted=india%1:15:00::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'paris%1:15:00::'
- 'france%1:15:00::'], predicted=paris%1:18:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'tokyo%1:15:00::'
- 'japan%1:06:00::'], predicted=philippine%1:10:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=afghanistan%1:15:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'iraq%1:15:00::'], predicted=afghanistan
+question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=india%1:15:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'berlin%1:15:00::'
- 'germany%1:15:00::'], predicted=berlin%1:06:00::
 question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'bern%1:15:00::'
-<<<<<<< HEAD
- 'switzerland%1:15:00::'], predicted=canton%1:15:01::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=siam%1:15:00::
-question=['islamabad%1:15:00::' 'pakistan%1:15:00::' 'havana%1:15:00::'
- 'cuba%1:15:01::'], predicted=mexico%1:15:00::
-=======
- 'switzerland%1:15:00::'], predicted=territory%1:15:01::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'switzerland%1:15:00::'], predicted=belgium%1:15:00::
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'madrid%1:15:00::'
- 'spain%1:15:00::'], predicted=portugal%1:15:00::
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'oslo%1:15:00::'
-<<<<<<< HEAD
- 'norway%1:15:00::'], predicted=ceasefire
-=======
- 'norway%1:15:00::'], predicted=egypt%1:15:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'paris%1:15:00::'
  'france%1:15:00::'], predicted=paris
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'rome%1:15:00::'
  'italy%1:15:00::'], predicted=rome
-<<<<<<< HEAD
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=athens
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
 question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=ostmark
-question=['london%1:15:00::' 'england%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=scotland%1:15:00::
-question=['london%1:15:00::' 'england%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=papacy%1:14:00::
-question=['london%1:15:00::' 'england%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=thebe%1:23:00::
-question=['london%1:15:00::' 'england%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=caliph%1:18:00::
-question=['london%1:15:00::' 'england%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
-question=['london%1:15:00::' 'england%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
-question=['london%1:15:00::' 'england%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=touraine
-question=['london%1:15:00::' 'england%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=amangkurat
-question=['london%1:15:00::' 'england%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=kabul
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=spain
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=etna
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=france%1:15:00::
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=tromelin
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=ontario%1:17:00::
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=ostrogoth
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=hanazono
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=athens%1:15:01::
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=sukhothai
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'berlin%1:15:00::'
- 'germany%1:15:00::'], predicted=prussia%1:15:00::
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=weilburg
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=nikolaevna
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=vantaa
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=shah%1:18:00::
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=boeotia%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=astrid
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=havana
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=nepal
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-=======
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'tokyo%1:15:00::'
- 'japan%1:06:00::'], predicted=tokyo
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
-question=['kabul%1:15:00::' 'afghanistan%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=territory%1:09:00::
+ 'switzerland%1:15:00::'], predicted=maybach
+question=['london%1:15:00::' 'england%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'ottawa%1:15:00::'
  'canada%1:15:00::'], predicted=scotland%1:15:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['london%1:15:00::' 'england%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=tokyo
-question=['london%1:15:00::' 'england%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=corinth%1:15:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'baghdad%1:15:00::'
  'iraq%1:15:00::'], predicted=caliph%1:18:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=raiders
+ 'thailand%1:15:00::'], predicted=portugal%1:15:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
+question=['london%1:15:00::' 'england%1:15:00::' 'bern%1:15:00::'
+ 'switzerland%1:15:00::'], predicted=saxony%1:15:00::
+question=['london%1:15:00::' 'england%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=caliph%1:18:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=glorious%3:00:00::
+ 'vietnam%1:15:00::'], predicted=france%1:15:00::
+question=['london%1:15:00::' 'england%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain%1:15:00::
 question=['london%1:15:00::' 'england%1:15:00::' 'helsinki%1:15:00::'
  'finland%1:15:00::'], predicted=sweden%1:15:00::
-question=['london%1:15:00::' 'england%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=court%1:06:04::
+question=['london%1:15:00::' 'england%1:15:00::' 'kabul%1:15:00::'
+ 'afghanistan%1:15:00::'], predicted=kandahar%1:15:00::
 question=['madrid%1:15:00::' 'spain%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=denmark%1:15:00::
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=saskatchewan%1:15:00::
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=netherlands%1:15:00::
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=sweden
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=spain
 question=['madrid%1:15:00::' 'spain%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=syria%1:15:00::
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=switzerland%1:15:00::
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'bern%1:15:00::'
+ 'switzerland%1:15:00::'], predicted=kingdom%1:15:01::
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=france%1:15:00::
+question=['madrid%1:15:00::' 'spain%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain
 question=['madrid%1:15:00::' 'spain%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=sweden%1:15:00::
-question=['madrid%1:15:00::' 'spain%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=islam%1:14:00::
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=denmark%1:15:00::
+ 'finland%1:15:00::'], predicted=sweden
+question=['moscow%1:15:00::' 'russia%1:15:02::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
 question=['moscow%1:15:00::' 'russia%1:15:02::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=mccready
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
+ 'canada%1:15:00::'], predicted=christina
 question=['moscow%1:15:00::' 'russia%1:15:02::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
 question=['moscow%1:15:00::' 'russia%1:15:02::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
 question=['moscow%1:15:00::' 'russia%1:15:02::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=torelli
-question=['moscow%1:15:00::' 'russia%1:15:02::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
+ 'thailand%1:15:00::'], predicted=arabia
 question=['moscow%1:15:00::' 'russia%1:15:02::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=heir%1:18:01::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=olav
+ 'switzerland%1:15:00::'], predicted=duchy%1:15:00::
+question=['moscow%1:15:00::' 'russia%1:15:02::' 'hanoi%1:15:00::'
+ 'vietnam%1:15:00::'], predicted=annexation%1:04:00::
+question=['moscow%1:15:00::' 'russia%1:15:02::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain%1:15:00::
+question=['moscow%1:15:00::' 'russia%1:15:02::' 'kabul%1:15:00::'
+ 'afghanistan%1:15:00::'], predicted=kandahar%1:15:00::
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
 question=['oslo%1:15:00::' 'norway%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=sweden
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'tokyo%1:15:00::' 'japan%1:06:00::'], predicted=tokyo
 question=['oslo%1:15:00::' 'norway%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=megara
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=portugal%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=guangzhou%1:15:00::
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=portugal%1:15:00::
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=guangzhou%1:15:00::
 question=['oslo%1:15:00::' 'norway%1:15:00::' 'bern%1:15:00::'
  'switzerland%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=bissau%1:15:00::
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=norway
+question=['oslo%1:15:00::' 'norway%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=iceland%1:15:01::
 question=['oslo%1:15:00::' 'norway%1:15:00::' 'helsinki%1:15:00::'
  'finland%1:15:00::'], predicted=sweden%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=sweden
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=pakistan%1:15:00::
 question=['oslo%1:15:00::' 'norway%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=portugal%1:15:00::
-question=['oslo%1:15:00::' 'norway%1:15:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=finland%1:15:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'stockholm%1:15:00::'
- 'sweden%1:15:00::'], predicted=canada
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'tehran%1:15:00::' 'iran%1:15:00::'], predicted=canada
-<<<<<<< HEAD
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=canada
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=iran%1:15:00::
-=======
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=australia
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+ 'greece%1:15:00::'], predicted=athens%1:15:01::
+question=['ottawa%1:15:00::' 'canada%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'bangkok%1:15:00::'
  'thailand%1:15:00::'], predicted=canada
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'beijing%1:15:00::'
  'china%1:15:00::'], predicted=beijing
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'bern%1:15:00::'
  'switzerland%1:15:00::'], predicted=canada
+question=['ottawa%1:15:00::' 'canada%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=canada
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'hanoi%1:15:00::'
  'vietnam%1:15:00::'], predicted=canada
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=canada
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'helsinki%1:15:00::'
  'finland%1:15:00::'], predicted=canada
-<<<<<<< HEAD
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=karmal
 question=['ottawa%1:15:00::' 'canada%1:15:00::' 'london%1:15:00::'
  'england%1:15:00::'], predicted=london
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
 question=['paris%1:15:00::' 'france%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['paris%1:15:00::' 'france%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=rezin
-question=['paris%1:15:00::' 'france%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=abbasid
+question=['paris%1:15:00::' 'france%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=syria%1:15:00::
+question=['paris%1:15:00::' 'france%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=portugal%1:15:00::
 question=['paris%1:15:00::' 'france%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
 question=['paris%1:15:00::' 'france%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=lodomeria
-question=['paris%1:15:00::' 'france%1:15:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=spain%1:15:00::
-question=['paris%1:15:00::' 'france%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:04:00::'], predicted=siam%1:15:00::
+ 'switzerland%1:15:00::'], predicted=duchy%1:15:00::
+question=['paris%1:15:00::' 'france%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:04:00::'], predicted=portugal%1:15:00::
+question=['paris%1:15:00::' 'france%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain%1:15:00::
 question=['paris%1:15:00::' 'france%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=tajik%1:18:00::
-question=['paris%1:15:00::' 'france%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=denmark%1:15:00::
-question=['rome%1:15:00::' 'italy%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=italy
-question=['rome%1:15:00::' 'italy%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=iran%1:15:00::
+ 'afghanistan%1:15:00::'], predicted=kandahar%1:15:00::
+question=['paris%1:15:00::' 'france%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=israel
+question=['rome%1:15:00::' 'italy%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=lebanon%1:15:00::
 question=['rome%1:15:00::' 'italy%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=pudong
+ 'thailand%1:15:00::'], predicted=mtv
 question=['rome%1:15:00::' 'italy%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
 question=['rome%1:15:00::' 'italy%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=bundesland
-question=['rome%1:15:00::' 'italy%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=lotte%1:05:00::
-question=['rome%1:15:00::' 'italy%1:15:00::' 'helsinki%1:15:00::'
- 'finland%1:15:00::'], predicted=helsinki
+ 'switzerland%1:15:00::'], predicted=belgium%1:15:00::
+question=['rome%1:15:00::' 'italy%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=dzhokhar
 question=['rome%1:15:00::' 'italy%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['rome%1:15:00::' 'italy%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
 question=['rome%1:15:00::' 'italy%1:15:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=finland%1:15:00::
 question=['rome%1:15:00::' 'italy%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=oslo
-question=['rome%1:15:00::' 'italy%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=albin
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'athens%1:15:00::'
- 'greece%1:15:00::'], predicted=thebe%1:23:00::
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=almohad
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=inglewood
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=lodomeria
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=zapu
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'havana%1:15:00::'
- 'cuba%1:15:01::'], predicted=havana
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'kabul%1:15:00::'
- 'afghanistan%1:15:00::'], predicted=kabul
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=england%1:15:00::
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'rome%1:15:00::'
- 'italy%1:15:00::'], predicted=papacy%1:14:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=epirus
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=assam
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=gdr
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=canton%1:15:01::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=saigon
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=hispaniola%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=belarus%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=syria%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=guangxi
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=egypt%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome%1:14:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=athens%1:15:01::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=kuwait%1:15:01::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=qingdao
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=hainan
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=berlin%1:06:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=border%2:35:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=country%1:14:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=chinguetti
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=nepal%1:15:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
-=======
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'islamabad%1:15:00::'
- 'pakistan%1:15:00::'], predicted=canada
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'london%1:15:00::'
- 'england%1:15:00::'], predicted=london
-question=['ottawa%1:15:00::' 'canada%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=canada
-question=['paris%1:15:00::' 'france%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
-question=['paris%1:15:00::' 'france%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['paris%1:15:00::' 'france%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=denmark%1:15:00::
-question=['paris%1:15:00::' 'france%1:15:00::' 'havana%1:15:00::' 'cuba%1:15:01::'], predicted=spain%1:15:00::
-question=['paris%1:15:00::' 'france%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=denmark%1:15:00::
-question=['rome%1:15:00::' 'italy%1:15:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=lebanon%1:15:00::
-question=['rome%1:15:00::' 'italy%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['rome%1:15:00::' 'italy%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['rome%1:15:00::' 'italy%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=denmark%1:15:00::
 question=['rome%1:15:00::' 'italy%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=paris
+question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'tehran%1:15:00::'
+ 'iran%1:15:00::'], predicted=mecklenburg
 question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'baghdad%1:15:00::'
- 'iraq%1:15:00::'], predicted=hungary
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'beijing%1:15:00::'
- 'china%1:15:00::'], predicted=beijing
+ 'iraq%1:15:00::'], predicted=syria%1:15:00::
+question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=melito
 question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'bern%1:15:00::'
  'switzerland%1:15:00::'], predicted=prussia%1:15:00::
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'cairo%1:15:00::'
- 'egypt%1:15:00::'], predicted=hungary
 question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'hanoi%1:15:00::'
- 'vietnam%1:15:00::'], predicted=hungary
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'havana%1:15:00::'
- 'cuba%1:15:01::'], predicted=havana
+ 'vietnam%1:15:00::'], predicted=france%1:15:00::
 question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'moscow%1:15:00::'
  'russia%1:15:02::'], predicted=finland%1:15:00::
-question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'oslo%1:15:00::'
- 'norway%1:15:00::'], predicted=denmark%1:15:00::
 question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'ottawa%1:15:00::'
- 'canada%1:15:00::'], predicted=hungary
+ 'canada%1:15:00::'], predicted=scotland%1:15:00::
+question=['stockholm%1:15:00::' 'sweden%1:15:00::' 'rome%1:15:00::'
+ 'italy%1:15:00::'], predicted=roman%1:18:00::
+question=['tehran%1:15:00::' 'iran%1:15:00::' 'bangkok%1:15:00::'
+ 'thailand%1:15:00::'], predicted=indonesia%1:15:00::
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'berlin%1:15:00::' 'germany%1:15:00::'], predicted=afghanistan%1:15:00::
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=walloon%1:18:00::
+ 'switzerland%1:15:00::'], predicted=tigris%1:17:00::
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=iraq%1:15:00::
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
 question=['tehran%1:15:00::' 'iran%1:15:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=afghanistan%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=egypt%1:15:00::
-question=['tehran%1:15:00::' 'iran%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=iraq%1:15:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'baghdad%1:15:00::' 'iraq%1:15:00::'], predicted=damascus%1:15:00::
+question=['tehran%1:15:00::' 'iran%1:15:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=iraq%1:15:00::
+question=['tehran%1:15:00::' 'iran%1:15:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=afghanistan%1:15:00::
+question=['tehran%1:15:00::' 'iran%1:15:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=egypt%1:15:00::
+question=['tehran%1:15:00::' 'iran%1:15:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'athens%1:15:00::' 'greece%1:15:00::'], predicted=athenian%1:18:00::
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'bangkok%1:15:00::'
- 'thailand%1:15:00::'], predicted=corruption%1:04:01::
+ 'thailand%1:15:00::'], predicted=fifa
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'beijing%1:15:00::' 'china%1:15:00::'], predicted=beijing
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'bern%1:15:00::'
- 'switzerland%1:15:00::'], predicted=metaphorically%4:02:00::
+ 'switzerland%1:15:00::'], predicted=legally%4:02:03::
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'cairo%1:15:00::' 'egypt%1:15:00::'], predicted=libya%1:15:00::
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'hanoi%1:15:00::' 'vietnam%1:15:00::'], predicted=buyoya
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'islamabad%1:15:00::'
  'pakistan%1:15:00::'], predicted=contained%5:00:00:controlled:00
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'london%1:15:00::' 'england%1:15:00::'], predicted=london
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=madrid
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'madrid%1:15:00::' 'spain%1:15:00::'], predicted=portugal
 question=['tokyo%1:15:00::' 'japan%1:06:00::' 'moscow%1:15:00::' 'russia%1:15:02::'], predicted=soviet%3:01:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=israel%1:15:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=disproportionate%3:00:00::
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'paris%1:15:00::' 'france%1:15:00::'], predicted=staple%1:06:02::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
-question=['tokyo%1:15:00::' 'japan%1:06:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'oslo%1:15:00::' 'norway%1:15:00::'], predicted=accord%1:10:00::
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'ottawa%1:15:00::' 'canada%1:15:00::'], predicted=buyoya
+question=['tokyo%1:15:00::' 'japan%1:06:00::' 'rome%1:15:00::' 'italy%1:15:00::'], predicted=rome%1:14:00::

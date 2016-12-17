@@ -1,46 +1,25 @@
-<<<<<<< HEAD
-question=['certain%3:00:01::' 'uncertain%3:00:01::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=unaware%3:00:00::
-question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=unaware%3:00:00::
-question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
- 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=unpleasant%3:00:00::
-=======
-question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=unaware%3:00:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=unknown%3:00:00::
 question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
  'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=unlikely%3:00:04::
-question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
- 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=inefficient%5:00:00:incompetent:00
-<<<<<<< HEAD
-question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'likely%3:00:04::'
- 'unlikely%3:00:00::'], predicted=unlikely%3:00:04::
-question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
- 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=unlikely%3:00:04::
-question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'likely%3:00:04::'
- 'unlikely%3:00:00::'], predicted=unlikely%3:00:04::
-question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=unaware%3:00:00::
-question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
- 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=unpleasant%3:00:00::
-question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'acceptable%3:00:00::'
- 'unacceptable'], predicted=unacceptable%5:00:00:unsatisfactory:00
-question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'possible%3:00:00::'
- 'impossible%3:00:00::'], predicted=impossible%3:00:00::
-question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'consistent%3:00:01::'
- 'inconsistent%5:00:00:irreconcilable:00'], predicted=inconsistent%5:00:00:irreconcilable:00
-question=['likely%3:00:04::' 'unlikely%3:00:00::' 'possible%3:00:00::'
- 'impossible%5:00:00:unthinkable:00'], predicted=impossible%3:00:00::
-question=['possible%3:00:00::' 'impossible%3:00:00::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=unaware%3:00:00::
-question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
- 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=inefficient%3:00:00::
-question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
- 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=unpleasant%3:00:00::
-=======
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=unproductive%3:00:00::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=impossible%3:00:00::
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=unaware%3:00:00::
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=unaware%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=unaware%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=unfortunate%3:00:04::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=unaware%3:00:00::
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['possible%3:00:00::' 'impossible%5:00:00:unthinkable:00'
+ 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=unlikely%3:00:00::
+question=['rational' 'irrational' 'acceptable%3:00:00::' 'unacceptable'], predicted=unacceptable%5:00:00:nonstandard:03
+question=['rational' 'irrational' 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=unaware%3:00:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=inefficient%3:00:00::
+question=['sure%3:00:00::' 'unsure' 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=unaware%3:00:00::

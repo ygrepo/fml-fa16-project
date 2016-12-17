@@ -112,7 +112,7 @@ def save_tuples_to_file(output_f, tuples):
             token = ' %s,,%s' % (lemma, tag)
             f.write(' ' + token)
             i += 1
-            print("Processing i=%d,total=%d" % (i, total))
+            #print("Processing i=%d,total=%d" % (i, total))
 
 def save_list_list_to_text_file(output_f, tuples):
     total = len(tuples)

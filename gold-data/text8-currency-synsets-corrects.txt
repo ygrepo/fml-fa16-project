@@ -1,50 +1,16 @@
-<<<<<<< HEAD
-question=['algeria%1:15:00::' 'dinar%1:23:00::' 'denmark%1:15:00::'
- 'krone%1:23:01::'], predicted=krone%1:23:01::
-question=['angola%1:15:00::' 'kwanza%1:23:00::' 'denmark%1:15:00::'
- 'krone%1:23:01::'], predicted=krone%1:23:01::
-question=['angola%1:15:00::' 'kwanza%1:23:00::' 'vietnam%1:15:00::' 'dong%1:23:00::'], predicted=dong%1:23:00::
-question=['armenia%1:15:00::' 'dram%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=krone%1:23:01::
-question=['canada%1:15:00::' 'dollar%1:21:01::' 'europe%1:14:01::' 'euro%1:23:00::'], predicted=euro%1:23:00::
-question=['canada%1:15:00::' 'dollar%1:21:01::' 'hungary%1:15:00::'
- 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['canada%1:15:00::' 'dollar%1:21:01::' 'algeria%1:15:00::'
- 'dinar%1:23:00::'], predicted=dinar%1:23:05::
-question=['croatia%1:15:00::' 'kuna' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=krone
-question=['croatia%1:15:00::' 'kuna' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['denmark%1:15:00::' 'krone%1:23:01::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
-question=['europe%1:14:01::' 'euro%1:23:00::' 'lithuania%1:15:00::'
+question=['bulgaria%1:15:00::' 'lev%1:23:00::' 'latvia%1:15:00::' 'lat%1:08:00::'], predicted=lat%1:08:00::
+question=['canada%1:15:00::' 'dollar%1:21:01::' 'lithuania%1:15:00::'
  'litas%1:23:00::'], predicted=litas%1:23:00::
-question=['europe%1:14:01::' 'euro%1:23:00::' 'malaysia%1:15:00::'
- 'ringgit%1:23:00::'], predicted=ringgit%1:23:00::
-question=['europe%1:14:01::' 'euro%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=krone%1:23:01::
-question=['japan%1:06:00::' 'yen%1:23:00::' 'lithuania%1:15:00::' 'litas%1:23:00::'], predicted=litas%1:23:00::
-question=['latvia%1:15:00::' 'lat%1:08:00::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['lithuania%1:15:00::' 'litas%1:23:00::' 'romania%1:15:00::'
- 'leu%1:23:00::'], predicted=leu
-question=['lithuania%1:15:00::' 'litas%1:23:00::' 'denmark%1:15:00::'
- 'krone%1:23:01::'], predicted=krone%1:23:01::
-question=['lithuania%1:15:00::' 'litas%1:23:00::' 'hungary%1:15:00::'
- 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['malaysia%1:15:00::' 'ringgit%1:23:00::' 'hungary%1:15:00::'
- 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['poland%1:15:00::' 'zloty%1:23:00::' 'hungary%1:15:00::'
- 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['russia%1:15:02::' 'ruble%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=dinar%1:23:05::
-question=['russia%1:15:02::' 'ruble%1:23:00::' 'denmark%1:15:00::' 'krone%1:23:01::'], predicted=krone%1:23:01::
+question=['croatia%1:15:00::' 'kuna' 'japan%1:06:00::' 'yen%1:23:00::'], predicted=yen%1:23:00::
+question=['croatia%1:15:00::' 'kuna' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
+question=['europe%1:14:01::' 'euro%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=dollar%1:23:00::
+question=['latvia%1:15:00::' 'lat%1:08:00::' 'bulgaria%1:15:00::' 'lev%1:23:00::'], predicted=lev%1:23:00::
+question=['lithuania%1:15:00::' 'litas%1:23:00::' 'angola%1:15:00::'
+ 'kwanza%1:23:00::'], predicted=kwanza
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=litas%1:23:00::
 question=['russia%1:15:02::' 'ruble%1:23:00::' 'hungary%1:15:00::'
  'forint%1:23:00::'], predicted=forint%1:23:00::
 question=['russia%1:15:02::' 'ruble%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
 question=['usa%1:15:00::' 'dollar%1:21:01::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=forint%1:23:00::
-question=['vietnam%1:15:00::' 'dong%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=kwanza
-=======
-question=['algeria%1:15:00::' 'dinar%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
-question=['europe%1:14:01::' 'euro%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=dollar%1:23:00::
-question=['japan%1:06:00::' 'yen%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=dinar%1:23:05::
-question=['poland%1:15:00::' 'zloty%1:23:00::' 'lithuania%1:15:00::'
- 'litas%1:23:00::'], predicted=litas%1:23:00::
-question=['poland%1:15:00::' 'zloty%1:23:00::' 'malaysia%1:15:00::'
- 'ringgit%1:23:00::'], predicted=ringgit%1:23:00::
-question=['russia%1:15:02::' 'ruble%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
-question=['russia%1:15:02::' 'ruble%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
->>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['vietnam%1:15:00::' 'dong%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=kwanza%1:23:00::
