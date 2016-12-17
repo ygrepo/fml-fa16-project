@@ -670,7 +670,7 @@ class SynsetStreamGenerator():
             words = read_stream_file(self.infile)
         print("Initial words")
         print(words[:20])
-        words = words[:20]
+        #words = words[:20]
         tuples = self.wnutils.generate_lemma_pos_with_win(words)
         save_to_text_file(self.outfile, tuples)
 
