@@ -5,7 +5,7 @@ declare -a arr=("capital-common-countries" "capital-world" "currency" "city" "fa
             "gram5-present-participle" "gram6-nationality-adj" "gram7-past-tense" "gram8-plural" "gram9-plural-verbs")
 
 
-EPOCH="150"
+EPOCH="300"
 MINCUT=5
 EMBSIZE=200
 TRAINFILE=data/2016-12-07-text8-synsets.txt

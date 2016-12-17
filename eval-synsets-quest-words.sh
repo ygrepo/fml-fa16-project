@@ -1,7 +1,7 @@
 
 EPOCH="150"
-MINCUT=1
-EMBSIZE=500
+MINCUT=2
+EMBSIZE=200
 OUTPUTDIR=gold-data
 TRAINFILE=data/2016-12-07-text8-synsets.txt
 EVALFILE=gold-data/questions-words-synsets.txt

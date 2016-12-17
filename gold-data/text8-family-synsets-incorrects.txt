@@ -1,12 +1,10 @@
 question=['boy%1:18:00::' 'girl%1:18:02::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['boy%1:18:00::' 'girl%1:18:02::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:01::
-question=['boy%1:18:00::' 'girl%1:18:02::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=yuppie%1:18:00::
-question=['boy%1:18:00::' 'girl%1:18:02::' 'grandfather%1:18:00::'
- 'grandmother%1:18:00::'], predicted=mother%1:18:01::
-question=['boy%1:18:00::' 'girl%1:18:02::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=bob
+question=['boy%1:18:00::' 'girl%1:18:02::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=sheet%1:06:04::
+question=['boy%1:18:00::' 'girl%1:18:02::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=lumberjack%1:18:00::
 question=['boy%1:18:00::' 'girl%1:18:02::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=son%1:18:01::
-question=['boy%1:18:00::' 'girl%1:18:02::' 'groom' 'bride%1:18:00::'], predicted=rio
+question=['boy%1:18:00::' 'girl%1:18:02::' 'groom' 'bride%1:18:00::'], predicted=court%2:41:10::
 question=['boy%1:18:03::' 'girl' 'his' 'her'], predicted=s
 question=['boy' 'girl%1:18:02::' 'king%1:18:00::' 'queen%1:18:01::'], predicted=king%1:18:03::
 question=['boy%1:18:00::' 'girl%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
@@ -14,79 +12,93 @@ question=['boy%1:18:00::' 'girl%1:18:02::' 'nephew' 'niece%1:18:00::'], predicte
 question=['boy%1:18:00::' 'girl%1:18:02::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['boy%1:18:00::' 'girl%1:18:02::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['boy%1:18:00::' 'girl%1:18:02::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=gambler%1:18:00::
-question=['boy%1:18:00::' 'girl%1:18:02::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=husband%1:18:00::
+ 'stepmother%1:18:00::'], predicted=elin
 question=['brother%1:18:00::' 'sister%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=sister
-question=['brother%1:18:00::' 'sister%1:18:00::' 'grandfather%1:18:00::'
- 'grandmother%1:18:00::'], predicted=mother%1:18:01::
 question=['brother%1:18:00::' 'sister%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=chromatid%1:08:00::
+ 'grandma%1:18:00::'], predicted=nurse
 question=['brother%1:18:00::' 'sister%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['brother%1:18:00::' 'sister%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=kmd
-question=['brother%1:18:00::' 'sister%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=mother%1:18:01::
+question=['brother%1:18:00::' 'sister%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=cherish%2:37:00::
+question=['brother%1:18:00::' 'sister%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
+question=['brother%1:18:00::' 'sister%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=sister
 question=['brother%1:18:00::' 'sister%1:18:00::' 'stepfather%1:18:00::'
  'stepmother%1:18:00::'], predicted=sister
 question=['brother%1:18:00::' 'sister%1:18:00::' 'stepson%1:18:00::'
  'stepdaughter%1:18:00::'], predicted=sister
-question=['brother%1:18:00::' 'sister%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=mother%1:18:01::
 question=['brother%1:18:00::' 'sister%1:18:00::' 'dad' 'mom%1:18:00::'], predicted=statistics
 question=['brother%1:18:00::' 'sister%1:18:00::' 'father%2:29:00::'
- 'mother%1:18:01::'], predicted=sister
+ 'mother%1:18:01::'], predicted=daughter%1:18:00::
 question=['brother%1:18:00::' 'sister%1:18:00::' 'grandfather'
  'grandmother%1:18:00::'], predicted=sister
-question=['brother%1:18:00::' 'sister%1:18:00::' 'groom%2:29:00::' 'bride%1:18:00::'], predicted=grip
+question=['brother%1:18:00::' 'sister%1:18:00::' 'groom%2:29:00::' 'bride%1:18:00::'], predicted=hole%2:35:01::
 question=['brother%1:18:00::' 'sister%1:18:00::' 'husband%2:40:00::'
- 'wife%1:18:00::'], predicted=anne%1:18:00::
-question=['brother%1:18:00::' 'sister%1:18:00::' 'nephew' 'niece'], predicted=mother%1:18:01::
+ 'wife%1:18:00::'], predicted=sister
+question=['brother%1:18:00::' 'sister%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
+question=['brother%1:18:00::' 'sister%1:18:00::' 'nephew' 'niece'], predicted=sister
 question=['brother%1:18:00::' 'sister%1:18:00::' 'son' 'daughter%1:18:00::'], predicted=sister
-question=['brother%1:18:00::' 'sister%1:18:00::' 'uncle' 'aunt%1:18:00::'], predicted=agnes
-question=['dad%1:18:00::' 'mom%1:18:00::' 'father%1:18:00::' 'mother%1:18:01::'], predicted=father%1:18:05::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=breakfast%1:13:00::
+question=['brother%1:18:00::' 'sister%1:18:00::' 'uncle' 'aunt%1:18:00::'], predicted=henrietta
+question=['dad%1:18:00::' 'mom%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=filk
 question=['dad%1:18:00::' 'mom%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=son%1:18:01::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=fountain%1:06:01::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'he' 'she'], predicted=they
-question=['dad%1:18:00::' 'mom%1:18:00::' 'his' 'her'], predicted=s%1:10:00::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=eyre%1:17:00::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'he' 'she'], predicted=at
+question=['dad%1:18:00::' 'mom%1:18:00::' 'his' 'her'], predicted=their
 question=['dad' 'mom%1:18:00::' 'king%1:18:00::' 'queen%1:18:01::'], predicted=king%1:06:01::
 question=['dad%1:18:00::' 'mom%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=quarrel%1:06:00::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=king%1:06:01::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=murder%2:41:00::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=duke%1:18:00::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
 question=['dad%1:18:00::' 'mom%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=tarquin%1:18:00::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=vanya
+ 'stepmother%1:18:00::'], predicted=miller%1:18:01::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'stepson%1:18:00::'
+ 'stepdaughter%1:18:00::'], predicted=suppliant%1:18:00::
+question=['dad%1:18:00::' 'mom%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=quarrel%1:06:00::
 question=['dad%1:18:00::' 'mom%1:18:00::' 'boy%1:18:00::' 'girl%1:18:02::'], predicted=boy
-question=['dad%1:18:00::' 'mom%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=murder%2:41:00::
-question=['dad%1:18:00::' 'mom%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=murder%2:41:00::
-question=['father' 'mother%1:18:01::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=norah
-question=['father' 'mother%1:18:01::' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['father' 'mother%1:18:01::' 'groom' 'bride%1:18:02::'], predicted=ilium%1:08:00::
-question=['father' 'mother%1:18:01::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
+question=['father' 'mother%1:18:01::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=sister%1:18:00::
+question=['father' 'mother%1:18:01::' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=son%1:18:01::
+question=['father' 'mother%1:18:01::' 'groom' 'bride%1:18:02::'], predicted=carter%1:18:01::
+question=['father%1:18:00::' 'mother%1:18:01::' 'his' 'her'], predicted=s%1:10:00::
+question=['father' 'mother%1:18:01::' 'king' 'queen%1:18:01::'], predicted=king%1:18:00::
 question=['father%1:18:00::' 'mother%1:18:02::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['father' 'mother%1:18:01::' 'nephew' 'niece%1:18:00::'], predicted=daughter%1:18:00::
-question=['father' 'mother%1:18:01::' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=wife%1:18:00::
+question=['father' 'mother%1:18:01::' 'nephew' 'niece%1:18:00::'], predicted=son%1:18:01::
+question=['father' 'mother%1:18:01::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
+question=['father' 'mother%1:18:01::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
+question=['father' 'mother%1:18:01::' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=brother%1:18:03::
 question=['father' 'mother%1:18:01::' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['father' 'mother%1:18:01::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=wife%1:18:00::
-question=['father%1:18:00::' 'mother%1:18:01::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=daughter%1:18:00::
+question=['father' 'mother%1:18:01::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=brother%1:18:03::
+question=['father' 'mother%1:18:01::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:03::
+question=['father' 'mother%1:18:01::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:03::
+question=['father%1:18:00::' 'mother%1:18:01::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=sibling%1:18:00::
 question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=nurse
+ 'grandma%1:18:00::'], predicted=briefing%1:10:00::
 question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'grandson%1:18:00::'
- 'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=foxtel
-question=['grandfather' 'grandmother%1:18:00::' 'he' 'she'], predicted=him
-question=['grandfather' 'grandmother%1:18:00::' 'king%1:18:00::' 'queen%1:18:01::'], predicted=son%1:18:00::
+ 'granddaughter%1:18:00::'], predicted=son%1:18:00::
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=arachne
+question=['grandfather' 'grandmother%1:18:00::' 'king%1:18:00::' 'queen%1:18:01::'], predicted=king%1:18:03::
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'man%1:18:00::'
+ 'woman%1:18:00::'], predicted=man%1:15:00::
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'son%1:18:00::'
+ 'daughter%1:18:00::'], predicted=wife%1:18:00::
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'son%1:18:00::'
+ 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'stepfather%1:18:00::'
  'stepmother%1:18:00::'], predicted=dryope
 question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=husband%1:18:00::
+ 'stepdaughter%1:18:00::'], predicted=agrippina
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'boy%1:18:00::'
+ 'girl%1:18:02::'], predicted=boy
+question=['grandfather%1:18:00::' 'grandmother%1:18:00::' 'dad%1:18:00::'
+ 'mom%1:18:00::'], predicted=dahmer
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=son%1:18:01::
-question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=shearer
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=unaired%5:00:00:unventilated:00
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'he' 'she'], predicted=his
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'husband%1:18:00::'
+ 'wife%1:18:00::'], predicted=marry%2:41:00::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=son%1:18:00::
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=son%1:18:01::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'prince%1:18:00::'
  'princess%1:18:00::'], predicted=ruler%1:18:00::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'son%1:18:00::'
@@ -96,222 +108,216 @@ question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'son%1:18:00::'
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'stepfather%1:18:00::'
  'stepmother%1:18:00::'], predicted=agnarr
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=sedova
-question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=grandfather%1:18:00::
-question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'boy%1:18:00::' 'girl%1:18:02::'], predicted=boy
+ 'stepdaughter%1:18:00::'], predicted=iulius
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=son%1:18:00::
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'boy%1:18:00::' 'girl%1:18:02::'], predicted=boy%1:18:03::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
-question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=tawhid
+question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=stranglehold%1:04:00::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'father%1:18:00::'
  'mother%1:18:01::'], predicted=son%1:18:00::
 question=['grandpa%1:18:00::' 'grandma%1:18:00::' 'grandfather%1:18:00::'
  'grandmother%1:18:00::'], predicted=grandson%1:18:00::
 question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=decontaminate%2:30:00::
 question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
-question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=highness%1:18:00::
-question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'son%1:18:00::'
- 'daughter%1:18:00::'], predicted=wife%1:18:00::
-question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'son%1:18:00::'
- 'daughter%1:18:00::'], predicted=wife%1:18:00::
+question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=forgiveness%1:04:00::
 question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=sulla%1:18:00::
+ 'stepmother%1:18:00::'], predicted=strat
+question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'stepson%1:18:00::'
+ 'stepdaughter%1:18:00::'], predicted=gish%1:18:00::
+question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'uncle%1:18:00::'
+ 'aunt%1:18:00::'], predicted=niece%1:18:00::
 question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'boy%1:18:00::'
  'girl%1:18:02::'], predicted=boy
-question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'father%1:18:00::'
- 'mother%1:18:01::'], predicted=father%1:18:04::
 question=['grandson%1:18:00::' 'granddaughter%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=jimi
+ 'grandma%1:18:00::'], predicted=professionally%4:02:00::
 question=['groom%1:18:02::' 'bride' 'his' 'her'], predicted=s
 question=['groom' 'bride' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
-question=['groom' 'bride%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=heir%1:18:00::
-question=['groom' 'bride%1:18:00::' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=heir%1:18:00::
+question=['groom' 'bride%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=brother%1:18:00::
+question=['groom' 'bride%1:18:00::' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=brother%1:18:00::
 question=['groom' 'bride' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
 question=['groom' 'bride%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['groom' 'bride' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=heir%1:18:00::
-question=['groom' 'bride%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=father%1:18:00::
+question=['groom' 'bride%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=brother%1:18:00::
+question=['groom' 'bride%1:18:00::' 'boy%1:18:00::' 'girl%1:18:02::'], predicted=brother%1:18:00::
 question=['groom' 'bride' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['groom' 'bride%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=brother%1:18:01::
-question=['groom' 'bride%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=father%1:18:00::
+question=['groom' 'bride' 'father%1:18:00::' 'mother%1:18:01::'], predicted=son%1:18:00::
 question=['groom' 'bride' 'grandfather%1:18:00::' 'grandmother%1:18:00::'], predicted=grandson%1:18:00::
-question=['groom' 'bride%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=columb
+question=['groom' 'bride%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=deirdre
 question=['groom' 'bride' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=son%1:18:01::
-question=['he' 'she' 'husband%2:40:00::' 'wife%1:18:00::'], predicted=anne%1:18:00::
+question=['he' 'she' 'husband%2:40:00::' 'wife%1:18:00::'], predicted=shelley
 question=['he' 'she' 'king' 'queen'], predicted=king%1:06:01::
-question=['he' 'she' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:18:05::
-question=['he' 'she' 'nephew' 'niece'], predicted=cousin%1:18:00::
-question=['he' 'she' 'uncle' 'aunt%1:18:00::'], predicted=scrooge
+question=['he' 'she' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
+question=['he' 'she' 'nephew' 'niece'], predicted=husband%1:18:00::
+question=['he' 'she' 'uncle' 'aunt%1:18:00::'], predicted=hortense
 question=['he' 'she' 'boy' 'girl%1:18:02::'], predicted=boy%1:18:00::
-question=['he' 'she' 'brothers' 'sister%1:18:00::'], predicted=girl%1:18:02::
-question=['he' 'she' 'dad' 'mom%1:18:00::'], predicted=rear%2:36:00::
+question=['he' 'she' 'brothers' 'sister%1:18:00::'], predicted=brother%1:18:00::
+question=['he' 'she' 'dad' 'mom%1:18:00::'], predicted=girl
 question=['he' 'she' 'father%2:29:00::' 'mother%1:18:01::'], predicted=daughter%1:18:00::
-question=['he' 'she' 'grandfather' 'grandmother%1:18:00::'], predicted=catherine%1:18:01::
-question=['he' 'she' 'groom%2:29:00::' 'bride%1:18:00::'], predicted=tenor%1:09:01::
-question=['his' 'her' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['his' 'her' 'nephew%1:18:00::' 'niece%1:18:00::'], predicted=wife%1:18:00::
-question=['his' 'her' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=husband%1:18:00::
+question=['he' 'she' 'grandfather' 'grandmother%1:18:00::'], predicted=geologist
+question=['he' 'she' 'groom%2:29:00::' 'bride%1:18:00::'], predicted=temper
+question=['his' 'her' 'king%1:18:00::' 'queen%1:18:01::'], predicted=king%1:18:03::
+question=['his' 'her' 'nephew%1:18:00::' 'niece%1:18:00::'], predicted=daughter%1:18:00::
+question=['his' 'her' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
+question=['his' 'her' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
+question=['his' 'her' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=mary%1:18:00::
 question=['his' 'her' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=husband%1:18:00::
 question=['his' 'her' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=husband%1:18:00::
 question=['his' 'her' 'boy%1:18:03::' 'girl%1:18:02::'], predicted=boy%1:18:00::
-question=['his' 'her' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=sister%1:18:00::
-question=['his' 'her' 'grandfather%1:18:00::' 'grandmother%1:18:00::'], predicted=mother%1:18:01::
-question=['his' 'her' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=roni
+question=['his' 'her' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=husband%1:18:00::
+question=['his' 'her' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=deirdre
 question=['his' 'her' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
 question=['his' 'her' 'groom%1:18:02::' 'bride%1:18:01::'], predicted=decontaminate%2:30:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'king' 'queen'], predicted=king%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:18:05::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=son%1:18:00::
+question=['husband%1:18:00::' 'wife%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=grandfather%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'prince%1:18:00::'
- 'princess%1:18:00::'], predicted=son%1:18:00::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=son%1:18:01::
+ 'princess%1:18:00::'], predicted=frederick%1:15:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=son%1:18:00::
+ 'stepmother%1:18:00::'], predicted=cousin%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=son%1:18:00::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=grandfather%1:18:00::
+ 'stepdaughter%1:18:00::'], predicted=daughter%1:18:00::
+question=['husband%1:18:00::' 'wife%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=son%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'boy' 'girl%1:18:02::'], predicted=boy%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=suh
+question=['husband%1:18:00::' 'wife%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=hadji%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'father%1:18:00::' 'mother%1:18:01::'], predicted=son%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'grandfather%1:18:00::'
  'grandmother%1:18:00::'], predicted=grandson%1:18:00::
 question=['husband%1:18:00::' 'wife%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=daniel%1:18:00::
+ 'grandma%1:18:00::'], predicted=floyd
 question=['husband%1:18:00::' 'wife%1:18:00::' 'grandson%1:18:00::'
- 'granddaughter%1:18:00::'], predicted=son%1:18:00::
-question=['husband%1:18:00::' 'wife%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=bessie
+ 'granddaughter%1:18:00::'], predicted=son%1:18:01::
+question=['husband%1:18:00::' 'wife%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=guerra
 question=['husband%1:18:00::' 'wife%1:18:00::' 'he' 'she'], predicted=him
-question=['husband%1:18:00::' 'wife%1:18:00::' 'his' 'her'], predicted=him
+question=['husband%1:18:00::' 'wife%1:18:00::' 'his' 'her'], predicted=he
 question=['king' 'queen' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
 question=['king' 'queen' 'nephew' 'niece%1:18:00::'], predicted=elizabeth
+question=['king' 'queen' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=elizabeth
 question=['king' 'queen' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=mother%1:18:01::
 question=['king' 'queen' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=mother%1:18:01::
-question=['king' 'queen' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=queen%1:18:00::
-question=['king' 'queen' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=elizabeth
+question=['king' 'queen' 'stepfather%1:18:00::' 'stepmother%1:18:00::'], predicted=niece
+question=['king' 'queen' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=victoriae
+question=['king' 'queen' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=grandmother%1:18:00::
 question=['king' 'queen' 'boy%1:18:00::' 'girl%1:18:02::'], predicted=boy
-question=['king' 'queen' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=norah
-question=['king' 'queen' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=norah
+question=['king' 'queen' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=elizabeth
+question=['king' 'queen' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=carrie
 question=['king' 'queen' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=elizabeth
 question=['king' 'queen' 'groom' 'bride%1:18:00::'], predicted=cherish%2:37:00::
 question=['king' 'queen' 'husband%1:18:00::' 'wife%1:18:00::'], predicted=elizabeth
-question=['man%1:18:00::' 'woman%1:18:00::' 'nephew' 'niece'], predicted=daughter%1:18:00::
+question=['man%1:18:00::' 'woman%1:18:00::' 'nephew' 'niece'], predicted=marry%2:41:00::
+question=['man%1:18:00::' 'woman%1:18:00::' 'prince%1:18:00::' 'princess%1:18:00::'], predicted=daughter%1:18:00::
+question=['man%1:18:00::' 'woman%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['man%1:18:00::' 'woman%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=child%1:18:01::
 question=['man%1:18:00::' 'woman%1:18:00::' 'boy' 'girl%1:18:00::'], predicted=boy%1:18:00::
 question=['man%1:18:00::' 'woman%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=child%1:18:01::
-question=['man%1:18:00::' 'woman%1:18:00::' 'brothers' 'sister%1:18:00::'], predicted=pharmaceutical%3:01:00::
-question=['man%1:18:00::' 'woman%1:18:00::' 'dad' 'mom%1:18:00::'], predicted=couple%1:23:00::
-question=['man%1:18:00::' 'woman%1:18:00::' 'father%2:29:00::' 'mother%1:18:02::'], predicted=child%1:18:01::
+question=['man%1:18:00::' 'woman%1:18:00::' 'brothers' 'sister%1:18:00::'], predicted=childbearing
+question=['man%1:18:00::' 'woman%1:18:00::' 'dad' 'mom%1:18:00::'], predicted=adrenal%3:01:01::
+question=['man%1:18:00::' 'woman%1:18:00::' 'father%2:29:00::' 'mother%1:18:02::'], predicted=marry%2:41:00::
 question=['man%1:18:00::' 'woman%1:18:00::' 'grandfather' 'grandmother%1:18:00::'], predicted=woman%1:18:01::
 question=['man%1:18:00::' 'woman%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
 question=['man%1:18:00::' 'woman%1:18:00::' 'husband%2:40:00::' 'wife%1:18:00::'], predicted=child%1:18:01::
 question=['nephew' 'niece' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['nephew' 'niece' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
-question=['nephew' 'niece' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=ethel
+question=['nephew' 'niece' 'stepson%1:18:00::' 'stepdaughter%1:18:00::'], predicted=domitia
 question=['nephew' 'niece' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=grandmother%1:18:00::
-question=['nephew' 'niece' 'boy' 'girl%1:18:02::'], predicted=console%2:37:00::
-question=['nephew' 'niece' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=wife%1:18:00::
+question=['nephew' 'niece' 'boy' 'girl%1:18:02::'], predicted=gossip%1:10:01::
 question=['nephew' 'niece%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=wife%1:18:00::
-question=['nephew' 'niece' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=gossip%1:10:01::
-question=['nephew' 'niece' 'father' 'mother%1:18:01::'], predicted=grandmother%1:18:00::
-question=['nephew' 'niece' 'grandfather' 'grandmother%1:18:00::'], predicted=normandie%1:15:00::
-question=['nephew' 'niece' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=grant
+question=['nephew' 'niece' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=jezebel%1:18:01::
+question=['nephew' 'niece' 'grandfather' 'grandmother%1:18:00::'], predicted=geologist
+question=['nephew' 'niece' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=lynda
 question=['nephew' 'niece' 'grandson%1:18:00::' 'granddaughter%1:18:00::'], predicted=grandmother%1:18:00::
-question=['nephew' 'niece%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=court%2:41:10::
-question=['nephew' 'niece' 'king' 'queen%1:18:01::'], predicted=jezebel%1:18:01::
+question=['nephew' 'niece%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=groom%1:18:02::
+question=['nephew' 'niece' 'king' 'queen%1:18:01::'], predicted=joan
 question=['nephew' 'niece' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:18:05::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=stepson%1:18:00::
+ 'stepmother%1:18:00::'], predicted=pattie
 question=['prince%1:18:00::' 'princess%1:18:00::' 'stepson%1:18:00::'
  'stepdaughter%1:18:00::'], predicted=stepfather%1:18:00::
+question=['prince%1:18:00::' 'princess%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=father%1:18:00::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'brother%1:18:00::'
- 'sister%1:18:00::'], predicted=mother%1:18:01::
+ 'sister%1:18:00::'], predicted=daughter%1:18:00::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'brother%1:18:00::'
- 'sister%1:18:00::'], predicted=mother%1:18:01::
+ 'sister%1:18:00::'], predicted=daughter%1:18:00::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=nursery
+ 'grandma%1:18:00::'], predicted=lucille
 question=['prince%1:18:00::' 'princess%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['prince%1:18:00::' 'princess%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=cherish%2:37:00::
-question=['prince%1:18:00::' 'princess%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
+question=['prince%1:18:00::' 'princess%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=harassment
+question=['prince%1:18:00::' 'princess%1:18:00::' 'king' 'queen%1:18:01::'], predicted=daughter%1:18:00::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:18:05::
 question=['prince%1:18:00::' 'princess%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=daughter%1:18:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=dryope
+ 'stepmother%1:18:00::'], predicted=catherine%1:18:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=joscelin
-question=['son%1:18:00::' 'daughter%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=cousin%1:18:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'brother%1:18:00::'
- 'sister%1:18:00::'], predicted=brother%1:18:01::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'brother%1:18:00::'
- 'sister%1:18:00::'], predicted=brother%1:18:01::
+ 'stepdaughter%1:18:00::'], predicted=princess%1:18:00::
+question=['son%1:18:00::' 'daughter%1:18:00::' 'uncle%1:18:00::' 'aunt%1:18:00::'], predicted=niece%1:18:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'grandfather%1:18:00::'
  'grandmother%1:18:00::'], predicted=mother%1:18:01::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=nursery
+ 'grandma%1:18:00::'], predicted=clift
 question=['son%1:18:00::' 'daughter%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=son%1:18:01::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=saline%1:27:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=cousin%1:18:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'uncle' 'aunt%1:18:00::'], predicted=gorski
+question=['son%1:18:00::' 'daughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=catherine%1:18:00::
+question=['son%1:18:00::' 'daughter%1:18:00::' 'uncle' 'aunt%1:18:00::'], predicted=catherine%1:18:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'boy' 'girl%1:18:02::'], predicted=boy%1:18:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'brother%1:18:00::'
- 'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'dad' 'mom%1:18:00::'], predicted=kudrow
 question=['son%1:18:00::' 'daughter%1:18:00::' 'father%2:29:00::' 'mother%1:18:01::'], predicted=marry%2:41:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'grandfather' 'grandmother%1:18:00::'], predicted=merry%5:00:02:joyous:00
+question=['son%1:18:00::' 'daughter%1:18:00::' 'grandfather' 'grandmother%1:18:00::'], predicted=mordecai
 question=['son%1:18:00::' 'daughter%1:18:00::' 'groom%2:29:00::' 'bride%1:18:00::'], predicted=ema
-question=['son%1:18:00::' 'daughter%1:18:00::' 'husband%2:40:00::' 'wife%1:18:00::'], predicted=dietrich
+question=['son%1:18:00::' 'daughter%1:18:00::' 'husband%2:40:00::' 'wife%1:18:00::'], predicted=syzygy%1:19:00::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
 question=['son%1:18:00::' 'daughter%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=man%1:15:00::
-question=['son%1:18:00::' 'daughter%1:18:00::' 'nephew' 'niece'], predicted=cousin%1:18:00::
-question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'uncle%1:18:00::'
- 'aunt%1:18:00::'], predicted=father%1:18:07::
+question=['son%1:18:00::' 'daughter%1:18:00::' 'nephew' 'niece'], predicted=catherine%1:18:00::
+question=['stepfather%1:18:00::' 'stepmother%1:18:00::' 'dad%1:18:00::'
+ 'mom%1:18:00::'], predicted=nell
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'brother%1:18:00::'
  'sister%1:18:00::'], predicted=brother%1:18:01::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'father%1:18:00::'
- 'mother%1:18:01::'], predicted=father%1:18:07::
-question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'grandfather%1:18:00::'
- 'grandmother%1:18:00::'], predicted=father%1:18:07::
+ 'mother%1:18:01::'], predicted=father%1:18:05::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'grandpa%1:18:00::'
- 'grandma%1:18:00::'], predicted=hey
+ 'grandma%1:18:00::'], predicted=caption%2:40:00::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'grandson%1:18:00::'
  'granddaughter%1:18:00::'], predicted=grandfather%1:18:00::
-question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=panoramic%5:00:00:wide:00
-question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'he' 'she'], predicted=his
+question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=territorial%1:14:00::
+question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'he' 'she'], predicted=him
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'his' 'her'], predicted=s%1:10:00::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:06:01::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'man%1:18:00::'
- 'woman%1:18:00::'], predicted=blue%1:17:00::
-question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=brother
+ 'woman%1:18:00::'], predicted=girl%1:18:02::
+question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=gilmore
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'prince%1:18:00::'
- 'princess%1:18:00::'], predicted=hrh
+ 'princess%1:18:00::'], predicted=crown
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'son%1:18:00::'
- 'daughter%1:18:00::'], predicted=wife%1:18:00::
+ 'daughter%1:18:00::'], predicted=father%1:18:00::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'son%1:18:00::'
- 'daughter%1:18:00::'], predicted=wife%1:18:00::
+ 'daughter%1:18:00::'], predicted=father%1:18:00::
 question=['stepson%1:18:00::' 'stepdaughter%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=jacquard%1:06:00::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=daughter%1:18:00::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'brother%1:18:00::' 'sister%1:18:00::'], predicted=daughter%1:18:00::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=bilhah
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=lynda
+ 'stepmother%1:18:00::'], predicted=wertheimer
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'dad%1:18:00::' 'mom%1:18:00::'], predicted=mia
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'grandpa%1:18:00::' 'grandma%1:18:00::'], predicted=homemaker%1:18:00::
 question=['uncle%1:18:00::' 'aunt%1:18:00::' 'grandson%1:18:00::'
- 'granddaughter%1:18:00::'], predicted=daughter%1:18:00::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=litani
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'king' 'queen%1:18:01::'], predicted=princess%1:18:00::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=girl%1:18:02::
-question=['uncle%1:18:00::' 'aunt%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=daughter%1:18:00::
+ 'granddaughter%1:18:00::'], predicted=descendant%1:18:00::
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'groom' 'bride%1:18:00::'], predicted=newscast%1:10:00::
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'his' 'her'], predicted=their
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'king' 'queen%1:18:01::'], predicted=king%1:18:00::
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'man%1:18:00::' 'woman%1:18:00::'], predicted=ovum%1:08:00::
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'nephew' 'niece%1:18:00::'], predicted=pregnant%5:00:00:full:00
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
+question=['uncle%1:18:00::' 'aunt%1:18:00::' 'son%1:18:00::' 'daughter%1:18:00::'], predicted=wife%1:18:00::
 question=['uncle%1:18:00::' 'aunt%1:18:00::' 'stepfather%1:18:00::'
- 'stepmother%1:18:00::'], predicted=octavia
+ 'stepmother%1:18:00::'], predicted=sedova
 question=['uncle%1:18:00::' 'aunt%1:18:00::' 'stepson%1:18:00::'
- 'stepdaughter%1:18:00::'], predicted=messalina
+ 'stepdaughter%1:18:00::'], predicted=livia

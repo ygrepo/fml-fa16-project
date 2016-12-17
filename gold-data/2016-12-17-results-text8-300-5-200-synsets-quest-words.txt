@@ -4,4 +4,4 @@ Vocab size:  99004  + UNK
 Words per epoch:  17005200
 Eval analogy file:  gold-data/questions-words-synsets.txt
 Questions:  16479
-Eval 10075/16479 accuracy = 61.1%
+Eval 9988/16479 accuracy = 60.6%
