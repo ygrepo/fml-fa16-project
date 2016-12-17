@@ -8,7 +8,7 @@ question=['describe%2:32:00::' 'describe%2:32:00::' 'fall%2:30:08::'
 question=['describe%2:32:00::' 'describe%2:32:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['enhance' 'enhance' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['enhance' 'enhance' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
-question=['fall%2:30:08::' 'fell%2:35:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
+question=['fall%2:30:08::' 'fell%2:35:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%2:41:10::
 question=['feed%2:34:00::' 'feed%2:34:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['feed%2:34:00::' 'feed%2:34:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['fly%2:39:00::' 'fly%2:39:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
@@ -16,8 +16,8 @@ question=['fly%2:39:00::' 'fly%2:39:00::' 'fall%2:30:08::' 'fell%2:35:00::'], pr
 question=['generate%2:36:00::' 'generate%2:36:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['generate%2:36:00::' 'generate%2:36:00::' 'fall%2:30:08::'
  'fell%2:35:00::'], predicted=fall%2:41:01::
-question=['go%2:30:08::' 'go%2:30:08::' 'see%2:41:10::' 'saw%2:35:00::'], predicted=see%2:39:00::
-question=['go%2:30:08::' 'go%2:30:08::' 'fall%2:30:00::' 'fell%2:38:09::'], predicted=notre
+question=['go%2:30:08::' 'go%2:30:08::' 'see%2:41:10::' 'saw%2:35:00::'], predicted=see%2:39:03::
+question=['go%2:30:08::' 'go%2:30:08::' 'fall%2:30:00::' 'fell%2:38:09::'], predicted=bend%2:38:03::
 question=['hide%2:39:01::' 'hide%2:39:01::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['hide%2:39:01::' 'hide%2:39:01::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['hit%2:35:03::' 'hit%2:35:03::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
@@ -29,7 +29,7 @@ question=['increase%2:30:02::' 'increase%2:30:02::' 'fall%2:30:08::'
  'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['jump%2:38:11::' 'jump%2:38:11::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['jump%2:38:11::' 'jump%2:38:11::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
-question=['know%2:31:03::' 'know%2:31:03::' 'see%2:39:02::' 'saw%2:35:00::'], predicted=get%2:30:12::
+question=['know%2:31:03::' 'know%2:31:03::' 'see%2:39:02::' 'saw%2:35:00::'], predicted=bother%2:37:03::
 question=['know%2:31:03::' 'know%2:31:03::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['listen%2:39:00::' 'listen%2:39:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['listen%2:39:00::' 'listen%2:39:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
@@ -68,10 +68,10 @@ question=['strike%2:35:00::' 'strike%2:35:00::' 'fall%2:30:08::' 'fell%2:35:00::
 question=['strike%2:35:00::' 'strike%2:35:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['swim%2:38:00::' 'swim%2:38:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['swim%2:38:00::' 'swim%2:38:00::' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
-question=['take%2:41:00::' 'take%2:41:00::' 'fall%2:30:00::' 'fell%2:35:00::'], predicted=notre
-question=['take%2:41:00::' 'take%2:41:00::' 'see%2:35:09::' 'saw%2:35:00::'], predicted=have%2:30:00::
+question=['take%2:41:00::' 'take%2:41:00::' 'fall%2:30:00::' 'fell%2:35:00::'], predicted=bend%2:38:03::
+question=['take%2:41:00::' 'take%2:41:00::' 'see%2:35:09::' 'saw%2:35:00::'], predicted=appear%2:30:02::
 question=['think%2:31:00::' 'think%2:31:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
-question=['think%2:31:00::' 'think%2:31:00::' 'see%2:31:08::' 'saw%2:35:00::'], predicted=about
+question=['think%2:31:00::' 'think%2:31:00::' 'see%2:31:08::' 'saw%2:35:00::'], predicted=uncomplimentary
 question=['vanish%2:30:00::' 'vanish%2:30:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::
 question=['vanish' 'vanish' 'see%2:39:00::' 'saw%2:35:00::'], predicted=see%1:15:00::
 question=['walk%2:38:00::' 'walk%2:38:00::' 'fall%2:30:08::' 'fell%2:35:00::'], predicted=fall%2:41:01::

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-MINCOUNT=2
+MINCOUNT=5
 EMBSIZE=200
-EPOCHS=150
+EPOCHS=15
 TRAININGDATA=data/2016-12-07-text8-synsets.txt
 EVALDATA=gold-data/capital-common-countries.txt
 MODEL=models/synsets

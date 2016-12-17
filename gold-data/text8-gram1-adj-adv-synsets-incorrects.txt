@@ -1,66 +1,69 @@
 question=['amazing' 'amazingly%4:02:00::' 'apparent%5:00:00:superficial:00'
- 'apparently'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'calm' 'calmly'], predicted=voodoo%2:32:00::
+ 'apparently'], predicted=apparent%5:00:00:obvious:00
+question=['amazing' 'amazingly%4:02:00::' 'calm' 'calmly'], predicted=tolerably%4:02:01::
 question=['amazing' 'amazingly%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=umbria
+ 'cheerfully%4:02:00::'], predicted=terribly%4:02:00::
 question=['amazing' 'amazingly%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=maintain%2:40:01::
+ 'completely%4:02:04::'], predicted=concise%3:00:00::
 question=['amazing' 'amazingly%4:02:00::' 'efficient%5:00:00:competent:00'
- 'efficiently%4:02:00::'], predicted=efficient
+ 'efficiently%4:02:00::'], predicted=aerodynamically
 question=['amazing' 'amazingly%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:02::
-question=['amazing' 'amazingly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=cost%2:42:01::
+ 'fortunately%4:02:00::'], predicted=unduly%4:02:00::
+question=['amazing' 'amazingly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
+question=['amazing' 'amazingly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=sunny%5:00:00:cheerful:00
 question=['amazing' 'amazingly%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=imd
+ 'immediately%4:02:05::'], predicted=consequence%1:19:00::
 question=['amazing' 'amazingly%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=jal
-question=['amazing' 'amazingly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%3:00:01::
-question=['amazing' 'amazingly%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=difficult%3:00:00::
+ 'infrequently%4:02:00::'], predicted=relatively%4:02:00::
+question=['amazing' 'amazingly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=panic%2:37:00::
+question=['amazing' 'amazingly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=more
+question=['amazing' 'amazingly%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=despite
+question=['amazing' 'amazingly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=relatively%4:02:00::
+question=['amazing' 'amazingly%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=impossible%3:00:00::
+question=['amazing' 'amazingly%4:02:00::' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=define%2:42:01::
 question=['amazing' 'amazingly%4:02:00::' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=amateur%5:00:01:unprofessional:00
+ 'professionally%4:02:00::'], predicted=certification%1:04:00::
 question=['amazing' 'amazingly%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
-question=['amazing' 'amazingly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=pleat%1:06:00::
+question=['amazing' 'amazingly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=relatively%4:02:00::
 question=['amazing' 'amazingly%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=rapid%5:00:02:fast:01
+ 'rapidly%4:02:00::'], predicted=precipitous%5:00:00:hurried:00
 question=['amazing' 'amazingly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=extremely
-question=['amazing' 'amazingly%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=indifference%1:07:00::
-question=['amazing' 'amazingly%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=ensure%2:31:00::
+question=['amazing' 'amazingly%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=sympathetic%3:00:02::
+question=['amazing' 'amazingly%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=relatively%4:02:00::
 question=['amazing' 'amazingly%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=violation%1:04:04::
-question=['amazing' 'amazingly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['amazing' 'amazingly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=providence
+ 'seriously%4:02:00::'], predicted=polygamist%1:18:00::
+question=['amazing' 'amazingly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=relatively%4:02:00::
+question=['amazing' 'amazingly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=sluggish%5:00:01:slow:01
 question=['amazing' 'amazingly%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=noncommunist
+ 'swiftly%4:02:00::'], predicted=unacceptably%4:02:00::
+question=['amazing' 'amazingly%4:02:00::' 'typical%5:00:00:characteristic:00'
+ 'typically%4:02:00::'], predicted=relatively%4:02:00::
 question=['amazing' 'amazingly%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=maintain%2:40:01::
-question=['amazing' 'amazingly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=generally%4:02:02::
-question=['apparent%5:00:00:superficial:00' 'apparently' 'calm' 'calmly'], predicted=insane
+ 'unfortunately%4:02:00::'], predicted=sympathetic%3:00:02::
+question=['amazing' 'amazingly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=manageable%3:00:00::
+question=['apparent%5:00:00:superficial:00' 'apparently' 'calm' 'calmly'], predicted=severly
 question=['apparent%5:00:00:superficial:00' 'apparently' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=purple%1:07:00::
+ 'cheerfully%4:02:00::'], predicted=hesychasts
 question=['apparent%5:00:00:superficial:00' 'apparently'
- 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=hokuseido
+ 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=happily%4:02:00::
 question=['apparent%5:00:00:superficial:00' 'apparently'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=terrifying
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=ail%2:29:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%5:00:01:unoccupied:00
-question=['apparent%5:00:00:superficial:00' 'apparently' 'happy%3:00:00::' 'happily'], predicted=muppets
+question=['apparent%5:00:00:superficial:00' 'apparently' 'happy%3:00:00::' 'happily'], predicted=dont
 question=['apparent%5:00:00:superficial:00' 'apparently'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=call%2:32:04::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['apparent%5:00:00:superficial:00' 'apparently' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=shock%1:26:00::
+ 'infrequently%4:02:00::'], predicted=drift
 question=['apparent%5:00:00:superficial:00' 'apparently' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=duck%1:05:00::
+ 'luckily%4:02:00::'], predicted=hawkins%1:18:01::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'most' 'mostly%4:02:00::'], predicted=today
 question=['apparent%5:00:00:superficial:00' 'apparently' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=seem%2:39:02::
+ 'obviously%4:02:00::'], predicted=apparently%4:02:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'occasional'
- 'occasionally%4:02:00::'], predicted=pyke
+ 'occasionally%4:02:00::'], predicted=storm%1:04:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=together
+ 'possibly%4:02:01::'], predicted=coenzyme%1:27:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['apparent%5:00:00:superficial:00' 'apparently'
@@ -68,380 +71,382 @@ question=['apparent%5:00:00:superficial:00' 'apparently'
 question=['apparent%5:00:00:superficial:00' 'apparently' 'quick%5:00:00:hurried:00'
  'quickly'], predicted=succession%1:07:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=anteac
+ 'quietly'], predicted=iommi
 question=['apparent%5:00:00:superficial:00' 'apparently' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=growth%1:22:00::
+ 'rapidly%4:02:00::'], predicted=mechanisation%1:04:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
 question=['apparent%5:00:00:superficial:00' 'apparently' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=intern%2:41:00::
+ 'reluctantly%4:02:00::'], predicted=bedivere
 question=['apparent%5:00:00:superficial:00' 'apparently' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=good%5:00:00:healthful:00
+ 'safely%4:02:00::'], predicted=veterinarian
 question=['apparent%5:00:00:superficial:00' 'apparently'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=shock%1:26:00::
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=undetected
 question=['apparent%5:00:00:superficial:00' 'apparently' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=fast%3:00:02::
+ 'slowly%4:02:01::'], predicted=slow%3:00:03::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'sudden%3:00:00::'
- 'suddenly'], predicted=shock%1:26:00::
+ 'suddenly'], predicted=storm%1:04:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=ruddy
+ 'swiftly%4:02:00::'], predicted=baratheon
 question=['apparent%5:00:00:superficial:00' 'apparently' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=jutish
+ 'unfortunately%4:02:00::'], predicted=disintegrate%2:30:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=generally%4:02:02::
+ 'usually%4:02:00::'], predicted=acetaldehyde%1:27:00::
 question=['apparent%5:00:00:superficial:00' 'apparently' 'amazing'
  'amazingly%4:02:00::'], predicted=jeckel
-question=['calm' 'calmly' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=hero%1:18:01::
-question=['calm' 'calmly' 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=joshua%1:10:00::
-question=['calm' 'calmly' 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=accurate%3:00:00::
-question=['calm' 'calmly' 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=viola%1:06:00::
-question=['calm%3:00:00::' 'calmly' 'free%3:00:01::' 'freely%4:02:00::'], predicted=online
-question=['calm' 'calmly' 'happy%3:00:00::' 'happily'], predicted=nurmi
-question=['calm' 'calmly' 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=unwitting%5:00:00:uninformed:00
-question=['calm' 'calmly' 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=rcn
-question=['calm' 'calmly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=kovacs
+question=['calm' 'calmly' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=saviour%1:18:00::
+question=['calm' 'calmly' 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=concise%3:00:00::
+question=['calm' 'calmly' 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=tunneling
+question=['calm' 'calmly' 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=manion
+question=['calm%3:00:00::' 'calmly' 'free%3:00:01::' 'freely%4:02:00::'], predicted=gratis
+question=['calm' 'calmly' 'happy%3:00:00::' 'happily'], predicted=interpretation%1:10:00::
+question=['calm' 'calmly' 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=declaration%1:10:06::
+question=['calm' 'calmly' 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=scientologist
+question=['calm' 'calmly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=slanderer%1:18:00::
 question=['calm' 'calmly' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
-question=['calm' 'calmly' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=unnecessary%3:00:00::
-question=['calm' 'calmly' 'occasional' 'occasionally%4:02:00::'], predicted=wilfred
-question=['calm' 'calmly' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=complicate%2:30:00::
-question=['calm' 'calmly' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=accurate%3:00:00::
+question=['calm' 'calmly' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=slanderer%1:18:00::
+question=['calm' 'calmly' 'occasional' 'occasionally%4:02:00::'], predicted=slant
+question=['calm' 'calmly' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=biblically
+question=['calm' 'calmly' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=biblically
 question=['calm' 'calmly' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=professional%3:00:02::
-question=['calm' 'calmly' 'quick%5:00:00:hurried:00' 'quickly'], predicted=column%1:14:01::
-question=['calm' 'calmly' 'quiet%5:00:00:calm:00' 'quietly'], predicted=unarmed%3:00:01::
-question=['calm' 'calmly' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=growth%1:22:00::
-question=['calm' 'calmly' 'rare' 'rarely%4:02:00::'], predicted=cartridge%1:06:00::
-question=['calm' 'calmly' 'reluctant' 'reluctantly%4:02:00::'], predicted=hero%1:18:01::
-question=['calm' 'calmly' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=buoyancy%1:07:00::
-question=['calm' 'calmly' 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=consequence%1:19:00::
-question=['calm' 'calmly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['calm' 'calmly' 'sudden%3:00:00::' 'suddenly'], predicted=eventual%5:00:00:ultimate:00
-question=['calm' 'calmly' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=irate%5:00:00:angry:00
-question=['calm' 'calmly' 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=carry%2:31:12::
-question=['calm' 'calmly' 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=vaux%1:18:00::
-question=['calm' 'calmly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=traditional%3:00:00::
-question=['calm' 'calmly' 'amazing' 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
-question=['calm' 'calmly' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=hero%1:18:01::
+ 'professionally%4:02:00::'], predicted=yoder
+question=['calm' 'calmly' 'quick%5:00:00:hurried:00' 'quickly'], predicted=interprets
+question=['calm' 'calmly' 'quiet%5:00:00:calm:00' 'quietly'], predicted=yoder
+question=['calm' 'calmly' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=form%1:09:00::
+question=['calm' 'calmly' 'rare' 'rarely%4:02:00::'], predicted=doubtful%5:00:00:uncertain:02
+question=['calm' 'calmly' 'reluctant' 'reluctantly%4:02:00::'], predicted=vaux%1:18:00::
+question=['calm' 'calmly' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=scientologist
+question=['calm' 'calmly' 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=scientologist
+question=['calm' 'calmly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=biblically
+question=['calm' 'calmly' 'sudden%3:00:00::' 'suddenly'], predicted=sling%2:35:01::
+question=['calm' 'calmly' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=zephaniah%1:18:00::
+question=['calm' 'calmly' 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=chorded
+question=['calm' 'calmly' 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=wryly
+question=['calm' 'calmly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=interprets
+question=['calm' 'calmly' 'amazing' 'amazingly%4:02:00::'], predicted=anvil%1:06:00::
+question=['calm' 'calmly' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=interpretation%1:10:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=concise%3:00:00::
+ 'completely%4:02:04::'], predicted=black%2:30:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::'
- 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=expensive%3:00:00::
+ 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=prepaid
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=unwritten%5:00:00:spoken:00
+ 'fortunately%4:02:00::'], predicted=bundys
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%3:00:00::
-question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=baby
+question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=bundys
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=striker%1:18:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=jenny%1:18:00::
+ 'infrequently%4:02:00::'], predicted=wrong
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=piss%2:29:00::
+ 'luckily%4:02:00::'], predicted=bundys
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=interesting%3:00:00::
+ 'obviously%4:02:00::'], predicted=bundys
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=roadblock%1:09:00::
+ 'occasionally%4:02:00::'], predicted=striker%1:18:00::
 question=['cheerful%5:00:00:optimistic:00' 'cheerfully%4:02:00::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=can
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=difficult%3:00:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=exact%3:00:00::
+ 'precisely%4:02:01::'], predicted=determine%2:31:01::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=striker%1:18:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=namath
+ 'quickly'], predicted=striker%1:18:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=jenny%1:18:00::
+ 'quietly'], predicted=striker%1:18:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=prepaid
-question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=untrue%5:00:00:unfaithful:00
+ 'rapidly%4:02:00::'], predicted=completion
+question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=wrong
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=undoubted
+ 'reluctantly%4:02:00::'], predicted=kershaw
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=luxurious%5:00:00:indulgent:00
+ 'safely%4:02:00::'], predicted=weregild
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=breach%1:04:01::
+ 'seriously%4:02:00::'], predicted=stoppage%1:26:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=overtime%1:28:00::
+question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=trigger%2:33:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=pla
+ 'swiftly%4:02:00::'], predicted=weregild
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=similar%3:00:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=striker%1:18:00::
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=consternation%1:12:00::
+ 'unfortunately%4:02:00::'], predicted=wakshul
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=reverse%1:04:01::
+ 'usually%4:02:00::'], predicted=weregild
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
+ 'amazingly%4:02:00::'], predicted=jeckel
 question=['cheerful%3:00:00::' 'cheerfully%4:02:00::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=despite
-question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'calm' 'calmly'], predicted=mob%1:14:02::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
+question=['cheerful%3:00:00::' 'cheerfully%4:02:00::' 'calm' 'calmly'], predicted=bundys
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=efficient
+ 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
  'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'happy%3:00:00::'
- 'happily'], predicted=light%2:38:01::
+ 'happily'], predicted=completely
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=find%2:39:02::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=safewords
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
  'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=shocking
+ 'luckily%4:02:00::'], predicted=employed%5:00:00:exploited:00
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'most'
  'mostly%4:02:00::'], predicted=completely
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'obvious%3:00:00::'
  'obviously%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'occasional'
- 'occasionally%4:02:00::'], predicted=altogether%4:02:03::
+ 'occasionally%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=attempt%2:41:00::
+ 'possibly%4:02:01::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=completely
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=stdio
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=roussimoff
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=prefer%2:31:00::
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=bypass%2:32:00::
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'rare'
- 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
+ 'rarely%4:02:00::'], predicted=completely
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=holmes%1:18:00::
+ 'reluctantly%4:02:00::'], predicted=cavalier%5:00:00:domineering:00
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=comfortable%3:00:00::
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'serious%3:00:02::'
- 'seriously%4:02:00::'], predicted=situation%1:26:01::
+ 'seriously%4:02:00::'], predicted=completely
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=slow%3:00:03::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'sudden%3:00:00::'
- 'suddenly'], predicted=ice%1:17:00::
+ 'suddenly'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
  'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
  'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=complain%2:32:00::
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=instead%4:02:01::
+ 'usually%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'amazing'
- 'amazingly%4:02:00::'], predicted=stdio
+ 'amazingly%4:02:00::'], predicted=entirely%4:02:00::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'calm' 'calmly'], predicted=try%2:37:00::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=entirely%4:02:00::
+question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'calm' 'calmly'], predicted=tilt%2:38:01::
 question=['complete%5:00:00:perfect:00' 'completely%4:02:04::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=always%4:02:00::
+ 'cheerfully%4:02:00::'], predicted=aloof
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=altay
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=distant%3:00:01::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:00::
+ 'freely%4:02:00::'], predicted=free%3:00:02::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'happy%3:00:00::'
- 'happily'], predicted=margo
+ 'happily'], predicted=caribou
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=mediate
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=stunted%5:00:00:inferior:02
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=arboreal%3:01:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=flock%1:14:00::
+ 'luckily%4:02:00::'], predicted=tape%2:32:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'most'
  'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=thing%1:09:01::
+ 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=frightening%5:00:00:alarming:00
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=ludus
+ 'occasionally%4:02:00::'], predicted=frost%1:27:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=can
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
  'precise%3:00:00::' 'precisely%4:02:01::'], predicted=determine%2:31:01::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=issue%1:19:00::
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=extension%1:28:00::
-question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=flow%2:35:04::
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=mandali
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'rare'
- 'rarely%4:02:00::'], predicted=rare%5:00:00:uncommon:00
+ 'rarely%4:02:00::'], predicted=rare%5:00:00:extraordinary:00
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=salome
+ 'reluctantly%4:02:00::'], predicted=whitman%1:18:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=ensure%2:31:00::
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=check%2:38:12::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=frightening%5:00:00:alarming:00
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=faster%4:02:01::
+ 'slowly%4:02:01::'], predicted=infectors
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'sudden%3:00:00::' 'suddenly'], predicted=surprise%1:11:00::
+ 'sudden%3:00:00::' 'suddenly'], predicted=trigger%2:33:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=entreat%2:32:00::
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=osgiliath
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=invite%2:32:01::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=command%1:10:01::
+question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=wikipedians
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=order%1:26:01::
+ 'usually%4:02:00::'], predicted=completeness
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
+ 'amazingly%4:02:00::'], predicted=jeckel
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::' 'calm' 'calmly'], predicted=awake%3:00:00::
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=flock%1:14:00::
+ 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=toves
 question=['efficient%5:00:00:competent:00' 'efficiently%4:02:00::'
- 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=full%3:00:01::
+ 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=pamphilus
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:02::
+ 'freely%4:02:00::'], predicted=opendocument
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'happy%3:00:00::'
- 'happily'], predicted=ultra%5:00:00:immoderate:00
+ 'happily'], predicted=caption%2:40:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=withdrawal%1:04:03::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=zoster%1:26:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=mayonnaise
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=transmit
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=alive%5:00:00:sensitive:02
+ 'luckily%4:02:00::'], predicted=hopping
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'most'
  'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=alternative%1:09:00::
+ 'obviously%4:02:00::'], predicted=irritability
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=encapsulate
+ 'occasionally%4:02:00::'], predicted=irritability
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=can
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=treat%2:30:01::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=md%1:10:00::
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=solver%1:18:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=seeker%1:18:00::
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=input%1:09:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=rapid%5:00:02:fast:01
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=cryoprotectants
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'rare'
- 'rarely%4:02:00::'], predicted=ultra%5:00:00:immoderate:00
+ 'rarely%4:02:00::'], predicted=physiologically%4:02:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=ultra%5:00:00:immoderate:00
+ 'reluctantly%4:02:00::'], predicted=solver%1:18:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
  'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=safety%1:26:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=irritability
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=slow%3:00:03::
+ 'slowly%4:02:01::'], predicted=faster%4:02:01::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'sudden%3:00:00::'
- 'suddenly'], predicted=smooth%2:35:00::
+ 'suddenly'], predicted=cerebrovascular%3:01:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=isolationist%3:01:00::
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=glr
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=maximum%3:00:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=bitrate
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=vagus%1:08:00::
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=factual
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=scheme%1:09:01::
+ 'usually%4:02:00::'], predicted=treat%2:30:01::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=shot%1:06:03::
+ 'amazingly%4:02:00::'], predicted=solver%1:18:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'calm' 'calmly'], predicted=convict%1:18:01::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=detected%3:00:00::
+question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::' 'calm' 'calmly'], predicted=awake%3:00:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=failure%1:26:02::
+ 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=physiologically%4:02:00::
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
- 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=full%5:00:01:whole:00
+ 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=opendocument
 question=['fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'
  'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=efficient
 question=['free%3:00:01::' 'freely%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=laugh
 question=['free%3:00:01::' 'freely%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=demand%2:32:02::
+ 'immediately%4:02:05::'], predicted=bodily%3:01:01::
 question=['free%3:00:01::' 'freely%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=sedova
-question=['free%3:00:01::' 'freely%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=number%1:10:02::
+ 'infrequently%4:02:00::'], predicted=expletive%1:10:02::
+question=['free%3:00:01::' 'freely%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=unworthy%5:00:00:evil:00
 question=['free%3:00:01::' 'freely%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=merely%4:02:00::
-question=['free%3:00:01::' 'freely%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=helmet%1:06:01::
+ 'obviously%4:02:00::'], predicted=apparent%5:00:00:obvious:00
 question=['free%3:00:01::' 'freely%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=way%1:04:00::
+ 'possibly%4:02:01::'], predicted=necessary%3:00:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'professional%5:00:00:white-collar:00'
  'professionally%4:02:00::'], predicted=professional%3:01:01::
 question=['free%3:00:01::' 'freely%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly%4:02:01::'], predicted=suryadi
+ 'quietly%4:02:01::'], predicted=arius%1:18:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=through
-question=['free%3:00:01::' 'freely%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=suggestion%1:09:00::
+ 'rapidly%4:02:00::'], predicted=skirmishing
+question=['free%3:00:01::' 'freely%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=discreetly%4:02:00::
+question=['free%3:00:01::' 'freely%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=absurd
 question=['free%3:00:01::' 'freely%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=civilized%5:00:00:refined:01
+ 'safely%4:02:00::'], predicted=consignee%1:18:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=nature%1:09:00::
-question=['free%3:00:01::' 'freely%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['free%3:00:01::' 'freely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=impulse%1:04:01::
+ 'seriously%4:02:00::'], predicted=wrong%1:07:01::
+question=['free%3:00:01::' 'freely%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=faster%4:02:01::
+question=['free%3:00:01::' 'freely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=outburst%1:04:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=articulation%1:10:00::
+ 'swiftly%4:02:00::'], predicted=claimant
 question=['free%3:00:01::' 'freely%4:02:00::' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=vary%2:42:01::
+ 'typically%4:02:00::'], predicted=masterfully%4:02:01::
 question=['free%3:00:01::' 'freely%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=tell%2:32:08::
-question=['free%3:00:01::' 'freely%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=rather%4:02:02::
-question=['free%3:00:01::' 'freely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=ryukyuan
+ 'unfortunately%4:02:00::'], predicted=politely%4:02:00::
+question=['free%3:00:01::' 'freely%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=same%3:00:00::
+question=['free%3:00:01::' 'freely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=amazement%1:12:00::
 question=['free%3:00:01::' 'freely%4:02:00::' 'apparent%5:00:00:superficial:00'
  'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['free%3:00:01::' 'freely%4:02:00::' 'calm%3:00:00::' 'calmly'], predicted=civilized%5:00:00:refined:01
+question=['free%3:00:01::' 'freely%4:02:00::' 'calm%3:00:00::' 'calmly'], predicted=unrecognisable%5:00:00:unidentifiable:00
 question=['free%3:00:01::' 'freely%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=quintessentially
+ 'cheerfully%4:02:00::'], predicted=pompous%3:01:00::
+question=['free%3:00:01::' 'freely%4:02:00::' 'efficient%5:00:00:competent:00'
+ 'efficiently%4:02:00::'], predicted=convenient%3:00:02::
 question=['free%3:00:01::' 'freely%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=civilized%5:00:00:refined:01
+ 'fortunately%4:02:00::'], predicted=agrippina%1:18:00::
 question=['happy%3:00:00::' 'happily' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
+ 'immediately%4:02:05::'], predicted=dire%5:00:01:alarming:00
 question=['happy%3:00:00::' 'happily' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=lani
+ 'infrequently%4:02:00::'], predicted=unglaciated
 question=['happy%3:00:00::' 'happily%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=fascinate%2:37:00::
-question=['happy%3:00:00::' 'happily' 'most' 'mostly%4:02:00::'], predicted=even
-question=['happy%3:00:00::' 'happily' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=seem%2:42:00::
-question=['happy%3:00:00::' 'happily' 'occasional' 'occasionally%4:02:00::'], predicted=elamo
-question=['happy%3:00:00::' 'happily' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=allow%2:41:01::
+ 'luckily%4:02:00::'], predicted=solicit%2:32:04::
+question=['happy%3:00:00::' 'happily' 'most' 'mostly%4:02:00::'], predicted=most%4:02:00::
+question=['happy%3:00:00::' 'happily' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=farcical%5:00:00:humorous:00
+question=['happy%3:00:00::' 'happily' 'occasional' 'occasionally%4:02:00::'], predicted=ghostwriter%1:18:00::
+question=['happy%3:00:00::' 'happily' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=necessary%3:00:00::
 question=['happy%3:00:00::' 'happily' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=accurate%3:00:00::
 question=['happy%3:00:00::' 'happily' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=amateur%5:00:01:unprofessional:00
+ 'professionally%4:02:00::'], predicted=professional%3:01:01::
 question=['happy%3:00:00::' 'happily' 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
-question=['happy%3:00:00::' 'happily' 'quiet%5:00:00:calm:00' 'quietly'], predicted=lani
-question=['happy%3:00:00::' 'happily' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=growth%1:22:00::
+question=['happy%3:00:00::' 'happily' 'quiet%5:00:00:calm:00' 'quietly'], predicted=celibate
+question=['happy%3:00:00::' 'happily' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=urbanization%1:22:00::
 question=['happy%3:00:00::' 'happily' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:extraordinary:00
-question=['happy%3:00:00::' 'happily' 'reluctant' 'reluctantly%4:02:00::'], predicted=whereabouts%1:15:00::
-question=['happy%3:00:00::' 'happily' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=expedient%5:00:00:politic:00
+question=['happy%3:00:00::' 'happily' 'reluctant' 'reluctantly%4:02:00::'], predicted=chapman%1:18:00::
+question=['happy%3:00:00::' 'happily' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=unsafe%5:00:00:vulnerable:00
 question=['happy%3:00:00::' 'happily' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
+ 'seriously%4:02:00::'], predicted=dire%5:00:01:alarming:00
 question=['happy%3:00:00::' 'happily' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['happy%3:00:00::' 'happily' 'sudden%3:00:00::' 'suddenly'], predicted=emigration%1:04:00::
-question=['happy%3:00:00::' 'happily' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=tank%1:06:01::
+question=['happy%3:00:00::' 'happily' 'sudden%3:00:00::' 'suddenly'], predicted=outburst%1:04:00::
+question=['happy%3:00:00::' 'happily' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=priscus
 question=['happy%3:00:00::' 'happily' 'typical%5:00:00:characteristic:00'
  'typically%4:02:00::'], predicted=example%1:09:01::
 question=['happy%3:00:00::' 'happily%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=histone%1:27:00::
-question=['happy%3:00:00::' 'happily' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=positively%4:02:00::
-question=['happy%3:00:00::' 'happily' 'amazing' 'amazingly%4:02:00::'], predicted=man%1:18:08::
+ 'unfortunately%4:02:00::'], predicted=mishnaic
+question=['happy%3:00:00::' 'happily' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=dogmatism%1:09:00::
+question=['happy%3:00:00::' 'happily' 'amazing' 'amazingly%4:02:00::'], predicted=jeckel
 question=['happy%3:00:00::' 'happily' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['happy%3:00:00::' 'happily' 'calm' 'calmly'], predicted=escape%2:32:04::
-question=['happy%3:00:00::' 'happily' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=purity%1:07:00::
+question=['happy%3:00:00::' 'happily' 'calm' 'calmly'], predicted=stammer%1:26:00::
+question=['happy%3:00:00::' 'happily' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=nabal
 question=['happy%3:00:00::' 'happily' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=complete%5:00:00:finished:01
+ 'completely%4:02:04::'], predicted=concise%3:00:00::
 question=['happy%3:00:00::' 'happily' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=edicts
+ 'fortunately%4:02:00::'], predicted=agrippina%1:18:00::
 question=['happy%3:00:00::' 'happily' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=gaeilge
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=kiritimati
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=earhart
+ 'luckily%4:02:00::'], predicted=dammit
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'most'
- 'mostly%4:02:00::'], predicted=quite%4:02:03::
+ 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=actually%4:02:00::
+ 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=instant%1:28:01::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'occasional'
- 'occasionally%4:02:00::'], predicted=lookup
+ 'occasionally%4:02:00::'], predicted=fly%2:38:04::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=easy%5:00:00:abundant:00
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=impossible%3:00:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
  'precise%3:00:00::' 'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
@@ -449,465 +454,471 @@ question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
 question=['immediate%5:00:00:fast:01' 'immediately%4:02:05::'
  'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=csl
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=coldly%4:02:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=slow%3:00:02::
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=busway
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'rare'
  'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'reluctant'
  'reluctantly%4:02:00::'], predicted=jones%1:18:04::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=easy%5:00:00:available:00
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=safe%3:00:01::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=genius%1:09:02::
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=faster%4:02:01::
+ 'slowly%4:02:01::'], predicted=slow%3:00:03::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'sudden%3:00:00::' 'suddenly'], predicted=crash%1:04:00::
+ 'sudden%3:00:00::' 'suddenly'], predicted=interrupt%2:30:03::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=libert
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=lip
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=usually%4:02:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=actually%4:02:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=directly%4:02:05::
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=move%2:37:01::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=incommunicado
+ 'usually%4:02:00::'], predicted=backstage
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'amazing'
  'amazingly%4:02:00::'], predicted=jeckel
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=day%1:28:07::
-question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'calm' 'calmly'], predicted=sixteenth%1:23:00::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=deneb
+question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'calm' 'calmly'], predicted=tame%2:30:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=blonde%1:18:00::
+ 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=temper%1:12:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
  'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=complete%5:00:00:finished:01
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=computationally%4:02:00::
+ 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=efficient
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=sick%5:00:00:moved:00
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=childless%5:00:00:unfruitful:00
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%3:00:00::
 question=['immediate%5:00:00:proximate:00' 'immediately%4:02:05::' 'happy%3:00:00::'
- 'happily'], predicted=begin%2:30:00::
+ 'happily'], predicted=furious
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=mickey%1:18:00::
+ 'luckily%4:02:00::'], predicted=nap%2:29:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=sort%1:07:00::
+ 'obviously%4:02:00::'], predicted=frightening%5:00:00:alarming:00
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=completly
+ 'occasionally%4:02:00::'], predicted=prima%1:13:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=type%1:09:00::
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
+question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'precise%3:00:00::'
+ 'precisely%4:02:01::'], predicted=hardness%1:07:02::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=run%2:41:02::
+ 'quickly'], predicted=disconcert%2:37:02::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=drone
+ 'quietly'], predicted=wound
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=drone
-question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
+ 'rapidly%4:02:00::'], predicted=flourishing
+question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:uncommon:00
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=bester
+ 'reluctantly%4:02:00::'], predicted=dagda%1:18:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=cut%3:00:02::
+ 'safely%4:02:00::'], predicted=securely
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=notably
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=frightening%5:00:00:alarming:00
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=heartbeat%1:07:00::
+ 'slowly%4:02:01::'], predicted=infectors
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'sudden%3:00:00::'
- 'suddenly'], predicted=heartbeat%1:07:00::
+ 'suddenly'], predicted=unfold%2:30:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=notably
+ 'swiftly%4:02:00::'], predicted=housman
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=type%1:10:01::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=typical%5:00:00:normal:01
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=ambience%1:26:00::
+ 'unfortunately%4:02:00::'], predicted=benign%3:00:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=traditional%3:00:00::
+ 'usually%4:02:00::'], predicted=commonly%4:02:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=improbable%5:00:00:incredible:00
+ 'amazingly%4:02:00::'], predicted=spider%1:05:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'calm' 'calmly'], predicted=discography%1:10:00::
+question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'calm' 'calmly'], predicted=profusely%4:02:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=honor%2:41:01::
+ 'cheerfully%4:02:00::'], predicted=glorified%5:00:00:authorized:00
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
  'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=concise%3:00:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
  'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=efficient%3:00:00::
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=notably
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=costanza
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::' 'happy%3:00:00::'
- 'happily'], predicted=hopper
+ 'happily'], predicted=faustino
 question=['infrequent%3:00:00::' 'infrequently%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=notably
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=typically%4:02:00::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=glorified%5:00:00:authorized:00
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%3:00:02::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=orifice%1:08:00::
+ 'obviously%4:02:00::'], predicted=such
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=endtime
+ 'occasionally%4:02:00::'], predicted=bearing%1:06:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=consonance%1:10:00::
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=exact%3:00:00::
+ 'precisely%4:02:01::'], predicted=undetectable%5:00:00:invisible:00
 question=['lucky%3:00:00::' 'luckily%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=trapezoidal%3:01:00::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=drawl%1:10:00::
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=expertly%4:02:00::
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=queueing
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'rapid%5:00:00:fast:01'
  'rapidly%4:02:00::'], predicted=rapid%5:00:02:fast:01
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rett
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=utilise
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=moderator%1:18:01::
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=practicable%5:00:00:practical:00
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=flatter
+ 'safely%4:02:00::'], predicted=practicable%5:00:00:practical:00
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'serious%5:00:00:important:00'
  'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=folding%1:04:00::
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=cyclonic%3:01:01::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=contour%1:09:00::
+ 'swiftly%4:02:00::'], predicted=practicable%5:00:00:practical:00
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'typical%5:00:00:characteristic:00'
+ 'typically%4:02:00::'], predicted=resistive%3:01:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=hcoj
+ 'unfortunately%4:02:00::'], predicted=baffle%2:30:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=degree%1:09:00::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=specialty%1:07:01::
+ 'usually%4:02:00::'], predicted=formalized%5:00:00:official:00
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=geometrically%4:02:03::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'apparent%5:00:00:superficial:00'
  'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'calm' 'calmly'], predicted=rett
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'calm' 'calmly'], predicted=awake%3:00:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=endtime
+ 'cheerfully%4:02:00::'], predicted=jagged
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=exhaustive%5:00:00:complete:00
+ 'completely%4:02:04::'], predicted=complete%5:00:00:finished:01
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'efficient%5:00:00:competent:00'
- 'efficiently%4:02:00::'], predicted=efficient%3:00:00::
+ 'efficiently%4:02:00::'], predicted=cost
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=oriental%1:18:00::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+ 'fortunately%4:02:00::'], predicted=practicable%5:00:00:practical:00
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'happy%3:00:00::'
- 'happily%4:02:00::'], predicted=utilise
+ 'happily%4:02:00::'], predicted=blast%1:10:00::
 question=['lucky%3:00:00::' 'luckily%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=block%1:06:04::
-question=['lucky%3:00:00::' 'luckily%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=flemish%1:14:00::
-question=['most' 'mostly%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=entirely%4:02:00::
-question=['most' 'mostly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=principally%4:02:00::
-question=['most' 'mostly%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=necessary%3:00:00::
-question=['most' 'mostly%4:02:00::' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=exact%3:00:00::
-question=['most' 'mostly%4:02:00::' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['most' 'mostly%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=flat%5:00:00:horizontal:00
-question=['most' 'mostly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=predominantly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=slow%3:00:03::
-question=['most' 'mostly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=isolated%5:00:00:sporadic:00
-question=['most' 'mostly%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=predominantly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=relatively%4:02:00::
-question=['most' 'mostly%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=mainly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['most' 'mostly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=influx%1:22:00::
-question=['most' 'mostly%4:02:00::' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=tank%1:06:01::
-question=['most' 'mostly%4:02:00::' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=mostly%4:02:03::
-question=['most' 'mostly%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=mainly%4:02:00::
-question=['most%3:00:01::' 'mostly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=similar%5:00:00:synonymous:00
-question=['most' 'mostly%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=admittedly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['most' 'mostly%4:02:00::' 'calm' 'calmly'], predicted=overrun%2:42:00::
-question=['most' 'mostly%4:02:00::' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=flat%5:00:00:horizontal:00
-question=['most' 'mostly%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=entirely%4:02:00::
-question=['most' 'mostly%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=partly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:02::
-question=['most' 'mostly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=mostly%4:02:03::
-question=['most' 'mostly%4:02:00::' 'immediate%5:00:00:proximate:00'
  'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
+question=['lucky%3:00:00::' 'luckily%4:02:00::' 'infrequent%3:00:00::'
+ 'infrequently%4:02:00::'], predicted=unglaciated
+question=['most' 'mostly%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=antiquate%2:30:00::
+question=['most' 'mostly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=mainly%4:02:00::
+question=['most' 'mostly%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=possible%3:00:04::
+question=['most' 'mostly%4:02:00::' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=generally%4:02:01::
+question=['most' 'mostly%4:02:00::' 'professional%5:00:00:white-collar:00'
+ 'professionally%4:02:00::'], predicted=predominantly%4:02:00::
+question=['most' 'mostly%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=vegetation%1:22:00::
+question=['most' 'mostly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=mainly%4:02:00::
+question=['most' 'mostly%4:02:00::' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=slow%3:00:03::
+question=['most' 'mostly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=mostly%4:02:03::
+question=['most' 'mostly%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=moocher%1:18:00::
+question=['most' 'mostly%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=draining
+question=['most' 'mostly%4:02:00::' 'serious%5:00:00:important:00'
+ 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
+question=['most' 'mostly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
+question=['most' 'mostly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=outburst%1:04:00::
+question=['most' 'mostly%4:02:00::' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=swath%1:23:00::
+question=['most' 'mostly%4:02:00::' 'typical%5:00:00:characteristic:00'
+ 'typically%4:02:00::'], predicted=mainly%4:02:00::
+question=['most' 'mostly%4:02:00::' 'unfortunate%3:00:00::'
+ 'unfortunately%4:02:00::'], predicted=monotonous%5:00:00:unmodulated:00
+question=['most%3:00:01::' 'mostly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=similar%5:00:00:synonymous:00
+question=['most' 'mostly%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=adaptation%1:04:01::
+question=['most' 'mostly%4:02:00::' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
+question=['most' 'mostly%4:02:00::' 'calm' 'calmly'], predicted=motionless%5:00:00:nonmoving:00
+question=['most' 'mostly%4:02:00::' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=lush%5:00:00:rich:03
+question=['most' 'mostly%4:02:00::' 'complete%5:00:00:perfect:00'
+ 'completely%4:02:04::'], predicted=plot%1:10:01::
+question=['most' 'mostly%4:02:00::' 'efficient%5:00:00:competent:00'
+ 'efficiently%4:02:00::'], predicted=mainly%4:02:00::
+question=['most' 'mostly%4:02:00::' 'fortunate%5:00:00:blessed:00'
+ 'fortunately%4:02:00::'], predicted=desert%2:38:02::
+question=['most' 'mostly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:02::
+question=['most' 'mostly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=monotonous%5:00:00:unmodulated:00
+question=['most' 'mostly%4:02:00::' 'immediate%5:00:00:proximate:00'
+ 'immediately%4:02:05::'], predicted=draining
 question=['most' 'mostly%4:02:00::' 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=mainly%4:02:00::
-question=['most' 'mostly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=elephant%1:10:00::
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=morris%1:18:00::
+question=['most' 'mostly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=afraid%5:00:00:disinclined:00
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=could
+ 'possibly%4:02:01::'], predicted=aspect%1:07:02::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=exact%3:00:00::
+ 'precisely%4:02:01::'], predicted=precise
 question=['obvious%3:00:00::' 'obviously%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=tender%1:21:00::
+ 'quickly'], predicted=greatly
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=babysitter%1:18:00::
+ 'quietly'], predicted=anymore%4:02:01::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'rapid%5:00:00:fast:01'
  'rapidly%4:02:00::'], predicted=growth%1:22:00::
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=extremely
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=ffc
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=favorite%5:00:00:loved:00
+ 'reluctantly%4:02:00::'], predicted=waite%1:18:00::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=safe%5:00:00:unadventurous:00
+ 'safely%4:02:00::'], predicted=piercer
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=criminal%5:00:00:guilty:00
+ 'seriously%4:02:00::'], predicted=restitutionary
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=ice%1:17:00::
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=bitter%5:00:00:painful:00
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=camilla
+ 'swiftly%4:02:00::'], predicted=olympia%1:15:00::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=guest%1:18:02::
+ 'unfortunately%4:02:00::'], predicted=simply
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=generally%4:02:02::
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=comic%5:00:00:humorous:00
+ 'usually%4:02:00::'], predicted=fraenkel
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=jeckel
 question=['obvious%3:00:00::' 'obviously%4:02:00::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'calm' 'calmly'], predicted=single%1:04:00::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=luminosity%1:07:00::
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'calm' 'calmly'], predicted=lean%3:00:00::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=babysitter%1:18:00::
+ 'cheerfully%4:02:00::'], predicted=sanguine%5:00:00:optimistic:00
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=fraction%1:06:00::
+ 'completely%4:02:04::'], predicted=full%3:00:01::
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'efficient%5:00:00:competent:00'
+ 'efficiently%4:02:00::'], predicted=greatly
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=tammy%1:06:00::
+ 'fortunately%4:02:00::'], predicted=sophocles
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:02::
-question=['obvious%3:00:00::' 'obviously%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=baby%1:18:00::
+ 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+question=['obvious%3:00:00::' 'obviously%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=caribou
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=condition%1:09:01::
+ 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=anguilla
+ 'infrequently%4:02:00::'], predicted=greenlandic
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=duet%1:23:00::
+ 'luckily%4:02:00::'], predicted=limp%1:04:00::
 question=['obvious%3:00:00::' 'obviously%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['occasional' 'occasionally%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=sometimes%4:02:01::
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['occasional' 'occasionally%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=commonly%4:02:00::
+ 'precisely%4:02:01::'], predicted=loci
 question=['occasional' 'occasionally%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['occasional' 'occasionally%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=later%4:02:02::
-question=['occasional' 'occasionally%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=simply%4:02:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
+question=['occasional' 'occasionally%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=flipping
+question=['occasional' 'occasionally%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=tallit
 question=['occasional' 'occasionally%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=process%1:03:00::
-question=['occasional' 'occasionally%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=commonly%4:02:00::
-question=['occasional' 'occasionally%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=sometimes%4:02:01::
+ 'rapidly%4:02:00::'], predicted=pneumatic%3:01:00::
+question=['occasional' 'occasionally%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
+question=['occasional' 'occasionally%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=spiritualist%1:18:00::
 question=['occasional' 'occasionally%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=sometimes%4:02:01::
+ 'safely%4:02:00::'], predicted=unsafe%5:00:00:vulnerable:00
 question=['occasional' 'occasionally%4:02:00::' 'serious%5:00:00:important:00'
  'seriously%4:02:00::'], predicted=frequently%4:02:00::
-question=['occasional' 'occasionally%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=process%1:03:00::
-question=['occasional' 'occasionally%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=sometimes%4:02:01::
+question=['occasional' 'occasionally%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
+question=['occasional' 'occasionally%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=spiral%1:06:00::
 question=['occasional' 'occasionally%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=sometimes%4:02:01::
+ 'swiftly%4:02:00::'], predicted=mock%1:04:00::
 question=['occasional' 'occasionally%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=frequently%4:02:00::
+ 'unfortunately%4:02:00::'], predicted=obviously%4:02:00::
 question=['occasional%5:00:00:unpredictable:00' 'occasionally%4:02:00::'
- 'usual%3:00:00::' 'usually%4:02:00::'], predicted=generally%4:02:02::
-question=['occasional' 'occasionally%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=various%5:00:00:different:00
+ 'usual%3:00:00::' 'usually%4:02:00::'], predicted=rarely%4:02:00::
+question=['occasional' 'occasionally%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=spidey
 question=['occasional' 'occasionally%4:02:00::' 'apparent%5:00:00:superficial:00'
  'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['occasional' 'occasionally%4:02:00::' 'calm' 'calmly'], predicted=loosely%4:02:02::
+question=['occasional' 'occasionally%4:02:00::' 'calm' 'calmly'], predicted=tame%2:30:00::
 question=['occasional' 'occasionally%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=commonly%4:02:00::
+ 'cheerfully%4:02:00::'], predicted=metta
 question=['occasional' 'occasionally%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=full%3:00:01::
+ 'completely%4:02:04::'], predicted=modified%5:00:00:qualified:02
+question=['occasional' 'occasionally%4:02:00::' 'efficient%5:00:00:competent:00'
+ 'efficiently%4:02:00::'], predicted=cumbersome%5:00:00:unwieldy:00
 question=['occasional' 'occasionally%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=often%4:02:01::
+ 'fortunately%4:02:00::'], predicted=romantically%4:02:01::
 question=['occasional' 'occasionally%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
-question=['occasional' 'occasionally%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=happy%5:00:00:willing:00
+question=['occasional' 'occasionally%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=caribou
 question=['occasional' 'occasionally%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=commonly%4:02:00::
+ 'immediately%4:02:05::'], predicted=threshold%1:06:01::
 question=['occasional' 'occasionally%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=sometimes%4:02:01::
+ 'infrequently%4:02:00::'], predicted=often%4:02:01::
 question=['occasional' 'occasionally%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=sometimes%4:02:01::
-question=['occasional' 'occasionally%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=commonly%4:02:00::
+ 'luckily%4:02:00::'], predicted=unlucky%3:00:00::
+question=['occasional' 'occasionally%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['occasional' 'occasionally%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=frequently%4:02:00::
+ 'obviously%4:02:00::'], predicted=common%5:00:00:shared:00
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:00:02::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=sack%2:35:00::
+ 'quickly'], predicted=succession%1:07:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=rent%2:41:00::
+ 'quietly'], predicted=morrison%1:18:01::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=bulge%1:25:00::
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:uncommon:00
+ 'rapidly%4:02:00::'], predicted=disruption%1:26:00::
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=possibly
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=charioteer%1:18:00::
+ 'reluctantly%4:02:00::'], predicted=orestes
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=consignee%1:18:00::
+ 'safely%4:02:00::'], predicted=stewardess%1:18:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=commit%2:41:00::
+ 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=death%1:26:01::
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=weakening%1:11:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=byron%1:18:00::
+ 'swiftly%4:02:00::'], predicted=quail%1:13:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=late%3:00:01::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=quail%1:13:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=tuxedo%1:06:00::
+ 'unfortunately%4:02:00::'], predicted=apparently%4:02:01::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=supposedly%4:02:00::
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
+ 'usually%4:02:00::'], predicted=fratres
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=jeckel
 question=['possible%3:00:00::' 'possibly%4:02:01::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'calm' 'calmly'], predicted=lukewarm%5:00:00:warm:01
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=harshness%1:07:01::
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'calm' 'calmly'], predicted=unharmed
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'cheerful%5:00:00:optimistic:00'
- 'cheerfully%4:02:00::'], predicted=night%1:28:02::
+ 'cheerfully%4:02:00::'], predicted=awakens
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=partial%5:00:00:inclined:02
+ 'completely%4:02:04::'], predicted=lacuscurtius
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'efficient%5:00:00:competent:00'
- 'efficiently%4:02:00::'], predicted=much%4:02:04::
+ 'efficiently%4:02:00::'], predicted=perhaps%4:02:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=hapless%5:00:00:unfortunate:00
+ 'fortunately%4:02:00::'], predicted=orestes
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=night%1:28:02::
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=tob
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'immediate%5:00:00:proximate:00'
  'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=dagenham
+ 'infrequently%4:02:00::'], predicted=chill%1:26:01::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=nickname%2:32:00::
-question=['possible%3:00:00::' 'possibly%4:02:01::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:01::
+ 'luckily%4:02:00::'], predicted=prodigal%5:00:00:wasteful:00
+question=['possible%3:00:00::' 'possibly%4:02:01::' 'most' 'mostly%4:02:00::'], predicted=perhaps%4:02:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=unusual%3:00:00::
+ 'obviously%4:02:00::'], predicted=perhaps%4:02:00::
 question=['possible%3:00:00::' 'possibly%4:02:01::' 'occasional'
- 'occasionally%4:02:00::'], predicted=dust%2:35:02::
+ 'occasionally%4:02:00::'], predicted=sogdian
 question=['precise%3:00:00::' 'precisely%4:02:01::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=amateur%5:00:01:unprofessional:00
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=office%1:14:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'quick%5:00:00:hurried:00'
  'quickly'], predicted=succession%1:07:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=washington%1:18:01::
+ 'quietly'], predicted=welcome%1:10:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=massive%5:00:02:large:00
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=manx
+ 'rapidly%4:02:00::'], predicted=wave%1:04:02::
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=hard%5:00:00:strong:00
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=george%1:18:04::
+ 'reluctantly%4:02:00::'], predicted=barber%2:29:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'safe%5:00:00:sound:00'
  'safely%4:02:00::'], predicted=safe%5:00:00:unadventurous:00
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=severe%5:00:00:critical:03
+ 'seriously%4:02:00::'], predicted=wave%1:04:02::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=crush%2:35:00::
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=wave%1:04:02::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=stela%1:06:00::
+ 'swiftly%4:02:00::'], predicted=macduff
 question=['precise%3:00:00::' 'precisely%4:02:01::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=comprise%2:42:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=transversely%4:02:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=distinctly
+ 'unfortunately%4:02:00::'], predicted=office%1:14:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=propositional
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=marl%1:27:00::
+ 'usually%4:02:00::'], predicted=odd%5:00:00:inexact:00
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=jeckel
 question=['precise%3:00:00::' 'precisely%4:02:01::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=president%1:18:01::
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'calm' 'calmly'], predicted=nonviolent%5:00:00:bloodless:00
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=heir
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'calm' 'calmly'], predicted=try%2:30:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=melancholic%5:00:00:sad:00
+ 'cheerfully%4:02:00::'], predicted=moan%2:32:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=complete%5:00:00:finished:01
+ 'completely%4:02:04::'], predicted=compact%5:00:00:short:03
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=fear%2:37:02::
+ 'fortunately%4:02:00::'], predicted=baronetcy%1:10:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:00::
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=eulogize%2:32:00::
+ 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=old%5:00:00:preceding:00
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=wickedness%1:07:00::
+ 'immediately%4:02:05::'], predicted=protest%1:04:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=outlying
+ 'infrequently%4:02:00::'], predicted=ulster%1:06:00::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=doc
-question=['precise%3:00:00::' 'precisely%4:02:01::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:01::
+ 'luckily%4:02:00::'], predicted=macduff
+question=['precise%3:00:00::' 'precisely%4:02:01::' 'most' 'mostly%4:02:00::'], predicted=amerikkka
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=fear%2:37:02::
+ 'obviously%4:02:00::'], predicted=instant%1:28:01::
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'occasional'
- 'occasionally%4:02:00::'], predicted=distinctly
+ 'occasionally%4:02:00::'], predicted=heylin
 question=['precise%3:00:00::' 'precisely%4:02:01::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=require%2:42:00::
+ 'possibly%4:02:01::'], predicted=easy%3:00:02::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=badly%4:02:12::
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=precarious%5:00:00:insecure:02
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=note%1:21:00::
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=gathering%1:14:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=slow%3:00:03::
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=accelerate%2:30:01::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::' 'rare'
- 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
+ 'rarely%4:02:00::'], predicted=rare%5:00:00:raw:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'reluctant' 'reluctantly%4:02:00::'], predicted=midgard%1:09:00::
+ 'reluctant' 'reluctantly%4:02:00::'], predicted=moonchild
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=resupply
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=expedient%5:00:00:politic:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
  'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
+ 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=fast%3:00:02::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'sudden%3:00:00::' 'suddenly'], predicted=downpour%1:19:00::
+ 'sudden%3:00:00::' 'suddenly'], predicted=ice%1:17:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=poseidon%1:18:00::
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=gulliver%1:18:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=large%5:00:00:rhetorical:00
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=fretted%5:00:00:reticulate:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=formality%1:04:00::
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=happen%2:30:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'usual%3:00:00::' 'usually%4:02:00::'], predicted=slightly%4:02:01::
+ 'usual%3:00:00::' 'usually%4:02:00::'], predicted=incrementally
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'amazing' 'amazingly%4:02:00::'], predicted=magically%4:02:00::
+ 'amazing' 'amazingly%4:02:00::'], predicted=jeckel
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::' 'calm'
- 'calmly'], predicted=colder
+ 'calmly'], predicted=heel%2:35:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=sisterhood%1:14:00::
+ 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=spook%1:18:01::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=full%5:00:01:whole:00
+ 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=concise%3:00:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=grandmother
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=trustworthy%3:00:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
  'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'happy%3:00:00::' 'happily'], predicted=haughton
+ 'happy%3:00:00::' 'happily'], predicted=blacula
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=reckon%2:31:05::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=eel%1:13:00::
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=expletive%1:10:02::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=milione
+ 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=beregond
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::' 'most'
  'mostly%4:02:00::'], predicted=more
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
  'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=apparent%5:00:00:obvious:00
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'occasional' 'occasionally%4:02:00::'], predicted=stuff%1:27:00::
+ 'occasional' 'occasionally%4:02:00::'], predicted=heel%2:35:00::
 question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=far%4:02:02::
-question=['professional%5:00:00:white-collar:00' 'professionally%4:02:00::'
- 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=accurate%3:00:00::
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['quick%5:00:00:hurried:00' 'quickly' 'quiet%5:00:00:calm:00' 'quietly'], predicted=soon%4:02:00::
-question=['quick%5:00:00:hurried:00' 'quickly%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=increased%3:00:00::
-question=['quick%5:00:00:hurried:00' 'quickly' 'rare' 'rarely%4:02:00::'], predicted=difficult%3:00:00::
+question=['quick%5:00:00:hurried:00' 'quickly' 'rare' 'rarely%4:02:00::'], predicted=hard%5:00:00:indulgent:00
 question=['quick%5:00:00:hurried:00' 'quickly' 'reluctant' 'reluctantly%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'safe%5:00:00:sound:00'
  'safely%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
+ 'seriously%4:02:00::'], predicted=rapidly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=rapidly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'sudden%3:00:00::'
  'suddenly%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'swift%5:00:00:fast:01'
  'swiftly%4:02:00::'], predicted=soon%4:02:00::
+question=['quick%5:00:00:hurried:00' 'quickly' 'typical%5:00:00:characteristic:00'
+ 'typically%4:02:00::'], predicted=rapidly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'unfortunate%3:00:00::'
  'unfortunately%4:02:00::'], predicted=soon%4:02:00::
-question=['quick%5:00:00:hurried:00' 'quickly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=much
-question=['quick%5:00:00:hurried:00' 'quickly' 'amazing' 'amazingly%4:02:00::'], predicted=start%2:38:01::
+question=['quick%5:00:00:hurried:00' 'quickly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=soon%4:02:00::
+question=['quick%5:00:00:hurried:00' 'quickly' 'amazing' 'amazingly%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'apparent%5:00:00:superficial:00'
- 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['quick%5:00:00:hurried:00' 'quickly' 'calm' 'calmly'], predicted=soon%4:02:00::
+ 'apparently'], predicted=soon%4:02:00::
+question=['quick%5:00:00:hurried:00' 'quickly' 'calm' 'calmly'], predicted=rapidly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'cheerful%3:00:00::'
  'cheerfully%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'complete%5:00:00:perfect:00'
@@ -919,69 +930,75 @@ question=['quick%5:00:00:hurried:00' 'quickly' 'fortunate%5:00:00:blessed:00'
 question=['quick%5:00:00:hurried:00' 'quickly' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'happy%3:00:00::' 'happily'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'immediate%5:00:00:fast:01'
- 'immediately%4:02:05::'], predicted=soon%4:02:00::
+ 'immediately%4:02:05::'], predicted=quickly%4:02:02::
 question=['quick%5:00:00:hurried:00' 'quickly' 'infrequent%3:00:00::'
  'infrequently%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=soon%4:02:00::
-question=['quick%5:00:00:hurried:00' 'quickly' 'most' 'mostly%4:02:00::'], predicted=most%3:00:01::
+question=['quick%5:00:00:hurried:00' 'quickly' 'most' 'mostly%4:02:00::'], predicted=increasingly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'obvious%3:00:00::'
  'obviously%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'occasional' 'occasionally%4:02:00::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=difficult%3:00:00::
+ 'possibly%4:02:01::'], predicted=soon%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=exact%3:00:00::
+ 'precisely%4:02:01::'], predicted=rapidly%4:02:00::
 question=['quick%5:00:00:hurried:00' 'quickly'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['quiet%5:00:00:calm:00' 'quietly' 'rare' 'rarely%4:02:00::'], predicted=spoil%2:30:02::
-question=['quiet%5:00:00:calm:00' 'quietly' 'reluctant' 'reluctantly%4:02:00::'], predicted=lock%2:35:04::
+question=['quiet%5:00:00:calm:00' 'quietly' 'rapid%5:00:00:fast:01'
+ 'rapidly%4:02:00::'], predicted=step%1:06:01::
+question=['quiet%5:00:00:calm:00' 'quietly' 'rare' 'rarely%4:02:00::'], predicted=boot%2:29:00::
+question=['quiet%5:00:00:calm:00' 'quietly' 'reluctant' 'reluctantly%4:02:00::'], predicted=adoptive%3:00:04::
 question=['quiet%5:00:00:calm:00' 'quietly' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=spoil%2:30:02::
+ 'safely%4:02:00::'], predicted=level%5:00:00:steady:00
 question=['quiet%5:00:00:calm:00' 'quietly' 'serious%5:00:00:important:00'
  'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
-question=['quiet%5:00:00:calm:00' 'quietly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=spoil%2:30:02::
-question=['quiet%5:00:00:calm:00' 'quietly' 'sudden%3:00:00::' 'suddenly'], predicted=spoil%2:30:02::
+question=['quiet%5:00:00:calm:00' 'quietly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=level%5:00:00:steady:00
+question=['quiet%5:00:00:calm:00' 'quietly' 'sudden%3:00:00::' 'suddenly'], predicted=spengler%1:18:00::
 question=['quiet%5:00:00:calm:00' 'quietly' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=shot%1:04:03::
+ 'swiftly%4:02:00::'], predicted=terboven
 question=['quiet%5:00:00:calm:00' 'quietly' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=different%5:00:00:other:00
+ 'typically%4:02:00::'], predicted=unlocked%5:00:00:unfastened:00
 question=['quiet%5:00:00:calm:00' 'quietly' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=retort%2:32:00::
-question=['quiet%5:00:00:calm:00' 'quietly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=likely%5:00:00:prospective:00
-question=['quiet%5:00:00:calm:00' 'quietly' 'amazing' 'amazingly%4:02:00::'], predicted=spoil%2:30:02::
+ 'unfortunately%4:02:00::'], predicted=aside%1:10:01::
+question=['quiet%5:00:00:calm:00' 'quietly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=swerve%1:04:00::
+question=['quiet%5:00:00:calm:00' 'quietly' 'amazing' 'amazingly%4:02:00::'], predicted=hulk
 question=['quiet%5:00:00:calm:00' 'quietly' 'apparent%5:00:00:superficial:00'
  'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['quiet%5:00:00:calm:00' 'quietly' 'calm' 'calmly'], predicted=spoil%2:30:02::
+question=['quiet%5:00:00:calm:00' 'quietly' 'calm' 'calmly'], predicted=inexperienced
 question=['quiet%5:00:00:calm:00' 'quietly' 'cheerful%3:00:00::'
  'cheerfully%4:02:00::'], predicted=terribly%4:02:00::
+question=['quiet%5:00:00:calm:00' 'quietly' 'complete%5:00:00:perfect:00'
+ 'completely%4:02:04::'], predicted=recovered
+question=['quiet%5:00:00:calm:00' 'quietly' 'efficient%5:00:00:competent:00'
+ 'efficiently%4:02:00::'], predicted=noisy
 question=['quiet%5:00:00:calm:00' 'quietly' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=spoil%2:30:02::
+ 'fortunately%4:02:00::'], predicted=want%2:34:00::
 question=['quiet%5:00:00:calm:00' 'quietly%4:02:01::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%3:00:00::
-question=['quiet%5:00:00:calm:00' 'quietly' 'happy%3:00:00::' 'happily'], predicted=spoil%2:30:02::
+question=['quiet%5:00:00:calm:00' 'quietly' 'happy%3:00:00::' 'happily'], predicted=stern%5:00:00:implacable:00
 question=['quiet%5:00:00:calm:00' 'quietly' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=amine
+ 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['quiet%5:00:00:calm:00' 'quietly' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=spoil%2:30:02::
-question=['quiet%5:00:00:calm:00' 'quietly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=spoil%2:30:02::
-question=['quiet%5:00:00:calm:00' 'quietly' 'most' 'mostly%4:02:00::'], predicted=various
+ 'infrequently%4:02:00::'], predicted=stern%5:00:00:implacable:00
+question=['quiet%5:00:00:calm:00' 'quietly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=terboven
+question=['quiet%5:00:00:calm:00' 'quietly' 'most' 'mostly%4:02:00::'], predicted=previous
 question=['quiet%5:00:00:calm:00' 'quietly' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=likely%5:00:00:prospective:00
-question=['quiet%5:00:00:calm:00' 'quietly' 'occasional' 'occasionally%4:02:00::'], predicted=diphtheria%1:26:00::
+ 'obviously%4:02:00::'], predicted=shipper%1:18:00::
+question=['quiet%5:00:00:calm:00' 'quietly' 'occasional' 'occasionally%4:02:00::'], predicted=aside%1:10:01::
 question=['quiet%5:00:00:calm:00' 'quietly' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=intend%2:31:00::
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['quiet%5:00:00:calm:00' 'quietly' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=fahrenheit%3:01:00::
+ 'precisely%4:02:01::'], predicted=eurostat
 question=['quiet%5:00:00:calm:00' 'quietly' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['quiet%5:00:00:calm:00' 'quietly' 'quick%5:00:00:hurried:00' 'quickly'], predicted=spoil%2:30:02::
-question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
+ 'professionally%4:02:00::'], predicted=lebeau
+question=['quiet%5:00:00:calm:00' 'quietly' 'quick%5:00:00:hurried:00' 'quickly'], predicted=multiprogramming
+question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:raw:00
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'reluctant'
  'reluctantly%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'safe%5:00:00:sound:00'
  'safely%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=serious%3:00:02::
+ 'seriously%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=quickly
@@ -990,7 +1007,7 @@ question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'swift%5:00:00:fast:01'
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::'
  'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=mislead%2:32:00::
+ 'unfortunately%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'usual%3:00:00::'
  'usually%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'amazing'
@@ -1005,380 +1022,382 @@ question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'complete%5:00:00:perfect:
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::'
  'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=pretentious%3:00:00::
+ 'fortunately%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+ 'freely%4:02:00::'], predicted=free%3:00:02::
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::'
  'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=compound%2:30:01::
+ 'infrequently%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=treasure%1:21:00::
-question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=more
+ 'luckily%4:02:00::'], predicted=love%2:37:01::
+question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=increasingly%4:02:00::
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=difficult%3:00:00::
+ 'obviously%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'occasional'
  'occasionally%4:02:00::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'possible%3:00:00::'
  'possibly%4:02:01::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=exact%3:00:00::
+ 'precisely%4:02:01::'], predicted=quickly
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=academic%5:00:00:theoretical:01
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['rapid%5:00:00:fast:01' 'rapidly%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=beautiful
-question=['rare' 'rarely%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=indoctrinate%2:31:00::
-question=['rare' 'rarely%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=generally%4:02:02::
+ 'quietly'], predicted=quickly
+question=['rare' 'rarely%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=typecast
+question=['rare' 'rarely%4:02:00::' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=suitable%5:00:00:fit:02
 question=['rare' 'rarely%4:02:00::' 'serious%5:00:00:important:00'
  'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['rare' 'rarely%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%3:00:03::
-question=['rare' 'rarely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=impulse%1:04:01::
-question=['rare' 'rarely%4:02:00::' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=pray%2:32:00::
+question=['rare' 'rarely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=unfold%2:30:00::
+question=['rare' 'rarely%4:02:00::' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=pike%1:06:02::
 question=['rare' 'rarely%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=occasionally%4:02:00::
-question=['rare' 'rarely%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=generally%4:02:01::
-question=['rare' 'rarely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=start%2:38:01::
+ 'unfortunately%4:02:00::'], predicted=often%4:02:01::
+question=['rare' 'rarely%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=often%4:02:01::
+question=['rare' 'rarely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
 question=['rare' 'rarely%4:02:00::' 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['rare' 'rarely%4:02:00::' 'calm' 'calmly'], predicted=occasionally%4:02:00::
-question=['rare' 'rarely%4:02:00::' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=generally%4:02:02::
+question=['rare' 'rarely%4:02:00::' 'calm' 'calmly'], predicted=tolerably%4:02:01::
+question=['rare' 'rarely%4:02:00::' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=frighten%2:37:01::
 question=['rare' 'rarely%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=rigorous%5:00:00:exact:00
+ 'completely%4:02:04::'], predicted=concise%3:00:00::
 question=['rare' 'rarely%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=leave%2:42:01::
+ 'fortunately%4:02:00::'], predicted=ananus
 question=['rare' 'rarely%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
-question=['rare' 'rarely%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=want%2:31:01::
+question=['rare' 'rarely%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=often%4:02:01::
 question=['rare' 'rarely%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=valid%5:00:00:unexpired:00
-question=['rare' 'rarely%4:02:00::' 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=occasionally%4:02:00::
+ 'immediately%4:02:05::'], predicted=safewords
+question=['rare' 'rarely%4:02:00::' 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=often%4:02:01::
 question=['rare' 'rarely%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=often%4:02:01::
 question=['rare' 'rarely%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%3:00:02::
-question=['rare' 'rarely%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=merely%4:02:00::
-question=['rare' 'rarely%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=can
-question=['rare' 'rarely%4:02:00::' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=generally%4:02:01::
+question=['rare' 'rarely%4:02:00::' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=often%4:02:01::
+question=['rare' 'rarely%4:02:00::' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=instead%4:02:00::
+question=['rare' 'rarely%4:02:00::' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=formal%5:00:00:nonrepresentational:00
 question=['rare' 'rarely%4:02:00::' 'professional%5:00:00:white-collar:00'
  'professionally%4:02:00::'], predicted=professional%3:01:01::
 question=['rare' 'rarely%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=repeatedly%4:02:00::
-question=['rare' 'rarely%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=expression%1:10:05::
-question=['rare' 'rarely%4:02:00::' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=growth%1:22:00::
+question=['rare' 'rarely%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=climax%1:26:00::
+question=['rare' 'rarely%4:02:00::' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=urbanization%1:26:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=effective%5:00:00:actual:00
+ 'safely%4:02:00::'], predicted=reconvene%2:38:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=breach%1:04:01::
-question=['reluctant' 'reluctantly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=slow%5:00:00:inactive:03
-question=['reluctant' 'reluctantly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=gradual%3:00:01::
+ 'seriously%4:02:00::'], predicted=dismantlement%1:04:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=stall%2:38:01::
+question=['reluctant' 'reluctantly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=trigger%2:33:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=noncommunist
-question=['reluctant' 'reluctantly%4:02:00::' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=simplified%5:00:00:easy:01
+ 'swiftly%4:02:00::'], predicted=breakaway%5:00:00:independent:00
 question=['reluctant' 'reluctantly%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=mislead%2:32:00::
-question=['reluctant' 'reluctantly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=simplified%5:00:00:easy:01
-question=['reluctant' 'reluctantly%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
+ 'unfortunately%4:02:00::'], predicted=nahash
+question=['reluctant' 'reluctantly%4:02:00::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=taif%1:15:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=reconvene%2:38:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'apparent%5:00:00:superficial:00'
- 'apparently'], predicted=peacefully%4:02:00::
-question=['reluctant' 'reluctantly%4:02:00::' 'calm' 'calmly'], predicted=amboise
+ 'apparently'], predicted=reconvene%2:38:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'calm' 'calmly'], predicted=watchful%3:00:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=realize%2:40:00::
+ 'cheerfully%4:02:00::'], predicted=toves
 question=['reluctant' 'reluctantly%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=full%3:00:01::
+ 'completely%4:02:04::'], predicted=comprehensive%5:00:00:inclusive:00
 question=['reluctant' 'reluctantly%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=chance%1:26:00::
-question=['reluctant' 'reluctantly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:02::
-question=['reluctant' 'reluctantly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=peacefully%4:02:00::
+ 'fortunately%4:02:00::'], predicted=reconvene%2:38:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+question=['reluctant' 'reluctantly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=monday
 question=['reluctant' 'reluctantly%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=peacefully%4:02:00::
+ 'immediately%4:02:05::'], predicted=withdraw
 question=['reluctant' 'reluctantly%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=ceasefire
-question=['reluctant' 'reluctantly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=alone
-question=['reluctant' 'reluctantly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:01::
+ 'infrequently%4:02:00::'], predicted=isolated%5:00:00:sporadic:00
+question=['reluctant' 'reluctantly%4:02:00::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=para%1:23:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['reluctant' 'reluctantly%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=embarrassing%5:00:00:unpleasant:00
-question=['reluctant' 'reluctantly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=amboise
+ 'obviously%4:02:00::'], predicted=entrenched
+question=['reluctant' 'reluctantly%4:02:00::' 'occasional' 'occasionally%4:02:00::'], predicted=taif%1:15:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=necessary%3:00:00::
+ 'possibly%4:02:01::'], predicted=uniformity
 question=['reluctant' 'reluctantly%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=accurate%3:00:00::
+ 'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['reluctant' 'reluctantly%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
-question=['reluctant' 'reluctantly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=republics
+ 'professionally%4:02:00::'], predicted=internship%1:04:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=reconvene%2:38:00::
+question=['reluctant' 'reluctantly%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=reconvene%2:38:00::
 question=['reluctant' 'reluctantly%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=gradual%3:00:01::
-question=['reluctant' 'reluctantly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:raw:00
+ 'rapidly%4:02:00::'], predicted=stall%2:38:01::
+question=['reluctant' 'reluctantly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:extraordinary:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'serious%5:00:00:important:00'
  'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=slow%2:30:05::
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=malfunction%1:11:00::
+ 'slowly%4:02:01::'], predicted=accelerate%2:30:01::
+question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=unconsciousness%1:09:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=tank%1:06:01::
+ 'swiftly%4:02:00::'], predicted=wreck%1:11:01::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::'
- 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=rubble%1:27:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=dive%1:04:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=infrequent
+ 'unfortunately%4:02:00::'], predicted=endlessly
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'usual%3:00:00::'
  'usually%4:02:00::'], predicted=ordinary%3:00:00::
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=cil
+question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'calm' 'calmly'], predicted=rubble
+question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'calm' 'calmly'], predicted=bad%5:00:00:intense:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=jablonski
+ 'cheerfully%4:02:00::'], predicted=meditate%2:31:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=complete%5:00:00:finished:01
+ 'completely%4:02:04::'], predicted=partial%5:00:00:incomplete:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=demesne%1:15:00::
+ 'fortunately%4:02:00::'], predicted=landfall%1:04:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:00::
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=birthday%1:28:00::
+ 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=night%1:28:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::'
  'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=slug%1:04:00::
+ 'infrequently%4:02:00::'], predicted=isolated%5:00:00:sporadic:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=pesci
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=several
+ 'luckily%4:02:00::'], predicted=vividly%4:02:00::
+question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=noticeable%3:00:04::
+ 'obviously%4:02:00::'], predicted=precisely%4:02:02::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=fielding%1:04:00::
+ 'occasionally%4:02:00::'], predicted=arise
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=can
-question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=definition%1:07:00::
+ 'possibly%4:02:01::'], predicted=difficult%3:00:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::'
- 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
+ 'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=biog
+ 'quickly'], predicted=blackout
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=alone%5:00:00:unaccompanied:00
+ 'quietly'], predicted=sturgis
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'rapid%5:00:00:fast:01'
  'rapidly%4:02:00::'], predicted=accelerate%2:30:01::
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:scarce:00
 question=['safe%5:00:00:sound:00' 'safely%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=salvo%1:04:00::
+ 'reluctantly%4:02:00::'], predicted=confront%2:33:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'slow%3:00:02::'
  'slowly%4:02:01::'], predicted=faster%4:02:01::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'sudden%3:00:00::'
- 'suddenly'], predicted=arafat
+ 'suddenly'], predicted=tragic%5:00:00:sad:00
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=meantime%1:28:00::
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=gulliver%1:18:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=nightclub%1:06:00::
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=different%3:00:00::
+question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=place%1:10:02::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=traditional%3:00:00::
+ 'usually%4:02:00::'], predicted=consistent%3:00:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=oblong
+ 'amazingly%4:02:00::'], predicted=updated
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'calm' 'calmly'], predicted=gather
+question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'calm' 'calmly'], predicted=comfortably
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=newman%1:18:00::
+ 'cheerfully%4:02:00::'], predicted=hesychasts
 question=['serious%3:00:02::' 'seriously%4:02:00::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=translation%1:24:00::
+ 'completely%4:02:04::'], predicted=detailed%5:00:00:careful:00
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=costanza
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=trustworthy%3:00:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'free%3:00:01::'
  'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'happy%3:00:00::'
- 'happily'], predicted=grunt%1:05:00::
+ 'happily'], predicted=birthday
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=burke%1:18:00::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=office%1:14:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=gawler
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=pubs
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=alright%5:00:00:satisfactory:00
+ 'luckily%4:02:00::'], predicted=headstrong%5:00:00:disobedient:00
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'most'
  'mostly%4:02:00::'], predicted=more
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=surprising%3:00:00::
+ 'obviously%4:02:00::'], predicted=clear%3:00:02::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=centris
+ 'occasionally%4:02:00::'], predicted=wood%1:18:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=teach%2:30:00::
+ 'possibly%4:02:01::'], predicted=impossible%3:00:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=accurate%3:00:00::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:00:01::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=burke%1:18:00::
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=straight%5:00:00:erect:00
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=home%1:06:00::
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=abolitionist
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=deployment%1:04:00::
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=busway
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'rare'
- 'rarely%4:02:00::'], predicted=small%3:00:00::
+ 'rarely%4:02:00::'], predicted=place%1:10:02::
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=newman%1:18:00::
+ 'reluctantly%4:02:00::'], predicted=exner
 question=['serious%5:00:00:important:00' 'seriously%4:02:00::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=cabin%1:06:02::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=fall%2:35:00::
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=friendly%3:00:03::
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'sudden%3:00:00::' 'suddenly'], predicted=unfold%2:30:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=stela%1:06:00::
+ 'swiftly%4:02:00::'], predicted=endless%5:00:02:infinite:00
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=wide%3:00:02::
+ 'typically%4:02:00::'], predicted=truncated%5:00:00:short:02
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=clash%2:32:00::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=traditional%3:00:00::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=truncated%5:00:00:short:02
+ 'unfortunately%4:02:00::'], predicted=bargain%1:10:00::
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=truncated%5:00:00:short:02
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'amazing' 'amazingly%4:02:00::'], predicted=endless%5:00:02:infinite:00
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'apparent%5:00:00:superficial:00'
  'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'calm' 'calmly'], predicted=till%2:36:00::
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'calm' 'calmly'], predicted=suddenly%4:02:04::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=picta
+ 'cheerfully%4:02:00::'], predicted=demigod%1:18:01::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=comprehensive%5:00:00:inclusive:00
+ 'completely%4:02:04::'], predicted=volume%1:10:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'efficient%5:00:00:competent:00'
  'efficiently%4:02:00::'], predicted=sophisticated%3:00:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=scipio
+ 'fortunately%4:02:00::'], predicted=cybele%1:18:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=picta
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'happy%3:00:00::' 'happily'], predicted=bloom%1:22:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'immediate%5:00:00:proximate:00'
  'immediately%4:02:05::'], predicted=wide%3:00:02::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=kingdom%1:15:00::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=fall%2:35:00::
+ 'infrequently%4:02:00::'], predicted=sprawling%5:00:00:untidy:00
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=love%2:37:01::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'most' 'mostly%4:02:00::'], predicted=most%4:02:01::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=richman
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'occasional' 'occasionally%4:02:00::'], predicted=frost%1:27:00::
+ 'obviously%4:02:00::'], predicted=troublesome%5:00:00:difficult:00
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'occasional' 'occasionally%4:02:00::'], predicted=gradually%4:02:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'possible%3:00:00::'
  'possibly%4:02:01::'], predicted=gradually%4:02:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=determination%1:04:00::
+ 'precisely%4:02:01::'], predicted=situs
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=professional%3:01:01::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=freyja%1:18:00::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=beautiful
+ 'professionally%4:02:00::'], predicted=professional%3:00:02::
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=endless%5:00:02:infinite:00
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=melody%1:10:00::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=wide%3:00:02::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=heel%2:35:00::
-question=['slow%3:00:02::' 'slowly%4:02:01::' 'reluctant' 'reluctantly%4:02:00::'], predicted=lover%1:18:02::
+ 'rapidly%4:02:00::'], predicted=urbanization%1:26:00::
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:extraordinary:00
+question=['slow%3:00:02::' 'slowly%4:02:01::' 'reluctant' 'reluctantly%4:02:00::'], predicted=bosom%1:08:01::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=lover%1:18:02::
+ 'safely%4:02:00::'], predicted=groom%1:18:02::
 question=['slow%3:00:02::' 'slowly%4:02:01::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=well%1:06:02::
-question=['sudden%3:00:00::' 'suddenly' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=grill%2:30:00::
+ 'seriously%4:02:00::'], predicted=serious%3:00:02::
+question=['sudden%3:00:00::' 'suddenly' 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=remark
 question=['sudden%3:00:00::' 'suddenly' 'typical%5:00:00:characteristic:00'
- 'typically%4:02:00::'], predicted=meter%1:10:00::
+ 'typically%4:02:00::'], predicted=actually%4:02:00::
 question=['sudden%3:00:00::' 'suddenly' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=advise%2:32:00::
-question=['sudden%3:00:00::' 'suddenly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=baby
-question=['sudden%3:00:00::' 'suddenly' 'amazing' 'amazingly%4:02:00::'], predicted=compilation
+ 'unfortunately%4:02:00::'], predicted=thankful%3:00:00::
+question=['sudden%3:00:00::' 'suddenly' 'usual%3:00:00::' 'usually%4:02:00::'], predicted=generally%4:02:00::
+question=['sudden%3:00:00::' 'suddenly' 'amazing' 'amazingly%4:02:00::'], predicted=fantastic
 question=['sudden%3:00:00::' 'suddenly' 'apparent%5:00:00:superficial:00'
- 'apparently'], predicted=heir
-question=['sudden%3:00:00::' 'suddenly' 'calm' 'calmly'], predicted=townsville
-question=['sudden%3:00:00::' 'suddenly' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=maximillian
+ 'apparently'], predicted=grandchild%1:18:00::
+question=['sudden%3:00:00::' 'suddenly' 'calm' 'calmly'], predicted=tame%2:30:00::
+question=['sudden%3:00:00::' 'suddenly' 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=tithonus
 question=['sudden%3:00:00::' 'suddenly' 'complete%5:00:00:perfect:00'
- 'completely%4:02:04::'], predicted=fully
-question=['sudden%3:00:00::' 'suddenly' 'efficient%5:00:00:competent:00'
- 'efficiently%4:02:00::'], predicted=efficient
+ 'completely%4:02:04::'], predicted=polg
 question=['sudden%3:00:00::' 'suddenly' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=joke%2:32:00::
-question=['sudden%3:00:00::' 'suddenly' 'free%3:00:01::' 'freely%4:02:00::'], predicted=trade%1:04:05::
-question=['sudden%3:00:00::' 'suddenly' 'happy%3:00:00::' 'happily'], predicted=baby
+ 'fortunately%4:02:00::'], predicted=ruin%1:04:00::
+question=['sudden%3:00:00::' 'suddenly' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
+question=['sudden%3:00:00::' 'suddenly' 'happy%3:00:00::' 'happily'], predicted=madam
 question=['sudden%3:00:00::' 'suddenly' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=neighbor%1:18:00::
+ 'immediately%4:02:05::'], predicted=suffering%1:26:01::
 question=['sudden%3:00:00::' 'suddenly' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=defence%1:14:00::
-question=['sudden%3:00:00::' 'suddenly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=never
+ 'infrequently%4:02:00::'], predicted=baffin
+question=['sudden%3:00:00::' 'suddenly' 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=trapper
 question=['sudden%3:00:00::' 'suddenly' 'most' 'mostly%4:02:00::'], predicted=still
 question=['sudden%3:00:00::' 'suddenly' 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=easy%3:00:01::
-question=['sudden%3:00:00::' 'suddenly' 'occasional' 'occasionally%4:02:00::'], predicted=magnetism%1:19:00::
-question=['sudden%3:00:00::' 'suddenly' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=yet%4:02:04::
-question=['sudden%3:00:00::' 'suddenly' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=fully
+question=['sudden%3:00:00::' 'suddenly' 'occasional' 'occasionally%4:02:00::'], predicted=remark
+question=['sudden%3:00:00::' 'suddenly' 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=easy%3:00:01::
+question=['sudden%3:00:00::' 'suddenly' 'precise%3:00:00::' 'precisely%4:02:01::'], predicted=determine%2:32:01::
 question=['sudden%3:00:00::' 'suddenly' 'professional%5:00:00:white-collar:00'
- 'professionally%4:02:00::'], predicted=fully
+ 'professionally%4:02:00::'], predicted=nurse%2:37:00::
 question=['sudden%3:00:00::' 'suddenly%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=attacked
-question=['sudden%3:00:00::' 'suddenly' 'quiet%5:00:00:calm:00' 'quietly'], predicted=bedroom%1:06:00::
-question=['sudden%3:00:00::' 'suddenly' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=transit%1:06:00::
-question=['sudden%3:00:00::' 'suddenly' 'rare' 'rarely%4:02:00::'], predicted=quite%4:02:03::
-question=['sudden%3:00:00::' 'suddenly' 'reluctant' 'reluctantly%4:02:00::'], predicted=never
-question=['sudden%3:00:00::' 'suddenly' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=icarus
+ 'quickly'], predicted=unreachable%5:00:00:inaccessible:00
+question=['sudden%3:00:00::' 'suddenly' 'quiet%5:00:00:calm:00' 'quietly'], predicted=sober
+question=['sudden%3:00:00::' 'suddenly' 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=successfully%4:02:00::
+question=['sudden%3:00:00::' 'suddenly' 'rare' 'rarely%4:02:00::'], predicted=extremely
+question=['sudden%3:00:00::' 'suddenly' 'reluctant' 'reluctantly%4:02:00::'], predicted=beregond
+question=['sudden%3:00:00::' 'suddenly' 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=unsafe
 question=['sudden%3:00:00::' 'suddenly' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=contemplate
-question=['sudden%3:00:00::' 'suddenly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=faster%4:02:01::
+ 'seriously%4:02:00::'], predicted=angered%5:00:00:angry:00
+question=['sudden%3:00:00::' 'suddenly' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=easy%3:00:01::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=subdue%2:41:00::
+ 'unfortunately%4:02:00::'], predicted=impetus
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=normal%3:00:03::
+ 'usually%4:02:00::'], predicted=correlated%5:00:00:related:02
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=marl%1:27:00::
+ 'amazingly%4:02:00::'], predicted=incredible%3:00:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::'
- 'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'calm' 'calmly'], predicted=convict%1:18:01::
+ 'apparent%5:00:00:superficial:00' 'apparently'], predicted=minimise
+question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'calm' 'calmly'], predicted=unpredictably%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=flock%1:14:00::
+ 'cheerfully%4:02:00::'], predicted=gregarious%5:00:00:social:00
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'complete%5:00:00:perfect:00'
  'completely%4:02:04::'], predicted=then%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'fortunate%5:00:00:blessed:00'
- 'fortunately%4:02:00::'], predicted=possession%1:04:00::
+ 'fortunately%4:02:00::'], predicted=banish%2:41:02::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:02::
-question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=awake%2:29:00::
+ 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=unpredictably%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=immediate%5:00:00:present:01
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=impetus
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=fibre%1:07:00::
+ 'infrequently%4:02:00::'], predicted=then%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=flock%1:14:00::
+ 'luckily%4:02:00::'], predicted=then%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'most' 'mostly%4:02:00::'], predicted=more
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=attractive%5:00:00:appealing:00
+ 'obviously%4:02:00::'], predicted=impetus
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=error%1:09:00::
+ 'occasionally%4:02:00::'], predicted=touch%2:37:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=them
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
+question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'precise%3:00:00::'
+ 'precisely%4:02:01::'], predicted=correlated%5:00:00:related:02
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'quick%5:00:00:hurried:00'
- 'quickly'], predicted=succession%1:07:00::
+ 'quickly'], predicted=then%4:02:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=discover%2:40:00::
+ 'quietly'], predicted=around%4:02:05::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=fire%1:27:00::
-question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=rare%5:00:00:uncommon:00
+ 'rapidly%4:02:00::'], predicted=then%4:02:00::
+question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=compound%2:30:01::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=head%1:15:01::
+ 'reluctantly%4:02:00::'], predicted=banish%2:41:02::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=dangerous%3:00:00::
+ 'safely%4:02:00::'], predicted=dispatcher%1:18:00::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=panic%1:12:00::
+ 'seriously%4:02:00::'], predicted=unacceptable%5:00:00:intolerable:00
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=slow%5:00:00:inactive:03
+ 'slowly%4:02:01::'], predicted=fast%3:00:02::
 question=['swift%5:00:00:fast:01' 'swiftly%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=then%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=tribe%1:14:03::
+ 'unfortunate%3:00:00::' 'unfortunately%4:02:00::'], predicted=job%1:06:01::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=bubble%1:09:00::
+ 'amazingly%4:02:00::'], predicted=spider%1:05:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'calm' 'calmly'], predicted=rbi%1:04:00::
+question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'calm' 'calmly'], predicted=motionless%5:00:00:nonmoving:00
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=spirit%1:07:02::
+ 'cheerful%3:00:00::' 'cheerfully%4:02:00::'], predicted=hesychasts
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
  'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=sick%1:14:00::
+ 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=efficient
+question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=unharmed%5:00:00:uninjured:00
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%5:00:02:unoccupied:00
+ 'freely%4:02:00::'], predicted=gratis
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'happy%3:00:00::' 'happily'], predicted=happy%5:00:00:felicitous:00
+ 'happy%3:00:00::' 'happily'], predicted=christmas%1:28:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=mesothelioma%1:26:00::
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=consolidation%1:17:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=dhekelia
+ 'infrequent%3:00:00::' 'infrequently%4:02:00::'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=pick%2:31:00::
+ 'lucky%3:00:00::' 'luckily%4:02:00::'], predicted=shave%1:04:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'most'
- 'mostly%4:02:00::'], predicted=most%3:00:01::
+ 'mostly%4:02:00::'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=simply%4:02:03::
+ 'obvious%3:00:00::' 'obviously%4:02:00::'], predicted=usually%4:02:00::
+question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'occasional'
+ 'occasionally%4:02:00::'], predicted=generally
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=could
+ 'possible%3:00:00::' 'possibly%4:02:01::'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
  'precise%3:00:00::' 'precisely%4:02:01::'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
@@ -1386,122 +1405,126 @@ question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
  'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'quiet%5:00:00:calm:00' 'quietly'], predicted=meherabad
+ 'quiet%5:00:00:calm:00' 'quietly'], predicted=usually%4:02:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=growth%1:22:00::
+ 'rapid%5:00:00:fast:01' 'rapidly%4:02:00::'], predicted=airtel
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'rare'
  'rarely%4:02:00::'], predicted=rare%5:00:00:uncommon:00
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=themselves
+ 'reluctantly%4:02:00::'], predicted=blackmail%2:40:00::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=themselves
+ 'safe%5:00:00:sound:00' 'safely%4:02:00::'], predicted=allow%2:42:07::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=mesothelioma%1:26:00::
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=serious%5:00:00:intellectual:00
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=slow%3:00:03::
+ 'slowly%4:02:01::'], predicted=infectors
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
  'sudden%3:00:00::' 'suddenly'], predicted=blow%1:04:02::
 question=['typical%5:00:00:characteristic:00' 'typically%4:02:00::'
- 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=pashtun
+ 'swift%5:00:00:fast:01' 'swiftly%4:02:00::'], predicted=engagement%1:04:02::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'usual%3:00:00::'
- 'usually%4:02:00::'], predicted=exact%3:00:00::
+ 'usually%4:02:00::'], predicted=laparoscopic
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'amazing'
- 'amazingly%4:02:00::'], predicted=spider%1:05:00::
+ 'amazingly%4:02:00::'], predicted=jeckel
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
  'apparent%5:00:00:superficial:00' 'apparently'], predicted=apparent%5:00:00:obvious:00
-question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'calm' 'calmly'], predicted=yet%4:02:02::
+question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'calm' 'calmly'], predicted=thick%5:00:00:impenetrable:00
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=rhododendron%1:20:00::
+ 'cheerfully%4:02:00::'], predicted=mackerel%1:13:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
- 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=copy%1:10:01::
+ 'complete%5:00:00:perfect:00' 'completely%4:02:04::'], predicted=stunning%5:00:00:beautiful:00
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
- 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=perhaps%4:02:00::
+ 'efficient%5:00:00:competent:00' 'efficiently%4:02:00::'], predicted=reheat
+question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
+ 'fortunate%5:00:00:blessed:00' 'fortunately%4:02:00::'], predicted=outshine%2:43:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'free%3:00:01::'
- 'freely%4:02:00::'], predicted=free%3:00:02::
+ 'freely%4:02:00::'], predicted=tool%2:36:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'happy%3:00:00::'
  'happily%4:02:00::'], predicted=baby
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
- 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=despite
+ 'immediate%5:00:00:proximate:00' 'immediately%4:02:05::'], predicted=timely%5:00:01:punctual:00
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=used%5:00:00:old:01
+ 'infrequently%4:02:00::'], predicted=herbivores
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'lucky%3:00:00::'
- 'luckily%4:02:00::'], predicted=mighty
+ 'luckily%4:02:00::'], predicted=gearloose
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'most'
- 'mostly%4:02:00::'], predicted=perhaps%4:02:00::
+ 'mostly%4:02:00::'], predicted=most%4:02:02::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=perhaps%4:02:00::
+ 'obviously%4:02:00::'], predicted=however%4:02:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'occasional'
- 'occasionally%4:02:00::'], predicted=used%5:00:00:old:01
+ 'occasionally%4:02:00::'], predicted=elfin
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'possible%3:00:00::'
- 'possibly%4:02:01::'], predicted=problem%1:10:00::
+ 'possibly%4:02:01::'], predicted=possible%3:00:04::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'precise%3:00:00::'
  'precisely%4:02:01::'], predicted=exact%3:00:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%3:01:01::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
- 'quick%5:00:00:hurried:00' 'quickly'], predicted=yacc
+ 'quick%5:00:00:hurried:00' 'quickly'], predicted=eliminate%2:33:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'quiet%5:00:00:calm:00'
- 'quietly'], predicted=oak%1:20:02::
+ 'quietly'], predicted=wagoner
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'rapid%5:00:00:fast:01'
  'rapidly%4:02:00::'], predicted=rapid%5:00:02:fast:01
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'rare'
- 'rarely%4:02:00::'], predicted=commercially%4:02:00::
+ 'rarely%4:02:00::'], predicted=edb
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'reluctant'
- 'reluctantly%4:02:00::'], predicted=terracotta
+ 'reluctantly%4:02:00::'], predicted=watkin
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=yet%4:02:02::
+ 'safely%4:02:00::'], predicted=refrigerated%5:00:00:cold:01
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
- 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=yet%4:02:02::
+ 'serious%5:00:00:important:00' 'seriously%4:02:00::'], predicted=however%4:02:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'slow%3:00:02::'
- 'slowly%4:02:01::'], predicted=slow%3:00:03::
+ 'slowly%4:02:01::'], predicted=infectors
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'sudden%3:00:00::'
- 'suddenly'], predicted=ice%1:17:00::
+ 'suddenly'], predicted=spate%1:11:00::
 question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=mourn%2:37:01::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=only%4:02:03::
+ 'swiftly%4:02:00::'], predicted=gulliver%1:18:00::
+question=['unfortunate%3:00:00::' 'unfortunately%4:02:00::'
+ 'typical%5:00:00:characteristic:00' 'typically%4:02:00::'], predicted=chorded
+question=['usual%3:00:00::' 'usually%4:02:00::' 'amazing' 'amazingly%4:02:00::'], predicted=trash%1:06:00::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'apparent%5:00:00:superficial:00'
- 'apparently'], predicted=may
-question=['usual%3:00:00::' 'usually%4:02:00::' 'calm' 'calmly'], predicted=will
+ 'apparently'], predicted=absent%5:00:00:nonexistent:00
+question=['usual%3:00:00::' 'usually%4:02:00::' 'calm' 'calmly'], predicted=only%4:02:03::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'cheerful%3:00:00::'
- 'cheerfully%4:02:00::'], predicted=often%4:02:00::
+ 'cheerfully%4:02:00::'], predicted=dreamlike
 question=['usual%3:00:00::' 'usually%4:02:00::' 'complete%5:00:00:perfect:00'
  'completely%4:02:04::'], predicted=only%4:02:03::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'efficient%5:00:00:competent:00'
- 'efficiently%4:02:00::'], predicted=can
+ 'efficiently%4:02:00::'], predicted=usable%5:00:00:disposable:02
 question=['usual%3:00:00::' 'usually%4:02:00::' 'fortunate%5:00:00:blessed:00'
  'fortunately%4:02:00::'], predicted=only%4:02:03::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:00::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=only%4:02:03::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'free%3:00:01::' 'freely%4:02:00::'], predicted=free%3:00:02::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'happy%3:00:00::' 'happily'], predicted=mantle%1:17:01::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'immediate%5:00:00:proximate:00'
- 'immediately%4:02:05::'], predicted=its
+ 'immediately%4:02:05::'], predicted=only%4:02:03::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'infrequent%3:00:00::'
- 'infrequently%4:02:00::'], predicted=sometimes%4:02:01::
+ 'infrequently%4:02:00::'], predicted=run%2:36:00::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'lucky%3:00:00::'
  'luckily%4:02:00::'], predicted=only%4:02:03::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'most%3:00:01::' 'mostly%4:02:00::'], predicted=typically%4:02:00::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'most%3:00:01::' 'mostly%4:02:00::'], predicted=many%3:00:00::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'obvious%3:00:00::'
- 'obviously%4:02:00::'], predicted=often%4:02:00::
+ 'obviously%4:02:00::'], predicted=trollhunters
 question=['usual%3:00:00::' 'usually%4:02:00::'
  'occasional%5:00:00:unpredictable:00' 'occasionally%4:02:00::'], predicted=often%4:02:00::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'possible%3:00:00::'
  'possibly%4:02:01::'], predicted=can
 question=['usual%3:00:00::' 'usually%4:02:00::' 'precise%3:00:00::'
- 'precisely%4:02:01::'], predicted=sometimes%4:02:01::
+ 'precisely%4:02:01::'], predicted=typically%4:02:00::
 question=['usual%3:00:00::' 'usually%4:02:00::'
  'professional%5:00:00:white-collar:00' 'professionally%4:02:00::'], predicted=professional%1:18:00::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=only%4:02:03::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=section%1:06:00::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'quick%5:00:00:hurried:00' 'quickly'], predicted=succession%1:07:00::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'quiet%5:00:00:calm:00' 'quietly'], predicted=biking
 question=['usual%3:00:00::' 'usually%4:02:00::' 'rapid%5:00:00:fast:01'
- 'rapidly%4:02:00::'], predicted=sometimes%4:02:01::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=often%4:02:00::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=often%4:02:00::
+ 'rapidly%4:02:00::'], predicted=klia
+question=['usual%3:00:00::' 'usually%4:02:00::' 'rare' 'rarely%4:02:00::'], predicted=disc%1:06:00::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'reluctant' 'reluctantly%4:02:00::'], predicted=among
 question=['usual%3:00:00::' 'usually%4:02:00::' 'safe%5:00:00:sound:00'
- 'safely%4:02:00::'], predicted=often%4:02:00::
+ 'safely%4:02:00::'], predicted=could
 question=['usual%3:00:00::' 'usually%4:02:00::' 'serious%5:00:00:important:00'
- 'seriously%4:02:00::'], predicted=often%4:02:00::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=sometimes%4:02:01::
-question=['usual%3:00:00::' 'usually%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=often%4:02:00::
+ 'seriously%4:02:00::'], predicted=stoppage%1:06:00::
+question=['usual%3:00:00::' 'usually%4:02:00::' 'slow%3:00:02::' 'slowly%4:02:01::'], predicted=infectors
+question=['usual%3:00:00::' 'usually%4:02:00::' 'sudden%3:00:00::' 'suddenly'], predicted=trigger%2:33:00::
 question=['usual%3:00:00::' 'usually%4:02:00::' 'swift%5:00:00:fast:01'
- 'swiftly%4:02:00::'], predicted=only%4:02:03::
+ 'swiftly%4:02:00::'], predicted=blown
 question=['usual%3:00:00::' 'usually%4:02:00::' 'unfortunate%3:00:00::'
- 'unfortunately%4:02:00::'], predicted=often%4:02:00::
+ 'unfortunately%4:02:00::'], predicted=only%4:02:03::
