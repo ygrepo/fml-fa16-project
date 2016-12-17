@@ -1,4 +1,5 @@
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'argentina%1:15:00::'
+<<<<<<< HEAD
  'argentinean'], predicted=basque%1:18:00::
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=habsburg
@@ -22,6 +23,27 @@ question=['albania%1:15:00::' 'albanian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=labour%1:14:02::
+=======
+ 'argentinean'], predicted=argentina
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=austria
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=england
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'greece%1:15:00::'
+ 'greek%3:01:01::'], predicted=greece%1:15:01::
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'italy%1:15:00::'
+ 'italian%3:01:00::'], predicted=italy
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+question=['albania%1:15:00::' 'albanian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=cyprus%1:15:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'mexico%1:15:00::'
  'mexican%3:01:00::'], predicted=sonora
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'moldova%1:15:00::'
@@ -29,12 +51,17 @@ question=['albania%1:15:00::' 'albanian%3:01:00::' 'moldova%1:15:00::'
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=tsar%1:18:00::
 question=['albania%1:15:00::' 'albanian%3:01:00::' 'slovakia%1:15:00::'
+<<<<<<< HEAD
  'slovakian%3:01:00::'], predicted=carpatho
 question=['argentina%1:15:00::' 'argentinean' 'australia%1:17:00::'
  'australian%3:01:00::'], predicted=yvon
+=======
+ 'slovakian%3:01:00::'], predicted=czech%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['argentina%1:15:00::' 'argentinean' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=palatine%1:18:00::
 question=['argentina%1:15:00::' 'argentinean' 'brazil%1:15:00::'
+<<<<<<< HEAD
  'brazilian%3:01:00::'], predicted=yoshitaka
 question=['argentina%1:15:00::' 'argentinean' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=ruthenia
@@ -43,10 +70,21 @@ question=['argentina%1:15:00::' 'argentinean' 'cambodia%1:15:00::'
 question=['argentina%1:15:00::' 'argentinean' 'chile%1:15:00::' 'chilean%3:01:00::'], predicted=rettig
 question=['argentina%1:15:00::' 'argentinean' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=kinshasa
+=======
+ 'brazilian%3:01:00::'], predicted=lie%2:32:00::
+question=['argentina%1:15:00::' 'argentinean' 'bulgaria%1:15:00::'
+ 'bulgarian%3:01:00::'], predicted=romania%1:15:00::
+question=['argentina%1:15:00::' 'argentinean' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['argentina%1:15:00::' 'argentinean' 'chile%1:15:00::' 'chilean%3:01:00::'], predicted=pinochet
+question=['argentina%1:15:00::' 'argentinean' 'colombia%1:15:00::'
+ 'colombian%3:01:00::'], predicted=bogot
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['argentina%1:15:00::' 'argentinean' 'croatia%1:15:00::'
  'croatian%3:01:00::'], predicted=krajina
 question=['argentina%1:15:00::' 'argentinean' 'denmark%1:15:00::' 'danish%3:01:00::'], predicted=sverre
 question=['argentina%1:15:00::' 'argentinean' 'england%1:15:00::'
+<<<<<<< HEAD
  'english%3:01:00::'], predicted=montferrat
 question=['argentina%1:15:00::' 'argentinean' 'france%1:15:00::' 'french%3:01:00::'], predicted=bernadotte
 question=['argentina%1:15:00::' 'argentinean' 'germany%1:15:00::' 'german%3:01:00::'], predicted=reichskanzler
@@ -82,6 +120,42 @@ question=['argentina%1:15:00::' 'argentinean' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=assr
 question=['australia%1:17:00::' 'australian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=cambodia
+=======
+ 'english%3:01:00::'], predicted=mercia
+question=['argentina%1:15:00::' 'argentinean' 'france%1:15:00::' 'french%3:01:00::'], predicted=xiv%1:23:00::
+question=['argentina%1:15:00::' 'argentinean' 'germany%1:15:00::' 'german%3:01:00::'], predicted=nazi%3:01:02::
+question=['argentina%1:15:00::' 'argentinean' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=greece%1:15:01::
+question=['argentina%1:15:00::' 'argentinean' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=kolberg
+question=['argentina%1:15:00::' 'argentinean' 'india%1:15:00::' 'indian%3:01:00::'], predicted=maharaja%1:18:00::
+question=['argentina%1:15:00::' 'argentinean' 'ireland%1:15:01::' 'irish%3:01:00::'], predicted=estate%1:21:02::
+question=['argentina%1:15:00::' 'argentinean' 'israel%1:15:00::' 'israeli%3:01:00::'], predicted=qassam
+question=['argentina%1:15:00::' 'argentinean' 'italy%1:15:00::' 'italian%3:01:00::'], predicted=mussolini%1:18:00::
+question=['argentina%1:15:00::' 'argentinean' 'japan%1:06:01::' 'japanese%3:01:00::'], predicted=rinzai
+question=['argentina%1:15:00::' 'argentinean' 'korea%1:15:00::' 'korean%3:01:00::'], predicted=vietnamese%3:01:00::
+question=['argentina%1:15:00::' 'argentinean' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
+question=['argentina%1:15:00::' 'argentinean' 'malta%1:15:01::' 'maltese%3:01:00::'], predicted=model%1:18:00::
+question=['argentina%1:15:00::' 'argentinean' 'mexico%1:15:00::' 'mexican%3:01:00::'], predicted=taos
+question=['argentina%1:15:00::' 'argentinean' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['argentina%1:15:00::' 'argentinean' 'netherlands%1:15:00::'
+ 'dutch%3:01:00::'], predicted=hague
+question=['argentina%1:15:00::' 'argentinean' 'norway%1:15:00::'
+ 'norwegian%3:01:00::'], predicted=crown%2:42:00::
+question=['argentina%1:15:00::' 'argentinean' 'peru%1:15:00::' 'peruvian%3:01:00::'], predicted=huallaga
+question=['argentina%1:15:00::' 'argentinean' 'poland%1:15:00::' 'polish%3:01:00::'], predicted=wladyslaw
+question=['argentina%1:15:00::' 'argentinean' 'portugal%1:15:00::'
+ 'portuguese%3:01:00::'], predicted=afonso
+question=['argentina%1:15:00::' 'argentinean' 'russia%1:15:02::' 'russian%3:01:00::'], predicted=tsar%1:18:00::
+question=['argentina%1:15:00::' 'argentinean' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=ruthenia
+question=['argentina%1:15:00::' 'argentinean' 'spain%1:15:00::' 'spanish%3:01:00::'], predicted=toulouse%1:15:00::
+question=['argentina%1:15:00::' 'argentinean' 'switzerland%1:15:00::'
+ 'swiss%3:01:00::'], predicted=canton%1:15:01::
+question=['argentina%1:15:00::' 'argentinean' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=ukraine
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['australia%1:17:00::' 'australian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=england
 question=['australia%1:17:00::' 'australian%3:01:00::' 'greece%1:15:00::'
@@ -93,11 +167,17 @@ question=['australia%1:17:00::' 'australian%3:01:00::' 'italy%1:15:00::'
 question=['australia%1:17:00::' 'australian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['australia%1:17:00::' 'australian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=cypriot
 question=['australia%1:17:00::' 'australian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
 question=['australia%1:17:00::' 'australian%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=nederlandse
+=======
+ 'maltese%3:01:00::'], predicted=latvian%3:01:00::
+question=['australia%1:17:00::' 'australian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['australia%1:17:00::' 'australian%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovak%1:10:00::
 question=['australia%1:17:00::' 'australian%3:01:00::' 'ukraine%1:15:00::'
@@ -107,11 +187,21 @@ question=['austria%1:15:00::' 'austrian%3:01:00::' 'cambodia%1:15:00::'
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scottish%3:01:00::
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'iceland%1:15:00::'
+<<<<<<< HEAD
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=scriptwriter%1:18:00::
+=======
+ 'icelandic%3:01:00::'], predicted=finnish%3:01:00::
+question=['austria%1:15:00::' 'austrian%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['austria%1:15:00::' 'austrian%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+question=['austria%1:15:00::' 'austrian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=angelou
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'peru%1:15:00::'
@@ -119,6 +209,7 @@ question=['austria%1:15:00::' 'austrian%3:01:00::' 'peru%1:15:00::'
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=aleksandrovich
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'slovakia%1:15:00::'
+<<<<<<< HEAD
  'slovakian%3:01:00::'], predicted=hristo
 question=['austria%1:15:00::' 'austrian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
@@ -128,10 +219,20 @@ question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=cambodia
 question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'croatia%1:15:00::'
  'croatian%3:01:00::'], predicted=hrvatska%1:15:00::
+=======
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['austria%1:15:00::' 'austrian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['austria%1:15:00::' 'austrian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=argentine%3:01:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=cambodia
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'egypt%1:15:00::'
  'egyptian%3:01:00::'], predicted=egypt
 question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=england
+<<<<<<< HEAD
 question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'france%1:15:00::'
  'french%3:01:00::'], predicted=hallyday
 question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'greece%1:15:00::'
@@ -174,10 +275,37 @@ question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
 question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'croatia%1:15:00::'
  'croatian%3:01:00::'], predicted=serbian%3:01:00::
+=======
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'ireland%1:15:01::'
+ 'irish%3:01:00::'], predicted=ireland%1:15:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=macedonia
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=mamadou
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'netherlands%1:15:00::'
+ 'dutch%3:01:00::'], predicted=belgium%1:15:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'portugal%1:15:00::'
+ 'portuguese%3:01:00::'], predicted=portugal
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=argentine%3:01:00::
+question=['brazil%1:15:00::' 'brazilian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=austria
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scotland%1:15:00::
 question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'greece%1:15:00::'
  'greek%3:01:01::'], predicted=macedonian%3:01:00::
+<<<<<<< HEAD
 question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'india%1:15:00::'
@@ -196,6 +324,24 @@ question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=hungarian%3:01:00::
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
+=======
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=pakistani%1:18:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=irish%3:01:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'portugal%1:15:00::'
+ 'portuguese%3:01:00::'], predicted=spanish%3:01:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=serbian%3:01:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['bulgaria%1:15:00::' 'bulgarian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=argentine%3:01:00::
+question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'croatia%1:15:00::'
+ 'croatian%3:01:00::'], predicted=macedonia%1:15:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=england
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'france%1:15:00::'
@@ -213,7 +359,13 @@ question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'italy%1:15:00::'
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=bourgeoisie%1:14:00::
+=======
+ 'maltese%3:01:00::'], predicted=crippled%5:00:00:unfit:01
+question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'mexico%1:15:00::'
+ 'mexican%3:01:00::'], predicted=mexico
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'norway%1:15:00::'
@@ -221,6 +373,7 @@ question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'norway%1:15:00::'
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'portugal%1:15:00::'
  'portuguese%3:01:00::'], predicted=portugal
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'slovakia%1:15:00::'
+<<<<<<< HEAD
  'slovakian%3:01:00::'], predicted=serbia
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'switzerland%1:15:00::'
  'swiss%3:01:00::'], predicted=lausanne
@@ -228,9 +381,17 @@ question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=yiddish
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=albania
+=======
+ 'slovakian%3:01:00::'], predicted=ruthenia
+question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'switzerland%1:15:00::'
+ 'swiss%3:01:00::'], predicted=switzerland
+question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=belarus%1:15:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'austria%1:15:00::'
+<<<<<<< HEAD
  'austrian%3:01:00::'], predicted=bavaria%1:15:00::
 question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=rio%1:15:00::
@@ -242,6 +403,15 @@ question=['chile%1:15:00::' 'chilean%3:01:00::' 'iceland%1:15:00::'
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'ireland%1:15:01::'
  'irish%3:01:00::'], predicted=ireland%1:15:00::
+=======
+ 'austrian%3:01:00::'], predicted=austria
+question=['cambodia%1:15:00::' 'cambodian%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=janeiro
+question=['chile%1:15:00::' 'chilean%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scotland%1:15:00::
+question=['chile%1:15:00::' 'chilean%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=turkish%3:01:00::
+question=['chile%1:15:00::' 'chilean%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'malta%1:15:01::'
@@ -251,6 +421,7 @@ question=['chile%1:15:00::' 'chilean%3:01:00::' 'moldova%1:15:00::'
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovak
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'ukraine%1:15:00::'
+<<<<<<< HEAD
  'ukrainian%3:01:00::'], predicted=russian%3:01:00::
 question=['chile%1:15:00::' 'chilean%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=serbian%3:01:00::
@@ -266,10 +437,17 @@ question=['china%1:15:00::' 'chinese%3:01:00::' 'england%1:15:00::'
 question=['china%1:15:00::' 'chinese%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=greece%1:15:01::
 question=['china%1:15:00::' 'chinese%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=msson
+=======
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['chile%1:15:00::' 'chilean%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+question=['china%1:15:00::' 'chinese%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scottish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['china%1:15:00::' 'chinese%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['china%1:15:00::' 'chinese%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['china%1:15:00::' 'chinese%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=ministerio
 question=['china%1:15:00::' 'chinese%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=netherlands
@@ -282,6 +460,16 @@ question=['china%1:15:00::' 'chinese%3:01:00::' 'slovakia%1:15:00::'
 question=['china%1:15:00::' 'chinese%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=albania
 question=['china%1:15:00::' 'chinese%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
+=======
+ 'maltese%3:01:00::'], predicted=voor
+question=['china%1:15:00::' 'chinese%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['china%1:15:00::' 'chinese%3:01:00::' 'portugal%1:15:00::'
+ 'portuguese%3:01:00::'], predicted=portugal
+question=['china%1:15:00::' 'chinese%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['china%1:15:00::' 'chinese%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['china%1:15:00::' 'chinese%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=austria
 question=['china%1:15:00::' 'chinese%3:01:00::' 'cambodia%1:15:00::'
@@ -295,6 +483,7 @@ question=['colombia%1:15:00::' 'colombian%3:01:00::' 'india%1:15:00::'
 question=['colombia%1:15:00::' 'colombian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
 question=['colombia%1:15:00::' 'colombian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=johnsen
 question=['colombia%1:15:00::' 'colombian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
@@ -306,6 +495,21 @@ question=['colombia%1:15:00::' 'colombian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%1:05:00::
 question=['colombia%1:15:00::' 'colombian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer
+=======
+ 'maltese%3:01:00::'], predicted=midianites
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=mexican%3:01:00::
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=argentine%3:01:00::
+question=['colombia%1:15:00::' 'colombian%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scottish%3:01:00::
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'iceland%1:15:00::'
@@ -315,6 +519,7 @@ question=['croatia%1:15:00::' 'croatian%3:01:00::' 'india%1:15:00::'
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=goce
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
@@ -326,6 +531,21 @@ question=['croatia%1:15:00::' 'croatian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=italian%3:01:00::
+=======
+ 'maltese%3:01:00::'], predicted=lithuanian%3:01:00::
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=spanish%3:01:00::
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=german%3:01:00::
+question=['croatia%1:15:00::' 'croatian%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['croatia%1:15:00::' 'croatian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'england%1:15:00::'
@@ -335,12 +555,19 @@ question=['denmark%1:15:00::' 'danish%3:01:00::' 'iceland%1:15:01::'
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'macedonia%1:15:00::'
+<<<<<<< HEAD
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=ohlin
+=======
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['denmark%1:15:00::' 'danish%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=model%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'slovakia%1:15:00::'
+<<<<<<< HEAD
  'slovakian%3:01:00::'], predicted=croatian%3:01:00::
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=russian%3:01:00::
@@ -349,12 +576,19 @@ question=['denmark%1:15:00::' 'danish%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=croatian%3:01:00::
+=======
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['denmark%1:15:00::' 'danish%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['denmark%1:15:00::' 'danish%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer%1:10:00::
 question=['denmark%1:15:00::' 'danish%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scotland%1:15:00::
+<<<<<<< HEAD
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'india%1:15:00::'
@@ -367,13 +601,33 @@ question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=nederland%1:15:00::
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=rusyn
+=======
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'greece%1:15:00::'
+ 'greek%3:01:01::'], predicted=ancient%5:00:00:past:00
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=voor
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'mexico%1:15:00::'
+ 'mexican%3:01:00::'], predicted=mexico
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=peru
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=ukraine
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=indigenous%5:00:00:native:01
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'cambodia%1:15:00::'
+<<<<<<< HEAD
  'cambodian%3:01:00::'], predicted=khmer
 question=['egypt%1:15:00::' 'egyptian%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=ecuadorian%3:01:00::
+=======
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['england%1:15:00::' 'english%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['england%1:15:00::' 'english%3:01:00::' 'ireland%1:15:01::'
@@ -383,11 +637,16 @@ question=['england%1:15:00::' 'english%3:01:00::' 'israel%1:15:00::'
 question=['england%1:15:00::' 'english%3:01:00::' 'korea%1:15:00::'
  'korean%3:01:00::'], predicted=japanese%3:01:00::
 question=['england%1:15:00::' 'english%3:01:00::' 'macedonia%1:15:00::'
+<<<<<<< HEAD
  'macedonian%3:01:00::'], predicted=fyrom
+=======
+ 'macedonian%3:01:00::'], predicted=macedonia
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['england%1:15:00::' 'english%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=latgalian
 question=['england%1:15:00::' 'english%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
+<<<<<<< HEAD
 question=['england%1:15:00::' 'english%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=nederland%1:15:00::
 question=['england%1:15:00::' 'english%3:01:00::' 'norway%1:15:00::'
@@ -396,27 +655,44 @@ question=['england%1:15:00::' 'english%3:01:00::' 'peru%1:15:00::'
  'peruvian%3:01:00::'], predicted=galgo
 question=['england%1:15:00::' 'english%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=yury
+=======
+question=['england%1:15:00::' 'english%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=mexican%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['england%1:15:00::' 'english%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=transliterated
 question=['england%1:15:00::' 'english%3:01:00::' 'switzerland%1:15:00::'
  'swiss%3:01:00::'], predicted=romansh%1:10:00::
 question=['england%1:15:00::' 'english%3:01:00::' 'ukraine%1:15:00::'
+<<<<<<< HEAD
  'ukrainian%3:01:00::'], predicted=latgalian
 question=['england%1:15:00::' 'english%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=latgalian
 question=['england%1:15:00::' 'english%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=capeverdean
+=======
+ 'ukrainian%3:01:00::'], predicted=belarus%1:15:00::
+question=['england%1:15:00::' 'english%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=cantonese
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['england%1:15:00::' 'english%3:01:00::' 'australia%1:17:00::'
  'australian%3:01:00::'], predicted=pisin
 question=['england%1:15:00::' 'english%3:01:00::' 'austria%1:15:00::'
+<<<<<<< HEAD
  'austrian%3:01:00::'], predicted=sterreich
 question=['england%1:15:00::' 'english%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=capeverdean
 question=['england%1:15:00::' 'english%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=latgalian
+=======
+ 'austrian%3:01:00::'], predicted=austria
+question=['england%1:15:00::' 'english%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=cantonese
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['england%1:15:00::' 'english%3:01:00::' 'cambodia%1:15:00::'
- 'cambodian%3:01:00::'], predicted=vietnamese%3:01:00::
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
 question=['england%1:15:00::' 'english%3:01:00::' 'chile%1:15:00::'
+<<<<<<< HEAD
  'chilean%3:01:00::'], predicted=chile
 question=['england%1:15:00::' 'english%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=colombia
@@ -434,6 +710,17 @@ question=['france%1:15:00::' 'french%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=spanish%1:10:00::
 question=['france%1:15:00::' 'french%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
+=======
+ 'chilean%3:01:00::'], predicted=costa
+question=['england%1:15:00::' 'english%3:01:00::' 'colombia%1:15:00::'
+ 'colombian%3:01:00::'], predicted=colombia
+question=['france%1:15:00::' 'french%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['france%1:15:00::' 'french%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=british%3:01:00::
+question=['france%1:15:00::' 'french%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['france%1:15:00::' 'french%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=rusyn
 question=['france%1:15:00::' 'french%3:01:00::' 'ukraine%1:15:00::'
@@ -441,6 +728,7 @@ question=['france%1:15:00::' 'french%3:01:00::' 'ukraine%1:15:00::'
 question=['france%1:15:00::' 'french%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
 question=['france%1:15:00::' 'french%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
+<<<<<<< HEAD
 question=['france%1:15:00::' 'french%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
 question=['france%1:15:00::' 'french%3:01:00::' 'cambodia%1:15:00::'
@@ -449,11 +737,16 @@ question=['france%1:15:00::' 'french%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=ecuadorian%3:01:00::
 question=['germany%1:15:00::' 'german%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
+=======
+question=['germany%1:15:00::' 'german%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=finnish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['germany%1:15:00::' 'german%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['germany%1:15:00::' 'german%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['germany%1:15:00::' 'german%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=malta%1:15:00::
 question=['germany%1:15:00::' 'german%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovakia
@@ -484,10 +777,35 @@ question=['greece%1:15:00::' 'greek%3:01:01::' 'albania%1:15:00::'
 question=['greece%1:15:00::' 'greek%3:01:01::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['greece%1:15:00::' 'greek%3:01:01::' 'australia%1:17:00::'
  'australian%3:01:00::'], predicted=australia
+=======
+ 'maltese%3:01:00::'], predicted=lithuanian%3:01:00::
+question=['germany%1:15:00::' 'german%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
+question=['germany%1:15:00::' 'german%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['germany%1:15:00::' 'german%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['germany%1:15:00::' 'german%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+question=['germany%1:15:00::' 'german%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=cambodia
+question=['greece%1:15:00::' 'greek%3:01:01::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
+question=['greece%1:15:00::' 'greek%3:01:01::' 'korea%1:15:00::' 'korean%3:01:00::'], predicted=japanese%3:01:00::
+question=['greece%1:15:00::' 'greek%3:01:01::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=greek%1:10:00::
+question=['greece%1:15:00::' 'greek%3:01:01::' 'malta%1:15:01::' 'maltese%3:01:00::'], predicted=singular%5:00:00:single:05
+question=['greece%1:15:00::' 'greek%3:01:01::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['greece%1:15:00::' 'greek%3:01:01::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['greece%1:15:00::' 'greek%3:01:01::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['greece%1:15:00::' 'greek%3:01:01::' 'argentina%1:15:00::' 'argentinean'], predicted=spanish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['greece%1:15:00::' 'greek%3:01:01::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
 question=['greece%1:15:00::' 'greek%3:01:01::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=italian%3:01:00::
+<<<<<<< HEAD
 question=['greece%1:15:00::' 'greek%3:01:01::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=romanian%3:01:00::
 question=['greece%1:15:00::' 'greek%3:01:01::' 'cambodia%1:15:00::'
@@ -503,36 +821,65 @@ question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=turkish%3:01:00::
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=icelandic
+=======
+question=['greece%1:15:00::' 'greek%3:01:01::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=albanian%3:01:00::
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=hebrew%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=danish%3:01:00::
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'peru%1:15:00::'
+<<<<<<< HEAD
  'peruvian%3:01:00::'], predicted=icelandic
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=novi
+=======
+ 'peruvian%3:01:00::'], predicted=chilean%3:01:00::
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovenia%1:15:00::
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'spain%1:15:00::'
+ 'spanish%3:01:00::'], predicted=spain
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=vasil
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=serbian%3:01:00::
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
+<<<<<<< HEAD
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
+=======
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'australia%1:17:00::'
+ 'australian%3:01:00::'], predicted=australia
+question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=austria
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=italian%3:01:00::
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=croatian%3:01:00::
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+<<<<<<< HEAD
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=chile
+=======
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['iceland%1:15:00::' 'icelandic%3:01:00::' 'england%1:15:00::'
- 'english%3:01:00::'], predicted=scotland%1:15:00::
+ 'english%3:01:00::'], predicted=england
 question=['india%1:15:00::' 'indian%3:01:00::' 'japan%1:06:01::'
  'japanese%3:01:00::'], predicted=american%3:01:01::
 question=['india%1:15:00::' 'indian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
+<<<<<<< HEAD
 question=['india%1:15:00::' 'indian%3:01:00::' 'malta%1:15:01::' 'maltese%3:01:00::'], predicted=agrarian%5:00:00:rural:00
 question=['india%1:15:00::' 'indian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
@@ -542,6 +889,12 @@ question=['india%1:15:00::' 'indian%3:01:00::' 'portugal%1:15:00::'
  'portuguese%3:01:00::'], predicted=portugal
 question=['india%1:15:00::' 'indian%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=tsar%1:18:00::
+=======
+question=['india%1:15:00::' 'indian%3:01:00::' 'malta%1:15:01::' 'maltese%3:01:00::'], predicted=ocean
+question=['india%1:15:00::' 'indian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['india%1:15:00::' 'indian%3:01:00::' 'peru%1:15:00::' 'peruvian%3:01:00::'], predicted=ecuador%1:15:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['india%1:15:00::' 'indian%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovak%1:10:00::
 question=['india%1:15:00::' 'indian%3:01:00::' 'ukraine%1:15:00::'
@@ -551,17 +904,30 @@ question=['india%1:15:00::' 'indian%3:01:00::' 'albania%1:15:00::'
 question=['india%1:15:00::' 'indian%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['india%1:15:00::' 'indian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=amazon%1:17:00::
+<<<<<<< HEAD
 question=['india%1:15:00::' 'indian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=saigon%1:15:00::
 question=['india%1:15:00::' 'indian%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=ecuador%1:15:00::
 question=['india%1:15:00::' 'indian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scotland%1:15:00::
+=======
+question=['india%1:15:00::' 'indian%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=england
+question=['india%1:15:00::' 'indian%3:01:00::' 'germany%1:15:00::'
+ 'german%3:01:00::'], predicted=nazi%3:01:02::
+question=['india%1:15:00::' 'indian%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=greece%1:15:01::
+question=['ireland%1:15:01::' 'irish%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['ireland%1:15:01::' 'irish%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=italian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ireland%1:15:01::' 'irish%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=romanian%3:01:00::
 question=['ireland%1:15:01::' 'irish%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovak
 question=['ireland%1:15:01::' 'irish%3:01:00::' 'ukraine%1:15:00::'
+<<<<<<< HEAD
  'ukrainian%3:01:00::'], predicted=polish%3:01:00::
 question=['ireland%1:15:01::' 'irish%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['ireland%1:15:01::' 'irish%3:01:00::' 'austria%1:15:00::'
@@ -584,31 +950,59 @@ question=['israel%1:15:00::' 'israeli%3:01:00::' 'japan%1:06:01::'
  'japanese%3:01:00::'], predicted=japan%1:15:01::
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia
+=======
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['ireland%1:15:01::' 'irish%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=spanish%3:01:00::
+question=['ireland%1:15:01::' 'irish%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=hungarian%3:01:00::
+question=['ireland%1:15:01::' 'irish%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scottish%3:01:00::
+question=['israel%1:15:00::' 'israeli%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=barents
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
+<<<<<<< HEAD
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=surinam%1:15:00::
+=======
+question=['israel%1:15:00::' 'israeli%3:01:00::' 'portugal%1:15:00::'
+ 'portuguese%3:01:00::'], predicted=portugal
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovenia%1:15:00::
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=ukraine
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
+<<<<<<< HEAD
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=mexican%3:01:00::
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=vietnamese%3:01:00::
+=======
+question=['israel%1:15:00::' 'israeli%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=german%3:01:00::
+question=['israel%1:15:00::' 'israeli%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=england
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'greece%1:15:00::'
  'greek%3:01:01::'], predicted=greece%1:15:01::
+question=['israel%1:15:00::' 'israeli%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=finnish%3:01:00::
 question=['israel%1:15:00::' 'israeli%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['italy%1:15:00::' 'italian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
 question=['italy%1:15:00::' 'italian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=noronha
+=======
+ 'maltese%3:01:00::'], predicted=rhaeto
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['italy%1:15:00::' 'italian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['italy%1:15:00::' 'italian%3:01:00::' 'slovakia%1:15:00::'
@@ -620,6 +1014,7 @@ question=['italy%1:15:00::' 'italian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=cambodia
 question=['italy%1:15:00::' 'italian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scottish%3:01:00::
+<<<<<<< HEAD
 question=['japan%1:06:01::' 'japanese%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovenian%3:01:00::
 question=['japan%1:06:01::' 'japanese%3:01:00::' 'ukraine%1:15:00::'
@@ -639,19 +1034,55 @@ question=['japan%1:06:01::' 'japanese%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['korea%1:15:00::' 'korean%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=bulgarian%3:01:00::
+=======
+question=['italy%1:15:00::' 'italian%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=norwegian%3:01:00::
+question=['italy%1:15:00::' 'italian%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=lithuanian%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=spanish%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=polish%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=spanish%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=german%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=spanish%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=finnish%3:01:00::
+question=['japan%1:06:01::' 'japanese%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['korea%1:15:00::' 'korean%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['korea%1:15:00::' 'korean%3:01:00::' 'malta%1:15:01::' 'maltese%3:01:00::'], predicted=johnsen
 question=['korea%1:15:00::' 'korean%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['korea%1:15:00::' 'korean%3:01:00::' 'portugal%1:15:00::'
  'portuguese%3:01:00::'], predicted=portugal
+<<<<<<< HEAD
 question=['korea%1:15:00::' 'korean%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=tsar%1:18:00::
 question=['korea%1:15:00::' 'korean%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovenian%3:01:00::
+=======
+question=['korea%1:15:00::' 'korean%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['korea%1:15:00::' 'korean%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=bulgarian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['korea%1:15:00::' 'korean%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['korea%1:15:00::' 'korean%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=austro
 question=['korea%1:15:00::' 'korean%3:01:00::' 'cambodia%1:15:00::'
+<<<<<<< HEAD
  'cambodian%3:01:00::'], predicted=cambodia
 question=['korea%1:15:00::' 'korean%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scotland%1:15:00::
@@ -663,19 +1094,42 @@ question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=surinam%1:15:00::
+=======
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['korea%1:15:00::' 'korean%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scotland%1:15:00::
+question=['korea%1:15:00::' 'korean%3:01:00::' 'italy%1:15:00::' 'italian%3:01:00::'], predicted=italy
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=solway
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'norway%1:15:00::'
+ 'norwegian%3:01:00::'], predicted=sweden%1:15:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'portugal%1:15:00::'
  'portuguese%3:01:00::'], predicted=portugal
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=tsar%1:18:00::
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'slovakia%1:15:00::'
+<<<<<<< HEAD
  'slovakian%3:01:00::'], predicted=rusyn
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=austro
+=======
+ 'slovakian%3:01:00::'], predicted=serbian%3:01:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=argentina
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=bavaria%1:15:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=castillian
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'cambodia%1:15:00::'
+<<<<<<< HEAD
  'cambodian%3:01:00::'], predicted=cambodia
 question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=ecuadorian%3:01:00::
@@ -695,8 +1149,25 @@ question=['malta%1:15:01::' 'maltese%3:01:00::' 'netherlands%1:15:00::'
  'dutch%3:01:00::'], predicted=netherlands
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'russia%1:15:02::'
  'russian%3:01:00::'], predicted=romanov%1:18:00::
+=======
+ 'cambodian%3:01:00::'], predicted=lao%1:10:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'colombia%1:15:00::'
+ 'colombian%3:01:00::'], predicted=peruvian%3:01:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scotland%1:15:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'greece%1:15:00::'
+ 'greek%3:01:01::'], predicted=greece%1:15:01::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'italy%1:15:00::'
+ 'italian%3:01:00::'], predicted=rome%1:15:00::
+question=['macedonia%1:15:00::' 'macedonian%3:01:00::' 'japan%1:06:01::'
+ 'japanese%3:01:00::'], predicted=korean%3:01:00::
+question=['malta%1:15:01::' 'maltese%3:01:00::' 'netherlands%1:15:00::'
+ 'dutch%3:01:00::'], predicted=swedish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'slovakia%1:15:00::'
- 'slovakian%3:01:00::'], predicted=slovak
+ 'slovakian%3:01:00::'], predicted=serbian%3:01:00::
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'switzerland%1:15:00::'
  'swiss%3:01:00::'], predicted=romansh%1:10:00::
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'ukraine%1:15:00::'
@@ -705,19 +1176,34 @@ question=['malta%1:15:01::' 'maltese%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=serbian%3:01:00::
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=mexican%3:01:00::
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'austria%1:15:00::'
+<<<<<<< HEAD
  'austrian%3:01:00::'], predicted=carinthia
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=mexican%3:01:00::
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=romanian%3:01:00::
+=======
+ 'austrian%3:01:00::'], predicted=hungarian%3:01:00::
+question=['malta%1:15:01::' 'maltese%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=colombia
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'croatia%1:15:00::'
+<<<<<<< HEAD
  'croatian%3:01:00::'], predicted=slovak
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scotland%1:15:00::
+=======
+ 'croatian%3:01:00::'], predicted=serbian%3:01:00::
+question=['malta%1:15:01::' 'maltese%3:01:00::' 'denmark%1:15:00::'
+ 'danish%3:01:00::'], predicted=swedish%3:01:00::
+question=['malta%1:15:01::' 'maltese%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scotland%1:15:00::
+question=['malta%1:15:01::' 'maltese%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=turkish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['malta%1:15:01::' 'maltese%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['mexico%1:15:00::' 'mexican%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=russian%3:01:00::
@@ -725,6 +1211,7 @@ question=['mexico%1:15:00::' 'mexican%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=ivana
 question=['mexico%1:15:00::' 'mexican%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+<<<<<<< HEAD
 question=['mexico%1:15:00::' 'mexican%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['mexico%1:15:00::' 'mexican%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=russian%3:01:00::
@@ -788,32 +1275,85 @@ question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'italy%1:15:00::'
  'italian%3:01:00::'], predicted=italy
 question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'japan%1:06:01::'
  'japanese%3:01:00::'], predicted=hakka
+=======
+question=['mexico%1:15:00::' 'mexican%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+question=['mexico%1:15:00::' 'mexican%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scotland%1:15:00::
+question=['mexico%1:15:00::' 'mexican%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['mexico%1:15:00::' 'mexican%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=quintana
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'russia%1:15:02::'
+ 'russian%3:01:00::'], predicted=pskov
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=andrzej
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'sweden%1:15:00::'
+ 'swedish%3:01:00::'], predicted=kolberg
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'switzerland%1:15:00::'
+ 'swiss%3:01:00::'], predicted=nurse%2:29:00::
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=manchuria%1:15:00::
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=marcelo
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=austria
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'bulgaria%1:15:00::'
+ 'bulgarian%3:01:00::'], predicted=german
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=england
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'greece%1:15:00::'
+ 'greek%3:01:01::'], predicted=metaxas
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=kolberg
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'italy%1:15:00::'
+ 'italian%3:01:00::'], predicted=italy
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'macedonia%1:15:00::'
- 'macedonian%3:01:00::'], predicted=serb%1:18:00::
+ 'macedonian%3:01:00::'], predicted=fyrom
 question=['moldova%1:15:00::' 'moldovan%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=indentured%5:00:00:unfree:00
+=======
+ 'maltese%3:01:00::'], predicted=midwife%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=slovak%1:10:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=russian%3:01:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'argentina%1:15:00::'
+<<<<<<< HEAD
  'argentinean'], predicted=argentine%3:01:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+=======
+ 'argentinean'], predicted=argentine%1:05:00::
+question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=dutch%1:10:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'denmark%1:15:00::'
  'danish%3:01:00::'], predicted=swedish%3:01:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'england%1:15:00::'
+<<<<<<< HEAD
  'english%3:01:00::'], predicted=england
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
+=======
+ 'english%3:01:00::'], predicted=dutch%1:10:00::
+question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=finnish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'macedonia%1:15:00::'
- 'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+ 'macedonian%3:01:00::'], predicted=bulgarian%3:01:00::
 question=['netherlands%1:15:00::' 'dutch%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=dutch%1:10:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'peru%1:15:00::'
@@ -823,11 +1363,15 @@ question=['norway%1:15:00::' 'norwegian%3:01:00::' 'slovakia%1:15:00::'
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=croatian%3:01:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'argentina%1:15:00::'
+<<<<<<< HEAD
  'argentinean'], predicted=argentine%3:01:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=croatian%3:01:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=cambodia
+=======
+ 'argentinean'], predicted=argentine%1:05:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'england%1:15:00::'
@@ -835,6 +1379,7 @@ question=['norway%1:15:00::' 'norwegian%3:01:00::' 'england%1:15:00::'
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'macedonia%1:15:00::'
+<<<<<<< HEAD
  'macedonian%3:01:00::'], predicted=croatian%3:01:00::
 question=['norway%1:15:00::' 'norwegian%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=johnsen
@@ -851,17 +1396,34 @@ question=['peru%1:15:00::' 'peruvian%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=hungary%1:15:00::
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=vietnamese%3:01:00::
+=======
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['norway%1:15:00::' 'norwegian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=belarus%1:15:00::
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%1:05:00::
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=austria
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=england
+<<<<<<< HEAD
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=greece%1:15:01::
+=======
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'greece%1:15:00::' 'greek%3:01:01::'], predicted=hellenic%3:01:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=maritime%5:00:00:coastal:00
 question=['peru%1:15:00::' 'peruvian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
@@ -875,17 +1437,43 @@ question=['poland%1:15:00::' 'polish%3:01:00::' 'england%1:15:00::'
 question=['poland%1:15:00::' 'polish%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['poland%1:15:00::' 'polish%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+=======
+ 'maltese%3:01:00::'], predicted=process
+question=['peru%1:15:00::' 'peruvian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['poland%1:15:00::' 'polish%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['poland%1:15:00::' 'polish%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['poland%1:15:00::' 'polish%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
+question=['poland%1:15:00::' 'polish%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+question=['poland%1:15:00::' 'polish%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['poland%1:15:00::' 'polish%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
+question=['poland%1:15:00::' 'polish%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['poland%1:15:00::' 'polish%3:01:00::' 'malta%1:15:01::'
- 'maltese%3:01:00::'], predicted=lithuanian%3:01:00::
+ 'maltese%3:01:00::'], predicted=malta%1:15:00::
 question=['poland%1:15:00::' 'polish%3:01:00::' 'moldova%1:15:00::'
+<<<<<<< HEAD
  'moldovan%3:01:00::'], predicted=moldova
 question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'slovakia%1:15:00::'
  'slovakian%3:01:00::'], predicted=pozsony%1:15:00::
 question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'switzerland%1:15:00::'
  'swiss%3:01:00::'], predicted=romansh%1:10:00::
+=======
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'switzerland%1:15:00::'
+ 'swiss%3:01:00::'], predicted=dutch
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'ukraine%1:15:00::'
- 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+ 'ukrainian%3:01:00::'], predicted=bohdan
 question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'argentina%1:15:00::'
+<<<<<<< HEAD
  'argentinean'], predicted=dirty%5:00:00:corrupt:00
 question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
@@ -914,19 +1502,45 @@ question=['russia%1:15:02::' 'russian%3:01:00::' 'slovakia%1:15:00::'
 question=['russia%1:15:02::' 'russian%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
 question=['russia%1:15:02::' 'russian%3:01:00::' 'australia%1:17:00::'
  'australian%3:01:00::'], predicted=australia
+=======
+ 'argentinean'], predicted=spanish%3:01:00::
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=croatian%3:01:00::
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=dutch
+question=['portugal%1:15:00::' 'portuguese%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['russia%1:15:02::' 'russian%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=slovak
+question=['russia%1:15:02::' 'russian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=romanian%3:01:00::
+question=['russia%1:15:02::' 'russian%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=buenos
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['russia%1:15:02::' 'russian%3:01:00::' 'austria%1:15:00::'
  'austrian%3:01:00::'], predicted=german%3:01:00::
 question=['russia%1:15:02::' 'russian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+<<<<<<< HEAD
 question=['russia%1:15:02::' 'russian%3:01:00::' 'chile%1:15:00::'
  'chilean%3:01:00::'], predicted=colombian%3:01:00::
 question=['russia%1:15:02::' 'russian%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=latvian%3:01:00::
+=======
+question=['russia%1:15:02::' 'russian%3:01:00::' 'iceland%1:15:00::'
+ 'icelandic%3:01:00::'], predicted=reykjav
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['russia%1:15:02::' 'russian%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['russia%1:15:02::' 'russian%3:01:00::' 'macedonia%1:15:00::'
- 'macedonian%3:01:00::'], predicted=bulgarian%3:01:00::
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
 question=['russia%1:15:02::' 'russian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=czech%1:18:00::
 question=['russia%1:15:02::' 'russian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
@@ -934,6 +1548,15 @@ question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'ukraine%1:15:00::'
  'ukrainian%3:01:00::'], predicted=vasil
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=landi
+=======
+ 'maltese%3:01:00::'], predicted=malta%1:15:00::
+question=['russia%1:15:02::' 'russian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=romanian%3:01:00::
+question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=talmudic
+question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'albania%1:15:00::'
+ 'albanian%3:01:00::'], predicted=strau
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'austria%1:15:00::'
@@ -942,10 +1565,16 @@ question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'brazil%1:15:00::'
  'brazilian%3:01:00::'], predicted=arrabal
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'cambodia%1:15:00::'
  'cambodian%3:01:00::'], predicted=cambodia
+question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'denmark%1:15:00::'
+ 'danish%3:01:00::'], predicted=swedish%3:01:00::
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'england%1:15:00::'
+<<<<<<< HEAD
  'english%3:01:00::'], predicted=england
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=sabine
+=======
+ 'english%3:01:00::'], predicted=earl%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'ireland%1:15:01::'
@@ -957,6 +1586,7 @@ question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'japan%1:06:01::'
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=giorgi
 question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
@@ -974,6 +1604,23 @@ question=['spain%1:15:00::' 'spanish%3:01:00::' 'iceland%1:15:00::'
 question=['spain%1:15:00::' 'spanish%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
 question=['spain%1:15:00::' 'spanish%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=yugoslav%1:18:00::
+=======
+ 'maltese%3:01:00::'], predicted=cretin%1:18:00::
+question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=moldova
+question=['slovakia%1:15:00::' 'slovakian%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=mexican%3:01:00::
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'ukraine%1:15:00::'
+ 'ukrainian%3:01:00::'], predicted=russian%3:01:00::
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'argentina%1:15:00::' 'argentinean'], predicted=argentine%3:01:00::
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=german%3:01:00::
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'brazil%1:15:00::'
+ 'brazilian%3:01:00::'], predicted=portuguese%3:01:00::
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'india%1:15:00::' 'indian%3:01:00::'], predicted=india
+question=['spain%1:15:00::' 'spanish%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['spain%1:15:00::' 'spanish%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=spanish%1:10:00::
 question=['spain%1:15:00::' 'spanish%3:01:00::' 'moldova%1:15:00::'
@@ -986,6 +1633,7 @@ question=['sweden%1:15:00::' 'swedish%3:01:00::' 'austria%1:15:00::'
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=albanian%3:01:00::
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'cambodia%1:15:00::'
+<<<<<<< HEAD
  'cambodian%3:01:00::'], predicted=khmer
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'colombia%1:15:00::'
  'colombian%3:01:00::'], predicted=colombia
@@ -999,6 +1647,13 @@ question=['sweden%1:15:00::' 'swedish%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=turkish%3:01:00::
+=======
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['sweden%1:15:00::' 'swedish%3:01:00::' 'india%1:15:00::'
+ 'indian%3:01:00::'], predicted=india
+question=['sweden%1:15:00::' 'swedish%3:01:00::' 'macedonia%1:15:00::'
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=moldova
 question=['sweden%1:15:00::' 'swedish%3:01:00::' 'slovakia%1:15:00::'
@@ -1009,6 +1664,7 @@ question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'albania%1:15:00::'
  'albanian%3:01:00::'], predicted=croatian%3:01:00::
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%3:01:00::
+<<<<<<< HEAD
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=croatian%3:01:00::
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'cambodia%1:15:00::'
@@ -1019,9 +1675,18 @@ question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'iceland%1:15:00::'
  'icelandic%3:01:00::'], predicted=estonian%3:01:00::
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
+=======
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'cambodia%1:15:00::'
+ 'cambodian%3:01:00::'], predicted=khmer%1:10:00::
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'england%1:15:00::'
+ 'english%3:01:00::'], predicted=scottish%3:01:00::
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'greece%1:15:00::'
+ 'greek%3:01:01::'], predicted=turkish%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'macedonia%1:15:00::'
  'macedonian%3:01:00::'], predicted=macedonia%1:15:01::
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'malta%1:15:01::'
+<<<<<<< HEAD
  'maltese%3:01:00::'], predicted=councilor
 question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
@@ -1033,6 +1698,21 @@ question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'argentina%1:15:00::'
  'argentinean'], predicted=argentine%1:05:00::
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'bulgaria%1:15:00::'
  'bulgarian%3:01:00::'], predicted=romanian%3:01:00::
+=======
+ 'maltese%3:01:00::'], predicted=industrialist%1:18:00::
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'moldova%1:15:00::'
+ 'moldovan%3:01:00::'], predicted=bulgarian%3:01:00::
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'peru%1:15:00::'
+ 'peruvian%3:01:00::'], predicted=mexican%3:01:00::
+question=['switzerland%1:15:00::' 'swiss%3:01:00::' 'slovakia%1:15:00::'
+ 'slovakian%3:01:00::'], predicted=croatian%3:01:00::
+question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'albania%1:15:00::'
+ 'albanian%3:01:00::'], predicted=serbian%3:01:00::
+question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'argentina%1:15:00::'
+ 'argentinean'], predicted=spanish%3:01:00::
+question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'austria%1:15:00::'
+ 'austrian%3:01:00::'], predicted=croatian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'england%1:15:00::'
  'english%3:01:00::'], predicted=scottish%3:01:00::
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'iceland%1:15:00::'
@@ -1040,9 +1720,15 @@ question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'iceland%1:15:00::'
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'india%1:15:00::'
  'indian%3:01:00::'], predicted=india
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'macedonia%1:15:00::'
+<<<<<<< HEAD
  'macedonian%3:01:00::'], predicted=croatian%3:01:00::
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'malta%1:15:01::'
  'maltese%3:01:00::'], predicted=johnsen
+=======
+ 'macedonian%3:01:00::'], predicted=serbian%3:01:00::
+question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'malta%1:15:01::'
+ 'maltese%3:01:00::'], predicted=croatian%3:01:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'moldova%1:15:00::'
  'moldovan%3:01:00::'], predicted=romanian%3:01:00::
 question=['ukraine%1:15:00::' 'ukrainian%3:01:00::' 'slovakia%1:15:00::'

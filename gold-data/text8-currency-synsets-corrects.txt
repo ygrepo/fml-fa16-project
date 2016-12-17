@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 question=['algeria%1:15:00::' 'dinar%1:23:00::' 'denmark%1:15:00::'
  'krone%1:23:01::'], predicted=krone%1:23:01::
 question=['angola%1:15:00::' 'kwanza%1:23:00::' 'denmark%1:15:00::'
@@ -36,3 +37,14 @@ question=['russia%1:15:02::' 'ruble%1:23:00::' 'hungary%1:15:00::'
 question=['russia%1:15:02::' 'ruble%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
 question=['usa%1:15:00::' 'dollar%1:21:01::' 'hungary%1:15:00::' 'forint%1:23:00::'], predicted=forint%1:23:00::
 question=['vietnam%1:15:00::' 'dong%1:23:00::' 'angola%1:15:00::' 'kwanza%1:23:00::'], predicted=kwanza
+=======
+question=['algeria%1:15:00::' 'dinar%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
+question=['europe%1:14:01::' 'euro%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=dollar%1:23:00::
+question=['japan%1:06:00::' 'yen%1:23:00::' 'algeria%1:15:00::' 'dinar%1:23:00::'], predicted=dinar%1:23:05::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'lithuania%1:15:00::'
+ 'litas%1:23:00::'], predicted=litas%1:23:00::
+question=['poland%1:15:00::' 'zloty%1:23:00::' 'malaysia%1:15:00::'
+ 'ringgit%1:23:00::'], predicted=ringgit%1:23:00::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'canada%1:15:00::' 'dollar%1:21:01::'], predicted=dollar%1:21:01::
+question=['russia%1:15:02::' 'ruble%1:23:00::' 'romania%1:15:00::' 'leu%1:23:00::'], predicted=leu
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf

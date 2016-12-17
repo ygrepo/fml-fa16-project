@@ -1,24 +1,45 @@
 question=['acceptable%3:00:00::' 'unacceptable' 'aware%3:00:00::'
+<<<<<<< HEAD
  'unaware%3:00:00::'], predicted=aware%3:00:04::
 question=['acceptable%3:00:00::' 'unacceptable' 'certain%3:00:01::'
  'uncertain%3:00:01::'], predicted=those
+=======
+ 'unaware%3:00:00::'], predicted=mosig
+question=['acceptable%3:00:00::' 'unacceptable' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=particular%5:00:02:specific:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['acceptable%3:00:00::' 'unacceptable' 'clear%5:00:00:distinct:00'
- 'unclear%3:00:04::'], predicted=clear%5:00:01:pure:02
+ 'unclear%3:00:04::'], predicted=limb
 question=['acceptable%3:00:00::' 'unacceptable' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=recall%1:04:01::
 question=['acceptable%3:00:00::' 'unacceptable' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=more
+=======
+ 'uncomfortable%3:00:00::'], predicted=ollie
+question=['acceptable%3:00:00::' 'unacceptable' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=beginner%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['acceptable%3:00:00::' 'unacceptable' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=connective%1:06:00::
 question=['acceptable%3:00:00::' 'unacceptable' 'convenient%3:00:00::'
+<<<<<<< HEAD
  'inconvenient%3:00:00::'], predicted=useful%5:00:00:functional:00
 question=['acceptable%3:00:00::' 'unacceptable' 'efficient%5:00:00:competent:00'
  'inefficient%3:00:00::'], predicted=tractable%5:00:00:susceptible:00
 question=['acceptable%3:00:00::' 'unacceptable' 'ethical%5:00:00:right:01'
  'unethical%3:00:00::'], predicted=subjectivism%1:09:00::
+=======
+ 'inconvenient%3:00:00::'], predicted=logarithmic%3:01:00::
+question=['acceptable%3:00:00::' 'unacceptable' 'efficient%5:00:00:competent:00'
+ 'inefficient%3:00:00::'], predicted=more
+question=['acceptable%3:00:00::' 'unacceptable' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=faith%1:09:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['acceptable%3:00:00::' 'unacceptable' 'fortunate%5:00:00:blessed:00'
- 'unfortunate%3:00:00::'], predicted=far%4:02:01::
+ 'unfortunate%3:00:00::'], predicted=distant%3:00:02::
 question=['acceptable%3:00:00::' 'unacceptable' 'honest%5:00:00:sincere:00'
+<<<<<<< HEAD
  'dishonest%3:00:00::'], predicted=poignant
 question=['acceptable%3:00:00::' 'unacceptable' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=leptis
@@ -40,21 +61,53 @@ question=['acceptable%3:00:00::' 'unacceptable' 'responsible%5:00:00:causative:0
 question=['acceptable%3:00:00::' 'unacceptable' 'sure%3:00:00::' 'unsure'], predicted=sure
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'certain%3:00:01::'
  'uncertain%3:00:01::'], predicted=certain%5:00:00:careful:00
+=======
+ 'dishonest%3:00:00::'], predicted=shrill
+question=['acceptable%3:00:00::' 'unacceptable' 'impressive%3:00:00::'
+ 'unimpressive%3:00:00::'], predicted=remarkable%5:00:00:extraordinary:00
+question=['acceptable%3:00:00::' 'unacceptable' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=give%2:32:07::
+question=['acceptable%3:00:00::' 'unacceptable' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=extrasolar
+question=['acceptable%3:00:00::' 'unacceptable' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['acceptable%3:00:00::' 'unacceptable' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=shrill
+question=['acceptable%3:00:00::' 'unacceptable' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=possible%3:00:04::
+question=['acceptable%3:00:00::' 'unacceptable' 'productive%5:00:00:fruitful:00'
+ 'unproductive%3:00:00::'], predicted=zki
+question=['acceptable%3:00:00::' 'unacceptable' 'rational' 'irrational'], predicted=distant%3:00:02::
+question=['acceptable%3:00:00::' 'unacceptable' 'responsible%5:00:00:causative:00'
+ 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['acceptable%3:00:00::' 'unacceptable' 'sure%3:00:00::' 'unsure'], predicted=ordinances
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=particular%5:00:00:specific:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'clear%5:00:00:distinct:00'
- 'unclear%3:00:04::'], predicted=little%5:00:00:lowercase:00
+ 'unclear%3:00:04::'], predicted=sure%5:00:00:steady:00
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=seat%1:07:00::
+=======
+ 'uncomfortable%3:00:00::'], predicted=struggle%2:41:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'competitive'
- 'uncompetitive%5:00:00:noncompetitive:00'], predicted=atp
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=fence%2:33:01::
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=consistent%5:00:00:homogeneous:00
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'convenient%3:00:00::'
- 'inconvenient%3:00:00::'], predicted=bootstrap%1:06:00::
+ 'inconvenient%3:00:00::'], predicted=serving%1:13:00::
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'efficient%5:00:00:competent:00'
+<<<<<<< HEAD
  'inefficient%3:00:00::'], predicted=efficient%3:00:00::
+=======
+ 'inefficient%3:00:00::'], predicted=expensive%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'ethical%5:00:00:right:01'
  'unethical%3:00:00::'], predicted=cognitivism
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'fortunate%5:00:00:blessed:00'
+<<<<<<< HEAD
  'unfortunate%3:00:00::'], predicted=bitterly%4:02:00::
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'honest%5:00:00:sincere:00'
  'dishonest%3:00:00::'], predicted=kaufman%1:18:00::
@@ -62,6 +115,15 @@ question=['aware%3:00:00::' 'unaware%3:00:00::' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=streak
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=developmentally%4:02:00::
+=======
+ 'unfortunate%3:00:00::'], predicted=society
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'honest%5:00:00:sincere:00'
+ 'dishonest%3:00:00::'], predicted=mouseketeer
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'impressive%3:00:00::'
+ 'unimpressive%3:00:00::'], predicted=era%1:28:01::
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=score%1:26:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=best%5:00:00:advisable:00
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'likely%3:00:04::'
@@ -71,6 +133,7 @@ question=['aware%3:00:00::' 'unaware%3:00:00::' 'pleasant%5:00:00:nice:00'
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'possible%3:00:00::'
  'impossible%3:00:00::'], predicted=possible%3:00:04::
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'productive%5:00:00:fruitful:00'
+<<<<<<< HEAD
  'unproductive%3:00:00::'], predicted=agriculturally
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'rational' 'irrational'], predicted=chemotherapeutic%3:01:00::
 question=['aware%3:00:00::' 'unaware%3:00:00::' 'responsible%5:00:00:causative:00'
@@ -82,9 +145,23 @@ question=['certain%3:00:01::' 'uncertain%3:00:01::' 'clear%5:00:00:distinct:00'
  'unclear%3:00:04::'], predicted=clear%5:00:01:pure:02
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'comfortable%3:00:01::'
  'uncomfortable%3:00:00::'], predicted=spahn
+=======
+ 'unproductive%3:00:00::'], predicted=retention%1:09:00::
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'rational' 'irrational'], predicted=experimental%3:01:00::
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'responsible%5:00:00:causative:00'
+ 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=really%4:02:02::
+question=['aware%3:00:00::' 'unaware%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=stay%2:34:00::
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'clear%5:00:00:distinct:00'
+ 'unclear%3:00:04::'], predicted=oden
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:00::'], predicted=thoughout
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=nlds
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'consistent%3:00:01::'
+<<<<<<< HEAD
  'inconsistent%5:00:00:irreconcilable:00'], predicted=retirement
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=accurate%3:00:00::
@@ -98,9 +175,25 @@ question=['certain%3:00:01::' 'uncertain%3:00:01::' 'honest%5:00:00:sincere:00'
  'dishonest%3:00:00::'], predicted=shy%1:04:00::
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=capped
+=======
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=forgotten
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=oden
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'efficient%5:00:00:competent:00'
+ 'inefficient%3:00:00::'], predicted=turbofan%1:06:00::
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=existentialist%1:18:00::
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'fortunate%5:00:00:blessed:00'
+ 'unfortunate%3:00:00::'], predicted=upbeat%5:00:00:optimistic:00
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'honest%5:00:00:sincere:00'
+ 'dishonest%3:00:00::'], predicted=forgotten
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'impressive%3:00:00::'
+ 'unimpressive%3:00:00::'], predicted=oden
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'informed%3:00:00::'
- 'uninformed%3:00:00::'], predicted=quiz%2:32:00::
+ 'uninformed%3:00:00::'], predicted=hermaphrodite%1:18:00::
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'known%3:00:00::'
+<<<<<<< HEAD
  'unknown%5:00:00:unfamiliar:00'], predicted=known
 question=['certain%3:00:01::' 'uncertain%3:00:01::' 'likely%3:00:04::'
  'unlikely%3:00:00::'], predicted=doubtful%5:00:00:questionable:00
@@ -127,15 +220,52 @@ question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=commute%2:38:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=reinvested
-question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'ethical%5:00:00:right:01'
- 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+=======
+ 'unknown%5:00:00:unfamiliar:00'], predicted=oden
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=forgotten
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=forgotten
+question=['certain%3:00:01::' 'uncertain%5:00:00:ambiguous:00' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=possible%3:00:04::
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'productive%5:00:00:fruitful:00'
+ 'unproductive%3:00:00::'], predicted=forgotten
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'rational' 'irrational'], predicted=died
+question=['certain%3:00:01::' 'uncertain%3:00:01::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'sure%5:00:00:steady:00'
+ 'unsure%3:00:00::'], predicted=oden
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=gabrielle
+question=['certain%3:00:01::' 'uncertain%3:00:01::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=wag
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:00::'], predicted=denounces
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=admission%1:21:00::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=parsimonious%5:00:00:stingy:00
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=log%1:10:01::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=slide%1:06:03::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=ethic%1:10:00::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
+<<<<<<< HEAD
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=visit%2:38:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=carnal%3:01:00::
+=======
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=detrimental
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=delude%2:41:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=tivoli%1:15:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'informed%3:00:00::'
+<<<<<<< HEAD
  'uninformed%3:00:00::'], predicted=ban%2:41:01::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=diprotodon
@@ -143,11 +273,21 @@ question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'likely%3:00:04::'
  'unlikely%3:00:00::'], predicted=unclear%3:00:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'pleasant%5:00:00:nice:00'
  'unpleasant%3:00:00::'], predicted=hira
+=======
+ 'uninformed%3:00:00::'], predicted=slide%1:06:03::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=preserved%3:00:02::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=unclear%3:00:00::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=animalium
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'possible%3:00:00::'
  'impossible%3:00:00::'], predicted=unclear%3:00:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=stage%1:28:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'rational%3:00:00::'
+<<<<<<< HEAD
  'irrational'], predicted=rational%3:01:00::
 question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
@@ -160,15 +300,30 @@ question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=complicate
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=provability%1:07:00::
+=======
+ 'irrational'], predicted=humanely%4:02:00::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'sure%3:00:00::' 'unsure'], predicted=get%2:32:08::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=use%2:41:03::
+question=['clear%5:00:00:distinct:00' 'unclear%3:00:04::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=vacancy
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=emotionally%4:02:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=useful%5:00:00:functional:00
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
- 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=efficient%3:00:00::
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=useful%5:00:00:functional:00
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=subjective
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=decent%3:00:00::
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'impressive%3:00:00::'
+<<<<<<< HEAD
  'unimpressive%3:00:00::'], predicted=astonishing
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=provability%1:07:00::
@@ -176,38 +331,75 @@ question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=remembered
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'likely%3:00:04::'
  'unlikely%3:00:00::'], predicted=unclear%3:00:00::
+=======
+ 'unimpressive%3:00:00::'], predicted=intricate%5:00:00:complex:00
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=unconventional%5:00:00:irregular:00
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=notable%5:00:00:worthy:00
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=emotionally%4:02:01::
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=accompaniment%1:07:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'possible%3:00:00::'
  'impossible%3:00:00::'], predicted=possible%3:00:04::
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
+<<<<<<< HEAD
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=addictive%3:00:00::
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'rational' 'irrational'], predicted=uncountably
+=======
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=unconventional%5:00:00:irregular:00
+question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'rational' 'irrational'], predicted=unachievable%5:00:00:impossible:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:01::' 'sure%3:00:00::'
- 'unsure'], predicted=sure%5:00:00:trustworthy:00
+ 'unsure'], predicted=moment%1:28:00::
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'acceptable%3:00:00::'
+<<<<<<< HEAD
  'unacceptable'], predicted=addictive%3:00:00::
+=======
+ 'unacceptable'], predicted=appropriate%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=aware%3:00:04::
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::' 'certain%3:00:01::'
+<<<<<<< HEAD
  'uncertain%3:00:01::'], predicted=presume%2:32:00::
+=======
+ 'uncertain%3:00:01::'], predicted=various
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['comfortable%3:00:01::' 'uncomfortable%3:00:00::'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=provability%1:07:00::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=dimensionally
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+<<<<<<< HEAD
  'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=suitable%5:00:00:fit:02
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=underpowered
+=======
+ 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=aengus
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=expensive%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=hygiene
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+<<<<<<< HEAD
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=behind%4:02:01::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=crack%2:37:00::
+=======
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=somoza
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=aristobulus
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=mismanagement%1:04:00::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+<<<<<<< HEAD
  'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=time%2:30:01::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=know%2:31:03::
@@ -217,10 +409,25 @@ question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=rough%3:00:00::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'possible%3:00:00::' 'impossible%3:00:00::'], predicted=possible%3:00:04::
+=======
+ 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=cut%1:06:01::
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=aymara
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=nationalization%1:04:01::
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=necessary%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=prosperous%5:00:00:successful:00
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'rational'
+<<<<<<< HEAD
  'irrational'], predicted=iwi
+=======
+ 'irrational'], predicted=gendarmerie
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%3:00:00::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'sure%3:00:00::'
@@ -228,6 +435,7 @@ question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'sure%3:00:00:
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'acceptable%3:00:00::' 'unacceptable'], predicted=subject%2:32:04::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00' 'aware%3:00:00::'
+<<<<<<< HEAD
  'unaware%3:00:00::'], predicted=incapable%3:00:00::
 question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
  'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=falsely%4:02:01::
@@ -263,9 +471,47 @@ question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
 question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
  'acceptable%3:00:00::' 'unacceptable'], predicted=injunction%1:10:00::
+=======
+ 'unaware%3:00:00::'], predicted=say%2:32:09::
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=necessary%3:00:00::
+question=['competitive' 'uncompetitive%5:00:00:noncompetitive:00'
+ 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=tap%2:40:04::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=tanzania
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=algorithm%1:09:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=despoil%2:35:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=lust
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=baphomet
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=authorise%2:41:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'], predicted=extrasolar
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=swath%1:23:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=amino%3:01:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=mature%3:00:02::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'rational%5:00:00:intellectual:00' 'irrational%3:00:00::'], predicted=no%1:27:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'acceptable%3:00:00::' 'unacceptable'], predicted=marseillaise%1:10:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
  'aware%3:00:00::' 'unaware%3:00:00::'], predicted=tunnicliffe
 question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+<<<<<<< HEAD
  'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
 question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=sure%5:00:00:steady:00
@@ -277,9 +523,23 @@ question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'ethical%5:00:00:right
  'unethical%3:00:00::'], predicted=ethical%3:01:00::
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=ananus
+=======
+ 'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=authorise%2:41:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=ibelin
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=soap%2:29:00::
+question=['consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'
+ 'competitive' 'uncompetitive%5:00:00:noncompetitive:00'], predicted=nikolais
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=lollard
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=faithfulness%1:07:00::
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'impressive%3:00:00::'
+<<<<<<< HEAD
  'unimpressive%3:00:00::'], predicted=frustrating
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=objectionable%5:00:00:offensive:01
@@ -297,15 +557,43 @@ question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=redeem
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'acceptable%3:00:00::'
  'unacceptable'], predicted=accusatory%5:00:00:inculpatory:00
+=======
+ 'unimpressive%3:00:00::'], predicted=ambitious%3:00:00::
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=consent%1:10:00::
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=surviving
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=bright%5:00:00:light:06
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=justinian
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=purge
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'rational' 'irrational'], predicted=rectitude%1:07:00::
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=pawson
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=outburst%1:11:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'aware%3:00:00::'
- 'unaware%3:00:00::'], predicted=aware%3:00:04::
+ 'unaware%3:00:00::'], predicted=alia
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'certain%3:00:01::'
+<<<<<<< HEAD
  'uncertain%3:00:01::'], predicted=infringers
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=pointedly%4:02:00::
+=======
+ 'uncertain%3:00:01::'], predicted=lollard
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=celebritarian
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'comfortable%3:00:01::'
- 'uncomfortable%3:00:00::'], predicted=whitlam
+ 'uncomfortable%3:00:00::'], predicted=stoiber
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'competitive'
+<<<<<<< HEAD
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=roundly
 question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=verifiable
@@ -315,15 +603,31 @@ question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=bitterly%4:02:00::
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=anxious
+=======
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=justinian
+question=['convenient%3:00:00::' 'inconvenient%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=eugenics%1:09:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=veneto%1:15:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=carola
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=privatization%1:04:00::
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=consent%1:10:00::
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::' 'known%3:00:00::'
+<<<<<<< HEAD
  'unknown%5:00:00:unfamiliar:00'], predicted=documented
+=======
+ 'unknown%5:00:00:unfamiliar:00'], predicted=surviving
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=stunted%5:00:00:inferior:02
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+<<<<<<< HEAD
  'possible%3:00:00::' 'impossible%3:00:00::'], predicted=eugenic
 question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=privatization%1:04:00::
@@ -353,9 +657,41 @@ question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=unlikely%3:00:00::
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=abused%3:00:01::
+=======
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=concordance%1:10:02::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=option%1:04:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::' 'rational'
+ 'irrational'], predicted=coyotes
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::' 'sure%3:00:00::'
+ 'unsure'], predicted=stuff%1:07:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'acceptable%3:00:00::' 'unacceptable'], predicted=interruptus
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=believe%2:31:02::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=certain%5:00:00:definite:00
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=clear%5:00:01:pure:02
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=disgust%1:12:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=lausanne%1:15:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=indistinguishability%1:07:00::
+question=['efficient%5:00:00:competent:00' 'inefficient%3:00:00::'
+ 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=morea
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=assist%2:41:02::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=ttir
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=produced
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'informed%3:00:00::'
+<<<<<<< HEAD
  'uninformed%3:00:00::'], predicted=mindful%3:00:00::
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=whodunit%1:10:00::
@@ -369,13 +705,31 @@ question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'rational' 'irrationa
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=crazy%5:00:00:impractical:00
+=======
+ 'uninformed%3:00:00::'], predicted=stun%2:30:00::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=best%5:00:00:advisable:00
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=tap%2:35:04::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=possible%3:00:04::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=productive%3:00:04::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'rational' 'irrational'], predicted=septic
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=crockett%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'acceptable%3:00:00::'
  'unacceptable'], predicted=euthanized
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'certain%3:00:01::'
- 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
+ 'uncertain%3:00:01::'], predicted=particular%5:00:00:specific:00
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=clear%5:00:01:pure:02
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=humane%3:01:01::
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=competitive%5:00:00:aggressive:00
@@ -383,9 +737,19 @@ question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'consistent%3:00:01::
  'inconsistent%5:00:00:irreconcilable:00'], predicted=painstaking
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=difficult%3:00:00::
+=======
+ 'uncomfortable%3:00:00::'], predicted=counterbalance%1:25:00::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=competitive%3:00:00::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=difficult%3:00:01::
+question=['ethical%5:00:00:right:01' 'unethical%3:00:00::' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=efficient%5:00:00:competent:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['ethical%5:00:00:right:01' 'unethical%3:00:00::'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=efficient%3:00:00::
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+<<<<<<< HEAD
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=impartial%3:00:00::
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=factual
@@ -399,6 +763,23 @@ question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'possible%3:00:00::' 'impossible%3:00:00::'], predicted=undesired%5:00:00:unwanted:00
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=factual
+=======
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=nonviolent
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=structure%1:09:00::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=behavioural%3:01:00::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=serious%5:00:00:important:00
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:04::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=seem%2:39:02::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=brookings
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=alter%2:30:00::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=adb
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'rational'
  'irrational'], predicted=misuse
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
@@ -406,17 +787,31 @@ question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'sure%3:00:00::'
  'unsure'], predicted=awful
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+<<<<<<< HEAD
  'acceptable%3:00:00::' 'unacceptable'], predicted=undesired%5:00:00:unwanted:00
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=wryly
+=======
+ 'acceptable%3:00:00::' 'unacceptable'], predicted=mainstream%1:09:00::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=aware%3:00:04::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'certain%3:00:01::'
  'uncertain%3:00:01::'], predicted=undesired%5:00:00:unwanted:00
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+<<<<<<< HEAD
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=factual
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=constructionism
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=factual
+=======
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=inflammatory%5:00:00:unhealthy:00
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=fischer%1:18:01::
+question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
+ 'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=interpretation%1:09:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=feedback%1:10:00::
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
@@ -424,12 +819,19 @@ question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
 question=['fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'impressive%3:00:00::'
+<<<<<<< HEAD
  'unimpressive%3:00:00::'], predicted=ambitious%5:00:00:difficult:00
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=judgment%1:09:01::
+=======
+ 'unimpressive%3:00:00::'], predicted=beautifully%4:02:00::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=cipher%1:23:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=whodunit%1:10:00::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'likely%3:00:04::'
+<<<<<<< HEAD
  'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
  'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=pleasant
@@ -444,14 +846,38 @@ question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'sure%3:00:00::'
  'unsure'], predicted=crazy%5:00:00:impractical:00
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=convince%2:32:00::
+=======
+ 'unlikely%3:00:00::'], predicted=report%2:32:01::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=pennsylvania
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=useful%5:00:00:functional:00
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=agricultural%5:00:00:rural:00
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'rational' 'irrational'], predicted=testament%1:10:02::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'sure%3:00:00::'
+ 'unsure'], predicted=absurdity%1:10:00::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=properly%4:02:00::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=report%2:32:01::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'certain%3:00:01::'
  'uncertain%3:00:01::'], predicted=habituate%2:30:00::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=sure%5:00:00:steady:00
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=bother%2:41:00::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=monopolistically
+=======
+ 'uncomfortable%3:00:00::'], predicted=lower%2:35:03::
+question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=duopoly
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=proof%2:36:00::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::' 'convenient%3:00:00::'
@@ -461,10 +887,15 @@ question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=judgment%1:09:01::
 question=['honest%5:00:00:sincere:00' 'dishonest%3:00:00::'
+<<<<<<< HEAD
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=angry%3:00:00::
+=======
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=insolvent%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=intermarried
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'known%3:00:00::'
+<<<<<<< HEAD
  'unknown%5:00:00:unfamiliar:00'], predicted=fare%2:42:00::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'likely%3:00:04::'
  'unlikely%3:00:00::'], predicted=unsuitable%5:00:00:bad:00
@@ -484,11 +915,33 @@ question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=aware%3:00:04::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'certain%3:00:01::'
  'uncertain%3:00:01::'], predicted=certain%5:00:00:careful:00
+=======
+ 'unknown%5:00:00:unfamiliar:00'], predicted=clifton
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=note%2:39:02::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=coconut
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=possible%3:00:04::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=murry
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'rational' 'irrational'], predicted=triune
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=murphy
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=gunshot%1:04:00::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=aware%3:00:04::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=specify%2:32:02::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=desert%2:38:02::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'comfortable%3:00:01::'
  'uncomfortable%3:00:00::'], predicted=indoctrinate%2:31:00::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'competitive'
+<<<<<<< HEAD
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=permit%2:32:00::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=parsimonious%5:00:00:stingy:00
@@ -496,9 +949,19 @@ question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=difficult%3:00:00::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=fast%3:00:02::
-question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'ethical%5:00:00:right:01'
- 'unethical%3:00:00::'], predicted=ethic%1:10:00::
+=======
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=supercede%2:41:00::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=knock%1:09:00::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=filter
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=convenient%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=abstinence%1:04:00::
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
+<<<<<<< HEAD
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=desert%2:38:02::
 question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=decent%3:00:00::
@@ -508,9 +971,21 @@ question=['informed%3:00:00::' 'uninformed%3:00:00::' 'likely%3:00:04::'
  'unlikely%3:00:00::'], predicted=herd%2:38:00::
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'pleasant%5:00:00:nice:00'
  'unpleasant%3:00:00::'], predicted=sweet%5:00:00:lovable:00
+=======
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=terrae
+question=['impressive%3:00:00::' 'unimpressive%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=abe
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=hund
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'likely%3:00:04::'
+ 'unlikely%3:00:00::'], predicted=uncommon%5:00:00:extraordinary:00
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=saccharine%5:00:00:sweet:02
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'possible%3:00:00::'
  'impossible%3:00:00::'], predicted=neuroleptic
 question=['informed%3:00:00::' 'uninformed%3:00:00::'
+<<<<<<< HEAD
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=biomass%1:27:00::
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'rational' 'irrational'], predicted=todsah
 question=['informed%3:00:00::' 'uninformed%3:00:00::'
@@ -528,23 +1003,57 @@ question=['informed%3:00:00::' 'uninformed%3:00:00::' 'comfortable%3:00:01::'
  'uncomfortable%3:00:00::'], predicted=inelegant%3:00:00::
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=monopolistically
+=======
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=earnings%1:21:01::
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'rational' 'irrational'], predicted=pulse%2:38:01::
+question=['informed%3:00:00::' 'uninformed%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=love%1:23:00::
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=tch
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=clumsy
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'clear%5:00:00:distinct:00'
+ 'unclear%3:00:04::'], predicted=burgoyne%1:18:00::
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:00::'], predicted=mouton%1:13:00::
+question=['informed%3:00:00::' 'uninformed%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=funghi
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=optimise
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'convenient%3:00:00::'
+<<<<<<< HEAD
  'inconvenient%3:00:00::'], predicted=useful%5:00:00:functional:00
 question=['informed%3:00:00::' 'uninformed%3:00:00::'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=optimise
+=======
+ 'inconvenient%3:00:00::'], predicted=yerba
+question=['informed%3:00:00::' 'uninformed%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=efficiency%1:24:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'ethical%5:00:00:right:01'
  'unethical%3:00:00::'], predicted=subjectivism%1:09:00::
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'fortunate%5:00:00:blessed:00'
+<<<<<<< HEAD
  'unfortunate%3:00:00::'], predicted=insatiable%3:00:00::
+=======
+ 'unfortunate%3:00:00::'], predicted=malinche
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'honest%5:00:00:sincere:00'
  'dishonest%3:00:00::'], predicted=classist
 question=['informed%3:00:00::' 'uninformed%3:00:00::' 'impressive%3:00:00::'
+<<<<<<< HEAD
  'unimpressive%3:00:00::'], predicted=sluggish
+=======
+ 'unimpressive%3:00:00::'], predicted=saccharine%5:00:00:sweet:02
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'likely%3:00:04::'
- 'unlikely%3:00:00::'], predicted=uncommon%5:00:00:extraordinary:00
+ 'unlikely%3:00:00::'], predicted=expect%2:31:05::
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+<<<<<<< HEAD
  'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=retreat%1:15:00::
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=headcount%1:23:00::
@@ -565,9 +1074,36 @@ question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=cycling%1:04:00::
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=unwise%5:00:00:impolitic:00
+=======
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=dry%5:00:00:humorous:00
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'possible%3:00:00::'
+ 'impossible%3:00:00::'], predicted=necessary%3:00:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=servitude%1:26:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'rational' 'irrational'], predicted=heterosexuality%1:04:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%3:00:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=unfermented%5:00:00:unsoured:00
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=unintelligible%5:00:00:incomprehensible:00
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=particular%5:00:00:specific:00
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=finally
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:00::'], predicted=blacklist
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=dancesport
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=available%5:00:00:free:00
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=multitasking
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=effective%5:00:00:actual:00
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+<<<<<<< HEAD
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=cognitively%4:02:00::
 question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=unharmed%5:00:00:uninjured:00
@@ -589,20 +1125,55 @@ question=['likely%3:00:04::' 'unlikely%3:00:00::' 'acceptable%3:00:00::'
  'unacceptable'], predicted=clarifies
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'aware%3:00:00::'
  'unaware%3:00:00::'], predicted=aware%3:00:04::
+=======
+ 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=moral%3:00:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=abort%2:30:00::
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=blacklist
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'impressive%3:00:00::'
+ 'unimpressive%3:00:00::'], predicted=highbury
+question=['known%3:00:00::' 'unknown%5:00:00:unfamiliar:00' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=resign%2:41:00::
+question=['likely%3:00:00::' 'unlikely%3:00:00::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=carter%1:18:02::
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'possible%3:00:00::'
+ 'impossible%5:00:00:unthinkable:00'], predicted=possible%3:00:04::
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'productive%5:00:00:fruitful:00'
+ 'unproductive%3:00:00::'], predicted=inseparable%5:00:00:indivisible:00
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'rational' 'irrational'], predicted=amazing
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'responsible%5:00:00:causative:00'
+ 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'sure%3:00:00::' 'unsure'], predicted=chop%2:35:03::
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=praiseworthy%5:00:00:worthy:00
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=clear%5:00:01:pure:02
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'certain%3:00:01::'
- 'uncertain%3:00:01::'], predicted=certain%5:00:00:reliable:00
+ 'uncertain%3:00:01::'], predicted=unusual%5:00:00:uncommon:00
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'clear%5:00:00:distinct:00'
  'unclear%3:00:04::'], predicted=clear%5:00:01:pure:02
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=ahead%4:02:03::
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=individualistic
+=======
+ 'uncomfortable%3:00:00::'], predicted=seem%2:42:00::
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=dancesport
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=consistent%5:00:00:homogeneous:00
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=feasible%5:00:00:possible:00
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'efficient%5:00:00:competent:00'
+<<<<<<< HEAD
  'inefficient%3:00:00::'], predicted=efficient%3:00:00::
+=======
+ 'inefficient%3:00:00::'], predicted=ordinary%5:00:02:common:01
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'ethical%5:00:00:right:01'
  'unethical%3:00:00::'], predicted=ethical%3:01:00::
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'fortunate%5:00:00:blessed:00'
@@ -610,12 +1181,19 @@ question=['likely%3:00:04::' 'unlikely%3:00:00::' 'fortunate%5:00:00:blessed:00'
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'honest%5:00:00:sincere:00'
  'dishonest%3:00:00::'], predicted=headstrong%5:00:00:disobedient:00
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'impressive%3:00:00::'
+<<<<<<< HEAD
  'unimpressive%3:00:00::'], predicted=leptis
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'informed%3:00:00::'
  'uninformed%3:00:00::'], predicted=erewhon%1:10:00::
+=======
+ 'unimpressive%3:00:00::'], predicted=remarkable%5:00:00:extraordinary:00
+question=['likely%3:00:04::' 'unlikely%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=reunion%1:04:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['likely%3:00:04::' 'unlikely%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=mention%1:10:02::
 question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'possible%3:00:00::'
+<<<<<<< HEAD
  'impossible%3:00:00::'], predicted=possible%3:00:04::
 question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=addictive%3:00:00::
@@ -659,6 +1237,51 @@ question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'likely%3:00:00::'
 question=['possible%3:00:00::' 'impossible%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=prosperous%5:00:00:successful:00
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'rational' 'irrational'], predicted=francione
+=======
+ 'impossible%3:00:00::'], predicted=necessary%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=goth%1:18:01::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'rational' 'irrational'], predicted=insulin
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'sure%3:00:00::'
+ 'unsure'], predicted=feel%2:29:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'acceptable%3:00:00::'
+ 'unacceptable'], predicted=appropriate%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'aware%3:00:00::'
+ 'unaware%3:00:00::'], predicted=obvious%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=specific%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=obvious%3:00:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:00::'], predicted=over%1:28:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=bodybuilding
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=mutually%4:02:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'convenient%3:00:00::'
+ 'inconvenient%3:00:00::'], predicted=useful%5:00:00:functional:00
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=useful%5:00:00:functional:00
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=inevitably%4:02:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=evil%5:00:00:maleficent:00
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'impressive%3:00:00::'
+ 'unimpressive%3:00:00::'], predicted=impressive%5:00:00:effective:00
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'informed%3:00:00::'
+ 'uninformed%3:00:00::'], predicted=consent%1:10:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=perhaps%4:02:00::
+question=['pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::' 'likely%3:00:00::'
+ 'unlikely%3:00:00::'], predicted=sgml
+question=['possible%3:00:00::' 'impossible%3:00:00::'
+ 'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=productive%3:00:04::
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'rational' 'irrational'], predicted=man%1:18:06::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['possible%3:00:00::' 'impossible%3:00:00::'
  'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%3:00:00::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'acceptable%3:00:00::'
@@ -668,24 +1291,43 @@ question=['possible%3:00:00::' 'impossible%3:00:00::' 'certain%3:00:01::'
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'clear%5:00:00:distinct:00'
  'unclear%3:00:04::'], predicted=sure%5:00:00:steady:00
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'comfortable%3:00:01::'
+<<<<<<< HEAD
  'uncomfortable%3:00:00::'], predicted=unspectacular%5:00:00:undramatic:00
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'competitive'
  'uncompetitive%5:00:00:noncompetitive:00'], predicted=diving%1:11:00::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'consistent%3:00:01::'
  'inconsistent%5:00:00:irreconcilable:00'], predicted=provably%4:02:00::
+=======
+ 'uncomfortable%3:00:00::'], predicted=breakneck
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=acrobatic%5:00:00:active:01
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'consistent%3:00:01::'
+ 'inconsistent%5:00:00:irreconcilable:00'], predicted=meaningful%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'convenient%3:00:00::'
  'inconvenient%3:00:00::'], predicted=suitable%5:00:00:fit:02
 question=['possible%3:00:00::' 'impossible%3:00:00::'
+<<<<<<< HEAD
  'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=efficient%3:00:00::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'ethical%5:00:00:right:01'
  'unethical%3:00:00::'], predicted=altruist%1:18:00::
+=======
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=expensive%3:00:00::
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'ethical%5:00:00:right:01'
+ 'unethical%3:00:00::'], predicted=moral%3:00:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'fortunate%5:00:00:blessed:00'
  'unfortunate%3:00:00::'], predicted=precocious%3:00:00::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'honest%5:00:00:sincere:00'
+<<<<<<< HEAD
  'dishonest%3:00:00::'], predicted=scoundrel%1:18:00::
+=======
+ 'dishonest%3:00:00::'], predicted=kaufman%1:18:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'impressive%3:00:00::'
  'unimpressive%3:00:00::'], predicted=pushkin%1:18:00::
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'informed%3:00:00::'
+<<<<<<< HEAD
  'uninformed%3:00:00::'], predicted=immensely
 question=['possible%3:00:00::' 'impossible%3:00:00::' 'known%3:00:00::'
  'unknown%5:00:00:unfamiliar:00'], predicted=known
@@ -695,17 +1337,35 @@ question=['possible%3:00:00::' 'impossible%3:00:00::' 'pleasant%5:00:00:nice:00'
  'unpleasant%3:00:00::'], predicted=disheveled%5:00:00:untidy:00
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::' 'rational'
  'irrational'], predicted=retroactive
+=======
+ 'uninformed%3:00:00::'], predicted=tacitly%4:02:00::
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'known%3:00:00::'
+ 'unknown%5:00:00:unfamiliar:00'], predicted=best%4:02:00::
+question=['possible%3:00:00::' 'impossible%5:00:00:unthinkable:00'
+ 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['possible%3:00:00::' 'impossible%3:00:00::' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=sacrifice%2:40:02::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::' 'rational'
+ 'irrational'], predicted=eubank
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
- 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%3:00:00::
+ 'responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::' 'sure%3:00:00::'
+<<<<<<< HEAD
  'unsure'], predicted=forgot
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'acceptable%3:00:00::' 'unacceptable'], predicted=commitment
+=======
+ 'unsure'], predicted=answer%2:32:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'acceptable%3:00:00::' 'unacceptable'], predicted=remedy%2:30:00::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'aware%3:00:00::' 'unaware%3:00:00::'], predicted=aware%3:00:04::
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=habituate%2:30:00::
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+<<<<<<< HEAD
  'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=rectify%2:30:08::
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=majority%1:23:00::
@@ -717,9 +1377,23 @@ question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=easy%3:00:02::
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=cognitivism
+=======
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=answer%2:32:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=windy
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=hashimoto
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=inductively
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=easy%5:00:00:abundant:00
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=easy%5:00:00:abundant:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=greedy%5:00:00:acquisitive:00
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+<<<<<<< HEAD
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=uneasy%3:00:05::
 question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
  'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=sweeping
@@ -758,10 +1432,53 @@ question=['rational' 'irrational' 'informed%3:00:00::' 'uninformed%3:00:00::'], 
 question=['rational' 'irrational' 'known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'], predicted=known
 question=['rational' 'irrational' 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=probably%4:02:01::
 question=['rational' 'irrational' 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=rougemont
+=======
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=catch%2:35:06::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=desert%2:41:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=difficulty%1:07:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=answer%2:32:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'], predicted=best%5:00:00:advisable:00
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=tenth%1:24:00::
+question=['productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=easy%5:00:00:abundant:00
+question=['rational' 'irrational' 'responsible%5:00:00:causative:00'
+ 'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['rational' 'irrational' 'sure%3:00:00::' 'unsure'], predicted=niekro
+question=['rational' 'irrational' 'acceptable%3:00:00::' 'unacceptable'], predicted=stumble%2:38:00::
+question=['rational' 'irrational' 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
+question=['rational' 'irrational' 'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=specific%3:00:00::
+question=['rational%3:00:00::' 'irrational' 'clear%5:00:00:distinct:00'
+ 'unclear%3:00:04::'], predicted=deletion%1:22:00::
+question=['rational' 'irrational' 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=niekro
+question=['rational' 'irrational' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=apex%1:15:00::
+question=['rational%5:00:00:intellectual:00' 'irrational%3:00:00::'
+ 'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=proposition%1:10:00::
+question=['rational' 'irrational' 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=rewrite%2:32:00::
+question=['rational' 'irrational' 'efficient%5:00:00:competent:00'
+ 'inefficient%3:00:00::'], predicted=efficient%3:00:00::
+question=['rational' 'irrational' 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['rational' 'irrational' 'fortunate%5:00:00:blessed:00'
+ 'unfortunate%3:00:00::'], predicted=divina
+question=['rational' 'irrational' 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=garner%2:35:01::
+question=['rational' 'irrational' 'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=remarkable%5:00:00:extraordinary:00
+question=['rational' 'irrational' 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=painstakingly%4:02:00::
+question=['rational' 'irrational' 'known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'], predicted=best%5:00:00:advisable:00
+question=['rational' 'irrational' 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['rational' 'irrational' 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=delightful%5:00:00:pleasing:00
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['rational' 'irrational' 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=possible%3:00:04::
 question=['rational' 'irrational' 'productive%5:00:00:fruitful:00'
  'unproductive%3:00:00::'], predicted=agriculturally
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+<<<<<<< HEAD
  'sure%3:00:00::' 'unsure'], predicted=wholesome
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'acceptable%3:00:00::' 'unacceptable'], predicted=deconstruction
@@ -785,9 +1502,37 @@ question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=arendt%1:18:00::
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=olwen
+=======
+ 'sure%3:00:00::' 'unsure'], predicted=yasujiro
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'acceptable%3:00:00::' 'unacceptable'], predicted=erupt%2:43:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=adolescence%1:26:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'certain%3:00:01::' 'uncertain%3:00:01::'], predicted=restriction%1:09:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=right%2:38:03::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'comfortable%3:00:01::' 'uncomfortable%3:00:00::'], predicted=right%2:38:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=epictetus
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'consistent%3:00:01::' 'inconsistent%5:00:00:irreconcilable:00'], predicted=adolescence%1:26:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=greeklish
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'efficient%5:00:00:competent:00' 'inefficient%3:00:00::'], predicted=useful%5:00:00:functional:00
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=moral%3:00:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'fortunate%5:00:00:blessed:00' 'unfortunate%3:00:00::'], predicted=pharsalus%1:04:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=jimmy
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'honest%5:00:00:sincere:00' 'dishonest%3:00:00::'], predicted=shy%1:04:00::
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+<<<<<<< HEAD
  'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=uneasy%5:00:00:troubled:00
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=inept%5:00:00:incompetent:00
@@ -797,9 +1542,21 @@ question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=eviction%1:04:01::
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'possible%3:00:00::' 'impossible%3:00:00::'], predicted=deconstruction
+=======
+ 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=collectivism%1:14:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'known%3:00:00::' 'unknown%5:00:00:unfamiliar:00'], predicted=adolescence%1:26:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'pleasant%5:00:00:nice:00' 'unpleasant%3:00:00::'], predicted=athos%1:15:00::
+question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
+ 'possible%3:00:00::' 'impossible%3:00:00::'], predicted=easy%3:00:02::
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::'
  'productive%5:00:00:fruitful:00' 'unproductive%3:00:00::'], predicted=strident%5:00:00:noisy:00
 question=['responsible%5:00:00:causative:00' 'irresponsible%3:00:00::' 'rational'
+<<<<<<< HEAD
  'irrational'], predicted=even%3:00:01::
 question=['sure%3:00:00::' 'unsure' 'acceptable%3:00:00::' 'unacceptable'], predicted=complication%1:26:01::
 question=['sure%3:00:00::' 'unsure' 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=ignore%2:31:01::
@@ -826,5 +1583,33 @@ question=['sure%3:00:00::' 'unsure' 'pleasant%5:00:00:nice:00'
 question=['sure%3:00:00::' 'unsure' 'productive%5:00:00:fruitful:00'
  'unproductive%3:00:00::'], predicted=adulthood%1:28:00::
 question=['sure%3:00:00::' 'unsure' 'rational' 'irrational'], predicted=competently%4:02:00::
+=======
+ 'irrational'], predicted=adolescence%1:26:00::
+question=['sure%3:00:00::' 'unsure' 'acceptable%3:00:00::' 'unacceptable'], predicted=birth%1:24:00::
+question=['sure%3:00:00::' 'unsure' 'aware%3:00:00::' 'unaware%3:00:00::'], predicted=aware%3:00:04::
+question=['sure%5:00:00:steady:00' 'unsure%3:00:00::' 'certain%3:00:01::'
+ 'uncertain%3:00:01::'], predicted=susceptibility%1:26:00::
+question=['sure%3:00:00::' 'unsure' 'clear%5:00:00:distinct:00' 'unclear%3:00:04::'], predicted=there%4:02:01::
+question=['sure%3:00:00::' 'unsure' 'comfortable%3:00:01::'
+ 'uncomfortable%3:00:01::'], predicted=endocytosis
+question=['sure%3:00:00::' 'unsure' 'competitive'
+ 'uncompetitive%5:00:00:noncompetitive:00'], predicted=deregulation%1:04:00::
+question=['sure%3:00:00::' 'unsure' 'convenient%3:00:00::' 'inconvenient%3:00:00::'], predicted=cryptanalysis
+question=['sure%3:00:00::' 'unsure' 'efficient%5:00:00:competent:00'
+ 'inefficient%3:00:00::'], predicted=automotive%3:01:00::
+question=['sure%3:00:00::' 'unsure' 'ethical%5:00:00:right:01' 'unethical%3:00:00::'], predicted=ethical%3:01:00::
+question=['sure%3:00:00::' 'unsure' 'fortunate%5:00:00:blessed:00'
+ 'unfortunate%3:00:00::'], predicted=octavius
+question=['sure%3:00:00::' 'unsure' 'honest%5:00:00:sincere:00'
+ 'dishonest%3:00:00::'], predicted=jellinek
+question=['sure%3:00:00::' 'unsure' 'impressive%3:00:00::' 'unimpressive%3:00:00::'], predicted=earthwork%1:06:00::
+question=['sure%3:00:00::' 'unsure' 'informed%3:00:00::' 'uninformed%3:00:00::'], predicted=consent%1:10:00::
+question=['sure%3:00:00::' 'unsure' 'likely%3:00:04::' 'unlikely%3:00:00::'], predicted=likely%5:00:00:prospective:00
+question=['sure%3:00:00::' 'unsure' 'pleasant%5:00:00:nice:00'
+ 'unpleasant%3:00:00::'], predicted=fricke
+question=['sure%3:00:00::' 'unsure' 'productive%5:00:00:fruitful:00'
+ 'unproductive%3:00:00::'], predicted=farm%1:06:00::
+question=['sure%3:00:00::' 'unsure' 'rational' 'irrational'], predicted=hypopituitarism
+>>>>>>> b24d9eb8e118892c743b33eda7a935d72df8e5cf
 question=['sure%3:00:00::' 'unsure' 'responsible%5:00:00:causative:00'
  'irresponsible%3:00:00::'], predicted=responsible%5:00:00:trustworthy:00
