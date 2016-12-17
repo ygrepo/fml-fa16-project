@@ -1,0 +1,98 @@
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/capital-common-countries.txt
+Questions:  506
+Eval  418/506 accuracy = 82.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/capital-world.txt
+Questions:  3564
+Eval 1668/3564 accuracy = 46.8%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/currency.txt
+Questions:  596
+Eval   58/596 accuracy =  9.7%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/city.txt
+Questions:  2330
+Eval 1088/2330 accuracy = 46.7%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/family.txt
+Questions:  420
+Eval  202/420 accuracy = 48.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram1-adj-adv.txt
+Questions:  992
+Eval   61/992 accuracy =  6.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram2-opposite.txt
+Questions:  756
+Eval   60/756 accuracy =  7.9%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram3-comparative.txt
+Questions:  1332
+Eval  550/1332 accuracy = 41.3%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram4-superlative.txt
+Questions:  992
+Eval  155/992 accuracy = 15.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram5-present-participle.txt
+Questions:  1056
+Eval  242/1056 accuracy = 22.9%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram6-nationality-adj.txt
+Questions:  1521
+Eval 1162/1521 accuracy = 76.4%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram7-past-tense.txt
+Questions:  1560
+Eval  400/1560 accuracy = 25.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram8-plural.txt
+Questions:  1332
+Eval  624/1332 accuracy = 46.8%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: data/text8 contains 100000000 bytes, 17005207 words, 253854 unique words, 71290 unique frequent words.
+Data file:  data/text8
+Vocab size:  71290  + UNK
+Words per epoch:  17005207
+Eval analogy file:  gold-data/gram9-plural-verbs.txt
+Questions:  870
+Eval  200/870 accuracy = 23.0%
