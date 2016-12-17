@@ -2,7 +2,7 @@
 
 MINCOUNT=5
 EMBSIZE=200
-EPOCHS=150
+EPOCHS=300
 TRAININGDATA=data/text8
 EVALDATA=gold-data/capital-common-countries.txt
 MODEL=models/text8
