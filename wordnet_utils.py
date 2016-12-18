@@ -8,6 +8,7 @@ import os.path
 import pickle
 import zipfile
 import tensorflow as tf
+import sys
 from itertools import *
 
 from nltk.corpus import stopwords
@@ -114,11 +115,11 @@ def save_tuples_to_file(output_f, tuples):
             i += 1
             #print("Processing i=%d,total=%d" % (i, total))
 
-def save_list_list_to_text_file(output_f, tuples):
+def save_list_list_to_text_file(outputf, tuples):
     total = len(tuples)
     print("Processing list of tuples=%d" % total)
     i = 1
-    with open(output_f, 'w') as f:
+    with open(outputf, 'w') as f:
         for tuples_l in tuples:
             if len(tuples_l) == 0:
                 i += 1
@@ -131,14 +132,17 @@ def save_list_list_to_text_file(output_f, tuples):
             #print(tuples_l)
             line = ""
             for (lemma, tag) in tuples_l:
-                token = ' %s,%s' % (lemma, tag)
-                line += token
+                try:
+                    token = ' %s,%s' % (lemma, tag)
+                    line += token
+                except:
+                    print("Unexpected error:%s" %sys.exc_info()[0])
             line += '\n'
             #print("Processed i=%d,total=%d" % (i, total))
             #print("line=%s" %line)
             f.write(line)
             i += 1
-    print("Saved synsets in %s" %output_f)
+    print("Saved synsets in %s" % outputf)
 
 def get_wordnet_pos(treebank_tag):
     if treebank_tag.startswith('J'):
@@ -563,7 +567,11 @@ class WordnetUtils():
         :return: tuples
         '''
         words_sz = len(words)
-        tags = self.tagger.tag(words)
+        tags = []
+        try:
+            tags = self.tagger.tag(words)
+        except:
+            print("Unexpected error:%s" %sys.exc_info()[0])
         #print('Tags=%s' % tags[:5])
         i = 0
         tuples = []
@@ -576,7 +584,11 @@ class WordnetUtils():
                 i += 1
                 unknown_count += 1
                 continue
-            lemma = self.lemmatizer.lemmatize(word, pos)
+            lemma = word
+            try:
+                lemma = self.lemmatizer.lemmatize(word, pos)
+            except:
+                print("Unexpected error:%s" %sys.exc_info()[0])
             #print("word=%s,lemma=%s,tag=%s,pos=%s" % (word, lemma, tag, pos))
             tuples.append((lemma, pos))
             i += 1
