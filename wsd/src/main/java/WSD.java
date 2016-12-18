@@ -415,7 +415,7 @@ public class WSD {
                 logger.info("output line filename: " + this.outputLineFileName);
                 this.mode = MODE.LINE;
             }
-        } catch (ParseException exp) {
+        } catuch (ParseException exp) {
             logger.error("Parsing failed", exp);
         }
 
