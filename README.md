@@ -17,9 +17,9 @@ Improving quality of features vectors in vector embedding models by using synset
 ## SetUp:
 
 * The python script wordnet_utils.py perfoms text processing and it is in the syn2vec folder. wordnet_utils provides two modes:
-    - SynsetStreamGenerator: processes a stream of words like the file text8 [1]: http://mattmahoney.net/dc/text8.zip
+    - SynsetStreamGenerator: processes a stream of words like the text8 file [1]: http://mattmahoney.net/dc/text8.zip
      to generate a stream of pairs (lemma, PartOfSpeech)
-    - SynsetLineGenerator: processes line by line the input file (like questions-words.txt present in the folder gold-data)
+    - SynsetLineGenerator: processes line by line the input file (lquestions-words.txt present in the folder gold-data)
     to generate a new file of pairs (lemma,PartOfSpeech)
  The lemmatizer is WordnetLemmatizer from nltk [2]: http://www.nltk.org/.
  The default tagger is the "Perceptron Tagger" [3]: http://spacy.io/blog/part-of-speech-POS-tagger-in-python/,
@@ -27,21 +27,21 @@ Improving quality of features vectors in vector embedding models by using synset
 
 * The Java programm WSD provides word disambiguation. It uses the library DKPro WSD [4]: https://dkpro.github.io/dkpro-wsd/.
 DKPro gives the sensekey of Wordnet when disambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides
-two mode of processing, processing:
+two mode of processing, processing of:
  - stream of tuples
  - line of tuples
 
 Training of the word or synset models are provided by two python scripts in the syn2vec folder:
-* syn2vec.py a wrapper of word2vec offering the following features:
+* syn2vec.py a wrapper of word2vec, offering the following features:
   - cbow or skip-gram methodologies
   - nce_loss and sampled_softmax_loss loss functions
   - Adagrad, Adam and StochsticGradientDescent optimizers
   - loading, saving a model
   - tsne plotting
 
-* word2vec_optimized.py which is slightly customized version of the tensorflow code available at
+* word2vec_optimized.py which is a slightly customized version of the tensorflow code available at
  [5]:https://github.com/tensorflow/models/blob/master/tutorials/embedding/word2vec_optimized.py, it
- allows for the evaluation to save the correct and incorrect predictions and other minor similar features
+ allows for the evaluation to save the correct and incorrect predictions and other minor features
 
  Other important folders:
  - **gold-data**: contains the data for evaluation, and the overall or per category results.
