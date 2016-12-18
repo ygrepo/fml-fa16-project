@@ -27,7 +27,7 @@ Improving quality of features vectors in vector embedding models by using synset
 
 * The Java programm WSD provides word disambiguation. It uses the library DKPro WSD [4]: https://dkpro.github.io/dkpro-wsd/.
 DKPro gives the sensekey of Wordnet when disambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides
-two mode of processing, processing of:
+processing of:
  - stream of tuples
  - line of tuples
 
@@ -41,7 +41,7 @@ Training of the word or synset models are provided by two python scripts in the 
 
 * word2vec_optimized.py which is a slightly customized version of the tensorflow code available at
  [5]:https://github.com/tensorflow/models/blob/master/tutorials/embedding/word2vec_optimized.py, it
- allows for the evaluation to save the correct and incorrect predictions and other minor features
+ allows to save the correct and incorrect predictions and other minor features.
 
  Other important folders:
  - **gold-data**: contains the data for evaluation, and the overall or per category results.
