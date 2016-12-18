@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     matplot_settings()
 
-    path = 'gold-data/'
+    path = '../gold-data/'
     f = '%s%s' % (path, 'synsets-words.csv')
     df = pd.read_csv(f, header=0, sep=',')
     print df.columns

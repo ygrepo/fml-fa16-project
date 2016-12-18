@@ -34,6 +34,7 @@ public class WSD {
     ;
 
     private static Joiner JOINER = Joiner.on(" ").skipNulls();
+    private static final String WNETCONFFILE_OPTION = "wnetfile";
     private static final String STREAMFILE_OPTION = "streamfile";
     private static final String OUTPUT_STREAMFILE_OPTION = "outstreamfile";
     private static final String LINEFILE_OPTION = "linefile";
@@ -44,25 +45,45 @@ public class WSD {
 
     private WordNetSenseKeySenseInventory inventory;
     private SimplifiedLesk lesk;
+    private String wnetFileName = "";
     private String streamFileName = "";
     private String outputStreamFileName = "";
     private String lineFileName = "";
     private String outputLineFileName = "";
     private MODE mode;
 
-    public WSD(WordNetSenseKeySenseInventory inventory) {
-        this.inventory = inventory;
-        this.lesk = new SimplifiedExtendedLesk(inventory,
-                new DotProduct(), new MostObjects(), new StringSplit(),
-                new StringSplit());
+    public WSD() {
         createOptions();
+    }
+
+    public void init() {
+        try {
+            WordNetSenseKeySenseInventory inventory =
+                    new WordNetSenseKeySenseInventory(new FileInputStream(wnetFileName));
+//        WordNetSenseKeySenseInventory inventory =
+//                new WordNetSenseKeySenseInventory(new FileInputStream("wsd/conf/extjwnl_properties.xml"));
+            this.inventory = inventory;
+            this.lesk = new SimplifiedExtendedLesk(inventory,
+                    new DotProduct(), new MostObjects(), new StringSplit(),
+                    new StringSplit());
 //
 //        this.lesk = new SimplifiedLesk(inventory,
 //                new SetOverlap(), new NoNormalization(), new StringSplit(),
 //                new StringSplit());
+        } catch (Exception ex) {
+            logger.error("Cannot configure WSD, conf.file=" + wnetFileName);
+        }
     }
 
     private void createOptions() {
+
+        Option wnetConffile = Option.builder().longOpt(WNETCONFFILE_OPTION)
+                .hasArg()
+                .desc("use given wordnet configuration file")
+                .build();
+        options.addOption(wnetConffile);
+
+
         Option streamfile = Option.builder().longOpt(STREAMFILE_OPTION)
                 .hasArg()
                 .desc("use given streamfile")
@@ -347,16 +368,18 @@ public class WSD {
     }
 
     public void generateWordStreamSensesFromFile() {
-        if (StringUtils.isBlank(this.streamFileName) || StringUtils.isBlank(this.outputStreamFileName)) {
-            logger.info("Invalid filenames, ignoring");
+        if (inventory == null || StringUtils.isBlank(streamFileName) ||
+                StringUtils.isBlank(outputStreamFileName)) {
+            logger.info("Invalid configuration or inputs, ignoring");
             return;
         }
         generateWordStreamSenses(4);
     }
 
     public void generateLineSensesFromFile() {
-        if (StringUtils.isBlank(this.lineFileName) || StringUtils.isBlank(this.outputLineFileName)) {
-            logger.info("Invalid filenames, ignoring");
+        if (inventory == null || StringUtils.isBlank(lineFileName) ||
+                StringUtils.isBlank(outputLineFileName)) {
+            logger.info("Invalid configuration or inputs, ignoring");
             return;
         }
         generateLineSenses();
@@ -367,6 +390,11 @@ public class WSD {
         try {
             // parse the command line arguments
             CommandLine line = commandLineParser.parse(options, args);
+            if (line.hasOption(WNETCONFFILE_OPTION)) {
+                this.wnetFileName = line.getOptionValue(WNETCONFFILE_OPTION);
+                logger.info("WoldNet filename :" + this.wnetFileName);
+                this.mode = MODE.STREAM;
+            }
             if (line.hasOption(STREAMFILE_OPTION)) {
                 this.streamFileName = line.getOptionValue(STREAMFILE_OPTION);
                 logger.info("processing stream filename :" + this.streamFileName);
@@ -393,11 +421,10 @@ public class WSD {
 
     }
 
-
     public static void main(String[] args) throws Exception {
-        WordNetSenseKeySenseInventory inventory =
-                new WordNetSenseKeySenseInventory(new FileInputStream("wsd/conf/extjwnl_properties.xml"));
-        WSD wsd = new WSD(inventory);
+        WSD wsd = new WSD();
+        wsd.parse(args);
+        wsd.init();
 //        logger.debug(wsd.getBestSense("rat", "banana bananas rat rats", POS.NOUN));
 //        logger.debug(wsd.getBestSense("real", "denmark krone brazil real", POS.NOUN));
 //        logger.debug(wsd.getBestSense("kuna", "Algeria dinar Croatia kuna", POS.NOUN));
@@ -406,7 +433,6 @@ public class WSD {
 //        logger.debug(wsd.getBestSense("apparently", "amaze amazingly apparent apparently", POS.ADV));
 //        logger.debug(wsd.getBestSense("impossibly","acceptable unacceptable possibly impossibly", POS.ADJ));
 
-        wsd.parse(args);
         if (wsd.mode == MODE.STREAM)
             wsd.generateWordStreamSensesFromFile();
         if (wsd.mode == MODE.LINE)

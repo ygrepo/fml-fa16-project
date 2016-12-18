@@ -154,7 +154,7 @@ def plot_with_labels(low_dim_embs, labels, filename='tsne_senses.png'):
 
 def plot(w2vc, filename):
     tsne = TSNE(perplexity=30, n_components=2, init='pca', n_iter=5000)
-    plot_only = 200
+    plot_only = 50
     #plot_only = w2vc.vocabulary_size
     low_dim_embs = tsne.fit_transform(w2vc.final_embeddings[:plot_only,:])
     labels = [w2vc.reverse_dictionary[i] for i in xrange(plot_only)]
@@ -167,7 +167,7 @@ class Syn2Vec(BaseEstimator, TransformerMixin):
                  loss_type='nce_loss', n_neg_samples=64,
                  optimize='SGD',
                  learning_rate=1.0, n_steps=100001,
-                 valid_size=16, valid_window=100, save_path='models/test_model'):
+                 valid_size=16, valid_window=100, save_path='../models/test_model'):
         # bind params to class
         self.batch_size = batch_size
         self.num_skips = num_skips
@@ -429,8 +429,8 @@ if __name__ == '__main__':
     n_steps = 100001
     learning_rate = 0.5
 
-    save_path =  'models/text8'
-    filename = 'data/text8_small.zip'
+    save_path =  '../models/text8'
+    filename = '../data/text8_small.zip'
     words = read_data(filename)
     print('Data size', len(words))
     s2v = Syn2Vec(batch_size=batch_size, num_skips=num_skips, skip_window=skip_window,

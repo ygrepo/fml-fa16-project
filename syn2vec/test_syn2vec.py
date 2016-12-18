@@ -15,7 +15,7 @@ def save_list_to_file(lst, filename):
     print("Save synsets into file=%s" %filename)
 
 
-def fit(words, n_steps=100001, save_path='models/test_model'):
+def fit(words, n_steps=100001, save_path='../models/test_model'):
     vocabulary_size = 500
     batch_size = 128
     embedding_size = 128  # Dimension of the embedding vector.
@@ -64,21 +64,21 @@ def test_similarity(s2v, synsetid):
 
 
 def test_text8():
-    #filename = 'data/text8.zip'
-    #filename = 'data/2016-12-07-text8-synsets.txt'
-    #words = read_stream_file(filename)
+    #filename = '../data/text8.zip'
+    filename = '../data/2016-12-07-text8-synsets.txt'
+    words = read_stream_file(filename)
     #words = words[:10000]
-    save_path =  'models/synsets'
+    save_path =  '../models/synsets'
   #  print('Data size', len(words))
     #fit(words, 100001, save_path)
     s2v = restore('%s%s' %(save_path, '/model.ckpt'))
     # test_similarity(s2v, 'religious')
     # print(s2v.transform(['religious']).shape)
-    plot(s2v, 'models/synsets/tsne-text8.png')
+    plot(s2v, '../deliverables/tsne-senses-text8.png')
 
 
 def test_sample():
-    save_path =  'models/sample'
+    save_path =  '../models/sample'
     # words = get_sample_words()
     # print('Data size', len(words))
     # fit(words, 2000, save_path)
@@ -87,7 +87,7 @@ def test_sample():
     #print(s2v.transform(['cats']).shape)
 
 def test_sample_synsets():
-    path = 'data/'
+    path = '../data/'
     filename = '%s%s' % (path, 'text8_words_synsets.p')
     # synsetids = restore_synsetids(filename)
     # print("Reloaded=%d synsets" %len(synsetids))
@@ -98,9 +98,9 @@ def test_sample_synsets():
     words = wn_utils.transform(synsetids)
     print("Restored words")
     print(words)
-    save_path =  'models/sample_synsets'
+    save_path =  '../models/sample_synsets'
     #fit(synsetids, 10000, save_path)
-    s2v = restore('%s%s' %(save_path, '/model.ckpt'))
+    s2v = restore('%s%s' %(save_path, '../model.ckpt'))
     target = 5128519
     target_name = wn_utils.lookup_synset_name_from_synsetid(target)
     starget = str(target)
@@ -110,7 +110,7 @@ def test_sample_synsets():
     print(words[:10])
 
 def test_save_synsets_to_file():
-    path = 'data/'
+    path = '../data/'
     filename = '%s%s' % (path, 'text8_words_synsets.p')
     synsetids = restore_synsetids(filename)
     print("Reloaded=%d synsets" %len(synsetids))

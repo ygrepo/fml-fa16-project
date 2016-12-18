@@ -2,6 +2,6 @@ I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/text8 
 Data file:  ../data/text8
 Vocab size:  71290  + UNK
 Words per epoch:  17005207
-Eval analogy file:  ../gold-data/questions-words.txt
-Questions:  17827
-Eval 7005/17827 accuracy = 39.3%
+Eval analogy file:  ../gold-data/capital-common-countries.txt
+Questions:  506
+Eval  433/506 accuracy = 85.6%

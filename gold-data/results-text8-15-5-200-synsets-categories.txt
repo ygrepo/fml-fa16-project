@@ -1,56 +1,98 @@
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
-Traceback (most recent call last):
-  File "word2vec_optimized.py", line 42, in <module>
-    import tensorflow as tf
-ImportError: No module named tensorflow
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/capital-common-countries-synsets.txt
+Questions:  506
+Eval  279/506 accuracy = 55.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/capital-world-synsets.txt
+Questions:  3091
+Eval  975/3091 accuracy = 31.5%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/currency-synsets.txt
+Questions:  460
+Eval   12/460 accuracy =  2.6%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/city-synsets.txt
+Questions:  2046
+Eval  588/2046 accuracy = 28.7%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/family-synsets.txt
+Questions:  378
+Eval  133/378 accuracy = 35.2%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram1-adj-adv-synsets.txt
+Questions:  928
+Eval   38/928 accuracy =  4.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram2-opposite-synsets.txt
+Questions:  454
+Eval   14/454 accuracy =  3.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram3-comparative-synsets.txt
+Questions:  1322
+Eval 1322/1322 accuracy = 100.0%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram4-superlative-synsets.txt
+Questions:  1118
+Eval 1086/1118 accuracy = 97.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram5-present-participle-synsets.txt
+Questions:  1048
+Eval 1016/1048 accuracy = 96.9%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram6-nationality-adj-synsets.txt
+Questions:  1445
+Eval 1043/1445 accuracy = 72.2%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram7-past-tense-synsets.txt
+Questions:  1548
+Eval 1472/1548 accuracy = 95.1%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram8-plural-synsets.txt
+Questions:  1269
+Eval 1231/1269 accuracy = 97.0%
+I tensorflow/models/embedding/word2vec_kernels.cc:200] Data file: ../data/2016-12-07-text8-synsets.txt contains 187141706 bytes, 17005200 words, 306620 unique words, 99004 unique frequent words.
+Data file:  ../data/2016-12-07-text8-synsets.txt
+Vocab size:  99004  + UNK
+Words per epoch:  17005200
+Eval analogy file:  ../gold-data/gram9-plural-verbs-synsets.txt
+Questions:  866
+Eval  866/866 accuracy = 100.0%

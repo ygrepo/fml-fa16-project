@@ -377,7 +377,6 @@
  Ottawa,n Canada,n Rome,n Italy,n
  Ottawa,n Canada,n Stockholm,n Sweden,n
  Ottawa,n Canada,n Tehran,n Iran,n
- Ottawa,n Canada,n Tokyo,n Japan,n
  Ottawa,n Canada,n Athens,n Greece,n
  Ottawa,n Canada,n Baghdad,n Iraq,n
  Ottawa,n Canada,n Bangkok,n Thailand,n
@@ -3896,7 +3895,6 @@
  Quito,n Ecuador,n Ankara,n Turkey,n
  Quito,n Ecuador,n Antananarivo,n Madagascar,n
  Quito,n Ecuador,n Apia,n Samoa,n
- Quito,n Ecuador,n Ashgabat,n Turkmenistan,n
  Quito,n Ecuador,n Asmara,n Eritrea,n
  Quito,n Ecuador,n Astana,n Kazakhstan,n
  Rabat,n Morocco,n Riga,n Latvia,n

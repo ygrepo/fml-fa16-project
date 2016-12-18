@@ -9,6 +9,7 @@ import pickle
 import zipfile
 import tensorflow as tf
 import sys
+import logging
 from itertools import *
 
 from nltk.corpus import stopwords
@@ -16,6 +17,8 @@ from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from nltk.tag.perceptron import PerceptronTagger
 from nltk.wsd import lesk
+
+logging.basicConfig(filename='../logs/wordnetutils.log',level=logging.WARN)
 
 flags = tf.app.flags
 
@@ -92,7 +95,7 @@ def restore_synsetids(filename):
 
 def save_to_text_file(outputf, tuples):
     total = len(tuples)
-    print("Processing tuples=%d" % total)
+    logging.debug("Processing tuples=%d" % total)
     i = 0
     with open(outputf, 'w') as f:
         for (lemma, tag) in tuples:
@@ -100,7 +103,7 @@ def save_to_text_file(outputf, tuples):
             token = ' %s,%s' % (lemma, tag)
             f.write(' ' + token)
             i += 1
-            print("Saving i=%d,total=%d" % (i, total))
+            logging.debug("Saving i=%d,total=%d" % (i, total))
     print("Saved synsets in %s" %outputf)
 
 def save_tuples_to_file(output_f, tuples):
@@ -109,11 +112,11 @@ def save_tuples_to_file(output_f, tuples):
     i = 0
     with open(output_f, 'w') as f:
         for (lemma, tag) in tuples:
-            #print("lemma=%s, tag=%s" %(lemma, tag))
+            logging.debug("lemma=%s, tag=%s" %(lemma, tag))
             token = ' %s,,%s' % (lemma, tag)
             f.write(' ' + token)
             i += 1
-            #print("Processing i=%d,total=%d" % (i, total))
+            logging.debug("Processing i=%d,total=%d" % (i, total))
 
 def save_list_list_to_text_file(outputf, tuples):
     total = len(tuples)
@@ -129,7 +132,7 @@ def save_list_list_to_text_file(outputf, tuples):
                 f.write(felm  + '\n')
                 i += 1
                 continue
-            #print(tuples_l)
+            logging.debug(tuples_l)
             line = ""
             for (lemma, tag) in tuples_l:
                 try:
@@ -138,8 +141,8 @@ def save_list_list_to_text_file(outputf, tuples):
                 except:
                     print("Unexpected error:%s" %sys.exc_info()[0])
             line += '\n'
-            #print("Processed i=%d,total=%d" % (i, total))
-            #print("line=%s" %line)
+            logging.debug("Processed i=%d,total=%d" % (i, total))
+            logging.debug("line=%s" %line)
             f.write(line)
             i += 1
     print("Saved synsets in %s" % outputf)
@@ -257,7 +260,7 @@ def generate_news_lemma_pos(path):
 
 
 class WordnetUtils():
-    def __init__(self, path='data/', win_size=4):
+    def __init__(self, path='../data/', win_size=4):
         self.path = path
         self.win_size = win_size
         self.create_synsets_dictionaries()
@@ -526,9 +529,14 @@ class WordnetUtils():
         for word in filtered_words:
             (li, ri) = get_window_indices(words_sz, i, self.win_size)
             win_words = filtered_words[li: i] + filtered_words[i: ri + 1]
-            #print("Word=%s, win_words=%s" %(word,win_words))
-            tags = self.tagger.tag(win_words)
-            #print ('Tags=%s' %tags[:5])
+            logging.debug("Word=%s, win_words=%s" %(word,win_words))
+            tags = []
+            try:
+                tags = self.tagger.tag(win_words)
+            except:
+                print("Unexpected error:%s" %sys.exc_info()[0])
+            if len(tags) == 0:
+                continue
             word_tag_d = dict(tags)
             w_tag = word_tag_d[word]
             if w_tag is None:
@@ -544,14 +552,18 @@ class WordnetUtils():
                 unknown_count += 1
                 tuples.append((word, None))
                 continue
-            # print("word=%s,tag=%s,pos=%s" %(word, w_tag, pos))
-            lemma = self.lemmatizer.lemmatize(word, pos)
+            logging.debug("word=%s,tag=%s,pos=%s" %(word, w_tag, pos))
+            lemma = word
+            try:
+                lemma = self.lemmatizer.lemmatize(word, pos)
+            except:
+                print("Unexpected error:%s" %sys.exc_info()[0])
             # print("Lemma=%s" %lemma)
             tuples.append((lemma, pos))
             # synset = lesk(win_words, lemma, pos)
             # print("Synset=%s" %synset)
             i += 1
-            print("Processing i=%d,total=%d" % (i, words_sz))
+            logging.debug("Processing i=%d,total=%d" % (i, words_sz))
 
         if words_sz != 0:
             rejected_percent = 100.0 * (unknown_count / words_sz)
@@ -666,7 +678,7 @@ class WordnetUtils():
 
 
 class SynsetStreamGenerator():
-    def __init__(self, infile='data/text8.zip', outfile='data/text8-l-pos.txt', win_size=3):
+    def __init__(self, infile='../data/text8.zip', outfile='../data/text8-l-pos.txt', win_size=3):
         self.infile = infile
         self.outfile = outfile
         self.win_size = win_size
@@ -688,7 +700,7 @@ class SynsetStreamGenerator():
 
 
 class SynsetLineGenerator():
-    def __init__(self, infile='data/capital-common-countries.txt', outfile='data/capital-common-countries-l-pos.txt',
+    def __init__(self, infile='../data/capital-common-countries.txt', outfile='../data/capital-common-countries-l-pos.txt',
                  win_size=3):
         self.infile = infile
         self.outfile = outfile
@@ -724,12 +736,8 @@ class SynsetLineGenerator():
         '''
         Generate a list of tuples (lemma,POS).
         '''
-        # wn_utils = WordnetUtils(path)
-        # input_filename = filename + '.txt'
-        # input_filename = '%s%s' % (path, input_filename)
         word_list = read_lines(self.infile)
         print("word_list=%s" % word_list[:10])
-        #word_list = word_list[:10]
         tuples = []
         tagging_mode = TAG_MODE.FULL_TAGGING
         for word_line in word_list:
@@ -753,9 +761,7 @@ class SynsetLineGenerator():
                 tuplel = self.wnutils.generate_lemma_noun_adj(words)
             elif tagging_mode == TAG_MODE.ADJ_ADV:
                 tuplel = self.wnutils.generate_lemma_adj_adv(words)
-            #print("Tuples=%s" %tuplel)
             tuples.append(tuplel)
-        #print("Tuples=%s" %tuples[:10])
         save_list_list_to_text_file(self.outfile, tuples)
 
 
