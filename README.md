@@ -11,24 +11,25 @@ Improving quality of features vectors in vector embedding models by using synset
 
 2. The generated synset corpus is used in word2vec to obtain synset embedding vectors.
 
-3. We evaluate the synset model accuracy using a synset of Google's question-answer (19,558 questions)
+3. We evaluate the synset model accuracy using a synset version of Google's question-answer (19,558 questions)
 
 
 ## SetUp:
 
-* The python script wordnet_utils.py perfoms text processing and is in the syn2vec folder. wordnet_utils provides two modes:
+* The python script wordnet_utils.py perfoms text processing and it is in the syn2vec folder. wordnet_utils provides two modes:
     - SynsetStreamGenerator: processes a stream of words like the file text8 [1]: http://mattmahoney.net/dc/text8.zip
      to generate a stream of pairs (lemma, PartOfSpeech)
     - SynsetLineGenerator: processes line by line the input file (like questions-words.txt present in the folder gold-data)
-    to generate a new file of pair (lemma,PartOfSpeech)
+    to generate a new file of pairs (lemma,PartOfSpeech)
  The lemmatizer is WordnetLemmatizer from nltk [2]: http://www.nltk.org/.
  The default tagger is the "Perceptron Tagger" [3]: http://spacy.io/blog/part-of-speech-POS-tagger-in-python/,
  but can be switched easily to other taggers from nltk library.
 
 * The Java programm WSD provides word disambiguation. It uses the library DKPro WSD [4]: https://dkpro.github.io/dkpro-wsd/.
-DKPro gives the sensekey of Wordnet when desambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides two modes:
- - tuples of stream dsiambiguation
- - line of tuples disambiguation
+DKPro gives the sensekey of Wordnet when disambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides
+two mode of processing, processing:
+ - stream of tuples
+ - line of tuples
 
 Training of the word or synset models are provided by two python scripts in the syn2vec folder:
 * syn2vec.py a wrapper of word2vec offering the following features:
@@ -43,7 +44,8 @@ Training of the word or synset models are provided by two python scripts in the 
  allows for the evaluation to save the correct and incorrect predictions and other minor similar features
 
  Other important folders:
- * gold-data: contains the data for evaluation, and the overall or per category results. Interesting files to note are:
+ * **gold-data**: contains the data for evaluation, and the overall or per category results.
+ Interesting files are:
   - 20160-12-14-global-results.txt
   - 2016-12-14-categories-results.txt
   - words-nearby.txt
@@ -51,4 +53,4 @@ Training of the word or synset models are provided by two python scripts in the 
   - synsets-nearby.tx
   - synsets-words.csv
 
- * deliverables: contains the abstract of the project, the report, the queries used for WordNet database, and plots
+ * **deliverables**: contains the abstract of the project, the report, the queries used for WordNet database, and plots
