@@ -55,10 +55,10 @@ Training of the word or synset models are provided by two python scripts in the 
 
  - **deliverables**: contains the abstract of the project, the report, the queries used for WordNet database, and plots.
  - **scripts**: the different scripts to perform the transformations of the initial corpus, the training of the model,
-   and the model evaluation
-   - generate-streamfiles.sh, generate-linefiles.sh: transforms the initial corpus into pairs of (lemma, POS)
-   - map-streamfiles.sh, map-linefiles.sh: disambiguate the pairs of (lemma,POS) into sensekey
-   - train-words.sh, train-synsets.sh: train either the word or synset models
-   - eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh:
-   different evaluation scripts against Goolge's questions-words.txt in gold-data.
-   
+   and the model evaluation:
+    - generate-streamfiles.sh, generate-linefiles.sh: transforms the initial corpus into pairs of (lemma, POS)
+    - map-streamfiles.sh, map-linefiles.sh: disambiguate the pairs of (lemma,POS) into sensekey
+    - train-words.sh, train-synsets.sh: train either the word or synset models
+    - eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh:
+      different evaluation scripts against Goolge's questions-words.txt in gold-data.
+
