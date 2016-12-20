@@ -62,7 +62,8 @@ Training of the word or synset models are provided by two python scripts in the 
     - eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh:
       different evaluation scripts against Goolge's questions-words.txt in gold-data
 
-Due to the limitation of the non-pro version of github account, the following files are not present into the repository:
+Due to the limitation in size of the non-pro version of github account, the following files **are not present**
+into the repository:
 - text8, text8.zip, text8-l-pos.tx, 2016-12-07-text8-synsets.txt
 - any trained models (the models will have to be regenerated using the scrits above)
 In addition besides python 2.7 and various libraries used in the python scripts like (numpy, panda: recommendation is
