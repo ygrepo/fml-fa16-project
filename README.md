@@ -13,19 +13,21 @@ Improving quality of features vectors in vector embedding models by using synset
 
 3. We evaluate the synset model accuracy using a synset version of Google's question-answer (19,558 questions)
 
+4. We also train synset model on sentence classification task
+
 
 ## SetUp:
 
 * The python script wordnet_utils.py perfoms text processing and it is in the syn2vec folder. wordnet_utils provides two modes:
-    - SynsetStreamGenerator: processes a stream of words like the text8 file [1]: http://mattmahoney.net/dc/text8.zip
+    - 'SynsetStreamGenerator': processes a stream of words like the [text8] file (http://mattmahoney.net/dc/text8.zip)
      to generate a stream of pairs (lemma, PartOfSpeech)
-    - SynsetLineGenerator: processes line by line the input file (lquestions-words.txt present in the folder gold-data)
+    - 'SynsetLineGenerator': processes line by line the input file (lquestions-words.txt present in the folder gold-data)
     to generate a new file of pairs (lemma,PartOfSpeech)
- The lemmatizer is WordnetLemmatizer from nltk [2]: http://www.nltk.org/.
- The default tagger is the "Perceptron Tagger" [3]: http://spacy.io/blog/part-of-speech-POS-tagger-in-python/,
+ The lemmatizer is WordnetLemmatizer from [nltk] (http://www.nltk.org/).
+ The default tagger is the [Perceptron Tagger] (http://spacy.io/blog/part-of-speech-POS-tagger-in-python/),
  but can be switched easily to other taggers from nltk library.
 
-* The Java programm WSD provides word disambiguation. It uses the library DKPro WSD [4]: https://dkpro.github.io/dkpro-wsd/.
+* The Java programm WSD provides word disambiguation. It uses the library [DKPro WSD] 'https://dkpro.github.io/dkpro-wsd/'""
 DKPro gives the sensekey of Wordnet when disambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides
 processing of:
  - stream of tuples
@@ -39,9 +41,16 @@ Training of the word or synset models are provided by two python scripts in the 
   - loading, saving a model
   - tsne plotting
 
-* word2vec_optimized.py which is a slightly customized version of the tensorflow code available at
- [5]:https://github.com/tensorflow/models/blob/master/tutorials/embedding/word2vec_optimized.py, it
- allows to save the correct and incorrect predictions and other minor features.
+* word2vec_optimized.py which is a slightly customized version of the [tensorflow] code (https://github.com/tensorflow/models/blob/master/tutorials/embedding/word2vec_optimized.py):
+ It allows to save the correct and incorrect predictions and other minor features.
+
+The following files **are not present** and can be retrieved using these instructions:
++ 'wget https://transfer.sh/dHdff/text8-synsets-model.ckpt'
++ 'wget https://transfer.sh/oNhTg/text8-l-pos.txt'
++ 'wget https://transfer.sh/3oids/2016-12-07-text8-synsets.txt'
++ 'wget https://transfer.sh/7RlZL/text8-model.ckpt'
++ 'wget https://transfer.sh/dHdff/text8-synsets-model.ckpt'
++ 'https://transfer.sh/9fUoc/wsd.jar'
 
  Other important folders:
  - **gold-data**: contains the data for evaluation, and the overall or per category results.
@@ -56,10 +65,10 @@ Training of the word or synset models are provided by two python scripts in the 
  - **deliverables**: contains the abstract of the project, the report, the queries used for WordNet database, and plots.
  - **scripts**: the different scripts to perform the transformations of the initial corpus, the training of the model,
    and the model evaluation:
-    - generate-streamfiles.sh, generate-linefiles.sh: transforms the initial corpus into pairs of (lemma, POS)
-    - map-streamfiles.sh, map-linefiles.sh: disambiguates the pairs (lemma,POS) into sensekeys
-    - train-words.sh, train-synsets.sh: trains either the word or synset models
-    - eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh:
+    - 'generate-streamfiles.sh, generate-linefiles.sh': transforms the initial corpus into pairs of (lemma, POS)
+    - 'map-streamfiles.sh, map-linefiles.sh': disambiguates the pairs (lemma,POS) into sensekeys
+    - 'train-words.sh, train-synsets.sh': trains either the word or synset models
+    - 'eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh':
       different evaluation scripts against Goolge's questions-words.txt in gold-data
 
 - **sentence-classification**: Includes the modified code from [harvardnlp-sent-conv-torch](https://github.com/harvardnlp/sent-conv-torch) repo to test the new embeddings on various sentence classification tasks.
@@ -75,15 +84,6 @@ Training of the word or synset models are provided by two python scripts in the 
      + Use `-cudnn 1 -gpuid 1` flags to enable gpu
 
 
-
-Due to the limitation in size of the non-pro version of github account, the following files **are not present**
-into the repository:
-- text8, text8.zip, text8-l-pos.tx, 2016-12-07-text8-synsets.txt
-- any trained models (the models will have to be regenerated using the scripts above)
-
-Using [6]:https://transfer.sh they are available at:
-[7]:https://transfer.sh/oQD1R/text8.zip
-[8;https://transfer.sh/3oids/2016-12-07-text8-synsets.txt
 
 In addition besides python 2.7 and various libraries used in the python scripts like (numpy, panda: recommendation is
 to install anaconda, nltk), the following have also to be installed: tensorflow framework, lua, torch.
