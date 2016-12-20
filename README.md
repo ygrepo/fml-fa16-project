@@ -27,7 +27,7 @@ Improving quality of features vectors in vector embedding models by using synset
  The default tagger is the [Perceptron Tagger] (http://spacy.io/blog/part-of-speech-POS-tagger-in-python/),
  but can be switched easily to other taggers from nltk library.
 
-* The Java programm WSD provides word disambiguation. It uses the library [DKPro WSD] ('https://dkpro.github.io/dkpro-wsd/)
+* The Java programm WSD provides word disambiguation. It uses the library [DKPro WSD] (https://dkpro.github.io/dkpro-wsd/)
 DKPro gives the sensekey of Wordnet when disambiguating a pair (lemma, POS). Similarly to wordnet_utils, WSD provides
 processing of:
  - stream of tuples
