@@ -86,7 +86,7 @@ The following files **are not present** and can be retrieved using these instruc
 
 
 In addition besides python 2.7 and various libraries used in the python scripts like (numpy, panda: recommendation is
-to install anaconda, nltk), the following have also to be installed: tensorflow framework, lua, torch.
+to install anaconda, nltk), the following softwares have also to be installed: tensorflow framework, lua, torch.
 
 
 
