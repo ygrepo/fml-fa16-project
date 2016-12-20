@@ -47,7 +47,7 @@ Training of the word or synset models are provided by two python scripts in the 
 The following files **are not present** and can be retrieved using these instructions:
 + `wget https://transfer.sh/dHdff/text8-synsets-model.ckpt`
 + `wget https://transfer.sh/oNhTg/text8-l-pos.txt`
-+ `wget https://transfer.sh/3oids/2016-12-07-text8-synsets.txt'
++ `wget https://transfer.sh/3oids/2016-12-07-text8-synsets.txt`
 + `wget https://transfer.sh/7RlZL/text8-model.ckpt`
 + `wget https://transfer.sh/dHdff/text8-synsets-model.ckpt`
 + `wget https://transfer.sh/9fUoc/wsd.jar`
