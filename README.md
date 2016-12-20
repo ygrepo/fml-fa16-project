@@ -13,7 +13,7 @@ Improving quality of features vectors in vector embedding models by using synset
 
 3. We evaluate the synset model accuracy using a synset version of Google's question-answer (19,558 questions)
 
-4. We also train synset model on sentence classification task
+4. We also train a synset model on sentence classification task
 
 
 ## SetUp:
@@ -45,12 +45,12 @@ Training of the word or synset models are provided by two python scripts in the 
  It allows to save the correct and incorrect predictions and other minor features.
 
 The following files **are not present** and can be retrieved using these instructions:
-+ 'wget https://transfer.sh/dHdff/text8-synsets-model.ckpt'
-+ 'wget https://transfer.sh/oNhTg/text8-l-pos.txt'
-+ 'wget https://transfer.sh/3oids/2016-12-07-text8-synsets.txt'
-+ 'wget https://transfer.sh/7RlZL/text8-model.ckpt'
-+ 'wget https://transfer.sh/dHdff/text8-synsets-model.ckpt'
-+ 'wget https://transfer.sh/9fUoc/wsd.jar'
++ `wget https://transfer.sh/dHdff/text8-synsets-model.ckpt`
++ `wget https://transfer.sh/oNhTg/text8-l-pos.txt`
++ `wget https://transfer.sh/3oids/2016-12-07-text8-synsets.txt'
++ `wget https://transfer.sh/7RlZL/text8-model.ckpt`
++ `wget https://transfer.sh/dHdff/text8-synsets-model.ckpt`
++ `wget https://transfer.sh/9fUoc/wsd.jar`
 
  Other important folders:
  - **gold-data**: contains the data for evaluation, and the overall or per category results.
