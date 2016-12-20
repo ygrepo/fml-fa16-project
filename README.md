@@ -62,10 +62,28 @@ Training of the word or synset models are provided by two python scripts in the 
     - eval-words-quest-words.sh, eval-words-categories,sh, eval-synsets-quest-words.sh, eval-synsets-categories.sh:
       different evaluation scripts against Goolge's questions-words.txt in gold-data
 
+- **sentence-classification**: Includes the modified code from [harvardnlp-sent-conv-torch](https://github.com/harvardnlp/sent-conv-torch) repo to test the new embeddings on various sentence classification tasks.
+
+     + `convertData.sh` is used to convert original data files presented in the original [sent-conv-torch/data](https://github.com/harvardnlp/sent-conv-torch/tree/master/data) repo to their synset-id versions. One can copy and rename original `/data` folder to `/dataold` and call `./convertData.sh dataold/*.{all,dev,test,train}`
+
+     + Download text8-synset trained word embeddings with `wget https://transfer.sh/JtS2t/v8.bin`
+
+     + Use `python preprocess.py MR v8.bin` to prepare hdf5 data for training.
+
+     + Use `train.sh` to submit job to a TORQUE cluster or use `th main.lua -data MR.hdf5` command to train. Results are printed and saved in `results/` folder.
+
+     + Use `-cudnn 1 -gpuid 1` flags to enable gpu
+
+
+
 Due to the limitation in size of the non-pro version of github account, the following files **are not present**
 into the repository:
 - text8, text8.zip, text8-l-pos.tx, 2016-12-07-text8-synsets.txt
 - any trained models (the models will have to be regenerated using the scripts above)
+
+Using [6]:https://transfer.sh they are available at:
+[7]:https://transfer.sh/oQD1R/text8.zip
+[8;https://transfer.sh/3oids/2016-12-07-text8-synsets.txt
 
 In addition besides python 2.7 and various libraries used in the python scripts like (numpy, panda: recommendation is
 to install anaconda, nltk), the following have also to be installed: tensorflow framework, lua, torch.
