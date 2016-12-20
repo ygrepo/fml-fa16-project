@@ -13,7 +13,7 @@ Improving quality of features vectors in vector embedding models by using synset
 
 3. We evaluate the synset model accuracy using a synset version of Google's question-answer (19,558 questions)
 
-4. We also train a synset model on sentence classification task
+4. We also train a synset model on sentence classification tasks
 
 
 ## SetUp:
