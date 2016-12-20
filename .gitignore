@@ -3,7 +3,7 @@
 models/
 
 # ignore temp. folders
-data/
+# data/
 pre-data/
 test_cases/
 
