@@ -1,5 +1,4 @@
-# FML-FA16-Project
-Foundations of Machine Learning class final project
+# NYU Foundations of Machine Learning class final project
 
 ## Project Abstract
 
